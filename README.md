@@ -8,6 +8,10 @@ A personalized, competency-based curriculum in acoustical engineering, digital s
 - [Reusable module template](curriculum/module-template/README.md)
 - [Module 01: Sound, Levels, and Engineering Reasoning](curriculum/module-01/README.md)
 
+## Projects
+
+- [Studer A80 vs. A800 Plug-In Validation Study](Projects/Studer-A80-vs-A800-Plugin-Validation-Study/README.md) — objective comparison of analog tape hardware and digital emulation using Audio Precision measurements
+
 ## Mission
 
 Develop the knowledge, practical skills, engineering mindset, and professional portfolio needed for entry-level engineering positions—beginning with acoustical consulting while preserving specialization paths into automotive audio and aerospace.
