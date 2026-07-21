@@ -61,10 +61,13 @@ The subject is analog and digital tape, but the underlying work transfers direct
 
 ## Project files
 
-- `paper/` — original technical paper
-- `LESSONS-LEARNED.md` — engineering reflection
-- `FUTURE-WORK.md` — proposed improvements and extensions
+- [One-page project summary](PROJECT-SUMMARY.md) — concise employer-facing overview
+- [Test methodology](TEST-METHODOLOGY.md) — equipment, calibration, routing, and measurement procedure
+- [Results summary](RESULTS-SUMMARY.md) — detailed comparison and interpretation of the measurements
+- [Lessons learned](LESSONS-LEARNED.md) — reflection on execution, challenges, and engineering development
+- [Future work](FUTURE-WORK.md) — original research proposals and later portfolio recommendations
+- [Original technical paper](paper/technical-comparison-studer-a80-and-a800-plugin.pdf) — complete graduate independent-study report
 
 ## Status
 
-Original study completed. Portfolio packaging and documentation are being expanded.
+Original study completed and packaged as an engineering validation case study.
