@@ -2,6 +2,12 @@
 
 A personalized, competency-based curriculum in acoustical engineering, digital signal processing, and applied engineering.
 
+## Start Here
+
+- [Program syllabus](SYLLABUS.md)
+- [Reusable module template](curriculum/module-template/README.md)
+- [Module 01: Sound, Levels, and Engineering Reasoning](curriculum/module-01/README.md)
+
 ## Mission
 
 Develop the knowledge, practical skills, engineering mindset, and professional portfolio needed for entry-level engineering positions—beginning with acoustical consulting while preserving specialization paths into automotive audio and aerospace.
