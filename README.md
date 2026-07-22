@@ -91,7 +91,7 @@ I earned a **Master of Science in Audio Engineering Technology from Belmont Univ
 
 My immediate goal is an entry-level **acoustical consultant** position where I can develop professional experience in room acoustics, noise control, sound isolation, measurement, electroacoustic systems, modeling, reporting, and client-centered problem solving.
 
-Over time, I want to combine that consulting foundation with my recording, critical-listening, immersive-audio, measurement, and software experience to pursue **automotive audio, with a particular interest in in-cabin spatial and immersive-audio systems**.
+Over time, I want to combine that consulting foundation with my experience in audio measurement, system validation, critical listening, immersive and spatial audio, DSP/software, and professional recording environments to pursue **automotive audio, with a particular interest in in-cabin spatial and immersive-audio systems**.
 
 To position myself for these paths, I am completing a competency-based engineering curriculum covering mathematics, acoustics, measurement, programming, technical reporting, case studies, and DSP.
 
