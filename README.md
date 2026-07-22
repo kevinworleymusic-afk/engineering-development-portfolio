@@ -12,6 +12,7 @@ A personalized, competency-based curriculum in acoustical engineering, digital s
 
 - [Studer A80 vs. A800 Plug-In Validation Study](Projects/Technical-Audio-and-Research/Studer-A80-vs-A800-Plugin-Validation-Study/README.md) — objective comparison of analog tape hardware and digital emulation using Audio Precision measurements
 - [Ocean Way Jazz Combo: Dolby Atmos Recording Independent Study](Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/README.md) — immersive recording research using a 2L Cube-inspired microphone array in the historic Ocean Way Nashville Studio A
+- [Loudspeaker vs. Headphone Frequency-Boost Identification Study](Projects/Technical-Audio-and-Research/Loudspeaker-vs-Headphone-Frequency-Boost-Identification/README.md) — controlled listening-test research comparing trained listeners' frequency-boost identification across loudspeakers and headphones
 
 ## Coding and Audio Software Projects
 
