@@ -8,6 +8,16 @@ The value of this portfolio is not based on accumulating a large number of small
 
 These are the portfolio’s primary case studies. Each represents a complete body of work rather than a single isolated assignment.
 
+### [Apartment/Home-Studio Room Impulse-Response and Audio Systems Analysis](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Impulse-Response-and-Audio-Systems-Analysis/README.md)
+
+A collaborative room-measurement and audio-systems experiment completed by Kevin Worley and Justin Roberts, centered on capturing and analyzing the acoustic response of a home-studio/apartment space.
+
+**Project depth:** A MATLAB-generated ten-second sweep was reproduced through a Yamaha HS8 and captured approximately six feet away with a Rode NT1 through a MOTU/Pro Tools signal path. The captured room response was returned to MATLAB for impulse-response estimation, FFT/IFFT analysis, frequency-response inspection, convolution, and null comparison. The broader experiment also compared responses from Pro Tools processing and a Pultec EQP-1A hardware equalizer.
+
+**Portfolio evidence:** Original 19-page collaborative lab report, room-capture methodology, equipment and signal-path documentation, MATLAB analysis, results and limitations, experimental debugging, and a defined plan for improving calibration, time alignment, deconvolution, and repeatability.
+
+**Career relevance:** This is direct early experience with room-response capture, acoustic measurement, loudspeaker-to-microphone testing, and translating a physical space into data—the existing project most closely aligned with my intended move into acoustical consulting.
+
 ### [Studer A80 vs. A800 Plug-In Validation Study](Projects/Technical-Audio-and-Research/Studer-A80-vs-A800-Plugin-Validation-Study/README.md)
 
 A measurement-based technical comparison of a Studer A80 analog tape machine and the Studer A800 plug-in.
@@ -37,7 +47,7 @@ An immersive-recording independent study carried out in the historic Ocean Way N
 ### MATLAB Portfolio
 
 - [Audio DSP Fundamentals](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Audio-DSP-Fundamentals/README.md) — pink-noise synthesis, FIR filters, frequency-domain IIR filtering, and discrete-time system analysis
-- [Impulse-Response and Audio Systems Analysis](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Impulse-Response-and-Audio-Systems-Analysis/README.md) — test signals, convolution, FFT analysis, impulse-response estimation, and analog/digital system comparison
+- [Room Impulse-Response and Audio Systems Analysis](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Impulse-Response-and-Audio-Systems-Analysis/README.md) — featured above; room capture, acoustic-response estimation, convolution, FFT/IFFT analysis, and analog/digital system comparison
 - [Distortion and Audio Analysis](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Distortion-and-Audio-Analysis/README.md) — waveshaping, clipping, bit-depth reduction, total harmonic distortion, and stereo analysis
 - [Convolution and Tempo-Synchronized Delay](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Convolution-and-Tempo-Synchronized-Delay/README.md) — sample-by-sample convolution, FFT-domain convolution, and L-C-R ping-pong delay
 - [Nonlinear Distortion and Mid-Side Processing](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Nonlinear-Distortion-and-Mid-Side-Processing/README.md) — hard clipping, transistor-inspired saturation, parallel harmonic processing, and mid-side distortion
@@ -68,9 +78,9 @@ This is therefore presented as an evolving **audio-analysis software product**, 
 
 | Area | Evidence |
 |---|---|
-| Audio measurement | Audio Precision testing, comparative validation, level and system analysis |
+| Audio measurement | Apartment/home-studio room-response capture, loudspeaker-to-microphone testing, Audio Precision measurements, and comparative system validation |
 | Digital signal processing | Filtering, FFT analysis, convolution, delay, distortion, THD, and mid-side processing |
-| Acoustics and critical listening | Controlled listening-test design, monitoring comparisons, frequency-identification research |
+| Acoustics and critical listening | Room impulse-response capture, acoustic-response analysis, controlled listening-test design, monitoring comparisons, and frequency-identification research |
 | Immersive audio | Dolby Atmos recording research, microphone-array planning, and multichannel workflow documentation |
 | Programming | MATLAB signal-processing projects and an expanding Python audio-analysis application |
 | Engineering communication | Research papers, project summaries, methods, results, limitations, presentations, and reproducible project archives |
