@@ -1,8 +1,8 @@
 # Kevin Worley — Technical Audio Engineering Portfolio
 
-Master’s-trained audio engineer with professional studio experience as a **Student Staff Engineer at Ocean Way Nashville** and a **Studio Intern at Starstruck Entertainment**.
+Master’s-trained technical audio engineer developing applied experience across **acoustic measurement, audio-system validation, immersive recording, digital signal processing, and software**. My professional foundation includes work as a **Student Staff Engineer at Ocean Way Nashville** and a **Studio Intern at Starstruck Entertainment**.
 
-Those environments shaped how I approach sound, signal flow, collaboration, system performance, and the practical needs behind engineering decisions. This portfolio shows how I am extending that foundation through **applied technical-audio projects, audio measurement, immersive recording, critical-listening work, technical software development, and digital signal processing**.
+That professional studio experience shaped how I approach sound, signal flow, collaboration, system performance, and the practical needs behind engineering decisions. This portfolio shows how I am extending that foundation through **applied technical-audio projects, audio measurement, immersive recording, critical-listening work, technical software development, and digital signal processing**.
 
 My intended directions are **acoustical consulting; automotive audio, particularly in-cabin spatial and immersive-audio systems; electroacoustics; adjacent technical-audio industries; and audio DSP/software**.
 
@@ -79,7 +79,7 @@ The original implementations are preserved alongside documented limitations and 
 
 ## Career Direction and Development Mission
 
-I earned a **Master of Science in Audio Engineering Technology from Belmont University**. My background also includes Ocean Way Nashville, Starstruck Entertainment, and session support for music recorded for **EA Sports College Football 25**.
+I earned a **Master of Science in Audio Engineering Technology from Belmont University** and also provided session support for music recorded for **EA Sports College Football 25**.
 
 My immediate goal is an entry-level **acoustical consultant** position where I can develop professional experience in room acoustics, noise control, sound isolation, measurement, electroacoustic systems, modeling, reporting, and client-centered problem solving.
 
