@@ -2,11 +2,11 @@
 
 Master’s-trained audio engineer with professional studio experience as a **Student Staff Engineer at Ocean Way Nashville** and a **Studio Intern at Starstruck Entertainment**.
 
-Those environments shaped how I approach sound, signal flow, collaboration, system performance, and the practical needs behind engineering decisions. This portfolio shows how I am extending that foundation through **audio research, measurement, immersive recording, critical-listening experiments, technical software development, and digital signal processing**.
+Those environments shaped how I approach sound, signal flow, collaboration, system performance, and the practical needs behind engineering decisions. This portfolio shows how I am extending that foundation through **applied technical-audio projects, audio measurement, immersive recording, critical-listening work, technical software development, and digital signal processing**.
 
 My intended directions are **acoustical consulting; automotive audio, particularly in-cabin spatial and immersive-audio systems; electroacoustics; adjacent technical-audio industries; and audio DSP/software**.
 
-## Major Research and Applied-Engineering Projects
+## Major Technical-Audio and Applied-Engineering Projects
 
 ### [Apartment/Home-Studio Room Impulse-Response and Audio Systems Analysis](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Impulse-Response-and-Audio-Systems-Analysis/README.md)
 
