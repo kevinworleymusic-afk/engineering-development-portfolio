@@ -1,12 +1,14 @@
-# MATLAB Impulse-Response and Audio Systems Analysis
+# Apartment/Home-Studio Room Impulse-Response and Audio Systems Analysis
+
+A room-measurement and audio-systems case study using a physical loudspeaker-to-microphone capture, Pro Tools recording, and MATLAB impulse-response analysis. Although MATLAB was central to the analysis, the project extends beyond programming into acoustic measurement, signal-path design, physical system testing, and experimental troubleshooting.
 
 ## Project type
 
-Collaborative audio-software and signal-analysis project completed by Kevin Worley and Justin Roberts for AET 5420.
+Collaborative room-measurement, audio-software, and signal-analysis project completed by Kevin Worley and Justin Roberts for AET 5420.
 
 ## Objective
 
-Use MATLAB and Pro Tools to generate test signals, capture digital and analog system responses, derive impulse responses, and compare processed audio with convolution-based reconstructions.
+Capture and analyze the response of a home-studio/apartment space, while also using MATLAB and Pro Tools to examine digital and analog audio systems, derive impulse responses, and compare measured outputs with convolution-based reconstructions.
 
 ## Systems examined
 
@@ -25,7 +27,11 @@ Use MATLAB and Pro Tools to generate test signals, capture digital and analog sy
 - Yamaha MGP24X console
 - Pultec EQP-1A hardware equalizer
 
-## Technical workflow
+## Room-capture workflow
+
+For the acoustic measurement, a Yamaha HS8 monitor was positioned approximately six feet from a Rode NT1 condenser microphone in the home-studio/apartment space. A MATLAB-generated sweep was reproduced through the monitor, captured through the MOTU/Pro Tools signal path, and analyzed to investigate the room’s acoustic response, resonant behavior, and the effects of the physical monitoring environment.
+
+## Broader technical workflow
 
 The project generated a one-second digital impulse and a ten-second logarithmic-style chirp workflow at 48 kHz. Signals were processed through plug-ins, hardware, and a room-measurement path, then analyzed with MATLAB using convolution, FFT/IFFT operations, frequency-response plots, and null comparisons.
 
@@ -33,6 +39,8 @@ The project generated a one-second digital impulse and a ten-second logarithmic-
 
 The work demonstrates early practical experience with:
 
+- Physical room-response capture
+- Loudspeaker-to-microphone acoustic measurement
 - MATLAB audio programming
 - Test-signal generation
 - Impulse-response estimation
