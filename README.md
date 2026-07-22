@@ -19,6 +19,7 @@ A personalized, competency-based curriculum in acoustical engineering, digital s
 
 - [MATLAB Audio DSP Fundamentals](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Audio-DSP-Fundamentals/README.md) — pink-noise synthesis, FIR filters, frequency-domain IIR filtering, and discrete-time system analysis
 - [MATLAB Impulse-Response and Audio Systems Analysis](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Impulse-Response-and-Audio-Systems-Analysis/README.md) — test-signal generation, convolution, FFT analysis, and impulse-response estimation
+- [MATLAB Distortion and Audio Analysis](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Distortion-and-Audio-Analysis/README.md) — nonlinear waveshaping, clipping, bit-depth reduction, THD, and supporting stereo-analysis exercises
 
 ### Python Projects
 
