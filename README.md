@@ -1,22 +1,36 @@
 # Kevin Worley — Technical Audio Engineering Portfolio
 
-Master’s-trained audio engineer building practical expertise across **audio measurement, acoustics, digital signal processing, critical-listening research, immersive audio, and technical software development**.
+Master’s-trained audio engineer with a portfolio centered on **substantial graduate research, audio measurement, digital signal processing, immersive recording, critical-listening experimentation, and technical software development**.
 
-This repository brings together completed graduate research, measurement-based validation, MATLAB DSP implementations, immersive-recording documentation, and an ongoing competency-based engineering curriculum. The work is presented not only as finished deliverables, but as evidence of how I define technical questions, design tests, analyze audio systems, document limitations, and communicate results.
+The value of this portfolio is not based on accumulating a large number of small exercises. Its foundation is a smaller group of deep projects that required research questions, test design, real audio systems, measurement or experimental evidence, analysis, formal documentation, and technical presentation. Supporting MATLAB work demonstrates my DSP foundation, while my Python application shows how I am extending that foundation into a maintained software product.
 
-## Featured Engineering Work
+## Major Research and Applied-Engineering Projects
+
+These are the portfolio’s primary case studies. Each represents a complete body of work rather than a single isolated assignment.
 
 ### [Studer A80 vs. A800 Plug-In Validation Study](Projects/Technical-Audio-and-Research/Studer-A80-vs-A800-Plugin-Validation-Study/README.md)
 
-Objective comparison of a Studer A80 analog tape machine and the Studer A800 plug-in using Audio Precision measurements. The project demonstrates test design, hardware/software comparison, measurement interpretation, technical reporting, and the distinction between audible claims and measurable evidence.
+A measurement-based technical comparison of a Studer A80 analog tape machine and the Studer A800 plug-in.
+
+**Project depth:** Audio Precision test work, analog-hardware and digital-emulation comparison, measurement interpretation, research-based technical writing, and evaluation of where measurable evidence supports—or does not support—claims about modeled audio equipment.
+
+**Portfolio evidence:** Complete paper, methodology, results summary, lessons learned, future work, and supporting project documentation.
 
 ### [Loudspeaker vs. Headphone Frequency-Boost Identification Study](Projects/Technical-Audio-and-Research/Loudspeaker-vs-Headphone-Frequency-Boost-Identification/README.md)
 
-Controlled critical-listening research examining whether trained listeners identify boosted frequency bands more accurately over loudspeakers or headphones. The complete project archive includes the research paper, presentations, experimental design, Logic Pro stimulus session, randomized trials, and analysis workbooks.
+A controlled critical-listening study investigating whether trained listeners identify boosted frequency bands more accurately over loudspeakers or headphones.
+
+**Project depth:** A 14-listener experimental design; two monitoring conditions; 45 trials per condition; 90 responses per participant; 1,260 response points overall; five tested frequency regions; counterbalanced test order; custom Logic Pro stimuli; trial randomization; and planned statistical comparison using ANOVA and paired-sample t-tests.
+
+**Portfolio evidence:** Full research paper, two presentations, analysis workbook, randomized trial order, experiment syllabus, original Logic Pro stimulus session, citations, specifications, and development records.
 
 ### [Ocean Way Jazz Combo: Dolby Atmos Recording Independent Study](Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/README.md)
 
-Immersive-recording research completed in Ocean Way Nashville Studio A using a 2L Cube-inspired microphone-array concept. The documentation covers the recording methodology, signal workflow, session evidence, technical reasoning, lessons learned, and opportunities for future validation.
+An immersive-recording independent study carried out in the historic Ocean Way Nashville Studio A using a 2L Cube-inspired microphone-array approach.
+
+**Project depth:** Immersive microphone-array research, recording-method design, multichannel signal-flow planning, execution in a professional studio environment, technical decision-making during a real session, and critical evaluation of the method’s limitations.
+
+**Portfolio evidence:** Recording methodology, immersive workflow, project summary, session evidence, technical reasoning, and clearly defined future validation work.
 
 ## Audio DSP and Software
 
@@ -30,9 +44,25 @@ Immersive-recording research completed in Ocean Way Nashville Studio A using a 2
 
 The MATLAB projects preserve the original implementations while openly documenting technical limitations and recommended revisions. This makes the collection evidence of both DSP experience and engineering judgment—not simply a code archive.
 
-### Python Development
+### Flagship Python Software Project
 
-- [Audio File Report](https://github.com/kevinworleymusic-afk/audio-file-report) — a developing command-line stereo WAV analysis tool that reports file metadata and produces left/right frequency-spectrum visualizations
+#### [Audio File Report](https://github.com/kevinworleymusic-afk/audio-file-report)
+
+Audio File Report is one cohesive application, but it represents many separate programming and software-engineering competencies. The current 0.2.0 release is a packaged command-line tool that validates WAV files, reports audio metadata in multiple display modes, generates left/right FFT spectrum plots, supports interactive or saved output, records diagnostics, and detects truncated or corrupted files conservatively.
+
+The repository demonstrates:
+
+- Python package and compatibility-entrypoint organization
+- Command-line interface design and argument validation
+- File-path, WAV-header, frame-count, and error handling
+- NumPy-based numerical and FFT processing
+- Matplotlib visualization and headless output support
+- Brief, verbose, timed, debug, and file-output workflows
+- Automated diagnostics, argument-matrix, error-code, and regression tests
+- Versioned implementation tracks, user documentation, setup instructions, and product planning
+- A structured roadmap from reliable file handling through dynamics, spectral, spatial, quality-control, batch-reporting, and installable 1.0 releases
+
+This is therefore presented as an evolving **audio-analysis software product**, not as a single programming exercise. Current production features and future development tracks are explicitly separated in its documentation.
 
 ## What This Portfolio Demonstrates
 
@@ -67,6 +97,8 @@ Each module combines mathematics, acoustics, measurement, DSP, programming, prof
 Through this process, I am building toward a portfolio that demonstrates not only where I want to go, but the concrete technical preparation and consistent work I am completing to get there.
 
 ## Current Direction
+
+This portfolio is intentionally an **early-career technical portfolio**. I am pursuing my first acoustical-consulting opportunity, so I do not present academic work as if it were years of professional consulting experience. Instead, the portfolio shows the research depth, audio background, measurement habits, DSP knowledge, software development, and technical communication skills I would bring into that first role—and the structured work I am doing to become ready for it.
 
 My immediate career direction is toward an entry-level **acoustical consultant** position where I can apply my audio background while developing broader professional experience in architectural acoustics, environmental and building-noise assessment, sound isolation, room-acoustic measurement, electroacoustic systems, modeling, technical reporting, and client-centered problem solving.
 
