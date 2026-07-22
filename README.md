@@ -52,15 +52,19 @@ I earned a **Master of Science in Audio Engineering Technology from Belmont Univ
 
 That foundation combines practical recording environments with graduate-level work in audio systems, research methods, DSP, measurement, and technical communication. My continuing development is directed toward roles in **acoustical consulting, audio DSP/software, automotive audio, electroacoustics, and immersive-audio systems**.
 
-## Engineering Development Program
+## My Engineering Development Mission
 
-The repository also contains a structured, competency-based curriculum used to extend this foundation into broader applied engineering work.
+My long-term goal is to build a career at the intersection of sound and engineering—beginning with acoustical consulting and expanding into opportunities in audio DSP and software, automotive audio, electroacoustics, immersive-audio systems, and related technical fields.
+
+I created this competency-based engineering curriculum to deliberately close the gap between my graduate audio-engineering foundation and the broader mathematical, analytical, programming, measurement, and design skills these career paths require. It is not separate from my professional direction; it is the structured development process I am using to put myself in position for those roles.
 
 - [Program syllabus](SYLLABUS.md)
 - [Module 01: Sound, Levels, and Engineering Reasoning](curriculum/module-01/README.md)
 - [Reusable module template](curriculum/module-template/README.md)
 
-Each module combines mathematics, acoustics, measurement, DSP, programming, professional reporting, and an engineering case study. Completion is based on demonstrated competency: explaining the concepts, solving the problems, performing the analysis, and communicating the result.
+Each module combines mathematics, acoustics, measurement, DSP, programming, professional reporting, and a realistic engineering case study. Progress is based on demonstrated competency: being able to explain the principles, solve the problems, perform the analysis, defend the engineering decisions, and communicate the results professionally.
+
+Through this process, I am building toward a portfolio that demonstrates not only where I want to go, but the concrete technical preparation and consistent work I am completing to get there.
 
 ## Current Direction
 
