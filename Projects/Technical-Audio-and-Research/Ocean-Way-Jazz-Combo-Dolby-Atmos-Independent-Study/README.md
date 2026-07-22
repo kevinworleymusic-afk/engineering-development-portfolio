@@ -87,6 +87,22 @@ The project demonstrates experience with:
 - Historic commercial-studio workflows
 - Collaborative technical research
 
+## Connection to my professional direction
+
+This project established Dolby Atmos and spatial audio as an important part of Kevin Worley’s longer-term technical direction. It connected immersive recording practice with broader questions about acoustics, loudspeaker placement, multichannel reproduction, spatial perception, system translation, and the relationship between a captured sound field and the listener’s experience.
+
+Future development will build on this foundation through deeper work in:
+
+- Dolby Atmos and other immersive reproduction formats
+- Spatial recording and rendering
+- Binaural and stereo translation
+- Vehicle-cabin and small-space acoustics
+- Multichannel loudspeaker integration
+- Perceptual evaluation and critical listening
+- System tuning and spatial-audio DSP
+
+The longer-term goal is to combine immersive-audio experience with professional acoustics, measurement, and software development for spatial-audio work in automotive or adjacent industries.
+
 ## Documentation status
 
 The original Pro Tools sessions and some recording files survive, but the sessions cannot currently be reopened because the required Pro Tools license is unavailable.
