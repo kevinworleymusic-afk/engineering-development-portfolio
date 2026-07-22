@@ -12,6 +12,7 @@ An archived AET 5420 Audio Signal Processing project exploring systems with memo
 
 ## Contents
 
+- `src/WorleyEchoEffect.m` - original three-tap echo and impulse-response experiment.
 - `src/pingpong.m` - original stereo delay implementation.
 - `src/userConv.m` - original manual time-domain convolution function.
 - `src/convFreq.m` - original frequency-domain convolution attempt.

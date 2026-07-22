@@ -10,6 +10,20 @@ AET 5420 Homework 2 asked for:
 2. Arbitrary-length time-domain convolution using an inner product.
 3. Arbitrary-length frequency-domain convolution using zero-padding, FFT multiplication, and inverse FFT.
 
+## WorleyEchoEffect.m
+
+This earlier experiment generates an impulse and sends it to three parallel delay buffers set to 1.0, 0.75, and 0.5 seconds. It shows useful fundamentals: converting seconds to samples, allocating delay memory, extracting delayed samples, and visualizing an impulse response.
+
+The comment at the end correctly notes that the output graph does not match the intended effect. The main issue is the output equation:
+
+```matlab
+y(n,1) = z(n,1) * (g2*j);
+```
+
+This multiplies the combined signal by one delayed tap instead of assigning or mixing the combined signal into the output. In addition, all three buffers receive only the dry input, so the code creates parallel feed-forward taps rather than feedback paths. A corrected multi-tap echo would generally use `y(n) = z(n)`; a feedback design would explicitly route a scaled delayed output back into one or more buffer inputs.
+
+As in `pingpong.m`, shifting complete arrays on every sample is computationally expensive. Circular buffers would preserve the intended timing more efficiently.
+
 ## pingpong.m
 
 The script establishes three delay buffers and routes delayed energy across left, center, and right positions. It also converts feedback and wet controls from percentages.
