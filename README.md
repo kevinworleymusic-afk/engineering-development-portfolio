@@ -1,6 +1,6 @@
 # Kevin Worley — Technical Audio Engineering Portfolio
 
-Master’s-trained audio engineer with a portfolio centered on **substantial graduate research, audio measurement, digital signal processing, immersive recording, critical-listening experimentation, and technical software development**.
+Master’s-trained audio engineer with a portfolio centered on **substantial graduate research, audio measurement, immersive recording, critical-listening experimentation, technical software development, and digital signal processing**.
 
 The value of this portfolio is not based on accumulating a large number of small exercises. Its foundation is a smaller group of deep projects that required research questions, test design, real audio systems, measurement or experimental evidence, analysis, formal documentation, and technical presentation. Supporting MATLAB work demonstrates my DSP foundation, while my Python application shows how I am extending that foundation into a maintained software product.
 
@@ -79,22 +79,22 @@ This is therefore presented as an evolving **audio-analysis software product**, 
 | Area | Evidence |
 |---|---|
 | Audio measurement | Apartment/home-studio room-response capture, loudspeaker-to-microphone testing, Audio Precision measurements, and comparative system validation |
-| Digital signal processing | Filtering, FFT analysis, convolution, delay, distortion, THD, and mid-side processing |
 | Acoustics and critical listening | Room impulse-response capture, acoustic-response analysis, controlled listening-test design, monitoring comparisons, and frequency-identification research |
 | Immersive audio | Dolby Atmos recording research, microphone-array planning, and multichannel workflow documentation |
 | Programming | MATLAB signal-processing projects and an expanding Python audio-analysis application |
 | Engineering communication | Research papers, project summaries, methods, results, limitations, presentations, and reproducible project archives |
 | Engineering judgment | Clear separation of original results, known limitations, proposed corrections, and future validation work |
+| Digital signal processing | Filtering, FFT analysis, convolution, delay, distortion, THD, and mid-side processing |
 
 ## Professional Foundation
 
 I earned a **Master of Science in Audio Engineering Technology from Belmont University**. My experience includes studio and technical-production work at **Ocean Way Nashville** and **Starstruck Entertainment**, along with session support for music recorded for **EA Sports College Football 25**.
 
-That foundation combines practical recording environments with graduate-level work in audio systems, research methods, DSP, measurement, and technical communication. My continuing development is directed toward roles in **acoustical consulting, audio DSP/software, automotive audio, electroacoustics, and immersive-audio systems**.
+That foundation combines practical recording environments with graduate-level work in audio systems, research methods, DSP, measurement, and technical communication. My continuing development is directed toward roles in **acoustical consulting, automotive audio, electroacoustics, immersive-audio systems, and audio DSP/software**.
 
 ## My Engineering Development Mission
 
-My long-term goal is to build a career at the intersection of sound and engineering—beginning with acoustical consulting and expanding into opportunities in audio DSP and software, automotive audio, electroacoustics, immersive-audio systems, and related technical fields.
+My long-term goal is to build a career at the intersection of sound and engineering—beginning with acoustical consulting and expanding into opportunities in automotive audio, electroacoustics, immersive-audio systems, related technical fields, and audio DSP/software.
 
 I created this competency-based engineering curriculum to deliberately close the gap between my graduate audio-engineering foundation and the broader mathematical, analytical, programming, measurement, and design skills these career paths require. It is not separate from my professional direction; it is the structured development process I am using to put myself in position for those roles.
 
@@ -108,7 +108,7 @@ Through this process, I am building toward a portfolio that demonstrates not onl
 
 ## Current Direction
 
-This portfolio is intentionally an **early-career technical portfolio**. I am pursuing my first acoustical-consulting opportunity, so I do not present academic work as if it were years of professional consulting experience. Instead, the portfolio shows the research depth, audio background, measurement habits, DSP knowledge, software development, and technical communication skills I would bring into that first role—and the structured work I am doing to become ready for it.
+This portfolio is intentionally an **early-career technical portfolio**. I am pursuing my first acoustical-consulting opportunity, so I do not present academic work as if it were years of professional consulting experience. Instead, the portfolio shows the research depth, audio background, measurement habits, software development, technical communication skills, and DSP knowledge I would bring into that first role—and the structured work I am doing to become ready for it.
 
 My immediate career direction is toward an entry-level **acoustical consultant** position where I can apply my audio background while developing broader professional experience in architectural acoustics, environmental and building-noise assessment, sound isolation, room-acoustic measurement, electroacoustic systems, modeling, technical reporting, and client-centered problem solving.
 
@@ -121,7 +121,7 @@ Once working in consulting, I intend to expand this portfolio with experience-in
 - Python and MATLAB tools that improve repeatability and analysis
 - Case studies demonstrating how technical evidence becomes a practical recommendation
 
-Over the longer term, I want to combine that acoustics foundation with my experience in recording, DSP, critical listening, and immersive audio to pursue **spatial-audio work in the automotive industry or adjacent technical-audio fields**. Areas of particular interest include vehicle-cabin acoustics, multichannel reproduction, loudspeaker integration, system tuning, spatial rendering, perceptual evaluation, and DSP development.
+Over the longer term, I want to combine that acoustics foundation with my experience in recording, critical listening, immersive audio, and DSP to pursue **spatial-audio work in the automotive industry or adjacent technical-audio fields**. Areas of particular interest include vehicle-cabin acoustics, multichannel reproduction, loudspeaker integration, system tuning, spatial rendering, perceptual evaluation, and DSP development.
 
 The progression I am building toward is intentional: establish strong professional judgment through acoustical consulting, continue developing measurement and software capability, and ultimately contribute to spatial-audio systems for automotive, transportation, consumer, or other immersive listening environments.
 
