@@ -26,14 +26,6 @@ A measurement-based technical comparison of a Studer A80 analog tape machine and
 
 **Portfolio evidence:** Complete paper, methodology, results summary, lessons learned, future work, and supporting project documentation.
 
-### [Loudspeaker vs. Headphone Frequency-Boost Identification Study](Projects/Technical-Audio-and-Research/Loudspeaker-vs-Headphone-Frequency-Boost-Identification/README.md)
-
-A controlled critical-listening study investigating whether trained listeners identify boosted frequency bands more accurately over loudspeakers or headphones.
-
-**Project depth:** A 14-listener experimental design; two monitoring conditions; 45 trials per condition; 90 responses per participant; 1,260 response points overall; five tested frequency regions; counterbalanced test order; custom Logic Pro stimuli; trial randomization; and planned statistical comparison using ANOVA and paired-sample t-tests.
-
-**Portfolio evidence:** Full research paper, two presentations, analysis workbook, randomized trial order, experiment syllabus, original Logic Pro stimulus session, citations, specifications, and development records.
-
 ### [Ocean Way Jazz Combo: Dolby Atmos Recording Independent Study](Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/README.md)
 
 An immersive-recording independent study carried out in the historic Ocean Way Nashville Studio A using a 2L Cube-inspired microphone-array approach.
@@ -41,6 +33,14 @@ An immersive-recording independent study carried out in the historic Ocean Way N
 **Project depth:** Immersive microphone-array research, recording-method design, multichannel signal-flow planning, execution in a professional studio environment, technical decision-making during a real session, and critical evaluation of the method’s limitations.
 
 **Portfolio evidence:** Recording methodology, immersive workflow, project summary, session evidence, technical reasoning, and clearly defined future validation work.
+
+### [Loudspeaker vs. Headphone Frequency-Boost Identification Study](Projects/Technical-Audio-and-Research/Loudspeaker-vs-Headphone-Frequency-Boost-Identification/README.md)
+
+A controlled critical-listening study investigating whether trained listeners identify boosted frequency bands more accurately over loudspeakers or headphones.
+
+**Project depth:** A 14-listener experimental design; two monitoring conditions; 45 trials per condition; 90 responses per participant; 1,260 response points overall; five tested frequency regions; counterbalanced test order; custom Logic Pro stimuli; trial randomization; and planned statistical comparison using ANOVA and paired-sample t-tests.
+
+**Portfolio evidence:** Full research paper, two presentations, analysis workbook, randomized trial order, experiment syllabus, original Logic Pro stimulus session, citations, specifications, and development records.
 
 ## Audio DSP and Software
 
