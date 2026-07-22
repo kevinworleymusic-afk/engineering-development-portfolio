@@ -2,7 +2,7 @@
 
 Master’s-trained audio engineer with professional studio experience as a **Student Staff Engineer at Ocean Way Nashville** and a **Studio Intern at Starstruck Entertainment**.
 
-This portfolio remains centered on **in-depth audio research and applied-engineering projects, audio measurement, immersive recording, critical-listening experimentation, technical software development, and digital signal processing**. My experiences at Ocean Way Nashville and Starstruck Entertainment shape the perspectives I bring with me as I move further into the technical-audio space—particularly how I think about sound, signal flow, professional workflows, collaboration, system performance, and the practical needs behind engineering decisions. The projects document how I am extending that studio foundation toward the technical fields I ultimately want to pursue: **acoustical consulting, automotive audio, electroacoustics, Dolby Atmos and immersive/spatial-audio systems, adjacent technical-audio industries, and audio DSP/software**.
+This portfolio remains centered on **in-depth audio research and applied-engineering projects, audio measurement, immersive recording, critical-listening experimentation, technical software development, and digital signal processing**. My experiences at Ocean Way Nashville and Starstruck Entertainment shape the perspectives I bring with me as I move further into the technical-audio space—particularly how I think about sound, signal flow, professional workflows, collaboration, system performance, and the practical needs behind engineering decisions. The projects document how I am extending that studio foundation toward the technical fields I ultimately want to pursue: **acoustical consulting; automotive audio, with a particular interest in in-cabin spatial and immersive-audio systems; electroacoustics; adjacent technical-audio industries; and audio DSP/software**.
 
 The value of this portfolio is not based on accumulating a large number of small exercises. Its foundation is a smaller group of deep projects that required research questions, test design, real audio systems, measurement or experimental evidence, analysis, formal documentation, and technical presentation. Supporting MATLAB work demonstrates my DSP foundation, while my Python application shows how I am extending that foundation into a maintained software product.
 
@@ -48,7 +48,7 @@ A collaborative immersive-audio recording and mixing research project conducted 
 
 **Technical significance:** The work demonstrates 7.1.4 signal-flow planning, multichannel acoustic capture, height-channel recording, immersive microphone-array research, ensemble and spot-microphone integration, Pro Tools session organization, collaborative experimentation, and critical evaluation of what can and cannot be verified from surviving session materials.
 
-**Why this project matters to my direction:** Dolby Atmos and spatial audio are not incidental topics in this portfolio. This independent study is the clearest early example of my interest in how a real acoustic event can be captured, represented, reproduced, and experienced as a three-dimensional sound field. I want to continue developing that interest through acoustics, multichannel reproduction, perceptual evaluation, spatial rendering, loudspeaker integration, and system tuning—with a longer-term goal of contributing to immersive-audio work in automotive or adjacent industries.
+**Why this project matters to my direction:** Dolby Atmos and spatial audio are not incidental topics in this portfolio. This independent study is the clearest early example of my interest in how a real acoustic event can be captured, represented, reproduced, and experienced as a three-dimensional sound field. I want to continue developing that interest through acoustics, multichannel reproduction, perceptual evaluation, spatial rendering, loudspeaker integration, and system tuning—with a longer-term goal of contributing to automotive audio, particularly in-cabin spatial and immersive-audio systems, or related work in adjacent industries.
 
 **Portfolio evidence:** Recording methodology, immersive workflow, project summary, session evidence, technical reasoning, documentation limitations, and clearly defined future validation work.
 
@@ -108,11 +108,11 @@ This is therefore presented as an evolving **audio-analysis software product**, 
 
 I earned a **Master of Science in Audio Engineering Technology from Belmont University**. My experience includes studio and technical-production work at **Ocean Way Nashville** and **Starstruck Entertainment**, along with session support for music recorded for **EA Sports College Football 25**.
 
-That foundation combines practical recording environments with graduate-level work in audio systems, research methods, DSP, measurement, and technical communication. My continuing development is directed toward roles in **acoustical consulting, automotive audio, electroacoustics, immersive-audio systems, and audio DSP/software**.
+That foundation combines practical recording environments with graduate-level work in audio systems, research methods, DSP, measurement, and technical communication. My continuing development is directed toward roles in **acoustical consulting; automotive audio, particularly in-cabin spatial and immersive-audio systems; electroacoustics; and audio DSP/software**.
 
 ## My Engineering Development Mission
 
-My long-term goal is to build a career at the intersection of sound and engineering—beginning with acoustical consulting and expanding into opportunities in automotive audio, electroacoustics, immersive-audio systems, related technical fields, and audio DSP/software.
+My long-term goal is to build a career at the intersection of sound and engineering—beginning with acoustical consulting and expanding into automotive audio—with a particular interest in in-cabin spatial and immersive-audio systems—along with electroacoustics, related technical fields, and audio DSP/software.
 
 I created this competency-based engineering curriculum to deliberately close the gap between my graduate audio-engineering foundation and the broader mathematical, analytical, programming, measurement, and design skills these career paths require. It is not separate from my professional direction; it is the structured development process I am using to put myself in position for those roles.
 
@@ -139,9 +139,9 @@ Once working in consulting, I intend to expand this portfolio with experience-in
 - Python and MATLAB tools that improve repeatability and analysis
 - Case studies demonstrating how technical evidence becomes a practical recommendation
 
-Over the longer term, I want to combine that acoustics foundation with my experience in recording, critical listening, immersive audio, and DSP to pursue **spatial-audio work in the automotive industry or adjacent technical-audio fields**. Areas of particular interest include vehicle-cabin acoustics, multichannel reproduction, loudspeaker integration, system tuning, spatial rendering, perceptual evaluation, and DSP development.
+Over the longer term, I want to combine that acoustics foundation with my experience in recording, critical listening, immersive audio, and DSP to pursue **automotive audio, with a particular interest in in-cabin spatial and immersive-audio systems**. Areas of particular interest include vehicle-cabin acoustics, multichannel reproduction, loudspeaker integration, system tuning, spatial rendering, perceptual evaluation, and DSP development.
 
-The progression I am building toward is intentional: establish strong professional judgment through acoustical consulting, continue developing measurement and software capability, and ultimately contribute to spatial-audio systems for automotive, transportation, consumer, or other immersive listening environments.
+The progression I am building toward is intentional: establish strong professional judgment through acoustical consulting, continue developing measurement and software capability, and ultimately contribute to automotive-audio systems—especially in-cabin spatial and immersive experiences—or related systems in transportation, consumer audio, and other technical listening environments.
 
 ## Repository Purpose
 
