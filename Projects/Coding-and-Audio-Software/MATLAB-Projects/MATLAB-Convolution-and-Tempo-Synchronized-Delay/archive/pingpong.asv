@@ -1,0 +1,70 @@
+function [out] = pingpong(x,Fs,BPM,note,feedback,wet) 
+
+N = length(x); 
+
+%BPM Unit Conversion from BPM to Samples of Delay
+VAR = BPM / note; 
+BPS = VAR/60; 
+SPB = 1/BPS; 
+secDelay = SPB * note; 
+samplesOfDelay = round(secDelay * Fs); 
+
+buffer1 = zeros(samplesOfDelay,1); 
+buffer2 = zeros(samplesOfDelay,1);
+buffer3 = zeros(samplesOfDelay,1); 
+
+g1 = 0.6; 
+g2 = 0.4;
+g3 = 0.5;%Feedback Gain 
+g4 = 0.4; 
+
+out = zeros(N,2); 
+
+%Converting Feedback fron input into value from 0-1
+realFeedback = feedback * 0.01;
+realWet = wet * 0.01; 
+dry = 1-realWet;
+
+% %Seperating mono signal into a "left channel" and a right channel" 
+% leftSig = x(:,1); 
+% rightSig = x(:,1);
+% % drySig = [ aL * leftSig , aR * rightSig]; 
+
+ knobValue1 = .7071; % knob in PT [-100 to 100] 
+ % p1 = knobValue1 / 200 + 0.5; 
+ % aL1 = sqrt(1-p1);
+ % aR1 = sqrt(p1); 
+ % 
+
+
+for n = 1:N  
+
+    w = buffer1(end,1); 
+
+    v = buffer2(end,1); 
+
+    t = buffer3(end,1); 
+
+    
+    
+   
+
+
+    %Left Channel
+    y(n,1) = g1*x(n,1)*dry + w * realwet + knobValue1*v*realwet;
+
+    %Right Channel 
+    y(n,2) = g1*x(n,1)*dry + knobValue1*v*realwet + t*realwet; 
+    
+
+% Left Channel Delay Buffer
+    buffer1 = [x(n,1)+realFeedback*w; buffer1(1:end-1,1)];
+ %Center channel Delay Buffer   
+    buffer2 = [w ; buffer2(1:end-1 , 1)];
+  %Right channnel Delay Buffer 
+    buffer3 = [v ; buffer3(1:end-1,1)]; 
+
+end 
+
+
+
