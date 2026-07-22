@@ -36,11 +36,19 @@ A laboratory measurement and product-validation study evaluating how accurately 
 
 ### [Ocean Way Jazz Combo: Dolby Atmos Recording Independent Study](Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/README.md)
 
-An immersive-recording independent study carried out in the historic Ocean Way Nashville Studio A using a 2L Cube-inspired microphone-array approach.
+A collaborative immersive-audio recording and mixing research project conducted in the historic Ocean Way Nashville Studio A. The study investigated how a 2L Cube-inspired microphone array could capture a jazz combo and string ensemble as a stable, natural soundstage for 7.1.4 Dolby Atmos reproduction.
 
-**Project depth:** Immersive microphone-array research, recording-method design, multichannel signal-flow planning, execution in a professional studio environment, technical decision-making during a real session, and critical evaluation of the method’s limitations.
+**Immersive-recording approach:** The project treated spatial audio primarily as a capture problem rather than depending on post-production movement effects. Performer placement, the geometry of the main array, the direct and reflected sound of Studio A, and fixed microphone-to-loudspeaker correspondence were used to establish direction, depth, ambience, and height at the recording stage.
 
-**Portfolio evidence:** Recording methodology, immersive workflow, project summary, session evidence, technical reasoning, and clearly defined future validation work.
+**7.1.4 workflow:** The array represented seven horizontal and four height positions, with the LFE path managed separately. Eleven full-range capture positions were routed toward corresponding playback locations, while instrument spot microphones, bass and guitar direct inputs, reverb paths, and recovered object-routing elements provided additional control within the Pro Tools sessions.
+
+**Professional-studio execution:** The study moved beyond a conceptual Atmos exercise by applying the method during a real ensemble session in a world-class commercial recording environment. The surviving project evidence includes two Pro Tools sessions, front/rear/height routing groups, eleven full-range output-bed positions, jazz-combo and string-ensemble sources, and a synchronized 48 kHz/24-bit front-right-height export.
+
+**Technical significance:** The work demonstrates 7.1.4 signal-flow planning, multichannel acoustic capture, height-channel recording, immersive microphone-array research, ensemble and spot-microphone integration, Pro Tools session organization, collaborative experimentation, and critical evaluation of what can and cannot be verified from surviving session materials.
+
+**Why this project matters to my direction:** Dolby Atmos and spatial audio are not incidental topics in this portfolio. This independent study is the clearest early example of my interest in how a real acoustic event can be captured, represented, reproduced, and experienced as a three-dimensional sound field. I want to continue developing that interest through acoustics, multichannel reproduction, perceptual evaluation, spatial rendering, loudspeaker integration, and system tuning—with a longer-term goal of contributing to immersive-audio work in automotive or adjacent industries.
+
+**Portfolio evidence:** Recording methodology, immersive workflow, project summary, session evidence, technical reasoning, documentation limitations, and clearly defined future validation work.
 
 ### [Loudspeaker vs. Headphone Frequency-Boost Identification Study](Projects/Technical-Audio-and-Research/Loudspeaker-vs-Headphone-Frequency-Boost-Identification/README.md)
 
