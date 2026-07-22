@@ -21,6 +21,7 @@ A personalized, competency-based curriculum in acoustical engineering, digital s
 - [MATLAB Impulse-Response and Audio Systems Analysis](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Impulse-Response-and-Audio-Systems-Analysis/README.md) — test-signal generation, convolution, FFT analysis, and impulse-response estimation
 - [MATLAB Distortion and Audio Analysis](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Distortion-and-Audio-Analysis/README.md) — nonlinear waveshaping, clipping, bit-depth reduction, THD, and supporting stereo-analysis exercises
 - [MATLAB Convolution and Tempo-Synchronized Delay](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Convolution-and-Tempo-Synchronized-Delay/README.md) — L-C-R ping-pong echo, sample-by-sample convolution, and FFT-domain convolution coursework
+- [MATLAB Nonlinear Distortion and Mid-Side Processing](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Nonlinear-Distortion-and-Mid-Side-Processing/README.md) — hard clipping, transistor-inspired saturation, parallel harmonic processing, and mid-side distortion
 
 ### Python Projects
 
