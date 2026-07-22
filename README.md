@@ -15,7 +15,13 @@ A personalized, competency-based curriculum in acoustical engineering, digital s
 
 ## Coding and Audio Software Projects
 
-- [MATLAB Impulse-Response and Audio Systems Analysis](Projects/Coding-and-Audio-Software/MATLAB-Impulse-Response-and-Audio-Systems-Analysis/README.md) — test-signal generation, convolution, FFT analysis, and impulse-response estimation
+### MATLAB Projects
+
+- [MATLAB Audio DSP Fundamentals](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Audio-DSP-Fundamentals/README.md) — pink-noise synthesis, FIR filters, frequency-domain IIR filtering, and discrete-time system analysis
+- [MATLAB Impulse-Response and Audio Systems Analysis](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Impulse-Response-and-Audio-Systems-Analysis/README.md) — test-signal generation, convolution, FFT analysis, and impulse-response estimation
+
+### Python Projects
+
 - [Audio File Report](https://github.com/kevinworleymusic-afk/audio-file-report) — Python stereo-audio analysis and reporting tool
 
 ## Mission
