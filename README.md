@@ -77,6 +77,14 @@ The original implementations are preserved alongside documented limitations and 
 | Engineering communication | Papers, methods, results, limitations, presentations, and organized project archives |
 | Digital signal processing | Filtering, FFT analysis, convolution, delay, distortion, THD, and mid-side processing |
 
+## Additional Technical Foundations
+
+### Studio Electronics and Equipment-Service Foundations
+
+Received introductory instruction in studio-equipment operation and service, including voltage, current, resistance, electronic components, analog audio signal flow, transducer principles, and the operation of dynamic, condenser, and ribbon microphones. The study also covered test equipment, signal tracing, common equipment faults, electrical safety, cable and component repair, and introductory soldering.
+
+This experience provided a foundational understanding of how acoustic energy, mechanical movement, and electrical signals interact within microphones and other audio systems. It supports my continuing development in electroacoustics, audio-system measurement, hardware/software validation, and technical troubleshooting.
+
 ## Career Direction and Development Mission
 
 I earned a **Master of Science in Audio Engineering Technology from Belmont University** and also provided session support for music recorded for **EA Sports College Football 25**.
