@@ -8,10 +8,15 @@ A personalized, competency-based curriculum in acoustical engineering, digital s
 - [Reusable module template](curriculum/module-template/README.md)
 - [Module 01: Sound, Levels, and Engineering Reasoning](curriculum/module-01/README.md)
 
-## Projects
+## Technical Audio and Research Projects
 
-- [Studer A80 vs. A800 Plug-In Validation Study](Projects/Studer-A80-vs-A800-Plugin-Validation-Study/README.md) — objective comparison of analog tape hardware and digital emulation using Audio Precision measurements
-- [Ocean Way Jazz Combo: Dolby Atmos Recording Independent Study](Projects/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/README.md) — immersive recording research using a 2L Cube-inspired microphone array in the historic Ocean Way Nashville Studio A
+- [Studer A80 vs. A800 Plug-In Validation Study](Projects/Technical-Audio-and-Research/Studer-A80-vs-A800-Plugin-Validation-Study/README.md) — objective comparison of analog tape hardware and digital emulation using Audio Precision measurements
+- [Ocean Way Jazz Combo: Dolby Atmos Recording Independent Study](Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/README.md) — immersive recording research using a 2L Cube-inspired microphone array in the historic Ocean Way Nashville Studio A
+
+## Coding and Audio Software Projects
+
+- [MATLAB Impulse-Response and Audio Systems Analysis](Projects/Coding-and-Audio-Software/MATLAB-Impulse-Response-and-Audio-Systems-Analysis/README.md) — test-signal generation, convolution, FFT analysis, and impulse-response estimation
+- [Audio File Report](https://github.com/kevinworleymusic-afk/audio-file-report) — Python stereo-audio analysis and reporting tool
 
 ## Mission
 
