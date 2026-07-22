@@ -4,6 +4,10 @@
 
 Graduate independent-study research project presented as an engineering validation case study.
 
+## Academic and professional context
+
+The study was completed under the guidance of **Michael Janas at Belmont University**, an experienced recording engineer and former vice president of The Castle Recording Studio whose professional background includes analog recording and studio operations.
+
 ## Objective
 
 Evaluate whether the Universal Audio Studer A800 tape-emulation plug-in accurately reproduces the measurable behavior of a Studer A80 RC MkII analog tape recorder.
