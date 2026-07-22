@@ -20,11 +20,19 @@ A collaborative room-measurement and audio-systems experiment completed by Kevin
 
 ### [Studer A80 vs. A800 Plug-In Validation Study](Projects/Technical-Audio-and-Research/Studer-A80-vs-A800-Plugin-Validation-Study/README.md)
 
-A measurement-based technical comparison of a Studer A80 analog tape machine and the Studer A800 plug-in.
+A laboratory measurement and product-validation study evaluating how accurately the Universal Audio Studer A800 plug-in reproduced the measurable behavior of a Studer A80 RC MkII 1/4-inch two-track analog tape recorder.
 
-**Project depth:** Audio Precision test work, analog-hardware and digital-emulation comparison, measurement interpretation, research-based technical writing, and evaluation of where measurable evidence supports—or does not support—claims about modeled audio equipment.
+**Audio Precision measurement system:** The experiment used an Audio Precision SYS 2522 System Two Cascade Dual Domain analyzer as the central signal-generation and measurement platform. Audio Precision sine signals and sweeps were routed through the complete hardware and plug-in signal paths to measure frequency response, signal-to-noise ratio, and total harmonic distortion plus noise.
 
-**Portfolio evidence:** Complete paper, methodology, results summary, lessons learned, future work, and supporting project documentation.
+**Calibration and test design:** The Studer A80 reproduce head was calibrated separately at 15 and 30 IPS with an MRL 250 nWb/m calibration tape using 100 Hz, 1 kHz, and 10 kHz reference tones. Audio Precision signals were then used to align the record head to 520 nWb/m. The hardware and plug-in were configured with corresponding Studio Master 900 tape formulations and compared in input, 15 IPS, and 30 IPS operating modes after signal flow, calibration, and levels were verified.
+
+**Quantitative results:** Input-mode measurements showed close agreement, including a 0.75 dB SNR difference and THD+N values of 0.08% for the hardware and 0.074% for the plug-in. At 15 IPS, THD+N matched at 0.26%, but the systems differed by 7.5 dB in measured SNR and showed their largest frequency-response disagreement in the low-frequency region. At 30 IPS, the frequency responses generally remained within approximately 0.5 dB, while plug-in THD+N measured 0.54% compared with 0.20% for the hardware.
+
+**Engineering significance:** The project goes beyond discussing whether an emulation “sounds analog.” It defines measurable performance criteria, controls operating conditions, calibrates a physical tape machine, operates professional audio-analysis equipment, compares hardware and software systematically, interprets deviations, and limits its conclusions to the tested configuration.
+
+**Portfolio evidence:** Complete technical paper, employer-facing project summary, detailed test methodology, numerical results and interpretation, lessons learned, limitations, and future validation work.
+
+**Transferable relevance:** Audio Precision operation, calibration, product benchmarking, frequency-response measurement, SNR and distortion analysis, and hardware/software validation transfer directly to electroacoustics, loudspeaker testing, automotive-audio validation, quality assurance, and technical product-development environments.
 
 ### [Ocean Way Jazz Combo: Dolby Atmos Recording Independent Study](Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/README.md)
 
