@@ -68,14 +68,20 @@ Through this process, I am building toward a portfolio that demonstrates not onl
 
 ## Current Direction
 
-Planned portfolio work includes:
+My immediate career direction is toward an entry-level **acoustical consultant** position where I can apply my audio background while developing broader professional experience in architectural acoustics, environmental and building-noise assessment, sound isolation, room-acoustic measurement, electroacoustic systems, modeling, technical reporting, and client-centered problem solving.
 
-- Room-acoustics and RT60 studies
-- Loudspeaker and vehicle-cabin measurements
-- Electroacoustic and architectural-acoustics case studies
-- Expanded Python and MATLAB engineering tools
-- Reproducible DSP experiments and validation packages
-- Automotive-audio and aerospace-acoustics specialization projects
+Once working in consulting, I intend to expand this portfolio with experience-informed studies and tools that reflect the kinds of problems encountered in professional practice—while respecting employer confidentiality. That development may include:
+
+- Room-acoustics, reverberation-time, and speech-intelligibility studies
+- Sound-isolation and noise-control analyses
+- Loudspeaker-system evaluation and electroacoustic design
+- Measurement workflows, modeling exercises, and technical reports
+- Python and MATLAB tools that improve repeatability and analysis
+- Case studies demonstrating how technical evidence becomes a practical recommendation
+
+Over the longer term, I want to combine that acoustics foundation with my experience in recording, DSP, critical listening, and immersive audio to pursue **spatial-audio work in the automotive industry or adjacent technical-audio fields**. Areas of particular interest include vehicle-cabin acoustics, multichannel reproduction, loudspeaker integration, system tuning, spatial rendering, perceptual evaluation, and DSP development.
+
+The progression I am building toward is intentional: establish strong professional judgment through acoustical consulting, continue developing measurement and software capability, and ultimately contribute to spatial-audio systems for automotive, transportation, consumer, or other immersive listening environments.
 
 ## Repository Purpose
 
