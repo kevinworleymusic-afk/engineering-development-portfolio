@@ -81,7 +81,7 @@ The original implementations are preserved alongside documented limitations and 
 
 ### Studio Electronics and Equipment-Service Foundations
 
-Received introductory instruction in studio-equipment operation and service, including voltage, current, resistance, electronic components, analog audio signal flow, transducer principles, and the operation of dynamic, condenser, and ribbon microphones. The study also covered test equipment, signal tracing, common equipment faults, electrical safety, cable and component repair, and introductory soldering.
+Received introductory instruction from **Mike Porter at Belmont University**, a longtime Nashville audio professional and studio-facilities specialist, in studio-equipment operation and service, including voltage, current, resistance, electronic components, analog audio signal flow, transducer principles, and the operation of dynamic, condenser, and ribbon microphones. The study also covered test equipment, signal tracing, common equipment faults, electrical safety, cable and component repair, and introductory soldering.
 
 This experience provided a foundational understanding of how acoustic energy, mechanical movement, and electrical signals interact within microphones and other audio systems. It supports my continuing development in electroacoustics, audio-system measurement, hardware/software validation, and technical troubleshooting.
 
