@@ -1,10 +1,10 @@
 # Kevin Worley — Technical Audio Engineering Portfolio
 
-Master’s-trained technical audio engineer developing applied experience across **acoustics and audio measurement, electroacoustic system validation, immersive and spatial audio, audio DSP, and technical software development**. My professional foundation includes work as a **Student Staff Engineer at Ocean Way Nashville** and a **Studio Intern at Starstruck Entertainment**.
+Master’s-trained technical audio engineer developing applied experience across **acoustics and audio measurement, electroacoustic system validation, immersive and spatial audio, audio DSP, and technical software development**, with particular long-term interests in **automotive audio and in-cabin spatial-audio systems**. My professional foundation includes work as a **Student Staff Engineer at Ocean Way Nashville** and a **Studio Intern at Starstruck Entertainment**.
 
 That professional studio experience shaped how I approach sound, signal flow, collaboration, system performance, and the practical needs behind engineering decisions. This portfolio shows how I am extending that foundation through **applied technical-audio projects, audio measurement, immersive recording, critical-listening work, technical software development, and digital signal processing**.
 
-My intended directions are **acoustical consulting; automotive audio, particularly in-cabin spatial and immersive-audio systems; electroacoustics; adjacent technical-audio industries; and audio DSP/software**.
+My near-term direction is **acoustical consulting**, building toward broader work in **electroacoustics, advanced audio systems, and audio DSP/software**.
 
 ## Major Technical-Audio and Applied-Engineering Projects
 
