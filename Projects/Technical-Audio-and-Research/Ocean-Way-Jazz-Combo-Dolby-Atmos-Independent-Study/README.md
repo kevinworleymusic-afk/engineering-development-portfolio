@@ -46,6 +46,12 @@ The eleven full-range spatial positions were captured and routed to their corres
 
 Because the approach connected microphone positions with corresponding playback positions, extensive pan and object automation was not central to the project.
 
+## Session layout documentation
+
+A surviving handwritten [session layout](Session-Layout.pdf) records the physical arrangement used for the study in Ocean Way Nashville Studio A. The working floor plan identifies the control-room orientation, central 2L Cube-inspired array, drum and amplifier positions, string-player stations, supporting microphones, and a room microphone. The drawing was explicitly created as a not-to-scale overview of the general session layout rather than as a measured architectural plan.
+
+This document provides additional evidence that performer placement, microphone geometry, and the relationship between the ensemble and the immersive array were considered during the planning and execution of the recording.
+
 ## Surviving sessions
 
 Two Pro Tools sessions survive from the study:
