@@ -30,16 +30,21 @@ Kevin contributed to the planning, execution, and evaluation of the immersive re
 
 ## Recording approach
 
-The production emphasized a stable, natural immersive soundstage rather than moving-object effects. Spatial presentation was established primarily through:
+The production used a 7.1.4 immersive configuration and emphasized a stable, natural soundstage rather than moving-object effects.
+
+Spatial presentation was established primarily through:
 
 - The 2L Cube-inspired microphone arrangement
 - Placement of the performers relative to the array
-- Front, rear, and height capture
+- Seven full-range horizontal positions
+- Four height positions
 - Fixed multichannel routing
 - Supporting spot microphones
 - Balance between direct sound and the acoustics of the historic Studio A
 
-Because the approach connected captured spatial positions with corresponding playback locations, extensive pan and object automation was not central to the project.
+The eleven full-range spatial positions were captured and routed to their corresponding playback locations. The LFE path completing the 7.1.4 configuration was managed separately rather than being captured through a dedicated array microphone.
+
+Because the approach connected microphone positions with corresponding playback positions, extensive pan and object automation was not central to the project.
 
 ## Surviving sessions
 
@@ -53,6 +58,7 @@ The sessions contain recoverable references to:
 - `2L Cube`
 - Front and rear LCR groups
 - Front and rear height groups
+- Eleven full-range output-bed positions
 - A main output bed
 - Drums and percussion routing
 - Four violins, viola, and cello
@@ -62,6 +68,8 @@ The sessions contain recoverable references to:
 - Reverb paths
 - Object-routing elements
 
+The eleven recovered output labels correspond to the seven horizontal and four height positions used in the 7.1.4 configuration. A separately labeled LFE path was not recoverable through the current session-file inspection.
+
 A surviving front-right-height WAV file confirms that at least part of the project was exported as synchronized 48 kHz, 24-bit mono audio from Pro Tools.
 
 ## Technical significance
@@ -69,6 +77,7 @@ A surviving front-right-height WAV file confirms that at least part of the proje
 The project demonstrates experience with:
 
 - Dolby Atmos music production
+- 7.1.4 recording and routing
 - Immersive microphone-array research
 - Multichannel acoustic recording
 - Channel-based spatial capture
@@ -85,6 +94,12 @@ The original Pro Tools sessions and some recording files survive, but the sessio
 The exact microphone models, detailed signal routing, plug-in settings, and complete renderer configuration have not been independently verified. Portfolio documentation therefore distinguishes between information confirmed by surviving files and details reconstructed from firsthand participation.
 
 No session files or musical recordings will be published publicly without confirming the necessary ownership and permissions.
+
+## Reference
+
+The recording approach was informed by Morten Lindberg’s description of the 2L Cube, a cubical immersive microphone array designed around direct correspondence between microphone positions and multichannel loudspeaker positions.
+
+- [Morten Lindberg, “3D Recording with the 2L-cube”](https://www.2l.no/artikler/2L-VDT.pdf)
 
 ## Audio availability
 
