@@ -11,6 +11,7 @@ A personalized, competency-based curriculum in acoustical engineering, digital s
 ## Projects
 
 - [Studer A80 vs. A800 Plug-In Validation Study](Projects/Studer-A80-vs-A800-Plugin-Validation-Study/README.md) — objective comparison of analog tape hardware and digital emulation using Audio Precision measurements
+- [Ocean Way Jazz Combo: Dolby Atmos Recording Independent Study](Projects/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/README.md) — immersive recording research using a 2L Cube-inspired microphone array in the historic Ocean Way Nashville Studio A
 
 ## Mission
 
