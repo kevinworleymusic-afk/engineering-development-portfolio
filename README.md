@@ -6,6 +6,42 @@ That professional studio experience shaped how I approach sound, signal flow, co
 
 My near-term direction is **acoustical consulting**, building toward broader work in **electroacoustics, advanced audio systems, and audio DSP/software**.
 
+---
+
+## Contents
+
+### Technical-Audio and Research Projects
+
+- [Apartment/Home-Studio Room Impulse-Response and Audio Systems Analysis](#apartmenthome-studio-room-impulse-response-and-audio-systems-analysis)
+- [Studer A80 vs. A800 Plug-In Validation Study](#studer-a80-vs-a800-plug-in-validation-study)
+- [Ocean Way Jazz Combo: Dolby Atmos Recording Independent Study](#ocean-way-jazz-combo-dolby-atmos-recording-independent-study)
+- [Loudspeaker vs. Headphone Frequency-Boost Identification Study](#loudspeaker-vs-headphone-frequency-boost-identification-study)
+
+### Audio DSP and Software
+
+- [Flagship Python Project: Audio File Report](#flagship-python-project-audio-file-report)
+- [MATLAB Portfolio](#matlab-portfolio)
+  - [Audio DSP Fundamentals](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Audio-DSP-Fundamentals/README.md)
+  - [Room Impulse-Response and Audio Systems Analysis](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Impulse-Response-and-Audio-Systems-Analysis/README.md)
+  - [Distortion and Audio Analysis](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Distortion-and-Audio-Analysis/README.md)
+  - [Convolution and Tempo-Synchronized Delay](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Convolution-and-Tempo-Synchronized-Delay/README.md)
+  - [Nonlinear Distortion and Mid-Side Processing](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Nonlinear-Distortion-and-Mid-Side-Processing/README.md)
+
+### Engineering Development Curriculum
+
+- [Program Syllabus](SYLLABUS.md)
+- [Technical Audio Engineering Development Binder](curriculum/technical-audio-engineering-development-binder.pdf)
+- [Module 01: Sound, Levels, and Engineering Reasoning](curriculum/module-01/README.md)
+- [Reusable Module Template](curriculum/module-template/README.md)
+
+### Summary
+
+- [Technical Evidence at a Glance](#technical-evidence-at-a-glance)
+- [Additional Technical Foundations](#additional-technical-foundations)
+- [Career Direction and Development Mission](#career-direction-and-development-mission)
+
+---
+
 ## Major Technical-Audio and Applied-Engineering Projects
 
 ### [Apartment/Home-Studio Room Impulse-Response and Audio Systems Analysis](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Impulse-Response-and-Audio-Systems-Analysis/README.md)
@@ -96,6 +132,7 @@ Over time, I want to combine that consulting foundation with my experience in au
 To position myself for these paths, I am completing a competency-based engineering curriculum covering mathematics, acoustics, measurement, programming, technical reporting, case studies, and DSP.
 
 - [Program syllabus](SYLLABUS.md)
+- [Technical Audio Engineering Development Binder](curriculum/technical-audio-engineering-development-binder.pdf)
 - [Module 01: Sound, Levels, and Engineering Reasoning](curriculum/module-01/README.md)
 - [Reusable module template](curriculum/module-template/README.md)
 
