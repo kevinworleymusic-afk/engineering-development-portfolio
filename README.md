@@ -30,7 +30,7 @@ Designed an unpublished controlled-listening study comparing trained listeners' 
 
 ## Music Performance and Education Foundation
 
-My undergraduate background at Kennesaw State University combined music performance, ensemble work, jazz study under Sam Skelton, Tyrone Jackson, and Trey Wright, and music-education preparation. I student taught and received mentorship under Dr. Robert Grogan and Bradley Rikard, with foundational pedagogy from Dr. Charles Jackson, Dr. Allison Mann, Dr. Debra Traficante, and others.
+My undergraduate background at Kennesaw State University combined music performance, ensemble work, jazz study under [Sam Skelton](https://www.samskeltonmusic.com/), [Tyrone Jackson](https://tyronejackson.com/bio), and [Trey Wright](https://www.treywright.com/), and music-education preparation. I student taught and received mentorship under [Dr. Robert Grogan](https://www.midwestclinic.org/2023_clinician_Robert_Grogan) and [Bradley Rikard](https://www.sprayberryband.com/banddirectors), with foundational pedagogy from [Dr. Charles R. Jackson](https://thearts.gsu.edu/profile/charles-jackson/), [Dr. Alison Mann](https://www.waltonchorus.com/directors), [Dr. Debra Traficante](https://eaglesnestinvitational.com/dvteam/dr-debra-traficante/), and others.
 
 That experience supports practical listening for pitch, rhythm, harmony, timbre, balance, ensemble interaction, and diagnosing musical problems clearly enough to communicate and teach them. Additional context and linked references are included in [Prior Listening and Ear-Training Experience](https://github.com/kevinworleymusic-afk/technical-ear-training/blob/main/PRIOR_EXPERIENCE.md).
 
