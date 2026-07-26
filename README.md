@@ -17,7 +17,7 @@ The studies, reports, papers, and presentations presented as my own work in this
 | Repository | Role in the portfolio | Status |
 |---|---|---|
 | [Engineering Development Portfolio](https://github.com/kevinworleymusic-afk/engineering-development-portfolio) | Central record of technical projects, experience, and development direction | Active |
-| [Technical Ear Training](https://github.com/kevinworleymusic-afk/technical-ear-training) | Structured critical-listening exercises, prior experience, and progress evidence | Framework established; baseline work next |
+| [Technical Ear Training](https://github.com/kevinworleymusic-afk/technical-ear-training) | Structured critical-listening exercises, prior experience, and progress evidence | Prior course experience documented; continued execution active |
 | [Audio File Report](https://github.com/kevinworleymusic-afk/audio-file-report) | Python audio-file analysis, validation, diagnostics, and visualization | Active development |
 | [Capture-to-Reproduction Audio Study](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study) | Planned loudspeaker, DSP, and automotive-reproduction studies | Roadmap established; projects planned |
 
