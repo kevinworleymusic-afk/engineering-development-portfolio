@@ -2,7 +2,7 @@
 
 A room-measurement and audio-systems case study using a physical loudspeaker-to-microphone capture, Pro Tools recording, and MATLAB impulse-response analysis. Although MATLAB was central to the analysis, the project extends beyond programming into acoustic measurement, signal-path design, physical system testing, and experimental troubleshooting.
 
-## Project type
+## Project Type
 
 Collaborative room-measurement, audio-software, and signal-analysis project completed by Kevin Worley and Justin Roberts for AET 5420.
 
