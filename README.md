@@ -10,6 +10,15 @@ My near-term direction is to deepen my [**knowledge and applied experience in ac
 
 The studies, reports, papers, and presentations presented as my own work in this portfolio are **academic, independent-study, classroom, or portfolio projects—not peer-reviewed or formally published research**. I did, however, participate as a [**listener—not an author or co-author—in several Belmont auditory-perception studies that were subsequently published through the Audio Engineering Society**](#critical-listening-and-immersive-experience). Those [published-study participation credits](#critical-listening-and-immersive-experience) are identified separately from my unpublished projects and link directly to the published AES papers.
 
+## Portfolio Ecosystem
+
+| Repository | Role in the portfolio | Status |
+|---|---|---|
+| [Engineering Development Portfolio](https://github.com/kevinworleymusic-afk/engineering-development-portfolio) | Central record of technical projects, experience, and development direction | Active |
+| [Technical Ear Training](https://github.com/kevinworleymusic-afk/technical-ear-training) | Structured critical-listening exercises, prior experience, and progress evidence | Framework established; baseline work next |
+| [Audio File Report](https://github.com/kevinworleymusic-afk/audio-file-report) | Python audio-file analysis, validation, diagnostics, and visualization | Active development |
+| [Capture-to-Reproduction Audio Study](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study) | Planned loudspeaker, DSP, and automotive-reproduction studies | Roadmap established; projects planned |
+
 ## Major Technical-Audio and Applied-Engineering Projects
 
 ### [Apartment/Home-Studio Room Impulse-Response and Audio Systems Analysis](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Impulse-Response-and-Audio-Systems-Analysis/README.md)
@@ -83,13 +92,15 @@ I earned a [**Master of Science in Audio Engineering from Belmont University**](
 
 A near-term goal is to expand my knowledge and practical experience in room acoustics, noise control, sound isolation, measurement, electroacoustic systems, modeling, reporting, and client-centered problem solving. I am interested in gaining that experience through part-time work in acoustical consulting, measurement, testing, or related roles, while remaining open to a more substantial opportunity if the right one presents itself.
 
+I can contribute to technical teams through structured listening, system testing, documentation, collaborative problem solving, and communication across technical and nontechnical roles, with teaching experience that supports taking on increasing coordination and leadership responsibility.
+
 Over time, I want to combine that consulting foundation with my experience in [audio measurement](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Impulse-Response-and-Audio-Systems-Analysis/README.md), [system validation](Projects/Technical-Audio-and-Research/Studer-A80-vs-A800-Plugin-Validation-Study/README.md), [critical listening](https://github.com/kevinworleymusic-afk/technical-ear-training/blob/main/PRIOR_EXPERIENCE.md), [immersive and spatial audio](Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/README.md), and [DSP/software](https://github.com/kevinworleymusic-afk/audio-file-report) to pursue **automotive audio, with a particular interest in in-cabin spatial and immersive-audio systems**.
 
 To position myself for these paths, I am pursuing a [competency-based engineering-development program](SYLLABUS.md) through four connected tracks:
 
-- **Critical listening:** continue structured [technical ear training](https://github.com/kevinworleymusic-afk/technical-ear-training) and document progress from my [existing listening foundation](https://github.com/kevinworleymusic-afk/technical-ear-training/blob/main/PRIOR_EXPERIENCE.md).
-- **Automotive-specific study:** develop vehicle-audio case studies and portfolio work that apply my existing foundations in [measurement](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Impulse-Response-and-Audio-Systems-Analysis/README.md), [spatial audio](Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/README.md), localization, system tuning, and DSP to the in-cabin environment.
-- **Broader acoustics experience:** study material relevant to acoustics and electroacoustics while pursuing part-time applied work in acoustical consulting, measurement, testing, or related technical roles—and remain open to broader responsibility if the opportunity develops.
-- **DSP and software expansion:** continue developing the [Python Audio File Report](https://github.com/kevinworleymusic-afk/audio-file-report) and my [MATLAB audio-DSP portfolio](Projects/Coding-and-Audio-Software/MATLAB-Projects/) to strengthen analysis, automation, validation, and implementation skills.
+- **Active — Critical listening:** continue structured [technical ear training](https://github.com/kevinworleymusic-afk/technical-ear-training) and document progress from my [existing listening foundation](https://github.com/kevinworleymusic-afk/technical-ear-training/blob/main/PRIOR_EXPERIENCE.md).
+- **Planned/early development — Automotive-specific study:** develop vehicle-audio case studies and portfolio work that apply my existing foundations in [measurement](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Impulse-Response-and-Audio-Systems-Analysis/README.md), [spatial audio](Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/README.md), localization, system tuning, and DSP to the in-cabin environment.
+- **Active study and opportunity development — Broader acoustics experience:** study material relevant to acoustics and electroacoustics while pursuing part-time applied work in acoustical consulting, measurement, testing, or related technical roles—and remain open to broader responsibility if the opportunity develops.
+- **Active — DSP and software expansion:** continue developing the [Python Audio File Report](https://github.com/kevinworleymusic-afk/audio-file-report) and my [MATLAB audio-DSP portfolio](Projects/Coding-and-Audio-Software/MATLAB-Projects/) to strengthen analysis, automation, validation, and implementation skills.
 
 The curriculum begins with [Sound, Levels, and Engineering Reasoning](curriculum/module-01/README.md) and uses a [reusable module structure](curriculum/module-template/README.md) for technical study, exercises, case studies, and documented evidence. The goal is practical competency: explain the principles, solve the problems, perform the analysis, defend engineering decisions, and communicate results professionally.
