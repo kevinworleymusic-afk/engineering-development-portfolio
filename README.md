@@ -87,7 +87,7 @@ This experience provided a foundational understanding of how acoustic energy, me
 
 ## Career Direction and Development Mission
 
-I earned a **Master of Science in Audio Engineering Technology from Belmont University** and also provided session support for music recorded for **EA Sports College Football 25**.
+I earned a **Master of Science in Audio Engineering Technology from Belmont University** and also provided session support for music recorded for [**EA Sports College Football 25**](https://timpaulmusic.com/).
 
 My immediate goal is an entry-level **acoustical consultant** position where I can develop professional experience in room acoustics, noise control, sound isolation, measurement, electroacoustic systems, modeling, reporting, and client-centered problem solving.
 
