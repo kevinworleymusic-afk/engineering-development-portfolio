@@ -8,7 +8,7 @@ My near-term direction is to deepen my [**knowledge and applied experience in ac
 
 ## Academic and Publication Status
 
-The studies, reports, papers, and presentations presented as my own work in this portfolio are **academic, independent-study, classroom, or portfolio projects—not peer-reviewed or formally published research**. I did, however, participate as a **listener—not an author or co-author—in several Belmont auditory-perception studies that were subsequently published through the Audio Engineering Society**. Those published-study participation credits are identified separately from my unpublished projects.
+The studies, reports, papers, and presentations presented as my own work in this portfolio are **academic, independent-study, classroom, or portfolio projects—not peer-reviewed or formally published research**. I did, however, participate as a [**listener—not an author or co-author—in several Belmont auditory-perception studies that were subsequently published through the Audio Engineering Society**](#critical-listening-and-immersive-experience). Those [published-study participation credits](#critical-listening-and-immersive-experience) are identified separately from my unpublished projects and link directly to the published AES papers.
 
 ## Major Technical-Audio and Applied-Engineering Projects
 
