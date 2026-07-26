@@ -4,7 +4,7 @@ Master’s-trained technical audio engineer developing applied experience across
 
 That professional studio experience shaped how I approach sound, signal flow, collaboration, system performance, and the practical needs behind engineering decisions. This portfolio shows how I am extending that foundation through **applied technical-audio projects, audio measurement, immersive recording, critical-listening work, technical software development, and digital signal processing**.
 
-My near-term direction is **acoustical consulting**, building toward broader work in **electroacoustics, advanced audio systems, and audio DSP/software**.
+My near-term direction is **acoustical consulting**, building toward broader work in **electroacoustics, advanced audio automobile systems, and audio DSP/software**.
 
 ## Major Technical-Audio and Applied-Engineering Projects
 
