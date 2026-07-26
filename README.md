@@ -6,6 +6,8 @@ That professional studio experience shaped how I approach sound, signal flow, co
 
 My near-term direction is to deepen my [**knowledge and applied experience in acoustics**](SYLLABUS.md), building toward broader work in [**electroacoustics**](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Impulse-Response-and-Audio-Systems-Analysis/README.md), [**advanced automotive audio systems**](#career-direction-and-development-mission), and [**audio DSP/software**](#audio-dsp-and-software).
 
+**Navigate:** [Portfolio map](#portfolio-ecosystem) · [Technical projects](#major-technical-audio-and-applied-engineering-projects) · [Performance and education](#music-performance-and-education-foundation) · [Critical listening](#critical-listening-and-immersive-experience) · [DSP and software](#audio-dsp-and-software) · [Evidence](#technical-evidence-at-a-glance) · [Technical foundations](#additional-technical-foundations) · [Development direction](#career-direction-and-development-mission)
+
 ## Academic and Publication Status
 
 The studies, reports, papers, and presentations presented as my own work in this portfolio are **academic, independent-study, classroom, or portfolio projects—not peer-reviewed or formally published research**. I did, however, participate as a [**listener—not an author or co-author—in several Belmont auditory-perception studies that were subsequently published through the Audio Engineering Society**](#critical-listening-and-immersive-experience). Those [published-study participation credits](#critical-listening-and-immersive-experience) are identified separately from my unpublished projects and link directly to the published AES papers.
