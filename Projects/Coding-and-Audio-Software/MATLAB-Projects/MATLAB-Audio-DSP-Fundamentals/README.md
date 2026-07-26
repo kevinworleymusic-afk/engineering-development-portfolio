@@ -1,6 +1,6 @@
 # MATLAB Project — Audio DSP Fundamentals
 
-## Project type
+## Project Type
 
 MATLAB audio-software and digital signal processing project completed by Kevin Worley for AET 5420 Audio Signal Processing at Belmont University.
 
