@@ -28,6 +28,12 @@ Explored a 2L Cube-inspired microphone approach for stable, natural 7.1.4 reprod
 
 Designed an unpublished controlled-listening study comparing trained listeners' frequency-boost identification over loudspeakers and headphones. Review the [experimental design and limitations](Projects/Technical-Audio-and-Research/Loudspeaker-vs-Headphone-Frequency-Boost-Identification/README.md), [paper and presentations](Projects/Technical-Audio-and-Research/Loudspeaker-vs-Headphone-Frequency-Boost-Identification/deliverables/), [data workbook and randomized trial order](Projects/Technical-Audio-and-Research/Loudspeaker-vs-Headphone-Frequency-Boost-Identification/data/), [experiment syllabus and Logic Pro materials](Projects/Technical-Audio-and-Research/Loudspeaker-vs-Headphone-Frequency-Boost-Identification/experiment-materials/), and [planning documentation](Projects/Technical-Audio-and-Research/Loudspeaker-vs-Headphone-Frequency-Boost-Identification/planning-and-documentation/).
 
+## Music Performance and Education Foundation
+
+My undergraduate background at Kennesaw State University combined music performance, ensemble work, jazz study under Sam Skelton, Tyrone Jackson, and Trey Wright, and music-education preparation. I student taught and received mentorship under Dr. Robert Grogan and Bradley Rikard, with foundational pedagogy from Dr. Charles Jackson, Dr. Allison Mann, Dr. Debra Traficante, and others.
+
+That experience supports practical listening for pitch, rhythm, harmony, timbre, balance, ensemble interaction, and diagnosing musical problems clearly enough to communicate and teach them. Additional context and linked references are included in [Prior Listening and Ear-Training Experience](https://github.com/kevinworleymusic-afk/technical-ear-training/blob/main/PRIOR_EXPERIENCE.md).
+
 ## Critical Listening and Immersive Experience
 
 My [Technical Ear Training repository](https://github.com/kevinworleymusic-afk/technical-ear-training) documents repeatable software exercises, progress tracking, and my prior foundation in music performance, music education, graduate audio engineering, professional studios, and controlled listening. The full linked background is available in [Prior Listening and Ear-Training Experience](https://github.com/kevinworleymusic-afk/technical-ear-training/blob/main/PRIOR_EXPERIENCE.md).
