@@ -6,6 +6,10 @@ That professional studio experience shaped how I approach sound, signal flow, co
 
 My near-term direction is **acoustical consulting**, building toward broader work in **electroacoustics, advanced audio automobile systems, and audio DSP/software**.
 
+## Academic and Publication Status
+
+The studies, reports, papers, presentations, and listening exercises presented as my work in this portfolio are **academic, independent-study, classroom, or portfolio projects—not peer-reviewed or formally published research**. Links to journal articles, AES papers, or other publications identify outside sources or related work and do not imply that my projects, data, or research participation were included in those publications.
+
 ## Major Technical-Audio and Applied-Engineering Projects
 
 ### [Apartment/Home-Studio Room Impulse-Response and Audio Systems Analysis](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Impulse-Response-and-Audio-Systems-Analysis/README.md)
