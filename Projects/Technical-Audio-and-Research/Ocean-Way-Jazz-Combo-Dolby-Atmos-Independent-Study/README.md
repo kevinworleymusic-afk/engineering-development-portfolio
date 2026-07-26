@@ -4,6 +4,10 @@
 
 Collaborative immersive-audio recording and mixing research project conducted in the historic Ocean Way Nashville Studio A.
 
+## Publication status
+
+This was an **unpublished graduate independent study and recording project**. It was not peer-reviewed or published as an academic paper, and no linked outside research should be read as containing this project's data or recordings.
+
 ## Objective
 
 Investigate the practical application of a 2L Cube-inspired immersive microphone array for Dolby Atmos music recording.
