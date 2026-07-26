@@ -56,12 +56,12 @@ The original implementations are preserved alongside documented limitations and 
 
 | Area | Evidence |
 |---|---|
-| Audio measurement | Room-response capture, loudspeaker-to-microphone testing, Audio Precision measurements, and system validation |
-| Acoustics and critical listening | Impulse responses, acoustic-response analysis, controlled listening tests, and monitoring comparisons |
-| Immersive audio | Dolby Atmos research, 7.1.4 routing, microphone-array planning, and height-channel capture |
-| Programming | A maintained Python application and multiple MATLAB audio-analysis projects |
-| Engineering communication | Papers, methods, results, limitations, presentations, and organized project archives |
-| Digital signal processing | Filtering, FFT analysis, convolution, delay, distortion, THD, and mid-side processing |
+| Audio measurement | [Room-response capture and analysis](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Impulse-Response-and-Audio-Systems-Analysis/README.md), loudspeaker-to-microphone testing, and [Audio Precision system validation](Projects/Technical-Audio-and-Research/Studer-A80-vs-A800-Plugin-Validation-Study/README.md) |
+| Acoustics and critical listening | [Impulse-response and acoustic-response analysis](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Impulse-Response-and-Audio-Systems-Analysis/README.md), [controlled listening tests](Projects/Technical-Audio-and-Research/Loudspeaker-vs-Headphone-Frequency-Boost-Identification/README.md), and [documented ear-training experience](https://github.com/kevinworleymusic-afk/technical-ear-training/blob/main/PRIOR_EXPERIENCE.md) |
+| Immersive audio | [Dolby Atmos independent study](Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/README.md), [7.1.4 session layout](Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/Session-Layout.pdf), microphone-array planning, and height-channel capture |
+| Programming | A maintained [Python audio application](https://github.com/kevinworleymusic-afk/audio-file-report) and documented [MATLAB audio-analysis projects](Projects/Coding-and-Audio-Software/MATLAB-Projects/) |
+| Engineering communication | [Methods](Projects/Technical-Audio-and-Research/Studer-A80-vs-A800-Plugin-Validation-Study/TEST-METHODOLOGY.md), [results](Projects/Technical-Audio-and-Research/Studer-A80-vs-A800-Plugin-Validation-Study/RESULTS-SUMMARY.md), [limitations](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Impulse-Response-and-Audio-Systems-Analysis/RESULTS-AND-LIMITATIONS.md), presentations, and organized project archives |
+| Digital signal processing | [Filtering and DSP fundamentals](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Audio-DSP-Fundamentals/README.md), [FFT analysis and convolution](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Convolution-and-Tempo-Synchronized-Delay/README.md), and [distortion, THD, and mid-side processing](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Nonlinear-Distortion-and-Mid-Side-Processing/README.md) |
 
 ## Additional Technical Foundations
 
