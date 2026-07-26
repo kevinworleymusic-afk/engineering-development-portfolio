@@ -69,17 +69,17 @@ The original implementations are preserved alongside documented limitations and 
 
 Received introductory instruction from **[Mike Porter](https://www.namm.org/library/oral-history/mike-porter/) at Belmont University**, a longtime Nashville audio professional and studio-facilities specialist, in studio-equipment operation and service, including voltage, current, resistance, electronic components, analog audio signal flow, transducer principles, and the operation of dynamic, condenser, and ribbon microphones. The study also covered test equipment, signal tracing, common equipment faults, electrical safety, cable and component repair, and introductory soldering.
 
-This experience provided a foundational understanding of how acoustic energy, mechanical movement, and electrical signals interact within microphones and other audio systems. It supports my continuing development in electroacoustics, audio-system measurement, hardware/software validation, and technical troubleshooting.
+This experience provided a foundational understanding of how acoustic energy, mechanical movement, and electrical signals interact within microphones and other audio systems. It supports my continuing development in electroacoustics, [audio-system measurement](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Impulse-Response-and-Audio-Systems-Analysis/README.md), [hardware/software validation](Projects/Technical-Audio-and-Research/Studer-A80-vs-A800-Plugin-Validation-Study/README.md), and technical troubleshooting.
 
 ## Career Direction and Development Mission
 
-I earned a **Master of Science in Audio Engineering Technology from Belmont University** and also provided session support for music recorded for [**EA Sports College Football 25**](https://timpaulmusic.com/).
+I earned a [**Master of Science in Audio Engineering from Belmont University**](https://www.belmont.edu/academics/majors-programs/ms-audio-engineering/) and also provided session support for music recorded for [**EA Sports College Football 25**](https://timpaulmusic.com/).
 
 My immediate goal is an entry-level **acoustical consultant** position where I can develop professional experience in room acoustics, noise control, sound isolation, measurement, electroacoustic systems, modeling, reporting, and client-centered problem solving.
 
-Over time, I want to combine that consulting foundation with my experience in audio measurement, system validation, critical listening, immersive and spatial audio, DSP/software, and professional recording environments to pursue **automotive audio, with a particular interest in in-cabin spatial and immersive-audio systems**.
+Over time, I want to combine that consulting foundation with my experience in [audio measurement](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Impulse-Response-and-Audio-Systems-Analysis/README.md), [system validation](Projects/Technical-Audio-and-Research/Studer-A80-vs-A800-Plugin-Validation-Study/README.md), [critical listening](https://github.com/kevinworleymusic-afk/technical-ear-training/blob/main/PRIOR_EXPERIENCE.md), [immersive and spatial audio](Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/README.md), and [DSP/software](https://github.com/kevinworleymusic-afk/audio-file-report) to pursue **automotive audio, with a particular interest in in-cabin spatial and immersive-audio systems**.
 
-To position myself for these paths, I am completing a competency-based engineering curriculum covering mathematics, acoustics, measurement, programming, technical reporting, case studies, and DSP.
+To position myself for these paths, I am completing a [competency-based engineering curriculum](SYLLABUS.md) covering mathematics, acoustics, measurement, programming, technical reporting, case studies, and DSP.
 
 - [Program syllabus](SYLLABUS.md)
 - [Module 01: Sound, Levels, and Engineering Reasoning](curriculum/module-01/README.md)
