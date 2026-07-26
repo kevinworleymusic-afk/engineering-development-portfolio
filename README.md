@@ -14,43 +14,19 @@ The studies, reports, papers, and presentations presented as my own work in this
 
 ### [Apartment/Home-Studio Room Impulse-Response and Audio Systems Analysis](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Impulse-Response-and-Audio-Systems-Analysis/README.md)
 
-A collaborative room-measurement project completed with Justin Roberts. A MATLAB-generated sweep was reproduced through a Yamaha HS8 and captured approximately six feet away with a Rode NT1 through a MOTU/Pro Tools signal path.
-
-The response was analyzed in MATLAB using impulse-response estimation, FFT/IFFT processing, frequency-response inspection, convolution, and null comparison. The broader experiment also examined Pro Tools processing and a Pultec EQP-1A hardware equalizer.
-
-**Evidence:** Original 19-page report, room-capture methodology, equipment and signal-path documentation, MATLAB analysis, limitations, debugging, and recommendations for improving calibration, alignment, deconvolution, and repeatability.
-
-**Relevance:** Direct early experience with room-response capture, acoustic measurement, loudspeaker-to-microphone testing, and translating a physical space into data.
+Captured a Yamaha HS8-to-Rode NT1 room response and analyzed it in MATLAB using impulse-response estimation, FFT/IFFT processing, convolution, and null comparison. The project documents early experience with acoustic measurement, system analysis, limitations, and improved test methodology.
 
 ### [Studer A80 vs. A800 Plug-In Validation Study](Projects/Technical-Audio-and-Research/Studer-A80-vs-A800-Plugin-Validation-Study/README.md)
 
-A laboratory study evaluating how accurately the Universal Audio Studer A800 plug-in reproduced the measurable behavior of a Studer A80 RC MkII analog tape recorder.
-
-The experiment used an **Audio Precision SYS 2522** to generate signals and measure frequency response, signal-to-noise ratio, and THD+N. The A80 was calibrated at 15 and 30 IPS with an MRL calibration tape, and its record head was aligned to 520 nWb/m. Hardware and plug-in measurements were compared in input, 15 IPS, and 30 IPS modes.
-
-Results included close input-mode agreement, matching 0.26% THD+N at 15 IPS, a 7.5 dB SNR difference at 15 IPS, and a 30 IPS THD+N difference of 0.20% for the hardware versus 0.54% for the plug-in.
-
-**Evidence:** Complete technical paper, methodology, numerical results, interpretation, limitations, lessons learned, and future validation work.
-
-**Relevance:** Audio Precision operation, calibration, product benchmarking, frequency-response measurement, distortion analysis, and hardware/software validation applicable to electroacoustics, loudspeaker testing, automotive-audio validation, and quality assurance.
+Used an Audio Precision SYS 2522 to compare a Studer A80 tape recorder with the Universal Audio A800 plug-in through frequency-response, SNR, and THD+N testing at 15 and 30 IPS. See the detailed [methodology](Projects/Technical-Audio-and-Research/Studer-A80-vs-A800-Plugin-Validation-Study/TEST-METHODOLOGY.md), [results](Projects/Technical-Audio-and-Research/Studer-A80-vs-A800-Plugin-Validation-Study/RESULTS-SUMMARY.md), and [lessons learned](Projects/Technical-Audio-and-Research/Studer-A80-vs-A800-Plugin-Validation-Study/LESSONS-LEARNED.md).
 
 ### [Ocean Way Jazz Combo: Dolby Atmos Recording Independent Study](Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/README.md)
 
-A collaborative immersive-audio study conducted in Ocean Way Nashville Studio A. The project investigated how a 2L Cube-inspired microphone array could capture a jazz combo and string ensemble for stable, natural **7.1.4 Dolby Atmos** reproduction.
-
-Seven horizontal and four height positions were routed toward corresponding playback locations, with the LFE path handled separately. Performer placement, array geometry, Studio A’s acoustics, spot microphones, direct inputs, and fixed routing established the immersive image primarily during recording rather than through extensive movement automation.
-
-**Evidence:** Two surviving Pro Tools sessions, front/rear/height routing groups, eleven full-range output positions, a synchronized 48 kHz/24-bit height-channel export, recording methodology, immersive workflow, session evidence, and documented limitations.
-
-**Direction:** This project established my continuing interest in Dolby Atmos, multichannel reproduction, spatial perception, loudspeaker integration, and system tuning. I ultimately want to apply that foundation within automotive audio, particularly in-cabin spatial and immersive-audio systems.
+Explored a 2L Cube-inspired microphone approach for stable, natural 7.1.4 reproduction of a jazz combo and strings in Ocean Way Nashville Studio A. The full project page documents the recording method, routing, surviving Pro Tools evidence, limitations, and [session layout](Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/Session-Layout.pdf).
 
 ### [Loudspeaker vs. Headphone Frequency-Boost Identification Study](Projects/Technical-Audio-and-Research/Loudspeaker-vs-Headphone-Frequency-Boost-Identification/README.md)
 
-A controlled critical-listening study investigating whether trained listeners identify boosted frequency bands more accurately over loudspeakers or headphones.
-
-The design involved 14 trained listeners, two monitoring conditions, 45 trials per condition, 90 responses per participant, and 1,260 response points overall. It included five frequency regions, counterbalanced test order, custom Logic Pro stimuli, randomized trials, and planned ANOVA and paired-sample t-test analysis.
-
-**Evidence:** Research paper, two presentations, analysis workbook, randomized trial order, experiment syllabus, Logic Pro stimulus session, citations, specifications, and development records.
+Designed an unpublished controlled-listening study comparing trained listeners' frequency-boost identification over loudspeakers and headphones. The project page links the experimental design, paper, presentations, trial materials, data workbook, and analysis limitations.
 
 ## Critical Listening and Immersive Experience
 
