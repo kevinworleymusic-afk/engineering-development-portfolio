@@ -1,10 +1,10 @@
 # Objective Validation of a Studer A80 Tape Machine and Studer A800 Plug-In
 
-## Project type
+## Project Type
 
 Graduate independent-study research project presented as an engineering validation case study.
 
-## Publication status
+## Publication Status
 
 This was an **unpublished graduate independent-study project**. Its technical paper is a course report preserved as portfolio evidence, not a peer-reviewed journal or conference publication.
 
