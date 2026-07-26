@@ -4,6 +4,10 @@
 
 Graduate independent-study research project presented as an engineering validation case study.
 
+## Publication status
+
+This was an **unpublished graduate independent-study project**. Its technical paper is a course report preserved as portfolio evidence, not a peer-reviewed journal or conference publication.
+
 ## Academic and professional context
 
 The study was completed under the guidance of **Michael Janas at Belmont University**, an experienced recording engineer and former vice president of The Castle Recording Studio whose professional background includes analog recording and studio operations.
