@@ -14,7 +14,7 @@ The studies, reports, papers, and presentations presented as my own work in this
 
 ### [Apartment/Home-Studio Room Impulse-Response and Audio Systems Analysis](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Impulse-Response-and-Audio-Systems-Analysis/README.md)
 
-Captured a Yamaha HS8-to-Rode NT1 room response and analyzed it in MATLAB using impulse-response estimation, FFT/IFFT processing, convolution, and null comparison. The project documents early experience with acoustic measurement, system analysis, limitations, and improved test methodology.
+Captured a Yamaha HS8-to-Rode NT1 room response and analyzed it in MATLAB using impulse-response estimation, FFT/IFFT processing, convolution, and null comparison. See the [project summary](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Impulse-Response-and-Audio-Systems-Analysis/PROJECT-SUMMARY.md), [methodology](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Impulse-Response-and-Audio-Systems-Analysis/METHODOLOGY.md), [MATLAB analysis](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Impulse-Response-and-Audio-Systems-Analysis/MATLAB-ANALYSIS.md), [results and limitations](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Impulse-Response-and-Audio-Systems-Analysis/RESULTS-AND-LIMITATIONS.md), and [future work](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Impulse-Response-and-Audio-Systems-Analysis/FUTURE-WORK.md).
 
 ### [Studer A80 vs. A800 Plug-In Validation Study](Projects/Technical-Audio-and-Research/Studer-A80-vs-A800-Plugin-Validation-Study/README.md)
 
@@ -22,11 +22,11 @@ Used an Audio Precision SYS 2522 to compare a Studer A80 tape recorder with the 
 
 ### [Ocean Way Jazz Combo: Dolby Atmos Recording Independent Study](Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/README.md)
 
-Explored a 2L Cube-inspired microphone approach for stable, natural 7.1.4 reproduction of a jazz combo and strings in Ocean Way Nashville Studio A. The full project page documents the recording method, routing, surviving Pro Tools evidence, limitations, and [session layout](Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/Session-Layout.pdf).
+Explored a 2L Cube-inspired microphone approach for stable, natural 7.1.4 reproduction of a jazz combo and strings in Ocean Way Nashville Studio A. Review the documented [recording approach](Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/README.md#recording-approach), [session layout](Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/Session-Layout.pdf), [surviving session evidence](Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/README.md#surviving-sessions), and [documentation limitations](Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/README.md#documentation-status).
 
 ### [Loudspeaker vs. Headphone Frequency-Boost Identification Study](Projects/Technical-Audio-and-Research/Loudspeaker-vs-Headphone-Frequency-Boost-Identification/README.md)
 
-Designed an unpublished controlled-listening study comparing trained listeners' frequency-boost identification over loudspeakers and headphones. The project page links the experimental design, paper, presentations, trial materials, data workbook, and analysis limitations.
+Designed an unpublished controlled-listening study comparing trained listeners' frequency-boost identification over loudspeakers and headphones. Review the [experimental design and limitations](Projects/Technical-Audio-and-Research/Loudspeaker-vs-Headphone-Frequency-Boost-Identification/README.md), [paper and presentations](Projects/Technical-Audio-and-Research/Loudspeaker-vs-Headphone-Frequency-Boost-Identification/deliverables/), [data workbook and randomized trial order](Projects/Technical-Audio-and-Research/Loudspeaker-vs-Headphone-Frequency-Boost-Identification/data/), [experiment syllabus and Logic Pro materials](Projects/Technical-Audio-and-Research/Loudspeaker-vs-Headphone-Frequency-Boost-Identification/experiment-materials/), and [planning documentation](Projects/Technical-Audio-and-Research/Loudspeaker-vs-Headphone-Frequency-Boost-Identification/planning-and-documentation/).
 
 ## Critical Listening and Immersive Experience
 
