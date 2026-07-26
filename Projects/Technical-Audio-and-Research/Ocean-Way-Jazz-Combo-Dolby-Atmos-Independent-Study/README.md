@@ -1,10 +1,10 @@
 # Ocean Way Jazz Combo: Dolby Atmos Recording Independent Study
 
-## Project type
+## Project Type
 
 Collaborative immersive-audio recording and mixing research project conducted in the historic Ocean Way Nashville Studio A.
 
-## Publication status
+## Publication Status
 
 This was an **unpublished graduate independent study and recording project**. It was not peer-reviewed or published as an academic paper, and no linked outside research should be read as containing this project's data or recordings.
 
