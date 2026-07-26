@@ -38,9 +38,9 @@ Relevant experience includes professional work at [Ocean Way Nashville](https://
 
 ### Flagship Python Project: [Audio File Report](https://github.com/kevinworleymusic-afk/audio-file-report)
 
-A developing command-line audio-analysis application—not a single programming exercise. The current 0.2.0 release validates WAV files, reports metadata in multiple display modes, generates left/right FFT spectrum plots, supports interactive or saved output, records diagnostics, and conservatively detects corrupted files.
+A developing Python command-line application that validates WAV files, reports metadata, generates left/right FFT spectrum plots, supports interactive or saved output, records diagnostics, and conservatively detects corrupted files.
 
-The repository demonstrates Python packaging, CLI and argument design, WAV and path validation, NumPy FFT processing, Matplotlib visualization, error handling, automated regression testing, versioned development tracks, user documentation, and a roadmap through dynamics, spectral, spatial, quality-control, and reporting features.
+Review the [setup guide](https://github.com/kevinworleymusic-afk/audio-file-report/blob/main/docs/reference/SETUP.md), [user manual](https://github.com/kevinworleymusic-afk/audio-file-report/blob/main/docs/reference/USER_MANUAL.md), [active application package](https://github.com/kevinworleymusic-afk/audio-file-report/tree/main/src/audio_file_report/v020_reliable_cli_file_handling), [automated tests](https://github.com/kevinworleymusic-afk/audio-file-report/tree/main/tests), [development plan](https://github.com/kevinworleymusic-afk/audio-file-report/blob/main/docs/reference/DEVELOPMENT_PLAN.md), and [product differentiation](https://github.com/kevinworleymusic-afk/audio-file-report/blob/main/docs/product/PRODUCT_DIFFERENTIATION.md).
 
 ### MATLAB Portfolio
 
