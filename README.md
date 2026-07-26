@@ -79,10 +79,11 @@ My immediate goal is an entry-level **acoustical consultant** position where I c
 
 Over time, I want to combine that consulting foundation with my experience in [audio measurement](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Impulse-Response-and-Audio-Systems-Analysis/README.md), [system validation](Projects/Technical-Audio-and-Research/Studer-A80-vs-A800-Plugin-Validation-Study/README.md), [critical listening](https://github.com/kevinworleymusic-afk/technical-ear-training/blob/main/PRIOR_EXPERIENCE.md), [immersive and spatial audio](Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/README.md), and [DSP/software](https://github.com/kevinworleymusic-afk/audio-file-report) to pursue **automotive audio, with a particular interest in in-cabin spatial and immersive-audio systems**.
 
-To position myself for these paths, I am completing a [competency-based engineering curriculum](SYLLABUS.md) covering mathematics, acoustics, measurement, programming, technical reporting, case studies, and DSP.
+To position myself for these paths, I am pursuing a [competency-based engineering-development program](SYLLABUS.md) through four connected tracks:
 
-- [Program syllabus](SYLLABUS.md)
-- [Module 01: Sound, Levels, and Engineering Reasoning](curriculum/module-01/README.md)
-- [Reusable module template](curriculum/module-template/README.md)
+- **Critical listening:** continue structured [technical ear training](https://github.com/kevinworleymusic-afk/technical-ear-training) and document progress from my [existing listening foundation](https://github.com/kevinworleymusic-afk/technical-ear-training/blob/main/PRIOR_EXPERIENCE.md).
+- **Automotive-specific study:** develop vehicle-audio case studies and portfolio work that apply my existing foundations in [measurement](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Impulse-Response-and-Audio-Systems-Analysis/README.md), [spatial audio](Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/README.md), localization, system tuning, and DSP to the in-cabin environment.
+- **Broader acoustics experience:** study material relevant to acoustics and electroacoustics while pursuing part-time or entry-level applied experience in acoustical consulting, measurement, testing, or related technical roles.
+- **DSP and software expansion:** continue developing the [Python Audio File Report](https://github.com/kevinworleymusic-afk/audio-file-report) and my [MATLAB audio-DSP portfolio](Projects/Coding-and-Audio-Software/MATLAB-Projects/) to strengthen analysis, automation, validation, and implementation skills.
 
-The goal is practical competency: explain the principles, solve the problems, perform the analysis, defend the engineering decisions, and communicate the results professionally.
+The curriculum begins with [Sound, Levels, and Engineering Reasoning](curriculum/module-01/README.md) and uses a [reusable module structure](curriculum/module-template/README.md) for technical study, exercises, case studies, and documented evidence. The goal is practical competency: explain the principles, solve the problems, perform the analysis, defend engineering decisions, and communicate results professionally.
