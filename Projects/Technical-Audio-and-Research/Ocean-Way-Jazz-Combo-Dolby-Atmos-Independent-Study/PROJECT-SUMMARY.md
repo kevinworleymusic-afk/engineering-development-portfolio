@@ -1,6 +1,6 @@
 # Ocean Way Jazz Combo: Dolby Atmos Recording Independent Study
 
-## Project overview
+## Project Overview
 
 This collaborative independent study investigated the use of a 2L Cube-inspired microphone array for immersive music recording in a 7.1.4 Dolby Atmos configuration.
 
