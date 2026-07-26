@@ -2,6 +2,10 @@
 
 An experimental audio-engineering research project examining whether trained listeners identify boosted frequency bands more accurately over studio loudspeakers or headphones.
 
+## Publication status
+
+This was an **unpublished graduate academic project**. The paper, presentations, data, and listening-test materials in this repository were not peer-reviewed or published as a journal or conference study.
+
 ## Research Question
 
 In which monitoring environment can trained listeners more accurately identify frequency boosts: an industry-standard loudspeaker system or industry-standard studio headphones?
