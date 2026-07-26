@@ -6,7 +6,7 @@ That professional studio experience shaped how I approach sound, signal flow, co
 
 My near-term direction is to deepen my [**knowledge and applied experience in acoustics**](SYLLABUS.md), building toward broader work in [**electroacoustics**](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Impulse-Response-and-Audio-Systems-Analysis/README.md), [**advanced automotive audio systems**](#career-direction-and-development-mission), and [**audio DSP/software**](#audio-dsp-and-software).
 
-**Navigate:** [Portfolio map](#portfolio-ecosystem) · [Technical projects](#major-technical-audio-and-applied-engineering-projects) · [Performance and education](#music-performance-and-education-foundation) · [Critical listening](#critical-listening-and-immersive-experience) · [DSP and software](#audio-dsp-and-software) · [Evidence](#technical-evidence-at-a-glance) · [Technical foundations](#additional-technical-foundations) · [Development direction](#career-direction-and-development-mission)
+**Navigate:** [Portfolio map](#portfolio-ecosystem) · [Technical projects](#major-technical-audio-and-applied-engineering-projects) · [Music performance & music education background](#music-performance-and-education-foundation) · [Critical listening](#critical-listening-and-immersive-experience) · [DSP and software](#audio-dsp-and-software) · [Evidence](#technical-evidence-at-a-glance) · [Technical foundations](#additional-technical-foundations) · [Development direction](#career-direction-and-development-mission)
 
 ## Academic and Publication Status
 
