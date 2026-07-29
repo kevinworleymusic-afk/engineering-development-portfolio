@@ -10,6 +10,8 @@ This folder contains public portfolio copies of documents supporting Kevin Worle
 - [Recommendation from Sam Skelton](Recommendation-Sam-Skelton-Public.pdf) — musicianship, education, trustworthiness, and use of teaching skills while supporting students at Ocean Way Nashville
 - [Recommendation from Kathy Ratcliffe](Recommendation-Kathy-Ratcliffe-Public.pdf) — responsibility, punctuality, logical decision-making, teamwork, professionalism, and firm leadership with students
 
+- [Recommendation from Dr. Alison Mann](Recommendation-Alison-Mann-Public.pdf) — dual-degree completion, Magna Cum Laude achievement, inclusive teaching, adaptability across music and special-education settings, Barber Middle School student teaching, instrumental versatility, collaboration, and positive leadership
+
 ## Scope and Privacy
 
 The recommendations were written primarily for education or substitute-teaching contexts. They are presented as evidence of transferable professional qualities rather than engineering-specific endorsements.
