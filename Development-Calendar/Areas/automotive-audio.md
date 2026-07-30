@@ -1,30 +1,20 @@
-# Automotive-Audio Development Calendar
+# Automotive-Audio Calendar Gateway
 
-[Master calendar](../README.md) · [Automotive portfolio section](../../README.md#automotive-audio-and-applied-acoustics-development)
+[Master calendar](../README.md) · [Open the full Automotive-Audio Calendar](../Calendars/automotive-audio.md)
 
-## July 2026
+The detailed automotive calendar remains within the Engineering Development Portfolio and links outward to the Capture-to-Reproduction repository for project plans, implementation evidence, and status boundaries.
 
-| **Monday** | **Tuesday** | **Wednesday** | **Thursday** | **Friday** | **Saturday** | **Sunday** |
-|---|---|---|---|---|---|---|
-| — | — | **1** | **2** | **3** | **4** | **5** |
-| **6** | **7** | **8** | **9** | **10** | **11** | **12** |
-| **13** | **14** | **15** | **16** | **17** | **18** | **19** |
-| **20** | **21** | **22** | [**23**](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/01_Real-Time_DSP_Prototype_in_Pure_Data.md)<br>Reproduction sequence | [**24**](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/Future-Projects/02_Automotive_Audio_Implementation_Roadmap.md)<br>Implementation roadmap | [**25**](../../README.md#career-direction-and-development-mission)<br>Career focus | **26** |
-| **27** | **28** | **29** | **30** | **31** | — | — |
+## Calendar Flow
 
-## August 2026
+1. Set the week's automotive-audio processes in the [Automotive-Audio Calendar](../Calendars/automotive-audio.md).
+2. Populate scheduled dates with the detailed objectives, constraints, and intended evidence.
+3. Add only a short linked Automotive Audio entry to each applicable day on the [master calendar](../README.md).
+4. Link completed days to the relevant project document or evidence.
 
-| **Monday** | **Tuesday** | **Wednesday** | **Thursday** | **Friday** | **Saturday** | **Sunday** |
-|---|---|---|---|---|---|---|
-| — | — | — | — | — | [**1**](../2026-08.md#august-1-2) | [**2**](../2026-08.md#august-1-2) |
-| [**3**](../2026-08.md#august-3-9) | [**4**](../2026-08.md#august-3-9) | [**5**](../2026-08.md#august-3-9) | [**6**](../2026-08.md#august-3-9) | [**7**](../2026-08.md#august-3-9) | [**8**](../2026-08.md#august-3-9) | [**9**](../2026-08.md#august-3-9) |
-| [**10**](../2026-08.md#august-10-16) | [**11**](../2026-08.md#august-10-16) | [**12**](../2026-08.md#august-10-16) | [**13**](../2026-08.md#august-10-16) | [**14**](../2026-08.md#august-10-16) | [**15**](../2026-08.md#august-10-16) | [**16**](../2026-08.md#august-10-16) |
-| [**17**](../2026-08.md#august-17-23) | [**18**](../2026-08.md#august-17-23) | [**19**](../2026-08.md#august-17-23) | [**20**](../2026-08.md#august-17-23) | [**21**](../2026-08.md#august-17-23) | [**22**](../2026-08.md#august-17-23) | [**23**](../2026-08.md#august-17-23) |
-| [**24**](../2026-08.md#august-24-30) | [**25**](../2026-08.md#august-24-30) | [**26**](../2026-08.md#august-24-30) | [**27**](../2026-08.md#august-24-30) | [**28**](../2026-08.md#august-24-30) | [**29**](../2026-08.md#august-24-30) | [**30**](../2026-08.md#august-24-30) |
-| [**31**](../2026-08.md#august-31) | — | — | — | — | — | — |
+## Current Detailed Record
 
-No automotive tasks are assigned to the date cells yet. At the beginning of each week, populate only the scheduled days with a short process such as **architecture review**, **vehicle-study plan**, or **DSP-install research**. Detailed objectives and evidence stay on this page or in the [Capture-to-Reproduction repository](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study).
-
-## Status Boundary
-
-Vehicle studies, hardware extensions, and installation work remain planned, proposed, conditional, or access-dependent unless linked evidence shows completion.
+- [Full Automotive-Audio Calendar](../Calendars/automotive-audio.md)
+- [Automotive portfolio section](../../README.md#automotive-audio-and-applied-acoustics-development)
+- [Capture-to-Reproduction repository](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study)
+- [Automotive implementation roadmap](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/Future-Projects/02_Automotive_Audio_Implementation_Roadmap.md)
+- [Conditional installed-DSP plan](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/Future-Projects/04_Conditional_Car_DSP_Installation_and_Portfolio_Validation_Plan.md)
