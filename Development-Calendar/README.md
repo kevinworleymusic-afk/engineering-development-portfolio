@@ -24,7 +24,7 @@ At the beginning of each week, choose the processes or objectives for the releva
 
 Only scheduled categories appear on a given day. Multiple categories are separated into their own marked lines. The category opens its pathway, while completed work can link onward to the detailed calendar, daily log, or project evidence. Unplanned future dates remain date-only.
 
-Use the shared [monthly and weekly planning templates](Templates/) to turn broad pathway choices into dated objectives and evidence. Non-listening work is documented directly in its project, document, calendar, or contact record.
+Use the [populated pathway plans](Plans/) to review the objectives behind recorded calendar work, and the shared [monthly and weekly templates](Templates/) to plan future cycles. Non-listening evidence remains in its project, document, calendar, or contact record.
 
 <details>
 <summary><strong>July 2026 — Portfolio and Development-System Foundation</strong></summary>
