@@ -10,8 +10,7 @@ Select a category for its detailed development view:
 
 - [**Critical Listening**](Areas/critical-listening.md)
 - [**Automotive Audio**](Areas/automotive-audio.md)
-- [**DSP**](Areas/dsp.md)
-- [**Software Development**](Areas/software-development.md)
+- [**DSP & Software**](Areas/dsp-and-software.md)
 - [**Research & Technical Study**](Areas/research-and-technical-study.md)
 - [**Portfolio & Planning**](Areas/portfolio-and-planning.md)
 
@@ -32,8 +31,8 @@ Only scheduled categories appear on a given day. The linked category label opens
 |---|---|---|---|---|---|---|
 | — | — | **1** | **2** | **3** | **4** | **5** |
 | **6** | **7** | **8** | **9** | **10** | **11** | **12** |
-| **13** | **14** | **15** | **16** | **17** | [**18**](Areas/software-development.md)<br>**Software:** Python analyzer | [**19**](Areas/software-development.md)<br>**Software:** analysis workflow |
-| [**20**](Areas/software-development.md)<br>**Software:** documentation | [**21**](Areas/portfolio-and-planning.md)<br>**Portfolio & Planning:** central portfolio | [**22**](Areas/portfolio-and-planning.md)<br>**Portfolio & Planning:** evidence mapping | [**23**](Areas/dsp.md)<br>**DSP:** Pure Data prototype<br>[**Automotive:**](Areas/automotive-audio.md) reproduction sequence<br>[**Research:**](Areas/research-and-technical-study.md) study structure | [**24**](Areas/automotive-audio.md)<br>**Automotive:** implementation roadmap<br>[**Research:**](Areas/research-and-technical-study.md) staged study plan | [**25**](Areas/portfolio-and-planning.md)<br>**Portfolio & Planning:** development direction<br>[**Automotive:**](Areas/automotive-audio.md) career focus | [**26**](Areas/critical-listening.md)<br>**Critical Listening:** chapter structure |
+| **13** | **14** | **15** | **16** | **17** | [**18**](Areas/dsp-and-software.md)<br>**DSP & Software:** Python analyzer | [**19**](Areas/dsp-and-software.md)<br>**DSP & Software:** analysis workflow |
+| [**20**](Areas/dsp-and-software.md)<br>**DSP & Software:** documentation | [**21**](Areas/portfolio-and-planning.md)<br>**Portfolio & Planning:** central portfolio | [**22**](Areas/portfolio-and-planning.md)<br>**Portfolio & Planning:** evidence mapping | [**23**](Areas/dsp-and-software.md)<br>**DSP & Software:** Pure Data prototype<br>[**Automotive:**](Areas/automotive-audio.md) reproduction sequence<br>[**Research:**](Areas/research-and-technical-study.md) study structure | [**24**](Areas/automotive-audio.md)<br>**Automotive:** implementation roadmap<br>[**Research:**](Areas/research-and-technical-study.md) staged study plan | [**25**](Areas/portfolio-and-planning.md)<br>**Portfolio & Planning:** development direction<br>[**Automotive:**](Areas/automotive-audio.md) career focus | [**26**](Areas/critical-listening.md)<br>**Critical Listening:** chapter structure |
 | [**27**](Areas/critical-listening.md)<br>**Critical Listening:** baseline session<br>[**Portfolio & Planning:**](Areas/portfolio-and-planning.md) evidence link | [**28**](Areas/critical-listening.md)<br>**Critical Listening:** warmup design<br>[**Portfolio & Planning:**](Areas/portfolio-and-planning.md) daily process | [**29**](Areas/portfolio-and-planning.md)<br>**Portfolio & Planning:** weekly plan + diagnostic | [**30**](Areas/critical-listening.md)<br>**Critical Listening:** multi-band EQ session<br>[**Portfolio & Planning:**](Areas/portfolio-and-planning.md) master calendar | [**31**](Areas/portfolio-and-planning.md)<br>**Portfolio & Planning — planned:** calendar integration | — | — |
 
 ### Month Objective
@@ -83,7 +82,6 @@ Only scheduled categories appear on a given day. The linked category label opens
 - [All detailed calendars](Calendars/)
 - [Critical Listening](https://github.com/kevinworleymusic-afk/technical-ear-training/tree/main/calendar)
 - [Automotive Audio](Calendars/automotive-audio.md)
-- [DSP](Calendars/dsp.md)
-- [Software Development](Calendars/software-development.md)
+- [DSP & Software](Calendars/dsp-and-software.md)
 - [Research & Technical Study](Calendars/research-and-technical-study.md)
 - [Portfolio & Planning](Calendars/portfolio-and-planning.md)
