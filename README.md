@@ -8,6 +8,18 @@ Start with the [room-response analysis](Projects/Coding-and-Audio-Software/MATLA
 
 **Navigate:** [Master Development Calendar](Development-Calendar/) · [Portfolio Map](#portfolio-ecosystem) · [Technical Projects](#major-technical-audio-and-applied-engineering-projects) · [Music Performance & Music Education Background](#music-performance--music-education-background) · [Critical Listening](#critical-listening-and-immersive-experience) · [DSP & Software](#audio-dsp-and-software) · [Evidence](#technical-evidence-at-a-glance) · [Technical Foundations](#additional-technical-foundations) · [Development Direction](#career-direction-and-development-mission) · [Automotive Audio Development](#automotive-audio-and-applied-acoustics-development)
 
+## Development Calendar at a Glance
+
+This current-week snapshot shows how the portfolio is being developed across connected disciplines. **✓ Recorded · ◇ Planned**
+
+[🟦 **Listening**](Development-Calendar/Areas/critical-listening.md) · [🟧 **Automotive/Research**](Development-Calendar/Areas/automotive-audio.md) · [🟪 **DSP/Software**](Development-Calendar/Areas/dsp-and-software.md) · [🟩 **Planning**](Development-Calendar/Areas/portfolio-and-planning.md) · [🟨 **Networking/Consulting**](Development-Calendar/Areas/acoustical-consulting.md)
+
+| **Mon** | **Tue** | **Wed** | **Thu** | **Fri** | **Sat** | **Sun** |
+|---|---|---|---|---|---|---|
+| [**27**](Development-Calendar/README.md#july-2026)<br>🟦 ✓ Baseline<br>🟩 ✓ Evidence<br>🟧 ✓ Ideas | [**28**](Development-Calendar/README.md#july-2026)<br>🟦 ✓ Warmup<br>🟩 ✓ Daily<br>🟧 ✓ Sequence | [**29**](Development-Calendar/README.md#july-2026)<br>🟩 ✓ Weekly<br>🟦 ✓ Develop<br>🟧 ✓ Feasibility | [**30**](Development-Calendar/README.md#july-2026)<br>🟦 ✓ EQ<br>🟩 ✓ Calendar<br>🟧 ✓ Evidence | [**31**](Development-Calendar/README.md#july-2026)<br>🟩 ◇ Calendar<br>🟦 ◇ Docs<br>🟧 ◇ Strategy | [**1**](Development-Calendar/README.md#august-2026)<br>🟩 ◇ Setup<br>🟦 ◇ Warmup<br>🟧 ◇ Roadmap | [**2**](Development-Calendar/README.md#august-2026)<br>🟩 ◇ Weekly<br>🟦 ◇ Planning<br>🟧 ◇ Ideas |
+
+[Open the full master calendar](Development-Calendar/) for the complete daily history, monthly objectives, weekly progression, and detailed category calendars.
+
 ## Academic and Publication Status
 
 The studies, reports, papers, and presentations presented as my own work in this portfolio are academic, independent-study, classroom, or portfolio projects—not peer-reviewed or formally published research. I did participate as a listener, not an author or co-author, in several Belmont auditory-perception studies that were subsequently published through the Audio Engineering Society. Those participation credits remain explicitly separated from my unpublished projects.
@@ -22,12 +34,6 @@ Review the [publication distinctions and published listener-participation refere
 | [Technical Ear Training](https://github.com/kevinworleymusic-afk/technical-ear-training) | Structured critical-listening exercises, prior experience, scored results, error analysis, and progress evidence | Active; 733 trials documented in the current continuation phase |
 | [Audio File Report](https://github.com/kevinworleymusic-afk/audio-file-report) | Python audio-file analysis, validation, diagnostics, and visualization | Active development |
 | [Capture-to-Reproduction Audio Study](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study) | Applied acoustics, DSP, reproduction, and automotive-audio development sequence | Project 01 implemented in Pure Data; Projects 02–04 organized as future work |
-
-## Coordinated Engineering Development
-
-The [Master Engineering Development Calendar](Development-Calendar/) provides a concise month-by-month view of work across critical listening, acoustics and measurement, automotive audio, DSP and software, research, and career preparation. Calendar entries link to the detailed repository or document that contains the underlying methods, results, code, and limitations.
-
-Review the [current calendar](Development-Calendar/), [July development record](Development-Calendar/2026-07.md), [August development plan](Development-Calendar/2026-08.md), and the detailed [critical-listening calendar](https://github.com/kevinworleymusic-afk/technical-ear-training/tree/main/calendar).
 
 ## Engineering Focus
 
