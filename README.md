@@ -57,15 +57,13 @@ Review the [music programs](https://campus.kennesaw.edu/colleges-departments/art
 
 ## Critical Listening and Immersive Experience
 
-My documented listening background includes a public SoundGym SPI of 3,410,130 and Diamond Ears Award across frequency, dynamics, level, panning, and spatial-listening exercises. SoundGym calculates SPI from the three highest scores in each game; I do not present it as an unsupported percentile or complete proof of professional tuning proficiency.
+My documented training combines a public SoundGym SPI of 3,410,130 and Diamond Ears Award with continued use of Jason Corey’s course-based technical-ear-training method. The Corey record contains 693 trials, including 80–90% criterion-specific cumulative accuracy in pink-noise EQ and a best hard-clipping result of 88%. Results remain task-specific, with exploratory and unscored areas identified in the detailed record.
 
-After studying Jason Corey’s technical-ear-training methodology in a course, I continued the program through 693 documented trials: 372 pink-noise EQ trials with criterion-specific cumulative accuracy of 80–90%, approximately 301 hard-clipping trials with a best result of 88%, and 20 early bit-depth-reduction trials at 47%. Other areas are clearly labeled exploratory or unscored.
+Instruction from [Ed Seay](https://aes.digitellinc.com/b/sp/ed-seay-3855), a veteran Nashville mixer, engineer, and producer, developed my musical perspective on tonal balance, dynamics, spatial placement, translation, and commercial-record priorities.
 
-My musical listening foundation also includes instruction from [Ed Seay](https://aes.digitellinc.com/b/sp/ed-seay-3855), a veteran Nashville mixer, recording engineer, and producer, on balancing technical decisions with musical intent, tonal shaping, dynamics, spatial placement, translation, and commercial-record priorities.
+Immersive experience includes Ocean Way Nashville and Starstruck Studios, guided listening in 7.1.4 Dolby Atmos environments, an Ocean Way recording study, and listener—not author—participation in three published AES studies. Together, this supports critical listening across rooms, loudspeakers, electroacoustics, spatial audio, and automotive systems.
 
-Immersive experience includes work at Ocean Way Nashville and Starstruck Studios, guided listening in 7.1.4 Dolby Atmos environments, an Ocean Way immersive-recording study, and listener—not author—participation in three published AES studies. Together, this supports critical listening for rooms, loudspeakers, electroacoustics, spatial audio, and automotive systems.
-
-Review the [SoundGym profile](https://www.soundgym.co/member/profile?m=byy1s26wj7u), [Corey reference](https://sites.google.com/a/umich.edu/jason-corey/technical-ear-training), [training evidence](https://github.com/kevinworleymusic-afk/technical-ear-training), [immersive study](Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/README.md), and [published listener-participation references](https://github.com/kevinworleymusic-afk/technical-ear-training/blob/main/PRIOR_EXPERIENCE.md#research-and-controlled-listening-exposure).
+Review the [SoundGym profile](https://www.soundgym.co/member/profile?m=byy1s26wj7u), [Corey reference and training evidence](https://github.com/kevinworleymusic-afk/technical-ear-training), [immersive study](Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/README.md), and [published listener-participation references](https://github.com/kevinworleymusic-afk/technical-ear-training/blob/main/PRIOR_EXPERIENCE.md#research-and-controlled-listening-exposure).
 
 ## Audio DSP and Software
 
