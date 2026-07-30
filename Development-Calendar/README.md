@@ -24,6 +24,8 @@ At the beginning of each week, choose the processes or objectives for the releva
 
 Only scheduled categories appear on a given day. Multiple categories are separated into their own marked lines. The category opens its pathway, while completed work can link onward to the detailed calendar, daily log, or project evidence. Unplanned future dates remain date-only.
 
+Use the shared [monthly, weekly, and daily planning templates](Templates/) to turn broad pathway choices into dated objectives, implementation steps, evidence requirements, and stopping rules.
+
 <details>
 <summary><strong>July 2026 — Portfolio and Development-System Foundation</strong></summary>
 
