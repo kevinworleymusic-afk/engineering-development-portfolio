@@ -21,6 +21,12 @@ The detailed calendar combines audio-software development with DSP implementatio
 - [MATLAB audio-DSP projects](../../Projects/Coding-and-Audio-Software/MATLAB-Projects/)
 - [Planned SigmaStudio follow-up](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/Future-Projects/03_Immersive_Audio_Evaluation_Part_2_SigmaStudio_DSP_Project.md)
 
+## Populated Planning Records
+
+- [July monthly plan](../Plans/dsp-and-software/01-monthly/2026-07.md)
+- [July 13–19 weekly plan](../Plans/dsp-and-software/02-weekly/2026-07-13.md)
+- [July 20–26 weekly plan](../Plans/dsp-and-software/02-weekly/2026-07-20.md)
+
 ## Planning Templates
 
 - [Category chooser](../Templates/CATEGORY_CHOOSER.md)
