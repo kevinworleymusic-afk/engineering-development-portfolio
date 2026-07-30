@@ -6,13 +6,22 @@ This calendar summarizes development across the full technical-audio portfolio. 
 
 ## Development Categories
 
-The master calendar uses short category labels. Select a category for its more detailed development view:
+Select a category for its detailed development view:
 
-- [**Acoustics & Measurement**](Areas/acoustics-and-measurement.md)
 - [**Critical Listening**](Areas/critical-listening.md)
-- [**Automotive & Research**](Areas/automotive-and-research.md)
-- [**DSP & Software**](Areas/dsp-and-software.md)
+- [**Automotive Audio**](Areas/automotive-audio.md)
+- [**DSP**](Areas/dsp.md)
+- [**Software Development**](Areas/software-development.md)
+- [**Research & Technical Study**](Areas/research-and-technical-study.md)
 - [**Portfolio & Planning**](Areas/portfolio-and-planning.md)
+
+## Weekly-to-Daily Flow
+
+At the beginning of each week, choose the processes or objectives for the relevant categories. I will then place them into the appropriate day cells using this compact format:
+
+**[Category](Areas/README.md):** brief daily process
+
+Only scheduled categories appear on a given day. The linked category label opens the fuller plan, while the date can link to the weekly or daily record. Unplanned future dates remain date-only until weekly choices are made.
 
 <details>
 <summary><strong>July 2026 — Portfolio and Development-System Foundation</strong></summary>
@@ -23,8 +32,8 @@ The master calendar uses short category labels. Select a category for its more d
 |---|---|---|---|---|---|---|
 | — | — | **1** | **2** | **3** | **4** | **5** |
 | **6** | **7** | **8** | **9** | **10** | **11** | **12** |
-| **13** | **14** | **15** | **16** | **17** | [**18**](Areas/dsp-and-software.md)<br>**DSP & Software:** Python analyzer begins | [**19**](Areas/dsp-and-software.md)<br>**DSP & Software:** analysis workflow |
-| [**20**](Areas/dsp-and-software.md)<br>**DSP & Software:** documentation | [**21**](Areas/portfolio-and-planning.md)<br>**Portfolio & Planning:** central portfolio | [**22**](Areas/portfolio-and-planning.md)<br>**Portfolio & Planning:** evidence mapping | [**23**](Areas/dsp-and-software.md)<br>**DSP & Software:** Pure Data prototype<br>[**Automotive & Research:**](Areas/automotive-and-research.md) reproduction sequence | [**24**](Areas/automotive-and-research.md)<br>**Automotive & Research:** implementation roadmap | [**25**](Areas/portfolio-and-planning.md)<br>**Portfolio & Planning:** development direction<br>[**Automotive & Research:**](Areas/automotive-and-research.md) career focus | [**26**](Areas/critical-listening.md)<br>**Critical Listening:** chapter structure |
+| **13** | **14** | **15** | **16** | **17** | [**18**](Areas/software-development.md)<br>**Software:** Python analyzer | [**19**](Areas/software-development.md)<br>**Software:** analysis workflow |
+| [**20**](Areas/software-development.md)<br>**Software:** documentation | [**21**](Areas/portfolio-and-planning.md)<br>**Portfolio & Planning:** central portfolio | [**22**](Areas/portfolio-and-planning.md)<br>**Portfolio & Planning:** evidence mapping | [**23**](Areas/dsp.md)<br>**DSP:** Pure Data prototype<br>[**Automotive:**](Areas/automotive-audio.md) reproduction sequence<br>[**Research:**](Areas/research-and-technical-study.md) study structure | [**24**](Areas/automotive-audio.md)<br>**Automotive:** implementation roadmap<br>[**Research:**](Areas/research-and-technical-study.md) staged study plan | [**25**](Areas/portfolio-and-planning.md)<br>**Portfolio & Planning:** development direction<br>[**Automotive:**](Areas/automotive-audio.md) career focus | [**26**](Areas/critical-listening.md)<br>**Critical Listening:** chapter structure |
 | [**27**](Areas/critical-listening.md)<br>**Critical Listening:** baseline session<br>[**Portfolio & Planning:**](Areas/portfolio-and-planning.md) evidence link | [**28**](Areas/critical-listening.md)<br>**Critical Listening:** warmup design<br>[**Portfolio & Planning:**](Areas/portfolio-and-planning.md) daily process | [**29**](Areas/portfolio-and-planning.md)<br>**Portfolio & Planning:** weekly plan + diagnostic | [**30**](Areas/critical-listening.md)<br>**Critical Listening:** multi-band EQ session<br>[**Portfolio & Planning:**](Areas/portfolio-and-planning.md) master calendar | [**31**](Areas/portfolio-and-planning.md)<br>**Portfolio & Planning — planned:** calendar integration | — | — |
 
 ### Month Objective
@@ -72,8 +81,9 @@ The master calendar uses short category labels. Select a category for its more d
 ## Detailed Views
 
 - [All category views](Areas/)
-- [Critical-listening development view](Areas/critical-listening.md) → [full listening calendar](https://github.com/kevinworleymusic-afk/technical-ear-training/tree/main/calendar)
-- [DSP & software development view](Areas/dsp-and-software.md) → [Python Audio File Report](https://github.com/kevinworleymusic-afk/audio-file-report)
-- [Automotive & research development view](Areas/automotive-and-research.md) → [Capture-to-Reproduction development](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study)
-- [Acoustics & measurement development view](Areas/acoustics-and-measurement.md) → [technical projects](../README.md#major-technical-audio-and-applied-engineering-projects)
-- [Portfolio & planning development view](Areas/portfolio-and-planning.md) → [development syllabus](../SYLLABUS.md)
+- [Critical Listening](Areas/critical-listening.md) → [full listening calendar](https://github.com/kevinworleymusic-afk/technical-ear-training/tree/main/calendar)
+- [Automotive Audio](Areas/automotive-audio.md) → [Capture-to-Reproduction development](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study)
+- [DSP](Areas/dsp.md) → [DSP project evidence](../README.md#audio-dsp-and-software)
+- [Software Development](Areas/software-development.md) → [Python Audio File Report](https://github.com/kevinworleymusic-afk/audio-file-report)
+- [Research & Technical Study](Areas/research-and-technical-study.md) → [major technical projects](../README.md#major-technical-audio-and-applied-engineering-projects)
+- [Portfolio & Planning](Areas/portfolio-and-planning.md) → [development syllabus](../SYLLABUS.md)
