@@ -78,12 +78,12 @@ Only scheduled categories appear on a given day. The linked category label opens
 
 </details>
 
-## Detailed Views
+## Detailed Area Calendars
 
-- [All category views](Areas/)
-- [Critical Listening](Areas/critical-listening.md) → [full listening calendar](https://github.com/kevinworleymusic-afk/technical-ear-training/tree/main/calendar)
-- [Automotive Audio](Areas/automotive-audio.md) → [Capture-to-Reproduction development](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study)
-- [DSP](Areas/dsp.md) → [DSP project evidence](../README.md#audio-dsp-and-software)
-- [Software Development](Areas/software-development.md) → [Python Audio File Report](https://github.com/kevinworleymusic-afk/audio-file-report)
-- [Research & Technical Study](Areas/research-and-technical-study.md) → [major technical projects](../README.md#major-technical-audio-and-applied-engineering-projects)
-- [Portfolio & Planning](Areas/portfolio-and-planning.md) → [development syllabus](../SYLLABUS.md)
+- [All area calendars](Areas/)
+- [Critical Listening calendar gateway](Areas/critical-listening.md) → [full listening calendar](https://github.com/kevinworleymusic-afk/technical-ear-training/tree/main/calendar)
+- [Automotive-Audio calendar](Areas/automotive-audio.md) → [Capture-to-Reproduction development](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study)
+- [DSP calendar](Areas/dsp.md) → [DSP project evidence](../README.md#audio-dsp-and-software)
+- [Software-Development calendar](Areas/software-development.md) → [Python Audio File Report](https://github.com/kevinworleymusic-afk/audio-file-report)
+- [Research & Technical-Study calendar](Areas/research-and-technical-study.md) → [major technical projects](../README.md#major-technical-audio-and-applied-engineering-projects)
+- [Portfolio & Planning calendar](Areas/portfolio-and-planning.md) → [development syllabus](../SYLLABUS.md)
