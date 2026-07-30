@@ -6,7 +6,7 @@ The portfolio leads with evidence relevant to acoustical consulting: room-respon
 
 Start with the [room-response analysis](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Impulse-Response-and-Audio-Systems-Analysis/README.md), [Audio Precision validation study](Projects/Technical-Audio-and-Research/Studer-A80-vs-A800-Plugin-Validation-Study/README.md), [critical-listening record](https://github.com/kevinworleymusic-afk/technical-ear-training), [Pure Data DSP prototype](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/01_Real-Time_DSP_Prototype_in_Pure_Data.md), [Python Audio File Report](https://github.com/kevinworleymusic-afk/audio-file-report), and [automotive development roadmap](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/Future-Projects/02_Automotive_Audio_Implementation_Roadmap.md).
 
-**Navigate:** [Portfolio Map](#portfolio-ecosystem) · [Technical Projects](#major-technical-audio-and-applied-engineering-projects) · [Music Performance & Music Education Background](#music-performance--music-education-background) · [Critical Listening](#critical-listening-and-immersive-experience) · [DSP & Software](#audio-dsp-and-software) · [Evidence](#technical-evidence-at-a-glance) · [Technical Foundations](#additional-technical-foundations) · [Development Direction](#career-direction-and-development-mission) · [Automotive Audio Development](#automotive-audio-and-applied-acoustics-development)
+**Navigate:** [Master Development Calendar](Development-Calendar/) · [Portfolio Map](#portfolio-ecosystem) · [Technical Projects](#major-technical-audio-and-applied-engineering-projects) · [Music Performance & Music Education Background](#music-performance--music-education-background) · [Critical Listening](#critical-listening-and-immersive-experience) · [DSP & Software](#audio-dsp-and-software) · [Evidence](#technical-evidence-at-a-glance) · [Technical Foundations](#additional-technical-foundations) · [Development Direction](#career-direction-and-development-mission) · [Automotive Audio Development](#automotive-audio-and-applied-acoustics-development)
 
 ## Academic and Publication Status
 
@@ -22,6 +22,12 @@ Review the [publication distinctions and published listener-participation refere
 | [Technical Ear Training](https://github.com/kevinworleymusic-afk/technical-ear-training) | Structured critical-listening exercises, prior experience, scored results, error analysis, and progress evidence | Active; 733 trials documented in the current continuation phase |
 | [Audio File Report](https://github.com/kevinworleymusic-afk/audio-file-report) | Python audio-file analysis, validation, diagnostics, and visualization | Active development |
 | [Capture-to-Reproduction Audio Study](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study) | Applied acoustics, DSP, reproduction, and automotive-audio development sequence | Project 01 implemented in Pure Data; Projects 02–04 organized as future work |
+
+## Coordinated Engineering Development
+
+The [Master Engineering Development Calendar](Development-Calendar/) provides a concise month-by-month view of work across critical listening, acoustics and measurement, automotive audio, DSP and software, research, and career preparation. Calendar entries link to the detailed repository or document that contains the underlying methods, results, code, and limitations.
+
+Review the [current calendar](Development-Calendar/), [July development record](Development-Calendar/2026-07.md), [August development plan](Development-Calendar/2026-08.md), and the detailed [critical-listening calendar](https://github.com/kevinworleymusic-afk/technical-ear-training/tree/main/calendar).
 
 ## Engineering Focus
 
