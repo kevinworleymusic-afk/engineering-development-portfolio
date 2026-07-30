@@ -19,6 +19,12 @@ The detailed portfolio calendar remains within the Engineering Development Portf
 - [Development syllabus](../../SYLLABUS.md)
 - [All detailed development calendars](../Calendars/)
 
+## Populated Planning Records
+
+- [July monthly plan](../Plans/portfolio-and-planning/01-monthly/2026-07.md)
+- [July 20–26 weekly plan](../Plans/portfolio-and-planning/02-weekly/2026-07-20.md)
+- [July 27–August 2 weekly plan](../Plans/portfolio-and-planning/02-weekly/2026-07-27.md)
+
 ## Planning Templates
 
 - [Category chooser](../Templates/CATEGORY_CHOOSER.md)
