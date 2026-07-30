@@ -21,3 +21,11 @@ This pathway combines automotive-audio development with the research, technical 
 - [Automotive implementation roadmap](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/Future-Projects/02_Automotive_Audio_Implementation_Roadmap.md)
 - [Conditional installed-DSP plan](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/Future-Projects/04_Conditional_Car_DSP_Installation_and_Portfolio_Validation_Plan.md)
 - [Academic and publication distinctions](../../README.md#academic-and-publication-status)
+
+## Planning Templates
+
+- [Category chooser](../Templates/CATEGORY_CHOOSER.md)
+- [Monthly development calendar](../Templates/01-monthly/MONTHLY_DEVELOPMENT_CALENDAR.md)
+- [Weekly development plan](../Templates/02-weekly/WEEKLY_DEVELOPMENT_PLAN.md)
+- [Daily development log](../Templates/03-daily/DAILY_DEVELOPMENT_LOG.md)
+- [Focused implementation block](../Templates/03-daily/FOCUSED_IMPLEMENTATION_BLOCK.md)
