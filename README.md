@@ -6,7 +6,7 @@ The portfolio leads with evidence relevant to acoustical consulting: room-respon
 
 Start with the [room-response analysis](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Impulse-Response-and-Audio-Systems-Analysis/README.md), [Audio Precision validation study](Projects/Technical-Audio-and-Research/Studer-A80-vs-A800-Plugin-Validation-Study/README.md), [critical-listening record](https://github.com/kevinworleymusic-afk/technical-ear-training), [Pure Data DSP prototype](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/01_Real-Time_DSP_Prototype_in_Pure_Data.md), [Python Audio File Report](https://github.com/kevinworleymusic-afk/audio-file-report), and [automotive development roadmap](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/Future-Projects/02_Automotive_Audio_Implementation_Roadmap.md).
 
-**Navigate:** [Master Development Calendar](Development-Calendar/) · [Technical Projects](#major-technical-audio-and-applied-engineering-projects) · [Music Performance & Music Education Background](#music-performance--music-education-background) · [Critical Listening](#critical-listening-and-immersive-experience) · [DSP & Software](#audio-dsp-and-software) · [Evidence](#technical-evidence-at-a-glance) · [Technical Foundations](#additional-technical-foundations) · [Development Direction](#career-direction-and-development-mission) · [Automotive Audio Development](#automotive-audio-and-applied-acoustics-development)
+**Navigate:** [Master Development Calendar](Development-Calendar/) · [Technical Projects](#major-technical-audio-and-applied-engineering-projects) · [Music Performance & Music Education Background](#music-performance--music-education-background) · [Critical Listening](#critical-listening-and-immersive-experience) · [DSP & Software](#audio-dsp-and-software) · [Technical Foundations](#additional-technical-foundations) · [Career Direction](#career-direction-acoustical-consulting-and-automotive-audio)
 
 ## Development Calendar at a Glance
 
@@ -84,18 +84,6 @@ Review the [project documentation](https://github.com/kevinworleymusic-afk/captu
 
 The original implementations are preserved alongside documented limitations and recommended revisions, demonstrating both DSP experience and engineering judgment.
 
-## Technical Evidence at a Glance
-
-| Area | Evidence |
-|---|---|
-| [Audio measurement](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Impulse-Response-and-Audio-Systems-Analysis/README.md) | [Room-response capture and analysis](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Impulse-Response-and-Audio-Systems-Analysis/README.md), [loudspeaker-to-microphone testing](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Impulse-Response-and-Audio-Systems-Analysis/METHODOLOGY.md), and [Audio Precision system validation](Projects/Technical-Audio-and-Research/Studer-A80-vs-A800-Plugin-Validation-Study/README.md) |
-| [Acoustics and critical listening](#critical-listening-and-immersive-experience) | [Impulse-response and acoustic-response analysis](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Impulse-Response-and-Audio-Systems-Analysis/README.md), [controlled listening tests](Projects/Technical-Audio-and-Research/Loudspeaker-vs-Headphone-Frequency-Boost-Identification/README.md), [733 documented continuation-phase ear-training trials](https://github.com/kevinworleymusic-afk/technical-ear-training/tree/main/exercises), [chapter-level results and limitations](https://github.com/kevinworleymusic-afk/technical-ear-training/tree/main/chapters), and a [quantified SoundGym SPI and Diamond Ears record](https://www.soundgym.co/member/profile?m=byy1s26wj7u) |
-| [Immersive audio](Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/README.md) | [Dolby Atmos independent study](Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/README.md), [7.1.4 session layout](Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/Session-Layout.pdf), [microphone-array planning](Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/README.md#recording-approach), and [height-channel capture](Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/Session-Layout.pdf) |
-| [Programming](#audio-dsp-and-software) | A maintained [Python audio application](https://github.com/kevinworleymusic-afk/audio-file-report) and documented [MATLAB audio-analysis projects](Projects/Coding-and-Audio-Software/MATLAB-Projects/) |
-| [Engineering communication](#major-technical-audio-and-applied-engineering-projects) | [Methods](Projects/Technical-Audio-and-Research/Studer-A80-vs-A800-Plugin-Validation-Study/TEST-METHODOLOGY.md), [results](Projects/Technical-Audio-and-Research/Studer-A80-vs-A800-Plugin-Validation-Study/RESULTS-SUMMARY.md), [limitations](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Impulse-Response-and-Audio-Systems-Analysis/RESULTS-AND-LIMITATIONS.md), [presentations](Projects/Technical-Audio-and-Research/Loudspeaker-vs-Headphone-Frequency-Boost-Identification/deliverables/), and [organized project archives](Projects/) |
-| [Digital signal processing](#audio-dsp-and-software) | [Filtering and DSP fundamentals](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Audio-DSP-Fundamentals/README.md), [FFT analysis and convolution](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Convolution-and-Tempo-Synchronized-Delay/README.md), [distortion, THD, and mid-side processing](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Nonlinear-Distortion-and-Mid-Side-Processing/README.md), the implemented [Project 01 Pure Data DSP prototype](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/01_Real-Time_DSP_Prototype_in_Pure_Data.md), and the planned [measurement-guided SigmaStudio project](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/Future-Projects/03_Immersive_Audio_Evaluation_Part_2_SigmaStudio_DSP_Project.md) |
-| [Automotive audio development](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study) | An implemented [Project 01 real-time Pure Data DSP prototype](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/01_Real-Time_DSP_Prototype_in_Pure_Data.md), followed by a planned [CAN/DBC simulation, 25-speaker system architecture, GNU Octave/Python DSP simulation, vehicle measurement campaign, Belmont immersive evaluation, and staged validation sequence](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/Future-Projects/02_Automotive_Audio_Implementation_Roadmap.md), plus a [conditional installed car DSP scenario](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/Future-Projects/04_Conditional_Car_DSP_Installation_and_Portfolio_Validation_Plan.md) |
-
 ## Additional Technical Foundations
 
 ### Studio Electronics and Equipment-Service Foundations
@@ -104,35 +92,16 @@ Introductory instruction from [Mike Porter](https://www.namm.org/library/oral-hi
 
 Review the [measurement methodology](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Impulse-Response-and-Audio-Systems-Analysis/METHODOLOGY.md) and [technical troubleshooting lessons](Projects/Technical-Audio-and-Research/Studer-A80-vs-A800-Plugin-Validation-Study/LESSONS-LEARNED.md).
 
-## Career Direction and Development Mission
+## Career Direction: Acoustical Consulting and Automotive Audio
 
-I hold an M.S. in Audio Engineering from Belmont University and supported sessions for music recorded for EA Sports College Football 25. My immediate objective is practical acoustical-consulting experience involving field measurement, room and architectural acoustics, environmental and building acoustics, noise control, sound isolation, electroacoustic evaluation, modeling, data interpretation, reporting, and client-centered problem solving. I am open to junior, part-time, project-based, or broader responsibility that combines contribution with professional mentorship.
+I hold an M.S. in Audio Engineering from Belmont University and supported sessions for music recorded for EA Sports College Football 25. My immediate objective is practical acoustical-consulting experience in measurement, room and architectural acoustics, noise control, isolation, modeling, analysis, reporting, and client-centered problem solving. I am open to junior, part-time, project-based, or broader roles that combine contribution with professional mentorship.
 
-My development program keeps the following competencies active:
+Automotive and in-cabin audio remain a major professional focus, particularly vehicle measurement, cabin acoustics, loudspeaker integration, spatial perception, DSP, tuning, validation, and demo-system development. My active foundation combines:
 
-- **Acoustics and engineering fundamentals:** propagation, room acoustics, noise control, isolation, uncertainty, standards, modeling, and engineering reasoning
-- **Measurement, analysis, and reporting:** impulse responses, Audio Precision and prior REW experience, repeatable methods, limitations, plots, and client-ready conclusions
+- **Acoustics, measurement, and reporting:** repeatable methods, impulse responses, Audio Precision and prior REW work, uncertainty, limitations, plots, and conclusions
 - **Critical listening and electroacoustics:** scored practice and measurement correlation across loudspeakers, rooms, immersive reproduction, and vehicles
-- **DSP and software:** Python, MATLAB, Pure Data, analysis, automation, reproducibility, validation, and implementation
-- **Automotive and in-cabin audio:** architecture, measurement, cabin acoustics, loudspeaker integration, spatial perception, tuning, validation, and demo development
+- **DSP and software:** Python, MATLAB, Pure Data, analysis, automation, reproducibility, and validation
+- **Automotive systems:** architecture, cabin measurement, multichannel simulation, integration, tuning, and evaluation
+- **Communication and leadership:** teaching, presentation, coordination, and technical explanation
 
-My teaching background adds client communication, presentation, coordination, and leadership capability. Automotive audio is a major professional focus, supported by the broader acoustics, electroacoustics, testing, listening, software, and reporting foundation documented here.
-
-Review the [Belmont program](https://www.belmont.edu/academics/majors-programs/ms-audio-engineering/), [College Football 25 context](https://timpaulmusic.com/), [development syllabus](SYLLABUS.md), [technical evidence summary](#technical-evidence-at-a-glance), and [automotive roadmap](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/Future-Projects/02_Automotive_Audio_Implementation_Roadmap.md).
-
-## Automotive Audio and Applied Acoustics Development
-
-Automotive audio is a principal intended application of my acoustics, measurement, electroacoustic, critical-listening, and DSP development. The sequence begins with an implemented Pure Data DSP prototype and separates it clearly from planned vehicle work:
-
-- Software-in-the-loop Python CAN/DBC control and diagnostics
-- A conceptual 25-speaker immersive architecture
-- GNU Octave/Python multichannel DSP simulation
-- Vehicle frequency-response, timing, reflection, phase/crossover, decay, DSP, and psychoacoustic measurement
-- A proposed Belmont open-room versus simulated-cabin 7.1.4 evaluation
-- A post-study SigmaStudio DSP project
-- A conditional installed car-DSP platform, dependent on capital, quote, safety, warranty, project-file access, and useful system control
-- Optional SigmaDSP hardware, Audio Weaver, embedded-C, and physical-CAN extensions
-
-Only Project 01 is presented as implemented. All vehicle studies and hardware extensions remain labeled planned, proposed, access-dependent, or conditional.
-
-Review the [Capture-to-Reproduction study](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study), [implemented prototype](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/01_Real-Time_DSP_Prototype_in_Pure_Data.md), [automotive roadmap](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/Future-Projects/02_Automotive_Audio_Implementation_Roadmap.md), [SigmaStudio follow-up](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/Future-Projects/03_Immersive_Audio_Evaluation_Part_2_SigmaStudio_DSP_Project.md), [conditional DSP plan](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/Future-Projects/04_Conditional_Car_DSP_Installation_and_Portfolio_Validation_Plan.md), and [installer checklist](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/Future-Projects/Supporting-Documents/Car_DSP_Installer_Requirements_and_Quote_Checklist.pdf).
+The [Pure Data prototype](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/01_Real-Time_DSP_Prototype_in_Pure_Data.md) is implemented; vehicle studies and hardware extensions remain planned, proposed, access-dependent, or conditional. Review the [development syllabus](SYLLABUS.md), [room-response project](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Impulse-Response-and-Audio-Systems-Analysis/README.md), [Audio Precision study](Projects/Technical-Audio-and-Research/Studer-A80-vs-A800-Plugin-Validation-Study/README.md), [automotive roadmap](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/Future-Projects/02_Automotive_Audio_Implementation_Roadmap.md), and [networking and consulting calendar](Development-Calendar/Calendars/acoustical-consulting.md).
