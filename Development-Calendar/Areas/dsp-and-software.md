@@ -20,3 +20,11 @@ The detailed calendar combines audio-software development with DSP implementatio
 - [Pure Data prototype](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/01_Real-Time_DSP_Prototype_in_Pure_Data.md)
 - [MATLAB audio-DSP projects](../../Projects/Coding-and-Audio-Software/MATLAB-Projects/)
 - [Planned SigmaStudio follow-up](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/Future-Projects/03_Immersive_Audio_Evaluation_Part_2_SigmaStudio_DSP_Project.md)
+
+## Planning Templates
+
+- [Category chooser](../Templates/CATEGORY_CHOOSER.md)
+- [Monthly development calendar](../Templates/01-monthly/MONTHLY_DEVELOPMENT_CALENDAR.md)
+- [Weekly development plan](../Templates/02-weekly/WEEKLY_DEVELOPMENT_PLAN.md)
+- [Daily development log](../Templates/03-daily/DAILY_DEVELOPMENT_LOG.md)
+- [Focused implementation block](../Templates/03-daily/FOCUSED_IMPLEMENTATION_BLOCK.md)
