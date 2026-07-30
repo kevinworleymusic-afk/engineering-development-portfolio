@@ -2,6 +2,12 @@
 
 [Category pathway](../Areas/dsp-and-software.md) · [Master calendar](../README.md) · [DSP and Software portfolio section](../../README.md#audio-dsp-and-software)
 
+## Populated Planning Records
+
+- [July monthly plan](../Plans/dsp-and-software/01-monthly/2026-07.md)
+- [July 13–19 weekly plan](../Plans/dsp-and-software/02-weekly/2026-07-13.md)
+- [July 20–26 weekly plan](../Plans/dsp-and-software/02-weekly/2026-07-20.md)
+
 ## July 2026
 
 | **Monday** | **Tuesday** | **Wednesday** | **Thursday** | **Friday** | **Saturday** | **Sunday** |
