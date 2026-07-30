@@ -6,13 +6,13 @@ This calendar summarizes development across the full technical-audio portfolio. 
 
 ## Development Categories
 
-Calendar entries use these labels to keep cross-disciplinary work distinguishable:
+The master calendar uses short category labels. Select a category for its more detailed development view:
 
-- **Acoustics & Measurement** — room response, electroacoustics, validation, methods, and reporting
-- **Critical Listening** — scored practice, listening procedures, immersive audio, and perceptual evidence
-- **Automotive & Research** — in-cabin audio, system architecture, study planning, and experimental development
-- **DSP & Software** — Python, MATLAB, Pure Data, analysis, implementation, and validation
-- **Portfolio & Planning** — evidence organization, curriculum, calendars, career preparation, and project sequencing
+- [**Acoustics & Measurement**](Areas/acoustics-and-measurement.md)
+- [**Critical Listening**](Areas/critical-listening.md)
+- [**Automotive & Research**](Areas/automotive-and-research.md)
+- [**DSP & Software**](Areas/dsp-and-software.md)
+- [**Portfolio & Planning**](Areas/portfolio-and-planning.md)
 
 <details>
 <summary><strong>July 2026 — Portfolio and Development-System Foundation</strong></summary>
@@ -23,9 +23,9 @@ Calendar entries use these labels to keep cross-disciplinary work distinguishabl
 |---|---|---|---|---|---|---|
 | — | — | **1** | **2** | **3** | **4** | **5** |
 | **6** | **7** | **8** | **9** | **10** | **11** | **12** |
-| **13** | **14** | **15** | **16** | **17** | [**18**](https://github.com/kevinworleymusic-afk/audio-file-report)<br>**DSP & Software:** established the [Python Audio File Report](https://github.com/kevinworleymusic-afk/audio-file-report) as an audio-analysis project | [**19**](https://github.com/kevinworleymusic-afk/audio-file-report)<br>**DSP & Software:** developed the [audio-analysis workflow and application structure](https://github.com/kevinworleymusic-afk/audio-file-report/tree/main/src/audio_file_report) |
-| [**20**](https://github.com/kevinworleymusic-afk/audio-file-report/tree/main/docs/reference)<br>**DSP & Software:** expanded [setup, use, and development documentation](https://github.com/kevinworleymusic-afk/audio-file-report/tree/main/docs/reference) | [**21**](../README.md#major-technical-audio-and-applied-engineering-projects)<br>**Portfolio & Planning:** established the central portfolio and organized [major technical projects](../README.md#major-technical-audio-and-applied-engineering-projects) | [**22**](../README.md#technical-evidence-at-a-glance)<br>**Portfolio & Planning:** connected competencies to inspectable work in [Technical Evidence at a Glance](../README.md#technical-evidence-at-a-glance) | [**23**](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/01_Real-Time_DSP_Prototype_in_Pure_Data.md)<br>**DSP & Software:** documented the [Pure Data real-time DSP prototype](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/01_Real-Time_DSP_Prototype_in_Pure_Data.md)<br>**Automotive & Research:** connected capture work to reproduction-system development | [**24**](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/Future-Projects/02_Automotive_Audio_Implementation_Roadmap.md)<br>**Automotive & Research:** organized the [automotive implementation roadmap](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/Future-Projects/02_Automotive_Audio_Implementation_Roadmap.md) and staged future studies | [**25**](../README.md#career-direction-and-development-mission)<br>**Portfolio & Planning:** integrated acoustics, listening, DSP, software, and automotive goals into one [development mission](../README.md#career-direction-and-development-mission) | [**26**](https://github.com/kevinworleymusic-afk/technical-ear-training/tree/main/chapters)<br>**Critical Listening:** established the [chapter-based ear-training structure](https://github.com/kevinworleymusic-afk/technical-ear-training/tree/main/chapters) and supporting exercise records |
-| [**27**](https://github.com/kevinworleymusic-afk/technical-ear-training/blob/main/logs/03-daily/2026-W31/2026-07-27_session-01.md)<br>**Critical Listening:** documented [Session 1](https://github.com/kevinworleymusic-afk/technical-ear-training/blob/main/logs/03-daily/2026-W31/2026-07-27_session-01.md), including EQ and distortion baselines<br>**Portfolio & Planning:** converted prior training into linked evidence | [**28**](https://github.com/kevinworleymusic-afk/technical-ear-training/blob/main/templates/03-daily/DAILY_WARMUP_PROGRESSION.md)<br>**Critical Listening:** designed a [time-based daily warmup](https://github.com/kevinworleymusic-afk/technical-ear-training/blob/main/templates/03-daily/DAILY_WARMUP_PROGRESSION.md)<br>**Portfolio & Planning:** standardized daily log creation | [**29**](https://github.com/kevinworleymusic-afk/technical-ear-training/blob/main/templates/02-weekly/WEEKLY_LESSON_PLAN.md)<br>**Portfolio & Planning:** created the [weekly lesson-plan](https://github.com/kevinworleymusic-afk/technical-ear-training/blob/main/templates/02-weekly/WEEKLY_LESSON_PLAN.md) and [30–45 minute diagnostic](https://github.com/kevinworleymusic-afk/technical-ear-training/blob/main/templates/02-weekly/WEEKLY_DIAGNOSTIC_CIRCUIT.md) structures | [**30**](https://github.com/kevinworleymusic-afk/technical-ear-training/blob/main/logs/03-daily/2026-W31/2026-07-30_session-02.md)<br>**Critical Listening:** recorded [Session 2](https://github.com/kevinworleymusic-afk/technical-ear-training/blob/main/logs/03-daily/2026-W31/2026-07-30_session-02.md), including 97% two-band and 90% three-band EQ matching<br>**Portfolio & Planning:** created the linked [master development calendar](./) | [**31**](https://github.com/kevinworleymusic-afk/technical-ear-training/tree/main/calendar)<br>**Portfolio & Planning — planned:** continue connecting [monthly, weekly, and daily listening plans](https://github.com/kevinworleymusic-afk/technical-ear-training/tree/main/calendar) to the cross-disciplinary calendar | — | — |
+| **13** | **14** | **15** | **16** | **17** | [**18**](Areas/dsp-and-software.md)<br>**DSP & Software:** Python analyzer begins | [**19**](Areas/dsp-and-software.md)<br>**DSP & Software:** analysis workflow |
+| [**20**](Areas/dsp-and-software.md)<br>**DSP & Software:** documentation | [**21**](Areas/portfolio-and-planning.md)<br>**Portfolio & Planning:** central portfolio | [**22**](Areas/portfolio-and-planning.md)<br>**Portfolio & Planning:** evidence mapping | [**23**](Areas/dsp-and-software.md)<br>**DSP & Software:** Pure Data prototype<br>[**Automotive & Research:**](Areas/automotive-and-research.md) reproduction sequence | [**24**](Areas/automotive-and-research.md)<br>**Automotive & Research:** implementation roadmap | [**25**](Areas/portfolio-and-planning.md)<br>**Portfolio & Planning:** development direction<br>[**Automotive & Research:**](Areas/automotive-and-research.md) career focus | [**26**](Areas/critical-listening.md)<br>**Critical Listening:** chapter structure |
+| [**27**](Areas/critical-listening.md)<br>**Critical Listening:** baseline session<br>[**Portfolio & Planning:**](Areas/portfolio-and-planning.md) evidence link | [**28**](Areas/critical-listening.md)<br>**Critical Listening:** warmup design<br>[**Portfolio & Planning:**](Areas/portfolio-and-planning.md) daily process | [**29**](Areas/portfolio-and-planning.md)<br>**Portfolio & Planning:** weekly plan + diagnostic | [**30**](Areas/critical-listening.md)<br>**Critical Listening:** multi-band EQ session<br>[**Portfolio & Planning:**](Areas/portfolio-and-planning.md) master calendar | [**31**](Areas/portfolio-and-planning.md)<br>**Portfolio & Planning — planned:** calendar integration | — | — |
 
 ### Month Objective
 
@@ -69,10 +69,11 @@ Calendar entries use these labels to keep cross-disciplinary work distinguishabl
 
 </details>
 
-## Detailed Systems
+## Detailed Views
 
-- [Critical-listening calendar](https://github.com/kevinworleymusic-afk/technical-ear-training/tree/main/calendar)
-- [Automotive and capture-to-reproduction development](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study)
-- [Python Audio File Report](https://github.com/kevinworleymusic-afk/audio-file-report)
-- [Engineering projects and evidence](../README.md#major-technical-audio-and-applied-engineering-projects)
-- [Development syllabus](../SYLLABUS.md)
+- [All category views](Areas/)
+- [Critical-listening development view](Areas/critical-listening.md) → [full listening calendar](https://github.com/kevinworleymusic-afk/technical-ear-training/tree/main/calendar)
+- [DSP & software development view](Areas/dsp-and-software.md) → [Python Audio File Report](https://github.com/kevinworleymusic-afk/audio-file-report)
+- [Automotive & research development view](Areas/automotive-and-research.md) → [Capture-to-Reproduction development](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study)
+- [Acoustics & measurement development view](Areas/acoustics-and-measurement.md) → [technical projects](../README.md#major-technical-audio-and-applied-engineering-projects)
+- [Portfolio & planning development view](Areas/portfolio-and-planning.md) → [development syllabus](../SYLLABUS.md)
