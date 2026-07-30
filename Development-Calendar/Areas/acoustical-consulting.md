@@ -20,6 +20,12 @@ Acoustical consulting is a focused part of this broader networking record. The p
 - [Technical Evidence at a Glance](../../README.md#technical-evidence-at-a-glance)
 - [Professional evidence](../../Professional-Evidence/)
 
+## Populated Planning Records
+
+- [July monthly plan](../Plans/networking-and-consulting/01-monthly/2026-07.md)
+- [July 13–19 weekly plan](../Plans/networking-and-consulting/02-weekly/2026-07-13.md)
+- [July 20–26 weekly plan](../Plans/networking-and-consulting/02-weekly/2026-07-20.md)
+
 ## Planning Templates
 
 - [Category chooser](../Templates/CATEGORY_CHOOSER.md)
