@@ -9,8 +9,12 @@
 | — | — | **1** | **2** | **3** | **4** | **5** |
 | **6** | **7** | **8** | **9** | **10** | **11** | **12** |
 | **13** | **14** | **15** | **16** | **17** | [**18**](https://github.com/kevinworleymusic-afk/audio-file-report)<br>Python analyzer | [**19**](https://github.com/kevinworleymusic-afk/audio-file-report/tree/main/src/audio_file_report)<br>Analysis workflow |
-| [**20**](https://github.com/kevinworleymusic-afk/audio-file-report/tree/main/docs/reference)<br>Documentation | **21** | **22** | [**23**](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/01_Real-Time_DSP_Prototype_in_Pure_Data.md)<br>Pure Data prototype | **24** | **25** | **26** |
+| [**20**](https://github.com/kevinworleymusic-afk/audio-file-report/tree/main/docs/reference)<br>Documentation | [**21**](../../README.md#audio-dsp-and-software)<br>Portfolio repo + catalog | [**22**](../../Projects/Coding-and-Audio-Software/MATLAB-Projects/)<br>MATLAB/code inventory | [**23**](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/01_Real-Time_DSP_Prototype_in_Pure_Data.md)<br>Pure Data + documentation | [**24**](../../README.md#audio-dsp-and-software)<br>Future Python + DSP work | [**25**](../Areas/dsp-and-software.md)<br>Project roadmap | **26** |
 | **27** | **28** | **29** | **30** | **31** | — | — |
+
+## Repository and Project-Cataloging Phase
+
+The standalone [Python Audio File Report](https://github.com/kevinworleymusic-afk/audio-file-report) began July 18, and the central Engineering Development Portfolio began July 21. During this initial phase, I cataloged and organized existing MATLAB and coding projects in GitHub, documented their methods and limitations, and defined future development work—including continued Python application development, DSP exercises, real-time Pure Data work, and later embedded and multichannel DSP directions. This records consolidation, documentation, and roadmap creation separately from projects newly implemented during the period.
 
 ## August 2026
 
