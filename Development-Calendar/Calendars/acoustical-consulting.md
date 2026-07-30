@@ -9,6 +9,12 @@ Exact dates are used for confirmed events. Repeated networking-period entries in
 <details open>
 <summary><strong>July 2026 — Consulting Exploration and Professional Outreach</strong></summary>
 
+## Populated Planning Records
+
+- [July monthly plan](../Plans/networking-and-consulting/01-monthly/2026-07.md)
+- [July 13–19 weekly plan](../Plans/networking-and-consulting/02-weekly/2026-07-13.md)
+- [July 20–26 weekly plan](../Plans/networking-and-consulting/02-weekly/2026-07-20.md)
+
 ## July 2026
 
 | **Mon** | **Tue** | **Wed** | **Thu** | **Fri** | **Sat** | **Sun** |
