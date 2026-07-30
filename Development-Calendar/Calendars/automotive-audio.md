@@ -2,6 +2,12 @@
 
 [Category pathway](../Areas/automotive-audio.md) · [Master calendar](../README.md) · [Automotive portfolio section](../../README.md#automotive-audio-and-applied-acoustics-development)
 
+## Populated Planning Records
+
+- [July monthly plan](../Plans/automotive-audio/01-monthly/2026-07.md)
+- [July 20–26 weekly plan](../Plans/automotive-audio/02-weekly/2026-07-20.md)
+- [July 27–August 2 weekly plan](../Plans/automotive-audio/02-weekly/2026-07-27.md)
+
 ## July 2026
 
 | **Monday** | **Tuesday** | **Wednesday** | **Thursday** | **Friday** | **Saturday** | **Sunday** |
