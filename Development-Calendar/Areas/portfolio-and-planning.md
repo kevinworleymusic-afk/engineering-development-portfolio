@@ -1,30 +1,20 @@
-# Portfolio & Planning Development Calendar
+# Portfolio & Planning Calendar Gateway
 
-[Master calendar](../README.md) · [Main portfolio](../../README.md)
+[Master calendar](../README.md) · [Open the full Portfolio & Planning Calendar](../Calendars/portfolio-and-planning.md)
 
-## July 2026
+The detailed portfolio calendar remains within the Engineering Development Portfolio and coordinates evidence organization, documentation, cross-repository navigation, weekly planning, and progress review.
 
-| **Monday** | **Tuesday** | **Wednesday** | **Thursday** | **Friday** | **Saturday** | **Sunday** |
-|---|---|---|---|---|---|---|
-| — | — | **1** | **2** | **3** | **4** | **5** |
-| **6** | **7** | **8** | **9** | **10** | **11** | **12** |
-| **13** | **14** | **15** | **16** | **17** | **18** | **19** |
-| **20** | [**21**](../../README.md#major-technical-audio-and-applied-engineering-projects)<br>Central portfolio | [**22**](../../README.md#technical-evidence-at-a-glance)<br>Evidence mapping | **23** | **24** | [**25**](../../README.md#career-direction-and-development-mission)<br>Development direction | **26** |
-| [**27**](critical-listening.md)<br>Listening evidence | [**28**](critical-listening.md)<br>Daily process | [**29**](https://github.com/kevinworleymusic-afk/technical-ear-training/blob/main/templates/02-weekly/WEEKLY_LESSON_PLAN.md)<br>Weekly plan | [**30**](../README.md)<br>Master calendar | [**31**](../README.md)<br>Planned integration | — | — |
+## Calendar Flow
 
-## August 2026
+1. Set the week's portfolio and planning processes in the [Portfolio & Planning Calendar](../Calendars/portfolio-and-planning.md).
+2. Populate scheduled dates with the detailed documentation, organization, or review objective.
+3. Add only a short linked Portfolio & Planning entry to each applicable day on the [master calendar](../README.md).
+4. Link completed days to the revised page, document, calendar, or evidence.
 
-| **Monday** | **Tuesday** | **Wednesday** | **Thursday** | **Friday** | **Saturday** | **Sunday** |
-|---|---|---|---|---|---|---|
-| — | — | — | — | — | [**1**](../2026-08.md#august-1-2) | [**2**](../2026-08.md#august-1-2) |
-| [**3**](../2026-08.md#august-3-9) | [**4**](../2026-08.md#august-3-9) | [**5**](../2026-08.md#august-3-9) | [**6**](../2026-08.md#august-3-9) | [**7**](../2026-08.md#august-3-9) | [**8**](../2026-08.md#august-3-9) | [**9**](../2026-08.md#august-3-9) |
-| [**10**](../2026-08.md#august-10-16) | [**11**](../2026-08.md#august-10-16) | [**12**](../2026-08.md#august-10-16) | [**13**](../2026-08.md#august-10-16) | [**14**](../2026-08.md#august-10-16) | [**15**](../2026-08.md#august-10-16) | [**16**](../2026-08.md#august-10-16) |
-| [**17**](../2026-08.md#august-17-23) | [**18**](../2026-08.md#august-17-23) | [**19**](../2026-08.md#august-17-23) | [**20**](../2026-08.md#august-17-23) | [**21**](../2026-08.md#august-17-23) | [**22**](../2026-08.md#august-17-23) | [**23**](../2026-08.md#august-17-23) |
-| [**24**](../2026-08.md#august-24-30) | [**25**](../2026-08.md#august-24-30) | [**26**](../2026-08.md#august-24-30) | [**27**](../2026-08.md#august-24-30) | [**28**](../2026-08.md#august-24-30) | [**29**](../2026-08.md#august-24-30) | [**30**](../2026-08.md#august-24-30) |
-| [**31**](../2026-08.md#august-31) | — | — | — | — | — | — |
+## Current Detailed Record
 
-No portfolio-planning tasks beyond the initial system integration are assigned yet. At the beginning of each week, populate only the scheduled days with a short process such as **evidence update**, **project documentation**, or **weekly review**.
-
-## Planning Principle
-
-The master calendar shows only the areas advanced on each date. This calendar carries the fuller portfolio and process schedule; detailed technical evidence remains in its project repository.
+- [Full Portfolio & Planning Calendar](../Calendars/portfolio-and-planning.md)
+- [Main portfolio](../../README.md)
+- [Technical Evidence at a Glance](../../README.md#technical-evidence-at-a-glance)
+- [Development syllabus](../../SYLLABUS.md)
+- [All detailed development calendars](../Calendars/)
