@@ -9,6 +9,12 @@ Each PLAN tab is the coordination record for that date. Its short description is
 <details>
 <summary><strong>July 2026 — Portfolio and Development-System Foundation</strong></summary>
 
+## Populated Planning Records
+
+- [July monthly plan](../Plans/portfolio-and-planning/01-monthly/2026-07.md)
+- [July 20–26 weekly plan](../Plans/portfolio-and-planning/02-weekly/2026-07-20.md)
+- [July 27–August 2 weekly plan](../Plans/portfolio-and-planning/02-weekly/2026-07-27.md)
+
 ## July 2026
 
 | **Mon** | **Tue** | **Wed** | **Thu** | **Fri** | **Sat** | **Sun** |
