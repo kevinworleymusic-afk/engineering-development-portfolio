@@ -57,7 +57,7 @@ Review the [music programs](https://campus.kennesaw.edu/colleges-departments/art
 
 ## Critical Listening and Immersive Experience
 
-My documented training combines a public SoundGym SPI of 3,410,130 and Diamond Ears Award with continued use of Jason Corey’s course-based technical-ear-training method. The Corey record contains 723 trials, including a 97% result across 30 two-band +6 dB pink-noise EQ matching trials over 250 Hz–8 kHz and a best hard-clipping result of 88%. The EQ result reflects direct matching—not memorized or rapid identification—and all results remain task-specific.
+My documented training combines a public SoundGym SPI of 3,410,130 and Diamond Ears Award with continued use of Jason Corey’s course-based technical-ear-training method. The Corey record contains 723 trials, including a 97% result across 30 two-band +6 dB pink-noise EQ matching trials using one-octave bandwidth over 250 Hz–8 kHz and a best hard-clipping result of 88%. The EQ result reflects direct matching—not memorized or rapid identification—and all results remain task-specific.
 
 Instruction from [Ed Seay](https://aes.digitellinc.com/b/sp/ed-seay-3855), a veteran Nashville mixer, engineer, and producer, developed my musical perspective on tonal balance, dynamics, spatial placement, translation, and commercial-record priorities.
 
