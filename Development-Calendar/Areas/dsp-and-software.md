@@ -14,6 +14,7 @@ The detailed calendar combines audio-software development with DSP implementatio
 ## Current Detailed Record
 
 - [Full DSP & Software Calendar](../Calendars/dsp-and-software.md)
+- [Repository and project-cataloging phase](../Calendars/dsp-and-software.md#repository-and-project-cataloging-phase)
 - [Audio DSP and Software portfolio section](../../README.md#audio-dsp-and-software)
 - [Python Audio File Report](https://github.com/kevinworleymusic-afk/audio-file-report)
 - [Pure Data prototype](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/01_Real-Time_DSP_Prototype_in_Pure_Data.md)
