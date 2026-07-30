@@ -19,3 +19,11 @@ Acoustical consulting is a focused part of this broader networking record. The p
 - [Main portfolio](../../README.md)
 - [Technical Evidence at a Glance](../../README.md#technical-evidence-at-a-glance)
 - [Professional evidence](../../Professional-Evidence/)
+
+## Planning Templates
+
+- [Category chooser](../Templates/CATEGORY_CHOOSER.md)
+- [Monthly development calendar](../Templates/01-monthly/MONTHLY_DEVELOPMENT_CALENDAR.md)
+- [Weekly development plan](../Templates/02-weekly/WEEKLY_DEVELOPMENT_PLAN.md)
+- [Daily development log](../Templates/03-daily/DAILY_DEVELOPMENT_LOG.md)
+- [Focused implementation block](../Templates/03-daily/FOCUSED_IMPLEMENTATION_BLOCK.md)
