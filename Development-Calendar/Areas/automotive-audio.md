@@ -27,5 +27,3 @@ This pathway combines automotive-audio development with the research, technical 
 - [Category chooser](../Templates/CATEGORY_CHOOSER.md)
 - [Monthly development calendar](../Templates/01-monthly/MONTHLY_DEVELOPMENT_CALENDAR.md)
 - [Weekly development plan](../Templates/02-weekly/WEEKLY_DEVELOPMENT_PLAN.md)
-- [Daily development log](../Templates/03-daily/DAILY_DEVELOPMENT_LOG.md)
-- [Focused implementation block](../Templates/03-daily/FOCUSED_IMPLEMENTATION_BLOCK.md)
