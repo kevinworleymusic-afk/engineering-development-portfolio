@@ -1,4 +1,4 @@
-# Automotive-Audio Development Calendar
+# Automotive Audio, Research & Technical-Study Calendar
 
 [Category pathway](../Areas/automotive-audio.md) · [Master calendar](../README.md) · [Automotive portfolio section](../../README.md#automotive-audio-and-applied-acoustics-development)
 
@@ -9,7 +9,7 @@
 | — | — | **1** | **2** | **3** | **4** | **5** |
 | **6** | **7** | **8** | **9** | **10** | **11** | **12** |
 | **13** | **14** | **15** | **16** | **17** | **18** | **19** |
-| **20** | **21** | **22** | [**23**](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/01_Real-Time_DSP_Prototype_in_Pure_Data.md)<br>Reproduction sequence | [**24**](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/Future-Projects/02_Automotive_Audio_Implementation_Roadmap.md)<br>Implementation roadmap | [**25**](../../README.md#career-direction-and-development-mission)<br>Career focus | **26** |
+| **20** | **21** | **22** | [**23**](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/01_Real-Time_DSP_Prototype_in_Pure_Data.md)<br>Reproduction + study sequence | [**24**](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/Future-Projects/02_Automotive_Audio_Implementation_Roadmap.md)<br>Roadmap + staged study plan | [**25**](../../README.md#career-direction-and-development-mission)<br>Career focus | **26** |
 | **27** | **28** | **29** | **30** | **31** | — | — |
 
 ## August 2026
@@ -23,7 +23,11 @@
 | [**24**](../2026-08.md#august-24-30) | [**25**](../2026-08.md#august-24-30) | [**26**](../2026-08.md#august-24-30) | [**27**](../2026-08.md#august-24-30) | [**28**](../2026-08.md#august-24-30) | [**29**](../2026-08.md#august-24-30) | [**30**](../2026-08.md#august-24-30) |
 | [**31**](../2026-08.md#august-31) | — | — | — | — | — | — |
 
-No automotive tasks are assigned to the August date cells yet. Weekly choices will populate only scheduled days.
+No automotive, research, or technical-study tasks are assigned to the August date cells yet. Weekly choices will populate only scheduled days.
+
+## Research and Technical-Study Scope
+
+This calendar also records technical reading, methodology development, study variables, experimental planning, and documented validation work supporting the automotive pathway. Research plans remain distinguished from completed tests, collected data, and published work.
 
 ## Status Boundary
 
