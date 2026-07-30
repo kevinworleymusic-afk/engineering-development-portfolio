@@ -60,29 +60,19 @@ Immersive experience includes Ocean Way Nashville and Starstruck Studios, guided
 
 Review the [SoundGym profile](https://www.soundgym.co/member/profile?m=byy1s26wj7u), [Corey reference and training evidence](https://github.com/kevinworleymusic-afk/technical-ear-training), [immersive study](Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/README.md), and [published listener-participation references](https://github.com/kevinworleymusic-afk/technical-ear-training/blob/main/PRIOR_EXPERIENCE.md#research-and-controlled-listening-exposure).
 
-## Audio DSP and Software
+## Audio DSP and Software Projects
 
-### Flagship Python Project: [Audio File Report](https://github.com/kevinworleymusic-afk/audio-file-report)
+Each entry below is an individual project or project family, labeled by its primary implementation environment.
 
-A developing Python command-line application that validates WAV files, reports metadata, generates left/right FFT spectrum plots, supports interactive or saved output, records diagnostics, and conservatively detects corrupted files.
+- **Python — [Audio File Report](https://github.com/kevinworleymusic-afk/audio-file-report):** WAV validation, metadata, stereo FFT plots, diagnostics, saved or interactive output, and conservative corruption detection. [Setup](https://github.com/kevinworleymusic-afk/audio-file-report/blob/main/docs/reference/SETUP.md) · [Source](https://github.com/kevinworleymusic-afk/audio-file-report/tree/main/src/audio_file_report/v020_reliable_cli_file_handling) · [Tests](https://github.com/kevinworleymusic-afk/audio-file-report/tree/main/tests) · [Roadmap](https://github.com/kevinworleymusic-afk/audio-file-report/blob/main/docs/reference/ROADMAP.md)
+- **Pure Data — [Real-Time DSP Prototype](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/01_Real-Time_DSP_Prototype_in_Pure_Data.md):** Stereo playback, delay, filtering, gain, test signals, low-frequency routing, and protected output. Version 2 improves layout; documentation separates implemented behavior from pending validation. [Original](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/assets/pure-data/Sample_Circuit.pd) · [Version 2](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/assets/pure-data/Sample_Circuit_Clean_v2.pd) · [Validation](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/01_Real-Time_DSP_Prototype_in_Pure_Data.md#recommended-validation-sequence)
+- **MATLAB — [Audio DSP Fundamentals](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Audio-DSP-Fundamentals/README.md):** noise synthesis, FIR filters, frequency-domain IIR filtering, and discrete-time systems
+- **MATLAB — [Room Impulse-Response and Audio Systems Analysis](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Impulse-Response-and-Audio-Systems-Analysis/README.md):** room capture, convolution, FFT/IFFT analysis, and system comparison
+- **MATLAB — [Distortion and Audio Analysis](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Distortion-and-Audio-Analysis/README.md):** waveshaping, clipping, bit-depth reduction, THD, and stereo analysis
+- **MATLAB — [Convolution and Tempo-Synchronized Delay](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Convolution-and-Tempo-Synchronized-Delay/README.md):** sample-by-sample and FFT-domain convolution with L-C-R delay
+- **MATLAB — [Nonlinear Distortion and Mid-Side Processing](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Nonlinear-Distortion-and-Mid-Side-Processing/README.md):** clipping, transistor-inspired saturation, parallel harmonic processing, and mid-side distortion
 
-Review the [setup guide](https://github.com/kevinworleymusic-afk/audio-file-report/blob/main/docs/reference/SETUP.md), [user manual](https://github.com/kevinworleymusic-afk/audio-file-report/blob/main/docs/reference/USER_MANUAL.md), [active application package](https://github.com/kevinworleymusic-afk/audio-file-report/tree/main/src/audio_file_report/v020_reliable_cli_file_handling), [automated tests](https://github.com/kevinworleymusic-afk/audio-file-report/tree/main/tests), and [development plan](https://github.com/kevinworleymusic-afk/audio-file-report/blob/main/docs/reference/ROADMAP.md).
-
-### Real-Time DSP Prototype: [Project 01 in Pure Data](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/01_Real-Time_DSP_Prototype_in_Pure_Data.md)
-
-Developed and documented a Pure Data prototype for real-time audio reproduction experiments. The patch combines stereo source playback, channel delay, filtering, adjustable gain, generated test signals, level-derived control, low-frequency routing, and protected stereo output. A second version reorganizes the same signal graph into a cleaner engineering layout, while the documentation distinguishes implemented behavior from items still requiring measurement and validation.
-
-Review the [project documentation](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/01_Real-Time_DSP_Prototype_in_Pure_Data.md), [original patch](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/assets/pure-data/Sample_Circuit.pd), [cleaner Version 2 patch](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/assets/pure-data/Sample_Circuit_Clean_v2.pd), and [validation sequence](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/01_Real-Time_DSP_Prototype_in_Pure_Data.md#recommended-validation-sequence).
-
-### MATLAB Projects
-
-- [Audio DSP Fundamentals](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Audio-DSP-Fundamentals/README.md) — noise synthesis, FIR filters, frequency-domain IIR filtering, and discrete-time systems
-- [Room Impulse-Response and Audio Systems Analysis](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Impulse-Response-and-Audio-Systems-Analysis/README.md) — featured above; room capture, convolution, FFT/IFFT analysis, and system comparison
-- [Distortion and Audio Analysis](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Distortion-and-Audio-Analysis/README.md) — waveshaping, clipping, bit-depth reduction, THD, and stereo analysis
-- [Convolution and Tempo-Synchronized Delay](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Convolution-and-Tempo-Synchronized-Delay/README.md) — sample-by-sample and FFT-domain convolution with L-C-R delay
-- [Nonlinear Distortion and Mid-Side Processing](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Nonlinear-Distortion-and-Mid-Side-Processing/README.md) — clipping, transistor-inspired saturation, parallel harmonic processing, and mid-side distortion
-
-The original implementations are preserved alongside documented limitations and recommended revisions, demonstrating both DSP experience and engineering judgment.
+Original implementations are preserved with documented limitations and recommended revisions.
 
 ## Additional Technical Foundations
 
