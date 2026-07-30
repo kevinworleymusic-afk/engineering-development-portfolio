@@ -1,6 +1,6 @@
 # Weekly Engineering Development Plan
 
-[Templates](../README.md) · [Category chooser](../CATEGORY_CHOOSER.md) · [Monthly calendar](../01-monthly/MONTHLY_DEVELOPMENT_CALENDAR.md) · [Daily log](../03-daily/DAILY_DEVELOPMENT_LOG.md)
+[Templates](../README.md) · [Category chooser](../CATEGORY_CHOOSER.md) · [Monthly calendar](../01-monthly/MONTHLY_DEVELOPMENT_CALENDAR.md)
 
 ## Weekly Inputs
 
@@ -23,17 +23,17 @@
 
 | **Mon** | **Tue** | **Wed** | **Thu** | **Fri** | **Sat** | **Sun** |
 |---|---|---|---|---|---|---|
-| **Date:**<br>**Path:**<br>**Focus:**<br>**Purpose:** Scope/baseline<br>**Daily log:** | **Date:**<br>**Path:**<br>**Focus:**<br>**Purpose:** Implement<br>**Daily log:** | **Date:**<br>**Path:**<br>**Focus:**<br>**Purpose:** Compare/refine<br>**Daily log:** | **Date:**<br>**Path:**<br>**Focus:**<br>**Purpose:** Adjust from evidence<br>**Daily log:** | **Date:**<br>**Path:**<br>**Focus:**<br>**Purpose:** Advance if justified<br>**Daily log:** | **Date:**<br>**Path:**<br>**Focus:**<br>**Purpose:** Consolidate/transfer<br>**Daily log:** | **Date:**<br>**Path:**<br>**Focus:**<br>**Purpose:** Review/recovery<br>**Daily log:** |
+| **Date:**<br>**Path:**<br>**Focus:**<br>**Purpose:** Scope/baseline<br>**Evidence/project:** | **Date:**<br>**Path:**<br>**Focus:**<br>**Purpose:** Implement<br>**Evidence/project:** | **Date:**<br>**Path:**<br>**Focus:**<br>**Purpose:** Compare/refine<br>**Evidence/project:** | **Date:**<br>**Path:**<br>**Focus:**<br>**Purpose:** Adjust from evidence<br>**Evidence/project:** | **Date:**<br>**Path:**<br>**Focus:**<br>**Purpose:** Advance if justified<br>**Evidence/project:** | **Date:**<br>**Path:**<br>**Focus:**<br>**Purpose:** Consolidate/transfer<br>**Evidence/project:** | **Date:**<br>**Path:**<br>**Focus:**<br>**Purpose:** Review/recovery<br>**Evidence/project:** |
 
-## Daily Generation Rule
+## Workday Implementation Rule
 
 For each active day:
 
-1. Read the broad pathway and focus from this plan.
-2. Check the latest related project, calendar entry, and evidence.
-3. Populate the daily log with an immediate-start setup, focused objective, staged work, evidence requirement, and stopping rule.
-4. Preserve the weekly focus unless completed evidence or a blocker justifies a change.
-5. Record changes and their reasons.
+1. Read the pathway, focus, and purpose from this plan.
+2. Resume from the latest related project, evidence, decision, or professional-contact record.
+3. Name one intended output before beginning.
+4. Save the result directly in the relevant repository, document, calendar, or contact record.
+5. Update this weekly plan only when evidence or a blocker changes the intended sequence.
 
 ## Weekly Review
 
