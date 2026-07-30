@@ -22,6 +22,12 @@ This pathway combines automotive-audio development with the research, technical 
 - [Conditional installed-DSP plan](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/Future-Projects/04_Conditional_Car_DSP_Installation_and_Portfolio_Validation_Plan.md)
 - [Academic and publication distinctions](../../README.md#academic-and-publication-status)
 
+## Populated Planning Records
+
+- [July monthly plan](../Plans/automotive-audio/01-monthly/2026-07.md)
+- [July 20–26 weekly plan](../Plans/automotive-audio/02-weekly/2026-07-20.md)
+- [July 27–August 2 weekly plan](../Plans/automotive-audio/02-weekly/2026-07-27.md)
+
 ## Planning Templates
 
 - [Category chooser](../Templates/CATEGORY_CHOOSER.md)
