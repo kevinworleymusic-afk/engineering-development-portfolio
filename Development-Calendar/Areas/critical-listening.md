@@ -1,16 +1,20 @@
-# Critical-Listening Development View
+# Critical-Listening Calendar Gateway
 
-[Master calendar](../README.md) · [Full Technical Ear Training calendar](https://github.com/kevinworleymusic-afk/technical-ear-training/tree/main/calendar)
+[Master calendar](../README.md) · [Open the full Critical-Listening Calendar](https://github.com/kevinworleymusic-afk/technical-ear-training/tree/main/calendar)
 
-The Technical Ear Training repository is the authoritative detailed calendar for listening work. It contains monthly objectives, weekly progression, daily session records, chapter results, warmup planning, and diagnostics.
+The authoritative listening calendar remains in the Technical Ear Training repository so its monthly objectives, weekly plans, daily logs, chapter results, warmup procedures, and diagnostic records stay together.
 
-## July 2026
+## Calendar Flow
 
-- **July 26:** Established the [chapter-based curriculum and exercise structure](https://github.com/kevinworleymusic-afk/technical-ear-training/tree/main/chapters).
-- **July 27:** Documented [Session 1](https://github.com/kevinworleymusic-afk/technical-ear-training/blob/main/logs/03-daily/2026-W31/2026-07-27_session-01.md), including EQ and distortion baselines.
-- **July 28:** Developed the [daily warmup progression](https://github.com/kevinworleymusic-afk/technical-ear-training/blob/main/templates/03-daily/DAILY_WARMUP_PROGRESSION.md).
-- **July 29:** Developed the [weekly lesson-plan](https://github.com/kevinworleymusic-afk/technical-ear-training/blob/main/templates/02-weekly/WEEKLY_LESSON_PLAN.md) and [diagnostic](https://github.com/kevinworleymusic-afk/technical-ear-training/blob/main/templates/02-weekly/WEEKLY_DIAGNOSTIC_CIRCUIT.md) structures.
-- **July 30:** Documented [Session 2](https://github.com/kevinworleymusic-afk/technical-ear-training/blob/main/logs/03-daily/2026-W31/2026-07-30_session-02.md), including multi-band EQ matching.
-- **July 31–August 3:** Continued planning-system integration; entries remain planned until completed.
+1. Set the week's critical-listening processes in the [Technical Ear Training calendar](https://github.com/kevinworleymusic-afk/technical-ear-training/tree/main/calendar).
+2. Populate its weekly and daily records with the detailed exercises, settings, and targets.
+3. Add only a short linked Critical Listening entry to each applicable day on the [master calendar](../README.md).
+4. Link completed days to the detailed listening session or calendar entry.
 
-Use the [full listening calendar](https://github.com/kevinworleymusic-afk/technical-ear-training/tree/main/calendar) for the most detailed day-by-day record.
+## Current Detailed Record
+
+- [Full listening calendar](https://github.com/kevinworleymusic-afk/technical-ear-training/tree/main/calendar)
+- [Monthly listening plans](https://github.com/kevinworleymusic-afk/technical-ear-training/tree/main/logs/01-monthly)
+- [Weekly listening plans](https://github.com/kevinworleymusic-afk/technical-ear-training/tree/main/logs/02-weekly)
+- [Daily listening logs](https://github.com/kevinworleymusic-afk/technical-ear-training/tree/main/logs/03-daily)
+- [Chapter results](https://github.com/kevinworleymusic-afk/technical-ear-training/tree/main/chapters)
