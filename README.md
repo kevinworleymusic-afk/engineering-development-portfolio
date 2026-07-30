@@ -12,7 +12,7 @@ Start with the [room-response analysis](Projects/Coding-and-Audio-Software/MATLA
 
 The studies, reports, papers, and presentations presented as my own work in this portfolio are academic, independent-study, classroom, or portfolio projects—not peer-reviewed or formally published research. I did participate as a listener, not an author or co-author, in several Belmont auditory-perception studies that were subsequently published through the Audio Engineering Society. Those participation credits remain explicitly separated from my unpublished projects.
 
-Review the [published-study participation and critical-listening context](#critical-listening-and-immersive-experience), [prior experience record](https://github.com/kevinworleymusic-afk/technical-ear-training/blob/main/PRIOR_EXPERIENCE.md), and [AES publications](#critical-listening-and-immersive-experience).
+Review the [publication distinctions and published listener-participation references](https://github.com/kevinworleymusic-afk/technical-ear-training/blob/main/PRIOR_EXPERIENCE.md#research-and-controlled-listening-exposure).
 
 ## Portfolio Ecosystem
 
@@ -77,7 +77,7 @@ Review the [setup guide](https://github.com/kevinworleymusic-afk/audio-file-repo
 
 Developed and documented a Pure Data prototype for real-time audio reproduction experiments. The patch combines stereo source playback, channel delay, filtering, adjustable gain, generated test signals, level-derived control, low-frequency routing, and protected stereo output. A second version reorganizes the same signal graph into a cleaner engineering layout, while the documentation distinguishes implemented behavior from items still requiring measurement and validation.
 
-Review the [programming environment and project documentation](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/01_Real-Time_DSP_Prototype_in_Pure_Data.md#technology-and-language), [original Pure Data patch](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/assets/pure-data/Sample_Circuit.pd), [cleaner Version 2 patch](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/assets/pure-data/Sample_Circuit_Clean_v2.pd), [implemented processing details](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/01_Real-Time_DSP_Prototype_in_Pure_Data.md#what-the-project-covers), [current technical notes](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/01_Real-Time_DSP_Prototype_in_Pure_Data.md#current-technical-notes), and [recommended validation sequence](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/01_Real-Time_DSP_Prototype_in_Pure_Data.md#recommended-validation-sequence).
+Review the [project documentation](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/01_Real-Time_DSP_Prototype_in_Pure_Data.md), [original patch](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/assets/pure-data/Sample_Circuit.pd), [cleaner Version 2 patch](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/assets/pure-data/Sample_Circuit_Clean_v2.pd), and [validation sequence](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/01_Real-Time_DSP_Prototype_in_Pure_Data.md#recommended-validation-sequence).
 
 ### MATLAB Projects
 
@@ -107,7 +107,7 @@ The original implementations are preserved alongside documented limitations and 
 
 Introductory instruction from [Mike Porter](https://www.namm.org/library/oral-history/mike-porter/) at Belmont University covered voltage, current, resistance, components, analog signal flow, transducers and microphones, test equipment, signal tracing, common faults, electrical safety, repair, and soldering. This foundation connects acoustic energy, mechanical movement, and electrical signals while supporting continued growth in electroacoustics, measurement, validation, and troubleshooting.
 
-Review the [room-response project](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Impulse-Response-and-Audio-Systems-Analysis/README.md), [measurement methodology](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Impulse-Response-and-Audio-Systems-Analysis/METHODOLOGY.md), [Audio Precision study](Projects/Technical-Audio-and-Research/Studer-A80-vs-A800-Plugin-Validation-Study/README.md), and [troubleshooting lessons](Projects/Technical-Audio-and-Research/Studer-A80-vs-A800-Plugin-Validation-Study/LESSONS-LEARNED.md).
+Review the [measurement methodology](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Impulse-Response-and-Audio-Systems-Analysis/METHODOLOGY.md) and [technical troubleshooting lessons](Projects/Technical-Audio-and-Research/Studer-A80-vs-A800-Plugin-Validation-Study/LESSONS-LEARNED.md).
 
 ## Career Direction and Development Mission
 
@@ -123,7 +123,7 @@ My development program keeps the following competencies active:
 
 My teaching background adds client communication, presentation, coordination, and leadership capability. Automotive audio is a major professional focus, supported by the broader acoustics, electroacoustics, testing, listening, software, and reporting foundation documented here.
 
-Review the [Belmont program](https://www.belmont.edu/academics/majors-programs/ms-audio-engineering/), [College Football 25 context](https://timpaulmusic.com/), [development syllabus](SYLLABUS.md), [room-response analysis](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Impulse-Response-and-Audio-Systems-Analysis/README.md), [technical ear training](https://github.com/kevinworleymusic-afk/technical-ear-training), [Python application](https://github.com/kevinworleymusic-afk/audio-file-report), [MATLAB portfolio](Projects/Coding-and-Audio-Software/MATLAB-Projects/), and [automotive roadmap](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/Future-Projects/02_Automotive_Audio_Implementation_Roadmap.md).
+Review the [Belmont program](https://www.belmont.edu/academics/majors-programs/ms-audio-engineering/), [College Football 25 context](https://timpaulmusic.com/), [development syllabus](SYLLABUS.md), [technical evidence summary](#technical-evidence-at-a-glance), and [automotive roadmap](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/Future-Projects/02_Automotive_Audio_Implementation_Roadmap.md).
 
 ## Automotive Audio and Applied Acoustics Development
 
