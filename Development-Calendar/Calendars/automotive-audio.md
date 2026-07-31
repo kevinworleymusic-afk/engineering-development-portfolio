@@ -30,7 +30,7 @@ The sequence is: establish the repository, translate professional guidance into 
 
 | **Monday** | **Tuesday** | **Wednesday** | **Thursday** | **Friday** | **Saturday** | **Sunday** |
 |---|---|---|---|---|---|---|
-| — | — | — | — | — | [**1**](#august-1-employer-research-plan)<br>[🟧 **AUTO/R&T**](../Areas/automotive-audio.md)<br>◇ Research auto employers | [**2**](../2026-08.md#august-1-2)<br>◇ Select projects |
+| — | — | — | — | — | [**1**](#august-1-employer-research-plan)<br>[🟧 **AUTO/R&T**](../Areas/automotive-audio.md)<br>◇ Research auto employers | [**2**](#august-2-next-week-project-plan)<br>[🟧 **AUTO/R&T**](../Areas/automotive-audio.md)<br>◇ Plan next-week auto project |
 | [**3**](../2026-08.md#august-3-9)<br>◇ Refine auto career plan | [**4**](../2026-08.md#august-3-9) | [**5**](../2026-08.md#august-3-9) | [**6**](../2026-08.md#august-3-9) | [**7**](../2026-08.md#august-3-9) | [**8**](../2026-08.md#august-3-9) | [**9**](../2026-08.md#august-3-9) |
 | [**10**](../2026-08.md#august-10-16) | [**11**](../2026-08.md#august-10-16) | [**12**](../2026-08.md#august-10-16) | [**13**](../2026-08.md#august-10-16) | [**14**](../2026-08.md#august-10-16) | [**15**](../2026-08.md#august-10-16) | [**16**](../2026-08.md#august-10-16) |
 | [**17**](../2026-08.md#august-17-23) | [**18**](../2026-08.md#august-17-23) | [**19**](../2026-08.md#august-17-23) | [**20**](../2026-08.md#august-17-23) | [**21**](../2026-08.md#august-17-23) | [**22**](../2026-08.md#august-17-23) | [**23**](../2026-08.md#august-17-23) |
@@ -42,6 +42,12 @@ The sequence is: establish the repository, translate professional guidance into 
 Review current automotive-audio and related technical openings, then build a comprehensive target-company list. For each company, record its relevant location or engineering center, industry role (OEM, Tier 1 supplier, audio brand, DSP/software company, or related organization), and representative position types. Distinguish currently open roles from longer-term target roles.
 
 **Planned output:** A reusable employer-and-role matrix that can guide job searches, networking, skill development, and geographic planning.
+
+### August 2 Next-Week Project Plan
+
+Select one automotive-audio project for the following week and turn it into an implementable plan. An in-car DSP study is one candidate, but the final choice should follow feasibility, available tools, and the strength of the evidence it can produce.
+
+**Planned output:** A defined project question, deliverable, required tools or inputs, implementation steps, evidence standard, and stopping point.
 
 Only August 1–3 currently contain planned automotive tasks. Later dates will be populated after weekly objectives are selected.
 
