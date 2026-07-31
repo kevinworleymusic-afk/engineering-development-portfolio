@@ -14,8 +14,8 @@
 |---|---|---|---|---|---|---|
 | — | — | **1** | **2** | **3** | **4** | **5** |
 | **6** | **7** | **8** | **9** | **10** | **11** | **12** |
-| **13** | **14** | **15** | **16** | **17** | [**18**](https://github.com/kevinworleymusic-afk/audio-file-report)<br>Python analyzer | [**19**](https://github.com/kevinworleymusic-afk/audio-file-report/tree/main/src/audio_file_report)<br>Analysis workflow |
-| [**20**](https://github.com/kevinworleymusic-afk/audio-file-report/tree/main/docs/reference)<br>Documentation | [**21**](../../README.md#audio-dsp-and-software)<br>Portfolio repo + catalog | [**22**](../../Projects/Coding-and-Audio-Software/MATLAB-Projects/)<br>MATLAB/code inventory | [**23**](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/01_Real-Time_DSP_Prototype_in_Pure_Data.md)<br>Pure Data + documentation | [**24**](../../README.md#audio-dsp-and-software)<br>Future Python + DSP work | [**25**](../Areas/dsp-and-software.md)<br>Project roadmap | **26** |
+| **13** | **14** | **15** | **16** | **17** | [**18**](https://github.com/kevinworleymusic-afk/audio-file-report)<br>Python analyzer | [**19**](https://github.com/kevinworleymusic-afk/audio-file-report/tree/main/src/audio_file_report)<br>Python workflow |
+| [**20**](https://github.com/kevinworleymusic-afk/audio-file-report/tree/main/docs/reference)<br>Python docs | [**21**](../../README.md#audio-dsp-and-software)<br>Code catalog | [**22**](../../Projects/Coding-and-Audio-Software/MATLAB-Projects/)<br>MATLAB/code inventory | [**23**](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/01_Real-Time_DSP_Prototype_in_Pure_Data.md)<br>PD prototype + docs | [**24**](../../README.md#audio-dsp-and-software)<br>DSP project plan | [**25**](../Areas/dsp-and-software.md)<br>DSP roadmap | **26** |
 | **27** | **28** | **29** | **30** | **31** | — | — |
 
 ## Repository and Project-Cataloging Phase
