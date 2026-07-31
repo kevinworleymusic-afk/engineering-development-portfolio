@@ -4,6 +4,10 @@
 
 The detailed calendar combines audio-software development, DSP implementation, and relevant electronics foundations. It connects Python application work, Pure Data prototypes, MATLAB projects, testing, documentation, simulation, embedded-DSP planning, audio electronics, circuit fundamentals, measurement, and troubleshooting.
 
+## Cross-Pathway Electronics Routing
+
+This is the primary home for electrical/electronics concepts, resources, exercises, and results. Each record may carry application tags such as **Foundation**, **Audio Electronics**, **Automotive Application**, or **DSP Hardware**. Automotive relevance is cross-linked to [Automotive Audio & Technical Skills](automotive-audio.md); professional guidance remains recorded in [Networking & Acoustical Consulting](acoustical-consulting.md).
+
 ## Calendar Flow
 
 1. Set the week's DSP, software, or electronics processes in the [DSP, Software & Electronics Calendar](../Calendars/dsp-and-software.md).
