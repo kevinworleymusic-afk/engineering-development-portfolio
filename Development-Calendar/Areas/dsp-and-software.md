@@ -26,6 +26,7 @@ The detailed calendar combines audio-software development, DSP implementation, a
 - [July monthly plan](../Plans/dsp-and-software/01-monthly/2026-07.md)
 - [July 13–19 weekly plan](../Plans/dsp-and-software/02-weekly/2026-07-13.md)
 - [July 20–26 weekly plan](../Plans/dsp-and-software/02-weekly/2026-07-20.md)
+- [July 27–August 2 weekly plan](../Plans/dsp-and-software/02-weekly/2026-07-27.md)
 
 ## Planning Templates
 
