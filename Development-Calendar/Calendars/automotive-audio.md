@@ -30,12 +30,18 @@ The sequence is: establish the repository, translate professional guidance into 
 
 | **Monday** | **Tuesday** | **Wednesday** | **Thursday** | **Friday** | **Saturday** | **Sunday** |
 |---|---|---|---|---|---|---|
-| — | — | — | — | — | [**1**](../2026-08.md#august-1-2)<br>◇ Refine auto roadmap | [**2**](../2026-08.md#august-1-2)<br>◇ Select projects |
+| — | — | — | — | — | [**1**](#august-1-employer-research-plan)<br>[🟧 **AUTO/R&T**](../Areas/automotive-audio.md)<br>◇ Research auto employers | [**2**](../2026-08.md#august-1-2)<br>◇ Select projects |
 | [**3**](../2026-08.md#august-3-9)<br>◇ Refine auto career plan | [**4**](../2026-08.md#august-3-9) | [**5**](../2026-08.md#august-3-9) | [**6**](../2026-08.md#august-3-9) | [**7**](../2026-08.md#august-3-9) | [**8**](../2026-08.md#august-3-9) | [**9**](../2026-08.md#august-3-9) |
 | [**10**](../2026-08.md#august-10-16) | [**11**](../2026-08.md#august-10-16) | [**12**](../2026-08.md#august-10-16) | [**13**](../2026-08.md#august-10-16) | [**14**](../2026-08.md#august-10-16) | [**15**](../2026-08.md#august-10-16) | [**16**](../2026-08.md#august-10-16) |
 | [**17**](../2026-08.md#august-17-23) | [**18**](../2026-08.md#august-17-23) | [**19**](../2026-08.md#august-17-23) | [**20**](../2026-08.md#august-17-23) | [**21**](../2026-08.md#august-17-23) | [**22**](../2026-08.md#august-17-23) | [**23**](../2026-08.md#august-17-23) |
 | [**24**](../2026-08.md#august-24-30) | [**25**](../2026-08.md#august-24-30) | [**26**](../2026-08.md#august-24-30) | [**27**](../2026-08.md#august-24-30) | [**28**](../2026-08.md#august-24-30) | [**29**](../2026-08.md#august-24-30) | [**30**](../2026-08.md#august-24-30) |
 | [**31**](../2026-08.md#august-31) | — | — | — | — | — | — |
+
+### August 1 Employer Research Plan
+
+Review current automotive-audio and related technical openings, then build a comprehensive target-company list. For each company, record its relevant location or engineering center, industry role (OEM, Tier 1 supplier, audio brand, DSP/software company, or related organization), and representative position types. Distinguish currently open roles from longer-term target roles.
+
+**Planned output:** A reusable employer-and-role matrix that can guide job searches, networking, skill development, and geographic planning.
 
 Only August 1–3 currently contain planned automotive tasks. Later dates will be populated after weekly objectives are selected.
 
