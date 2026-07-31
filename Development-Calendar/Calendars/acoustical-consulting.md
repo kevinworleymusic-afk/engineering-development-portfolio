@@ -65,8 +65,8 @@ Research acoustical software for room modeling, analysis, and future room-mockup
 
 ### August 2 Professional-Reference Outreach Plan
 
-Request focused professional references from **Bradley Rikard** and **Robert Grogan** (education, student teaching, and classroom development) and **Trey Wright** (music performance). Because the education requests fall near the beginning of the school week—and may coincide with first-day-of-school responsibilities—send them thoughtfully and allow extra response time. Tailor each request to the part of Kevin’s background the person directly observed, and record only requests that are actually sent.
+Request focused professional references from **Bradley Rikard** (education, student teaching, and classroom development) and **Trey Wright** (music performance). Bradley’s outreach will also ask whether he knows of nearby part-time music-education work, occasional music-substitute assignments, or other local music-program opportunities. Because the education requests fall near the beginning of the school week—and may coincide with first-day-of-school responsibilities—send them thoughtfully and allow extra response time. Tailor each request to the part of Kevin’s background the person directly observed, and record only requests that are actually sent.
 
-**Planned output:** Three appropriately scoped requests and a follow-up record. Any letter remains pending—not portfolio evidence—until it is received and approved for public use.
+**Planned output:** Two appropriately scoped recommendation requests plus a concise local-opportunity inquiry to Bradley and a follow-up record. Any letter remains pending—not portfolio evidence—until it is received and approved for public use.
 
 Future dates will be populated only after a specific professional-development objective is selected.
