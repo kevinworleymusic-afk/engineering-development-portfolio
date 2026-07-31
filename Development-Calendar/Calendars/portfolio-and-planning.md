@@ -15,6 +15,8 @@ Each PLAN tab is the coordination record for that date. Its short description is
 - [July 20–26 weekly plan](../Plans/portfolio-and-planning/02-weekly/2026-07-20.md)
 - [July 27–August 2 weekly plan](../Plans/portfolio-and-planning/02-weekly/2026-07-27.md)
 
+Repository and document additions use the date of the first relevant GitHub commit. Sessions, calls, and outreach use their recorded real-world dates. Entries describing multi-day strategy or procedure development are period-level records and do not imply that a particular file was created that day.
+
 ## July 2026
 
 | **Mon** | **Tue** | **Wed** | **Thu** | **Fri** | **Sat** | **Sun** |
@@ -22,8 +24,8 @@ Each PLAN tab is the coordination record for that date. Its short description is
 | — | — | **1** | **2** | **3** | **4** | **5** |
 | **6** | **7** | **8** | **9** | **10** | **11** | **12** |
 | **13** | **14** | **15** | **16** | **17** | **18** | **19** |
-| **20** | [**21**](../../README.md#major-technical-audio-and-applied-engineering-projects)<br>[🟩 **PLAN**](../Areas/portfolio-and-planning.md)<br>✓ Built central portfolio | [**22**](../../README.md)<br>[🟩 **PLAN**](../Areas/portfolio-and-planning.md)<br>✓ Mapped evidence | **23** | **24** | [**25**](../../README.md#career-direction-acoustical-consulting-and-automotive-audio)<br>[🟩 **PLAN**](../Areas/portfolio-and-planning.md)<br>✓ Defined career direction | **26** |
-| [**27**](https://github.com/kevinworleymusic-afk/technical-ear-training/blob/main/logs/03-daily/2026-W31/2026-07-27_session-01.md)<br>[🟩 **PLAN**](../Areas/portfolio-and-planning.md)<br>✓ Reviewed evidence | [**28**](https://github.com/kevinworleymusic-afk/technical-ear-training/blob/main/templates/03-daily/DAILY_WARMUP_PROGRESSION.md)<br>[🟩 **PLAN**](../Areas/portfolio-and-planning.md)<br>✓ Built practice workflow | [**29**](https://github.com/kevinworleymusic-afk/technical-ear-training/blob/main/templates/02-weekly/WEEKLY_LESSON_PLAN.md)<br>[🟩 **PLAN**](../Areas/portfolio-and-planning.md)<br>✓ Built weekly system | [**30**](../README.md)<br>[🟩 **PLAN**](../Areas/portfolio-and-planning.md)<br>✓ Built master calendar | [**31**](../README.md)<br>[🟩 **PLAN**](../Areas/portfolio-and-planning.md)<br>◇ Link calendar layers | — | — |
+| **20** | [**21**](../../README.md)<br>[🟩 **PLAN**](../Areas/portfolio-and-planning.md)<br>✓ Built central portfolio | [**22**](../../README.md#major-technical-audio-and-applied-engineering-projects)<br>[🟩 **PLAN**](../Areas/portfolio-and-planning.md)<br>✓ Added project context | **23** | [**24**](https://github.com/kevinworleymusic-afk/engineering-development-portfolio/commit/48a794540f35a17b8db1cbcf94b908dbea955f9d)<br>[🟩 **PLAN**](../Areas/portfolio-and-planning.md)<br>✓ Added development binder | **25** | [**26**](https://github.com/kevinworleymusic-afk/engineering-development-portfolio/commit/f36309df1f924362d609220f6d6042fb1396b75d)<br>[🟩 **PLAN**](../Areas/portfolio-and-planning.md)<br>✓ Linked portfolio evidence |
+| [**27**](https://github.com/kevinworleymusic-afk/engineering-development-portfolio/commit/f68acb837b3cd48c8746378e4b32ebef4b7af6c7)<br>[🟩 **PLAN**](../Areas/portfolio-and-planning.md)<br>✓ Updated career direction | [**28**](../Plans/portfolio-and-planning/02-weekly/2026-07-27.md)<br>[🟩 **PLAN**](../Areas/portfolio-and-planning.md)<br>✓ Developed planning workflow | [**29**](https://github.com/kevinworleymusic-afk/engineering-development-portfolio/commit/404062b356e7ffca52c95dd0c3c4d44e0ad20dae)<br>[🟩 **PLAN**](../Areas/portfolio-and-planning.md)<br>✓ Integrated portfolio evidence | [**30**](../README.md)<br>[🟩 **PLAN**](../Areas/portfolio-and-planning.md)<br>✓ Built calendar/planning system | [**31**](../README.md)<br>[🟩 **PLAN**](../Areas/portfolio-and-planning.md)<br>◇ Link calendar layers | — | — |
 
 ### Month Objective
 
