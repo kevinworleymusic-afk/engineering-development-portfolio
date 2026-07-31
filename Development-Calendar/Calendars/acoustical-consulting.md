@@ -14,6 +14,7 @@ Exact dates are used for confirmed events. Repository and document additions use
 - [July monthly plan](../Plans/networking-and-consulting/01-monthly/2026-07.md)
 - [July 13–19 weekly plan](../Plans/networking-and-consulting/02-weekly/2026-07-13.md)
 - [July 20–26 weekly plan](../Plans/networking-and-consulting/02-weekly/2026-07-20.md)
+- [July 27–August 2 weekly plan](../Plans/networking-and-consulting/02-weekly/2026-07-27.md)
 
 ## July 2026
 
@@ -23,7 +24,7 @@ Exact dates are used for confirmed events. Repository and document additions use
 | **6** | **7** | **8** | **9** | **10** | **11** | **12** |
 | **13** | [**14**](#confirmed-events-and-networking-context)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Contacted consultant | [**15**](#confirmed-events-and-networking-context)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Outreach/research period | [**16**](#confirmed-events-and-networking-context)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Outreach/research period | [**17**](#confirmed-events-and-networking-context)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Outreach/research period | [**18**](#confirmed-events-and-networking-context)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Outreach/research period | [**19**](#confirmed-events-and-networking-context)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Outreach/research period |
 | [**20**](#confirmed-events-and-networking-context)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Scheduled Coffman call | [**21**](#confirmed-events-and-networking-context)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Prepared call | [**22**](#confirmed-events-and-networking-context)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Prepared call | [**23**](#confirmed-events-and-networking-context)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Prepared call | [**24**](#confirmed-events-and-networking-context)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Completed Coffman call | **25** | **26** |
-| **27** | **28** | **29** | **30** | [**31**](#networking-and-consulting-development-areas)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Contacted Ray + Alek | — | — |
+| **27** | **28** | **29** | **30** | [**31**](#networking-and-consulting-development-areas)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Contacted Ray, Alek + George | — | — |
 
 ### Month Objective
 
@@ -39,7 +40,7 @@ Develop a professional network across acoustical consulting and technical audio 
 
 ### Networking and Consulting Development Areas
 
-**July 31 outreach record:** Contacted **Ray Plasse** for guidance on an acoustical-software study path, including free or accessible room-modeling tools comparable in purpose to CAD- or EASE-based consulting workflows and possible preparation for future room-mockup projects. In parallel, contacted **Alek Weidman** for guidance on an electrical-engineering self-study path that could extend the introductory studio-electronics work completed through Mike Porter’s course. Responses and recommendations have not yet been received or evaluated.
+**July 31 outreach record:** Contacted **Ray Plasse** for guidance on an acoustical-software study path, including free or accessible room-modeling tools comparable in purpose to CAD- or EASE-based consulting workflows and possible preparation for future room-mockup projects. In parallel, contacted **Alek Weidman** for guidance on an electrical-engineering self-study path that could extend the introductory studio-electronics work completed through Mike Porter’s course. Also contacted **George Lawson** to identify the architectural-rendering software used in a prior REW room-analysis project and ask whether he still has access to the original project files. Responses, software identification, and file recovery have not yet been received or verified.
 
 Future entries can document professional outreach, informational conversations, relationship follow-up, applications, industry events, room-acoustics study, measurement and analysis, technical reporting, and client-oriented recommendations.
 
