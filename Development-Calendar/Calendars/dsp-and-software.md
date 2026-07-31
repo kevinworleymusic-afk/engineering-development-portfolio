@@ -19,11 +19,11 @@ Repository and document additions use the date of the first relevant GitHub comm
 | **6** | **7** | **8** | **9** | **10** | **11** | **12** |
 | **13** | **14** | **15** | **16** | **17** | [**18**](https://github.com/kevinworleymusic-afk/audio-file-report/commit/68482da56456883c77bf1171306c30596fd6f8f1)<br>[🟪 **DSP/SW**](../Areas/dsp-and-software.md)<br>✓ Initialized Python analyzer | [**19**](https://github.com/kevinworleymusic-afk/audio-file-report/commit/9e265562d572ae53df2327902725848bce5be847)<br>[🟪 **DSP/SW**](../Areas/dsp-and-software.md)<br>✓ Added Python features/docs |
 | **20** | [**21**](https://github.com/kevinworleymusic-afk/engineering-development-portfolio/commit/a5f1e2d5c7a6585f5c499307e4fab5f3f9df65d0)<br>[🟪 **DSP/SW**](../Areas/dsp-and-software.md)<br>✓ Added tests + MATLAB projects | **22** | **23** | **24** | **25** | **26** |
-| [**27**](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/commit/958a8a45d1d7ccd7806fc615ad3dfb8316c24090)<br>[🟪 **DSP/SW**](../Areas/dsp-and-software.md)<br>✓ Added DSP project plans | **28** | [**29**](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/commit/8bbb198458689f562ebc5fbc21352b483007004c)<br>[🟪 **DSP/SW**](../Areas/dsp-and-software.md)<br>✓ Added + documented PD prototype | **30** | [**31**](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/01_Real-Time_DSP_Prototype_in_Pure_Data.md)<br>[🟪 **DSP/SW**](../Areas/dsp-and-software.md)<br>◇ Test/refine PD prototype | — | — |
+| [**27**](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/commit/958a8a45d1d7ccd7806fc615ad3dfb8316c24090)<br>[🟪 **DSP/SW**](../Areas/dsp-and-software.md)<br>✓ Added DSP project plans | **28** | [**29**](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/commit/8bbb198458689f562ebc5fbc21352b483007004c)<br>[🟪 **DSP/SW**](../Areas/dsp-and-software.md)<br>✓ Added + documented PD prototype | **30** | **31**<br>[🟪 **DSP/SW**](../Areas/dsp-and-software.md)<br>PD next step undecided | — | — |
 
 ### July 31 Planned Validation
 
-Open the existing Pure Data patch, verify its audio path and implemented controls, record pass/fail results, correct one high-priority issue or add one controlled element if justified, and document the before/after state.
+Pure Data validation is not assigned to a date yet. When Kevin selects it, open the existing patch, verify its audio path and implemented controls, record pass/fail results, correct one high-priority issue or add one controlled element if justified, and document the before/after state.
 
 ## Repository and Project-Cataloging Phase
 

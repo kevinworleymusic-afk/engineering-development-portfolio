@@ -15,8 +15,9 @@ This gateway separates received evidence from requests still in progress. A name
 | Status | People / evidence |
 |---|---|
 | **Received and public** | Dr. Charles R. Jackson, Dr. Alison Mann, Kathy Ratcliffe, Sam Skelton, Torey Harding internship evaluation |
-| **Requested; response pending** | Jon Lechner, Ed Seay |
-| **Planned; not yet requested** | Bradley Rikard, Tyrone Jackson, Trey Wright |
+| **Accepted; document pending** | Jon Lechner — agreed to provide a PDF after returning to the office Tuesday |
+| **Requested; response pending** | Ed Seay, Tyrone Jackson |
+| **Planned; not yet requested** | Bradley Rikard, Trey Wright |
 | **Conditional / contact pending** | Former REM Studio B staff member (identity/contact being confirmed through Lisa LaFountaine) |
 | **Possible future request** | Dr. Michael Janas |
 
