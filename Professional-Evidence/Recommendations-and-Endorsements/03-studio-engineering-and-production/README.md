@@ -10,4 +10,4 @@ The public copy permanently removes the supervisor's email, handwritten signatur
 
 ## Conditional
 
-- **Former REM Studio B staff member** — possible studio/Atmos perspective; Lisa LaFountaine has been contacted to help identify and locate the person before any recommendation request is made
+- **Former REM Studio B manager/staff member** — possible studio/Atmos perspective; Lisa LaFountaine, Ray Plasse, and Jon Lechner have been asked to help identify or locate the person before any recommendation request is made
