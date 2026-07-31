@@ -32,6 +32,6 @@ The following requests are planned for August 2, 2026. They are not listed as av
 
 - **Bradley Rikard:** education and teaching perspective
 - **Robert Grogan:** education, student teaching, and classroom-development perspective
-- **Tyrone Jackson:** musicianship, artistic mindset, and work ethic
+- **Tyrone Jackson:** personal growth from being highly reserved toward greater confidence, openness, and pursuit of professional potential, viewed through the similar developmental perspective he has shared
 - **Trey Wright:** music-performance perspective
 
