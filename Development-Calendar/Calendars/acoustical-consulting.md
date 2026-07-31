@@ -23,7 +23,7 @@ Exact dates are used for confirmed events. Repository and document additions use
 | **6** | **7** | **8** | **9** | **10** | **11** | **12** |
 | **13** | [**14**](#confirmed-events-and-networking-context)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Contacted consultant | [**15**](#confirmed-events-and-networking-context)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Outreach/research period | [**16**](#confirmed-events-and-networking-context)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Outreach/research period | [**17**](#confirmed-events-and-networking-context)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Outreach/research period | [**18**](#confirmed-events-and-networking-context)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Outreach/research period | [**19**](#confirmed-events-and-networking-context)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Outreach/research period |
 | [**20**](#confirmed-events-and-networking-context)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Scheduled Coffman call | [**21**](#confirmed-events-and-networking-context)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Prepared call | [**22**](#confirmed-events-and-networking-context)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Prepared call | [**23**](#confirmed-events-and-networking-context)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Prepared call | [**24**](#confirmed-events-and-networking-context)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Completed Coffman call | **25** | **26** |
-| **27** | **28** | **29** | **30** | [**31**](#networking-and-consulting-development-areas)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>◇ Brainstorm consulting projects | — | — |
+| **27** | **28** | **29** | **30** | [**31**](#networking-and-consulting-development-areas)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>◇ Ask about room-modeling tools | — | — |
 
 ### Month Objective
 
@@ -39,7 +39,7 @@ Develop a professional network across acoustical consulting and technical audio 
 
 ### Networking and Consulting Development Areas
 
-**July 31 plan:** Generate several small acoustical-consulting-style project concepts, then identify which could be completed with accessible tools and produce clear analysis or reporting evidence.
+**July 31 plan:** Ask **Ray Plasse** whether he recommends a free or accessible room-modeling platform comparable in purpose to CAD- or EASE-based consulting tools. Use his guidance to identify an appropriate platform and outline a future project built around creating and evaluating room mockups.
 
 Future entries can document professional outreach, informational conversations, relationship follow-up, applications, industry events, room-acoustics study, measurement and analysis, technical reporting, and client-oriented recommendations.
 
