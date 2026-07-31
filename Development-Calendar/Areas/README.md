@@ -6,7 +6,7 @@ Each category pathway follows the same structure: it explains where the detailed
 
 - [Critical Listening](critical-listening.md)
 - [Automotive Audio, Research & Technical Study](automotive-audio.md)
-- [DSP & Software](dsp-and-software.md)
+- [DSP, Software & Electronics](dsp-and-software.md)
 - [Portfolio & Planning](portfolio-and-planning.md)
 
 ## Shared Planning Flow
