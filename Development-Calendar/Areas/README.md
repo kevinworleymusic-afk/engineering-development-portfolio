@@ -5,7 +5,7 @@
 Each category pathway follows the same structure: it explains where the detailed calendar lives, how weekly choices flow into the master calendar, and where the current project evidence is stored.
 
 - [Critical Listening](critical-listening.md)
-- [Automotive Audio, Research & Technical Study](automotive-audio.md)
+- [Automotive Audio & Technical Skills](automotive-audio.md)
 - [DSP, Software & Electronics](dsp-and-software.md)
 - [Portfolio & Planning](portfolio-and-planning.md)
 
