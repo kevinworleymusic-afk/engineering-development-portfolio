@@ -34,5 +34,4 @@ The following requests are planned for August 2, 2026. They are not listed as av
 - **Robert Grogan:** education, student teaching, and classroom-development perspective
 - **Tyrone Jackson:** musicianship, artistic mindset, and work ethic
 - **Trey Wright:** music-performance perspective
-- **Jon Lechner:** character and professional qualities demonstrated while handling the technical and creative complexity of movie mixing in a Belmont Dolby Atmos course
 
