@@ -50,7 +50,7 @@ Future entries can document professional outreach, informational conversations, 
 
 | **Mon** | **Tue** | **Wed** | **Thu** | **Fri** | **Sat** | **Sun** |
 |---|---|---|---|---|---|---|
-| — | — | — | — | — | [**1**](#august-1-acoustical-software-research-plan)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>◇ Research acoustics-software path | [**2**](#august-2-targeted-networking-plan)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>◇ Targeted outreach as useful |
+| — | — | — | — | — | [**1**](#august-1-acoustical-software-research-plan)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>◇ Research acoustics-software path | [**2**](#august-2-targeted-networking-plan)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>◇ Request professional references |
 | **3** | **4** | **5** | **6** | **7** | **8** | **9** |
 | **10** | **11** | **12** | **13** | **14** | **15** | **16** |
 | **17** | **18** | **19** | **20** | **21** | **22** | **23** |
@@ -63,10 +63,10 @@ Research acoustical software for room modeling, analysis, and future room-mockup
 
 **Planned output:** A shortlist of accessible acoustical-software tools, prerequisite skills, and initial practice steps to evaluate for the development curriculum.
 
-### August 2 Targeted Networking Plan
+### August 2 Professional-Reference Outreach Plan
 
-Review current project, study, and career questions and contact or follow up with someone only where a specific, useful question or relationship step is apparent. No outreach quota is required.
+Request focused professional references from **Bradley Rikard** (education and teaching), **Tyrone Jackson** (musicianship, artistic mindset, and work ethic), and **Trey Wright** (music performance). Tailor each request to the part of Kevin’s background the person directly observed, and record only requests that are actually sent.
 
-**Planned output:** A concise record of any purposeful contact made, or a note that no additional outreach was warranted.
+**Planned output:** Three appropriately scoped requests and a follow-up record. Any letter remains pending—not portfolio evidence—until it is received and approved for public use.
 
 Future dates will be populated only after a specific professional-development objective is selected.
