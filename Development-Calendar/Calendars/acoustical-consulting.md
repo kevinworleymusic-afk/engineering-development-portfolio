@@ -49,7 +49,7 @@ Future entries can document professional outreach, informational conversations, 
 
 | **Mon** | **Tue** | **Wed** | **Thu** | **Fri** | **Sat** | **Sun** |
 |---|---|---|---|---|---|---|
-| — | — | — | — | — | [**1**](#august-1-acoustical-software-research-plan)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>◇ Research acoustics-software path | **2** |
+| — | — | — | — | — | [**1**](#august-1-acoustical-software-research-plan)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>◇ Research acoustics-software path | [**2**](#august-2-targeted-networking-plan)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>◇ Targeted outreach as useful |
 | **3** | **4** | **5** | **6** | **7** | **8** | **9** |
 | **10** | **11** | **12** | **13** | **14** | **15** | **16** |
 | **17** | **18** | **19** | **20** | **21** | **22** | **23** |
@@ -61,5 +61,11 @@ Future entries can document professional outreach, informational conversations, 
 Research acoustical software for room modeling, analysis, and future room-mockup projects. Use any guidance received from **Ray Plasse** to investigate credible tools, required background, and a sensible learning sequence.
 
 **Planned output:** A shortlist of accessible acoustical-software tools, prerequisite skills, and initial practice steps to evaluate for the development curriculum.
+
+### August 2 Targeted Networking Plan
+
+Review current project, study, and career questions and contact or follow up with someone only where a specific, useful question or relationship step is apparent. No outreach quota is required.
+
+**Planned output:** A concise record of any purposeful contact made, or a note that no additional outreach was warranted.
 
 Future dates will be populated only after a specific professional-development objective is selected.
