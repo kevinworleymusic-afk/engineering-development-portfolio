@@ -39,7 +39,7 @@ Develop a professional network across acoustical consulting and technical audio 
 
 ### Networking and Consulting Development Areas
 
-**July 31 outreach record:** Sent **Ray Plasse** a follow-up asking about free or accessible room-modeling software comparable in purpose to CAD- or EASE-based consulting tools. Also contacted **Alek Weidman** for recommendations on electrical-engineering self-study materials and learning direction that could extend the introductory studio-electronics work completed through Mike Porter’s course. Responses and recommendations have not yet been received or evaluated.
+**July 31 outreach record:** Contacted **Ray Plasse** for guidance on an acoustical-software study path, including free or accessible room-modeling tools comparable in purpose to CAD- or EASE-based consulting workflows and possible preparation for future room-mockup projects. In parallel, contacted **Alek Weidman** for guidance on an electrical-engineering self-study path that could extend the introductory studio-electronics work completed through Mike Porter’s course. Responses and recommendations have not yet been received or evaluated.
 
 Future entries can document professional outreach, informational conversations, relationship follow-up, applications, industry events, room-acoustics study, measurement and analysis, technical reporting, and client-oriented recommendations.
 
@@ -49,17 +49,17 @@ Future entries can document professional outreach, informational conversations, 
 
 | **Mon** | **Tue** | **Wed** | **Thu** | **Fri** | **Sat** | **Sun** |
 |---|---|---|---|---|---|---|
-| — | — | — | — | — | [**1**](#august-1-electrical-engineering-guidance-plan)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>◇ Research EE study path | **2** |
+| — | — | — | — | — | [**1**](#august-1-electrical-engineering-guidance-plan)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>◇ Research EE + acoustics paths | **2** |
 | **3** | **4** | **5** | **6** | **7** | **8** | **9** |
 | **10** | **11** | **12** | **13** | **14** | **15** | **16** |
 | **17** | **18** | **19** | **20** | **21** | **22** | **23** |
 | **24** | **25** | **26** | **27** | **28** | **29** | **30** |
 | **31** | — | — | — | — | — | — |
 
-### August 1 Electrical Engineering Self-Study Research Plan
+### August 1 Electrical Engineering and Acoustical-Software Research Plan
 
-Research electrical-engineering self-study materials, foundational topics, and possible learning sequences relevant to audio, DSP, measurement, and system implementation. Use any guidance received from **Alek Weidman**, whose graduate background also includes electrical engineering, as an input. Outreach may occur before Saturday; the scheduled Saturday activity is reviewing the guidance, investigating resources, and organizing a study direction that extends the introductory studio-electronics foundation developed through **Mike Porter’s course**.
+Research two related development paths: electrical-engineering foundations relevant to audio, DSP, measurement, and system implementation; and acoustical software for room modeling, analysis, and future room-mockup projects. Use any guidance received from **Alek Weidman** for the electrical-engineering path and **Ray Plasse** for the acoustical-software path. The scheduled Saturday activity is reviewing their guidance if available, investigating credible resources, and organizing sensible next steps.
 
-**Planned output:** A short list of credible resources and an initial sequence of electrical-engineering topics to evaluate for the development curriculum.
+**Planned output:** An initial electrical-engineering topic sequence plus a shortlist of accessible acoustical-software tools and prerequisite skills to evaluate for the development curriculum.
 
 Future dates will be populated only after a specific professional-development objective is selected.
