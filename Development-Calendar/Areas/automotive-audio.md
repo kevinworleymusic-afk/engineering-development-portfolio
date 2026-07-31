@@ -2,7 +2,9 @@
 
 [Master calendar](../README.md) · [Open the full Automotive Audio, Research & Technical-Study Calendar](../Calendars/automotive-audio.md)
 
-This pathway combines automotive-audio development with the research, technical reading, methodology, study-design, and validation work that supports it. The detailed calendar links outward to project plans, implementation evidence, and clearly labeled future work.
+This pathway combines automotive-audio development with the research, technical reading, methodology, study-design, and validation work that supports it. This pathway includes automotive-audio projects plus supporting technical skills such as relevant electrical/electronics foundations. Electronics exercises remain primarily documented in the [DSP, Software & Electronics pathway](dsp-and-software.md) and are cross-linked here when they directly support automotive competency.
+
+The detailed calendar links outward to project plans, implementation evidence, and clearly labeled future work.
 
 ## Calendar Flow
 
