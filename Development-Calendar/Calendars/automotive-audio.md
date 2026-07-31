@@ -26,11 +26,15 @@ The sequence is: establish the repository, translate professional guidance into 
 
 **July 31 selection record:** Chose electrical/electronics foundational study as the weekend technical-development direction because circuit literacy, measurement, troubleshooting, and hardware understanding support later automotive-audio system work. The activity remains housed in the DSP, Software & Electronics pathway; it is recorded here as enabling preparation rather than represented as a vehicle-specific project.
 
+## Electronics Support Within the Automotive Pathway
+
+Electrical/electronics study appears in this calendar when it is intentionally supporting automotive-audio competency, including circuit literacy, measurement, troubleshooting, amplification, transducers, DSP hardware, power, and system integration. The primary exercise instructions and evidence remain in the [DSP, Software & Electronics calendar](dsp-and-software.md) so the same work is not duplicated or overstated.
+
 ## August 2026
 
 | **Monday** | **Tuesday** | **Wednesday** | **Thursday** | **Friday** | **Saturday** | **Sunday** |
 |---|---|---|---|---|---|---|
-| — | — | — | — | — | [**1**](#august-1-employer-research-plan)<br>[🟧 **AUTO/TECH**](../Areas/automotive-audio.md)<br>◇ Research auto employers | [**2**](#august-2-next-week-project-plan)<br>[🟧 **AUTO/TECH**](../Areas/automotive-audio.md)<br>◇ Plan next-week auto project |
+| — | — | — | — | — | [**1**](#august-1-employer-research-plan)<br>[🟧 **AUTO/TECH**](../Areas/automotive-audio.md)<br>◇ Research auto employers<br><br>[🟧 **AUTO/TECH**](../Calendars/dsp-and-software.md#august-1-electrical-engineering-study-plan)<br>◇ EE support: research study path | [**2**](#august-2-next-week-project-plan)<br>[🟧 **AUTO/TECH**](../Areas/automotive-audio.md)<br>◇ Plan next-week auto project<br><br>[🟧 **AUTO/TECH**](../Calendars/dsp-and-software.md#august-2-circuit-activity-plan)<br>◇ EE support: circuit activity |
 | [**3**](../2026-08.md#august-3-9)<br>◇ Refine auto career plan | [**4**](../2026-08.md#august-3-9) | [**5**](../2026-08.md#august-3-9) | [**6**](../2026-08.md#august-3-9) | [**7**](../2026-08.md#august-3-9) | [**8**](../2026-08.md#august-3-9) | [**9**](../2026-08.md#august-3-9) |
 | [**10**](../2026-08.md#august-10-16) | [**11**](../2026-08.md#august-10-16) | [**12**](../2026-08.md#august-10-16) | [**13**](../2026-08.md#august-10-16) | [**14**](../2026-08.md#august-10-16) | [**15**](../2026-08.md#august-10-16) | [**16**](../2026-08.md#august-10-16) |
 | [**17**](../2026-08.md#august-17-23) | [**18**](../2026-08.md#august-17-23) | [**19**](../2026-08.md#august-17-23) | [**20**](../2026-08.md#august-17-23) | [**21**](../2026-08.md#august-17-23) | [**22**](../2026-08.md#august-17-23) | [**23**](../2026-08.md#august-17-23) |
