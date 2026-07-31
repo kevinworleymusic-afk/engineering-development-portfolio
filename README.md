@@ -12,7 +12,7 @@ Start with the [room-response analysis](Projects/Coding-and-Audio-Software/MATLA
 
 This current-week snapshot shows how the portfolio is being developed across connected disciplines. **✓ Recorded · ◇ Planned**
 
-[🟦 **Listening**](Development-Calendar/Areas/critical-listening.md) · [🟧 **Automotive/Research**](Development-Calendar/Areas/automotive-audio.md) · [🟪 **DSP/Software**](Development-Calendar/Areas/dsp-and-software.md) · [🟩 **Planning**](Development-Calendar/Areas/portfolio-and-planning.md) · [🟨 **Networking/Consulting**](Development-Calendar/Areas/acoustical-consulting.md)
+[🟦 **Listening**](Development-Calendar/Areas/critical-listening.md) · [🟧 **Automotive/Technical Skills**](Development-Calendar/Areas/automotive-audio.md) · [🟪 **DSP/Software**](Development-Calendar/Areas/dsp-and-software.md) · [🟩 **Planning**](Development-Calendar/Areas/portfolio-and-planning.md) · [🟨 **Networking/Consulting**](Development-Calendar/Areas/acoustical-consulting.md)
 
 | **Mon** | **Tue** | **Wed** | **Thu** | **Fri** | **Sat** | **Sun** |
 |---|---|---|---|---|---|---|
