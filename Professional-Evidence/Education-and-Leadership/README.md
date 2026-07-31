@@ -31,6 +31,7 @@ These are portfolio-safe copies. Street addresses, certificate identifiers, and 
 The following requests are planned for August 2, 2026. They are not listed as available recommendations unless a letter is received and approved for public use.
 
 - **Bradley Rikard:** education and teaching perspective
+- **Robert Grogan:** education, student teaching, and classroom-development perspective
 - **Tyrone Jackson:** musicianship, artistic mindset, and work ethic
 - **Trey Wright:** music-performance perspective
 
