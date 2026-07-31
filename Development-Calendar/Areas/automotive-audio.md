@@ -8,7 +8,7 @@ This pathway combines automotive-audio development with the research, technical 
 
 1. Set the week's automotive, research, and technical-study processes in the [detailed calendar](../Calendars/automotive-audio.md).
 2. Populate scheduled dates with objectives, study questions, technical material, constraints, and intended evidence.
-3. Add only a short linked Automotive Audio, Research & Technical Study entry to each applicable day on the [master calendar](../README.md).
+3. Add only a short linked Automotive Audio & Technical Skills entry to each applicable day on the [master calendar](../README.md).
 4. Link completed days to project documents, notes, methods, reports, or implementation evidence.
 
 ## Current Detailed Record
