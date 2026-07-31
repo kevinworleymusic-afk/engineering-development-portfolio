@@ -7,6 +7,7 @@
 - [July monthly plan](../Plans/dsp-and-software/01-monthly/2026-07.md)
 - [July 13–19 weekly plan](../Plans/dsp-and-software/02-weekly/2026-07-13.md)
 - [July 20–26 weekly plan](../Plans/dsp-and-software/02-weekly/2026-07-20.md)
+- [July 27–August 2 weekly plan](../Plans/dsp-and-software/02-weekly/2026-07-27.md)
 
 Repository and document additions use the date of the first relevant GitHub commit. Sessions, calls, and outreach use their recorded real-world dates. Entries describing multi-day strategy or procedure development are period-level records and do not imply that a particular file was created that day.
 
