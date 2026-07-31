@@ -5,7 +5,7 @@
 These records apply the monthly and weekly templates to the work already documented in each non-listening calendar.
 
 - [Automotive Audio, Research & Technical Study](automotive-audio/)
-- [DSP & Software](dsp-and-software/)
+- [DSP, Software & Electronics](dsp-and-software/)
 - [Portfolio & Planning](portfolio-and-planning/)
 - [Professional Networking & Acoustical Consulting](networking-and-consulting/)
 
