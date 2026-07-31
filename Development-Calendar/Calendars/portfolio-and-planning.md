@@ -29,7 +29,7 @@ Repository and document additions use the date of the first relevant GitHub comm
 
 ### July 31 Planning Output
 
-Select and scope one small weekend automotive-audio project after reviewing the current roadmap. If capacity remains, generate acoustical-consulting project ideas and identify the most feasible evidence-producing option.
+Select and scope one small weekend automotive-audio project after reviewing the current roadmap. Also prepare a focused question for Ray Plasse about free or accessible room-modeling software, with the longer-term goal of building room-mockup projects.
 
 ### Month Objective
 
