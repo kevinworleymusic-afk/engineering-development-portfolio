@@ -49,17 +49,17 @@ Future entries can document professional outreach, informational conversations, 
 
 | **Mon** | **Tue** | **Wed** | **Thu** | **Fri** | **Sat** | **Sun** |
 |---|---|---|---|---|---|---|
-| — | — | — | — | — | [**1**](#august-1-electrical-engineering-guidance-plan)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>◇ Research EE + acoustics paths | **2** |
+| — | — | — | — | — | [**1**](#august-1-acoustical-software-research-plan)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>◇ Research acoustics-software path | **2** |
 | **3** | **4** | **5** | **6** | **7** | **8** | **9** |
 | **10** | **11** | **12** | **13** | **14** | **15** | **16** |
 | **17** | **18** | **19** | **20** | **21** | **22** | **23** |
 | **24** | **25** | **26** | **27** | **28** | **29** | **30** |
 | **31** | — | — | — | — | — | — |
 
-### August 1 Electrical Engineering and Acoustical-Software Research Plan
+### August 1 Acoustical-Software Research Plan
 
-Research two related development paths: electrical-engineering foundations relevant to audio, DSP, measurement, and system implementation; and acoustical software for room modeling, analysis, and future room-mockup projects. Use any guidance received from **Alek Weidman** for the electrical-engineering path and **Ray Plasse** for the acoustical-software path. The scheduled Saturday activity is reviewing their guidance if available, investigating credible resources, and organizing sensible next steps.
+Research acoustical software for room modeling, analysis, and future room-mockup projects. Use any guidance received from **Ray Plasse** to investigate credible tools, required background, and a sensible learning sequence.
 
-**Planned output:** An initial electrical-engineering topic sequence plus a shortlist of accessible acoustical-software tools and prerequisite skills to evaluate for the development curriculum.
+**Planned output:** A shortlist of accessible acoustical-software tools, prerequisite skills, and initial practice steps to evaluate for the development curriculum.
 
 Future dates will be populated only after a specific professional-development objective is selected.
