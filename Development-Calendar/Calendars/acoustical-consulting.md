@@ -65,8 +65,8 @@ Research acoustical software for room modeling, analysis, and future room-mockup
 
 ### August 2 Professional-Reference Outreach Plan
 
-Request focused professional references from **Bradley Rikard** (education and teaching), **Tyrone Jackson** (musicianship, artistic mindset, and work ethic), and **Trey Wright** (music performance). Tailor each request to the part of Kevin’s background the person directly observed, and record only requests that are actually sent.
+Request focused professional references from **Bradley Rikard** and **Robert Grogan** (education, student teaching, and classroom development), **Tyrone Jackson** (musicianship, artistic mindset, and work ethic), and **Trey Wright** (music performance). Tailor each request to the part of Kevin’s background the person directly observed, and record only requests that are actually sent.
 
-**Planned output:** Three appropriately scoped requests and a follow-up record. Any letter remains pending—not portfolio evidence—until it is received and approved for public use.
+**Planned output:** Four appropriately scoped requests and a follow-up record. Any letter remains pending—not portfolio evidence—until it is received and approved for public use.
 
 Future dates will be populated only after a specific professional-development objective is selected.
