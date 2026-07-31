@@ -8,9 +8,9 @@ Choose one primary development pathway and, when useful, one maintenance or seco
 
 **Choose:** system architecture · measurement/validation · cabin acoustics/loudspeaker integration · DSP/tuning · demo/implementation planning · technical research · career roadmap
 
-## 🟪 DSP & Software
+## 🟪 DSP, Software & Electronics
 
-**Choose:** Python development · MATLAB analysis · Pure Data prototyping · DSP algorithms · automated testing/validation · documentation · embedded or multichannel planning
+**Choose:** Python development · MATLAB analysis · Pure Data prototyping · DSP algorithms · automated testing/validation · documentation · embedded or multichannel planning · audio electronics · circuit fundamentals · measurement/troubleshooting
 
 ## 🟩 Portfolio & Planning
 
@@ -27,4 +27,4 @@ Choose one primary development pathway and, when useful, one maintenance or seco
 - **Evidence sought:** one observable output or decision
 - **Available day(s) or constraints:** optional
 
-A valid request can be: **“Develop DSP & Software—Python testing; maintain Automotive—measurement research; produce a documented test result.”**
+A valid request can be: **“Develop DSP, Software & Electronics—Python testing; maintain Automotive—measurement research; produce a documented test result.”**
