@@ -16,7 +16,7 @@ This current-week snapshot shows how the portfolio is being developed across con
 
 | **Mon** | **Tue** | **Wed** | **Thu** | **Fri** | **Sat** | **Sun** |
 |---|---|---|---|---|---|---|
-| [**27**](Development-Calendar/README.md#july-2026)<br>🟦 ✓ Baseline<br>🟩 ✓ Evidence<br>🟧 ✓ Ideas | [**28**](Development-Calendar/README.md#july-2026)<br>🟦 ✓ Warmup<br>🟩 ✓ Daily<br>🟧 ✓ Sequence | [**29**](Development-Calendar/README.md#july-2026)<br>🟩 ✓ Weekly<br>🟦 ✓ Develop<br>🟧 ✓ Feasibility | [**30**](Development-Calendar/README.md#july-2026)<br>🟦 ✓ EQ<br>🟩 ✓ Calendar<br>🟧 ✓ Evidence | [**31**](Development-Calendar/README.md#july-2026)<br>🟩 ◇ Calendar<br>🟦 ◇ Docs<br>🟧 ◇ Strategy | [**1**](Development-Calendar/README.md#august-2026)<br>🟩 ◇ Setup<br>🟦 ◇ Warmup<br>🟧 ◇ Roadmap | [**2**](Development-Calendar/README.md#august-2026)<br>🟩 ◇ Weekly<br>🟦 ◇ Planning<br>🟧 ◇ Ideas |
+| [**27**](Development-Calendar/README.md#july-2026)<br>🟦 ✓ Baseline<br>🟩 ✓ Review<br>🟧 ✓ Matrix | [**28**](Development-Calendar/README.md#july-2026)<br>🟦 ✓ Warmup<br>🟩 ✓ Workflow<br>🟧 ✓ Project order | [**29**](Development-Calendar/README.md#july-2026)<br>🟩 ✓ Weekly plan<br>🟦 ✓ Training<br>🟧 ✓ Feasibility | [**30**](Development-Calendar/README.md#july-2026)<br>🟦 ✓ EQ<br>🟩 ✓ Master cal<br>🟧 ✓ Project proof | [**31**](Development-Calendar/README.md#july-2026)<br>🟩 ◇ Calendar links<br>🟦 ◇ Docs<br>🟧 ◇ Auto plan | [**1**](Development-Calendar/README.md#august-2026)<br>🟩 ◇ Cal setup<br>🟦 ◇ Warmup<br>🟧 ◇ Auto roadmap | [**2**](Development-Calendar/README.md#august-2026)<br>🟩 ◇ Week plan<br>🟦 ◇ Listen plan<br>🟧 ◇ Projects |
 
 [Open the full master calendar](Development-Calendar/) for the complete daily history, monthly objectives, weekly progression, and detailed category calendars.
 
