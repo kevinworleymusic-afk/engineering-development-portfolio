@@ -63,7 +63,7 @@ Use the [populated pathway plans](Plans/) to review the objectives behind record
 
 | **Mon** | **Tue** | **Wed** | **Thu** | **Fri** | **Sat** | **Sun** |
 |---|---|---|---|---|---|---|
-| — | — | — | — | — | [**1**](2026-08.md)<br>[🟩 **PLAN**](Areas/portfolio-and-planning.md)<br>◇ Set up calendar<br><br>[🟦 **LISTEN**](Areas/critical-listening.md)<br>◇ Set warmup process<br><br>[🟧 **AUTO/R&T**](Areas/automotive-audio.md)<br>◇ Research auto employers<br><br>[🟨 **NET**](Areas/acoustical-consulting.md)<br>◇ Research EE study path | [**2**](2026-08.md)<br>[🟩 **PLAN**](Areas/portfolio-and-planning.md)<br>◇ Build weekly plan<br><br>[🟦 **LISTEN**](Areas/critical-listening.md)<br>◇ Plan listening<br><br>[🟧 **AUTO/R&T**](Areas/automotive-audio.md)<br>◇ Select projects |
+| — | — | — | — | — | [**1**](2026-08.md)<br>[🟦 **LISTEN**](Areas/critical-listening.md)<br>◇ Set warmup process<br><br>[🟧 **AUTO/R&T**](Areas/automotive-audio.md)<br>◇ Research auto employers<br><br>[🟨 **NET**](Areas/acoustical-consulting.md)<br>◇ Research EE study path | [**2**](2026-08.md)<br>[🟩 **PLAN**](Areas/portfolio-and-planning.md)<br>◇ Build weekly plan<br><br>[🟦 **LISTEN**](Areas/critical-listening.md)<br>◇ Plan listening<br><br>[🟧 **AUTO/R&T**](Areas/automotive-audio.md)<br>◇ Select projects |
 | [**3**](2026-08.md#august-3-9)<br>[🟩 **PLAN**](Areas/portfolio-and-planning.md)<br>◇ Set August plan<br><br>[🟦 **LISTEN**](Areas/critical-listening.md)<br>◇ Begin practice cycle<br><br>[🟧 **AUTO/R&T**](Areas/automotive-audio.md)<br>◇ Refine auto career plan | [**4**](2026-08.md#august-3-9) | [**5**](2026-08.md#august-3-9) | [**6**](2026-08.md#august-3-9) | [**7**](2026-08.md#august-3-9) | [**8**](2026-08.md#august-3-9) | [**9**](2026-08.md#august-3-9) |
 | [**10**](2026-08.md#august-10-16) | [**11**](2026-08.md#august-10-16) | [**12**](2026-08.md#august-10-16) | [**13**](2026-08.md#august-10-16) | [**14**](2026-08.md#august-10-16) | [**15**](2026-08.md#august-10-16) | [**16**](2026-08.md#august-10-16) |
 | [**17**](2026-08.md#august-17-23) | [**18**](2026-08.md#august-17-23) | [**19**](2026-08.md#august-17-23) | [**20**](2026-08.md#august-17-23) | [**21**](2026-08.md#august-17-23) | [**22**](2026-08.md#august-17-23) | [**23**](2026-08.md#august-17-23) |
@@ -76,7 +76,7 @@ Use the [populated pathway plans](Plans/) to review the objectives behind record
 
 ### Weekly Progression
 
-- [**August 1–2:** Complete calendar and planning integration.](2026-08.md#august-1-2)
+- [**August 1–2:** Establish employer research, technical-study direction, and the next listening cycle.](2026-08.md#august-1-2)
 - [**August 3–9:** Begin a balanced cross-disciplinary cycle.](2026-08.md#august-3-9)
 - [**August 10–16:** Stabilize selected development priorities.](2026-08.md#august-10-16)
 - [**August 17–23:** Advance difficulty or project scope from evidence.](2026-08.md#august-17-23)
