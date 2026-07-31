@@ -6,6 +6,10 @@ This pathway combines automotive-audio development with the research, technical 
 
 The detailed calendar links outward to project plans, implementation evidence, and clearly labeled future work.
 
+## Cross-Pathway Electronics Routing
+
+Electrical/electronics study is displayed here whenever the purpose involves vehicle power, grounding, amplification, transducers, measurement, troubleshooting, DSP hardware, or system integration. The underlying concept, exercise, and result remain in [DSP, Software & Electronics](dsp-and-software.md), and the contact who supplied guidance remains in [Networking & Acoustical Consulting](acoustical-consulting.md).
+
 ## Calendar Flow
 
 1. Set the week's automotive, research, and technical-study processes in the [detailed calendar](../Calendars/automotive-audio.md).
