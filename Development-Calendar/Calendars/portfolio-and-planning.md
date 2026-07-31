@@ -29,7 +29,7 @@ Repository and document additions use the date of the first relevant GitHub comm
 
 ### July 31 Planning Output
 
-**Completed:** Scoped electrical/electronics foundational study as the weekend technical-development direction, with Saturday assigned to researching an EE learning path and Sunday reserved for a circuit-related activity if guidance is available. This supports future automotive-audio implementation without being mislabeled as a vehicle-specific project. Also completed the outreach step to Ray Plasse about an acoustical-software study path for future room-modeling work.
+**Completed:** Scoped electrical/electronics foundational study as the weekend technical-development direction, with Saturday assigned to researching an EE learning path and Sunday reserved for a circuit-related activity if guidance is available. This supports future automotive-audio implementation without being mislabeled as a vehicle-specific project. Also completed outreach to Ray Plasse about an acoustical-software study path and to George Lawson about identifying the architectural-rendering software used in a prior REW project and locating the original files. Software identification and evidence recovery remain pending.
 
 ### Month Objective
 
