@@ -10,7 +10,7 @@ The same marker identifies each category in the legend, calendar cells, gateways
 
 - [🟦 **Critical Listening**](Areas/critical-listening.md)
 - [🟧 **Automotive Audio, Research & Technical Study**](Areas/automotive-audio.md)
-- [🟪 **DSP & Software**](Areas/dsp-and-software.md)
+- [🟪 **DSP, Software & Electronics**](Areas/dsp-and-software.md)
 - [🟩 **Portfolio & Planning**](Areas/portfolio-and-planning.md)
 - [🟨 **Professional Networking & Acoustical Consulting**](Areas/acoustical-consulting.md)
 
@@ -63,7 +63,7 @@ Use the [populated pathway plans](Plans/) to review the objectives behind record
 
 | **Mon** | **Tue** | **Wed** | **Thu** | **Fri** | **Sat** | **Sun** |
 |---|---|---|---|---|---|---|
-| — | — | — | — | — | [**1**](2026-08.md)<br>[🟦 **LISTEN**](Areas/critical-listening.md)<br>◇ Set warmup process<br><br>[🟧 **AUTO/R&T**](Areas/automotive-audio.md)<br>◇ Research auto employers<br><br>[🟨 **NET**](Areas/acoustical-consulting.md)<br>◇ Research EE + acoustics paths | [**2**](2026-08.md)<br>[🟩 **PLAN**](Areas/portfolio-and-planning.md)<br>◇ Build weekly plan<br><br>[🟦 **LISTEN**](Areas/critical-listening.md)<br>◇ Plan listening<br><br>[🟧 **AUTO/R&T**](Areas/automotive-audio.md)<br>◇ Select projects |
+| — | — | — | — | — | [**1**](2026-08.md)<br>[🟦 **LISTEN**](Areas/critical-listening.md)<br>◇ Set warmup process<br><br>[🟧 **AUTO/R&T**](Areas/automotive-audio.md)<br>◇ Research auto employers<br><br>[🟪 **DSP/SW**](Areas/dsp-and-software.md)<br>◇ Research EE study path<br><br>[🟨 **NET**](Areas/acoustical-consulting.md)<br>◇ Research acoustics-software path | [**2**](2026-08.md)<br>[🟩 **PLAN**](Areas/portfolio-and-planning.md)<br>◇ Build weekly plan<br><br>[🟦 **LISTEN**](Areas/critical-listening.md)<br>◇ Plan listening<br><br>[🟧 **AUTO/R&T**](Areas/automotive-audio.md)<br>◇ Select projects |
 | [**3**](2026-08.md#august-3-9)<br>[🟩 **PLAN**](Areas/portfolio-and-planning.md)<br>◇ Set August plan<br><br>[🟦 **LISTEN**](Areas/critical-listening.md)<br>◇ Begin practice cycle<br><br>[🟧 **AUTO/R&T**](Areas/automotive-audio.md)<br>◇ Refine auto career plan | [**4**](2026-08.md#august-3-9) | [**5**](2026-08.md#august-3-9) | [**6**](2026-08.md#august-3-9) | [**7**](2026-08.md#august-3-9) | [**8**](2026-08.md#august-3-9) | [**9**](2026-08.md#august-3-9) |
 | [**10**](2026-08.md#august-10-16) | [**11**](2026-08.md#august-10-16) | [**12**](2026-08.md#august-10-16) | [**13**](2026-08.md#august-10-16) | [**14**](2026-08.md#august-10-16) | [**15**](2026-08.md#august-10-16) | [**16**](2026-08.md#august-10-16) |
 | [**17**](2026-08.md#august-17-23) | [**18**](2026-08.md#august-17-23) | [**19**](2026-08.md#august-17-23) | [**20**](2026-08.md#august-17-23) | [**21**](2026-08.md#august-17-23) | [**22**](2026-08.md#august-17-23) | [**23**](2026-08.md#august-17-23) |
@@ -72,7 +72,7 @@ Use the [populated pathway plans](Plans/) to review the objectives behind record
 
 ### Month Objective
 
-[Convert the portfolio foundation into coordinated, evidence-producing work across critical listening, automotive research and technical study, DSP and software, and portfolio planning.](2026-08.md#month-objective)
+[Convert the portfolio foundation into coordinated, evidence-producing work across critical listening, automotive research and technical study, DSP, software, and electronics, and portfolio planning.](2026-08.md#month-objective)
 
 ### Weekly Progression
 
@@ -90,6 +90,6 @@ Use the [populated pathway plans](Plans/) to review the objectives behind record
 - [All detailed calendars](Calendars/)
 - [Critical Listening](https://github.com/kevinworleymusic-afk/technical-ear-training/tree/main/calendar)
 - [Automotive Audio, Research & Technical Study](Calendars/automotive-audio.md)
-- [DSP & Software](Calendars/dsp-and-software.md)
+- [DSP, Software & Electronics](Calendars/dsp-and-software.md)
 - [Portfolio & Planning](Calendars/portfolio-and-planning.md)
 - [Professional Networking & Acoustical Consulting](Calendars/acoustical-consulting.md)
