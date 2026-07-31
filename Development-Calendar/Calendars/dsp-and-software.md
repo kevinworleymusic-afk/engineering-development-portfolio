@@ -1,4 +1,4 @@
-# DSP & Software Development Calendar
+# DSP, Software & Electronics Development Calendar
 
 [Category pathway](../Areas/dsp-and-software.md) · [Master calendar](../README.md) · [DSP and Software portfolio section](../../README.md#audio-dsp-and-software)
 
@@ -32,14 +32,20 @@ The standalone [Python Audio File Report](https://github.com/kevinworleymusic-af
 
 | **Monday** | **Tuesday** | **Wednesday** | **Thursday** | **Friday** | **Saturday** | **Sunday** |
 |---|---|---|---|---|---|---|
-| — | — | — | — | — | [**1**](../2026-08.md#august-1-2) | [**2**](../2026-08.md#august-1-2) |
+| — | — | — | — | — | [**1**](#august-1-electrical-engineering-study-plan)<br>[🟪 **DSP/SW**](../Areas/dsp-and-software.md)<br>◇ Research EE study path | [**2**](../2026-08.md#august-1-2) |
 | [**3**](../2026-08.md#august-3-9) | [**4**](../2026-08.md#august-3-9) | [**5**](../2026-08.md#august-3-9) | [**6**](../2026-08.md#august-3-9) | [**7**](../2026-08.md#august-3-9) | [**8**](../2026-08.md#august-3-9) | [**9**](../2026-08.md#august-3-9) |
 | [**10**](../2026-08.md#august-10-16) | [**11**](../2026-08.md#august-10-16) | [**12**](../2026-08.md#august-10-16) | [**13**](../2026-08.md#august-10-16) | [**14**](../2026-08.md#august-10-16) | [**15**](../2026-08.md#august-10-16) | [**16**](../2026-08.md#august-10-16) |
 | [**17**](../2026-08.md#august-17-23) | [**18**](../2026-08.md#august-17-23) | [**19**](../2026-08.md#august-17-23) | [**20**](../2026-08.md#august-17-23) | [**21**](../2026-08.md#august-17-23) | [**22**](../2026-08.md#august-17-23) | [**23**](../2026-08.md#august-17-23) |
 | [**24**](../2026-08.md#august-24-30) | [**25**](../2026-08.md#august-24-30) | [**26**](../2026-08.md#august-24-30) | [**27**](../2026-08.md#august-24-30) | [**28**](../2026-08.md#august-24-30) | [**29**](../2026-08.md#august-24-30) | [**30**](../2026-08.md#august-24-30) |
 | [**31**](../2026-08.md#august-31) | — | — | — | — | — | — |
 
-No DSP or software tasks are assigned to the August date cells yet. Weekly choices will populate only scheduled days.
+### August 1 Electrical Engineering Study Plan
+
+Research electrical-engineering foundations relevant to audio electronics, DSP hardware, measurement, troubleshooting, and system implementation. Use any guidance received from **Alek Weidman** to identify credible materials and a sensible learning sequence that builds on the introductory studio-electronics and repair instruction completed through **Mike Porter’s course**.
+
+**Planned output:** A short resource list and an initial sequence of electrical-engineering topics or practical exercises to evaluate for this pathway.
+
+Only August 1 currently contains a scheduled electronics-development task. Other dates will be populated after weekly objectives are selected.
 
 ## Detailed Evidence
 
