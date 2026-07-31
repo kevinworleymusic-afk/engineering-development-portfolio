@@ -26,11 +26,6 @@ The recommendations were written primarily for education or substitute-teaching 
 These are portfolio-safe copies. Street addresses, certificate identifiers, and personal recommender contact details were removed before public posting. The original documents remain unchanged outside this repository.
 
 
-## Planned Reference Requests
+## Recommendation and Endorsement Tracker
 
-The Bradley Rikard and Trey Wright requests are planned for August 2, 2026. The Tyrone Jackson request is planned for July 31, 2026. They are not listed as available recommendations unless a letter is received and approved for public use.
-
-- **Bradley Rikard:** education, student teaching, and classroom-development perspective; the same outreach will ask about nearby part-time music-education work, occasional music-substitute assignments, or local music-program opportunities
-- **Tyrone Jackson — planned July 31:** personal growth from being highly reserved toward greater confidence, openness, and pursuit of professional potential, viewed through the similar developmental perspective he has shared
-- **Trey Wright:** music-performance perspective
-
+The broader [recommendation and professional-endorsement gateway](../Recommendations-and-Endorsements/) separates received evidence from pending, planned, conditional, and future requests by discipline. Education files remain here in their original portfolio organization and are linked from that gateway.

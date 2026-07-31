@@ -6,7 +6,7 @@ The portfolio leads with evidence relevant to acoustical consulting: room-respon
 
 Start with the [room-response analysis](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Impulse-Response-and-Audio-Systems-Analysis/README.md), [Audio Precision validation study](Projects/Technical-Audio-and-Research/Studer-A80-vs-A800-Plugin-Validation-Study/README.md), [critical-listening record](https://github.com/kevinworleymusic-afk/technical-ear-training), [Pure Data DSP prototype](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/01_Real-Time_DSP_Prototype_in_Pure_Data.md), [Python Audio File Report](https://github.com/kevinworleymusic-afk/audio-file-report), and [automotive development roadmap](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/Future-Projects/02_Automotive_Audio_Implementation_Roadmap.md).
 
-**Navigate:** [Master Development Calendar](Development-Calendar/) · [Technical Projects](#major-technical-audio-and-applied-engineering-projects) · [Music Performance & Music Education Background](#music-performance--music-education-background) · [Critical Listening](#critical-listening-and-immersive-experience) · [DSP, Software & Electronics](#audio-dsp-and-software-projects) · [Technical Foundations](#additional-technical-foundations) · [Career Direction](#career-direction-acoustical-consulting-and-automotive-audio)
+**Navigate:** [Master Development Calendar](Development-Calendar/) · [Professional Endorsements](#professional-recommendations-and-endorsements) · [Technical Projects](#major-technical-audio-and-applied-engineering-projects) · [Music Performance & Music Education Background](#music-performance--music-education-background) · [Critical Listening](#critical-listening-and-immersive-experience) · [DSP, Software & Electronics](#audio-dsp-and-software-projects) · [Technical Foundations](#additional-technical-foundations) · [Career Direction](#career-direction-acoustical-consulting-and-automotive-audio)
 
 ## Development Calendar at a Glance
 
@@ -19,6 +19,12 @@ This current-week snapshot shows how the portfolio is being developed across con
 | [**27**](Development-Calendar/README.md#july-2026)<br>🟦 ✓ Session 1<br>🟩 ✓ Career update<br>🟧 ✓ Published roadmap<br>🟪 ✓ DSP plans | [**28**](Development-Calendar/README.md#july-2026)<br>🟦 ✓ Listening procedures<br>🟩 ✓ Planning workflow<br>🟧 ✓ Prioritized projects | [**29**](Development-Calendar/README.md#july-2026)<br>🟦 ✓ Training evidence<br>🟪 ✓ Added PD project<br>🟩 ✓ Integrated evidence<br>🟧 ✓ Organized roadmap | [**30**](Development-Calendar/README.md#july-2026)<br>🟦 ✓ Session 2 + warmup<br>🟩 ✓ Calendar system<br>🟧 ✓ Linked auto work | [**31**](Development-Calendar/README.md#july-2026)<br>🟦 ◇ EQ/distortion → comp/reverb<br>🟪 ◇ Test PD<br>🟧 ✓ Selected auto-support EE study<br>🟩 ✓ Scoped weekend study<br>🟨 ✓ 6 contacts: EE, acoustics, Atmos + references<br>🟨 ◇ Tyrone growth-reference request | [**1**](Development-Calendar/README.md#august-2026)<br>🟦 ◇ Set warmup<br>🟧 ◇ Research employers<br>🟪 ◇ Research EE study path<br>🟨 ◇ Research acoustics software | [**2**](Development-Calendar/README.md#august-2026)<br>🟦 ◇ All-chapter warmups<br>🟪 ◇ Circuit/EE activity<br>🟧 ◇ Plan auto project<br>🟨 ◇ Request references |
 
 [Open the full master calendar](Development-Calendar/) for the complete daily history, monthly objectives, weekly progression, and detailed category calendars.
+
+## Professional Recommendations and Endorsements
+
+The portfolio currently includes four public recommendation letters covering education, musicianship, reliability, communication, teamwork, and leadership, plus [Torey Harding's privacy-redacted Starstruck Studios internship evaluation](Professional-Evidence/Recommendations-and-Endorsements/03-studio-engineering-and-production/Torey-Harding-Starstruck-Internship-Evaluation-Fall-2023-Public.pdf). The evaluation documents 150 hours, zero tardy/late/absent days, an **Outstanding** overall rating, initiative, active learning, and strong team contribution.
+
+[Browse received, pending, planned, and discipline-specific evidence](Professional-Evidence/Recommendations-and-Endorsements/). Pending and planned requests are tracked separately and are not presented as completed endorsements.
 
 ## Academic and Publication Status
 
