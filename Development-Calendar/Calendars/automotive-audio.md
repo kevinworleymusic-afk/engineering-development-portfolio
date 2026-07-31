@@ -8,6 +8,8 @@
 - [July 20–26 weekly plan](../Plans/automotive-audio/02-weekly/2026-07-20.md)
 - [July 27–August 2 weekly plan](../Plans/automotive-audio/02-weekly/2026-07-27.md)
 
+Repository and document additions use the date of the first relevant GitHub commit. Sessions, calls, and outreach use their recorded real-world dates. Entries describing multi-day strategy or procedure development are period-level records and do not imply that a particular file was created that day.
+
 ## July 2026
 
 | **Monday** | **Tuesday** | **Wednesday** | **Thursday** | **Friday** | **Saturday** | **Sunday** |
@@ -15,8 +17,8 @@
 | — | — | **1** | **2** | **3** | **4** | **5** |
 | **6** | **7** | **8** | **9** | **10** | **11** | **12** |
 | **13** | **14** | **15** | **16** | **17** | **18** | **19** |
-| **20** | **21** | **22** | [**23**](#expert-input-and-strategy-phase)<br>[🟧 **AUTO/R&T**](../Areas/automotive-audio.md)<br>✓ Started auto study/strategy | [**24**](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/Future-Projects/02_Automotive_Audio_Implementation_Roadmap.md)<br>[🟧 **AUTO/R&T**](../Areas/automotive-audio.md)<br>✓ Drafted auto roadmap | [**25**](../../README.md#career-direction-and-development-mission)<br>[🟧 **AUTO/R&T**](../Areas/automotive-audio.md)<br>✓ Defined auto path | [**26**](#expert-input-and-strategy-phase)<br>[🟧 **AUTO/R&T**](../Areas/automotive-audio.md)<br>✓ Refined auto roadmap |
-| [**27**](#expert-input-and-strategy-phase)<br>[🟧 **AUTO/R&T**](../Areas/automotive-audio.md)<br>✓ Built project matrix | [**28**](#expert-input-and-strategy-phase)<br>[🟧 **AUTO/R&T**](../Areas/automotive-audio.md)<br>✓ Sequenced projects | [**29**](#expert-input-and-strategy-phase)<br>[🟧 **AUTO/R&T**](../Areas/automotive-audio.md)<br>✓ Reviewed feasibility | [**30**](#expert-input-and-strategy-phase)<br>[🟧 **AUTO/R&T**](../Areas/automotive-audio.md)<br>✓ Defined project evidence | [**31**](#expert-input-and-strategy-phase)<br>[🟧 **AUTO/R&T**](../Areas/automotive-audio.md)<br>◇ Refine auto strategy | — | — |
+| **20** | **21** | **22** | [**23**](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/commit/036d8aed284d3a596204a251da3092b488ceb3a5)<br>[🟧 **AUTO/R&T**](../Areas/automotive-audio.md)<br>✓ Initialized capture/repro repo | [**24**](#expert-input-and-strategy-phase)<br>[🟧 **AUTO/R&T**](../Areas/automotive-audio.md)<br>✓ Developed auto strategy | [**25**](#expert-input-and-strategy-phase)<br>[🟧 **AUTO/R&T**](../Areas/automotive-audio.md)<br>✓ Focused career path | [**26**](#expert-input-and-strategy-phase)<br>[🟧 **AUTO/R&T**](../Areas/automotive-audio.md)<br>✓ Refined auto direction |
+| [**27**](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/commit/faba9469a08200403de47a7818a072b9419f65bc)<br>[🟧 **AUTO/R&T**](../Areas/automotive-audio.md)<br>✓ Added auto roadmap | [**28**](#expert-input-and-strategy-phase)<br>[🟧 **AUTO/R&T**](../Areas/automotive-audio.md)<br>✓ Sequenced portfolio ideas | [**29**](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/commit/6ed1a62b3864a7a5aab3467c6ef573bb868de3a9)<br>[🟧 **AUTO/R&T**](../Areas/automotive-audio.md)<br>✓ Organized project plans | [**30**](../README.md)<br>[🟧 **AUTO/R&T**](../Areas/automotive-audio.md)<br>✓ Documented auto development | [**31**](#expert-input-and-strategy-phase)<br>[🟧 **AUTO/R&T**](../Areas/automotive-audio.md)<br>◇ Refine auto strategy | — | — |
 
 ## August 2026
 
