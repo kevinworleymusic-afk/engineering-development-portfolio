@@ -8,19 +8,21 @@
 - [July 13–19 weekly plan](../Plans/dsp-and-software/02-weekly/2026-07-13.md)
 - [July 20–26 weekly plan](../Plans/dsp-and-software/02-weekly/2026-07-20.md)
 
+Repository and document additions use the date of the first relevant GitHub commit. Sessions, calls, and outreach use their recorded real-world dates. Entries describing multi-day strategy or procedure development are period-level records and do not imply that a particular file was created that day.
+
 ## July 2026
 
 | **Monday** | **Tuesday** | **Wednesday** | **Thursday** | **Friday** | **Saturday** | **Sunday** |
 |---|---|---|---|---|---|---|
 | — | — | **1** | **2** | **3** | **4** | **5** |
 | **6** | **7** | **8** | **9** | **10** | **11** | **12** |
-| **13** | **14** | **15** | **16** | **17** | [**18**](https://github.com/kevinworleymusic-afk/audio-file-report)<br>[🟪 **DSP/SW**](../Areas/dsp-and-software.md)<br>✓ Built Python analyzer | [**19**](https://github.com/kevinworleymusic-afk/audio-file-report/tree/main/src/audio_file_report)<br>[🟪 **DSP/SW**](../Areas/dsp-and-software.md)<br>✓ Developed Python flow |
-| [**20**](https://github.com/kevinworleymusic-afk/audio-file-report/tree/main/docs/reference)<br>[🟪 **DSP/SW**](../Areas/dsp-and-software.md)<br>✓ Wrote Python docs | [**21**](../../README.md#audio-dsp-and-software)<br>[🟪 **DSP/SW**](../Areas/dsp-and-software.md)<br>✓ Cataloged code | [**22**](../../Projects/Coding-and-Audio-Software/MATLAB-Projects/)<br>[🟪 **DSP/SW**](../Areas/dsp-and-software.md)<br>✓ Cataloged MATLAB | **23** | [**24**](../../README.md#audio-dsp-and-software)<br>[🟪 **DSP/SW**](../Areas/dsp-and-software.md)<br>✓ Defined DSP projects | [**25**](../Areas/dsp-and-software.md)<br>[🟪 **DSP/SW**](../Areas/dsp-and-software.md)<br>✓ Sequenced DSP work | **26** |
-| **27** | **28** | [**29**](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/commit/8bbb198458689f562ebc5fbc21352b483007004c)<br>[🟪 **DSP/SW**](../Areas/dsp-and-software.md)<br>✓ Added + documented PD prototype | **30** | **31** | — | — |
+| **13** | **14** | **15** | **16** | **17** | [**18**](https://github.com/kevinworleymusic-afk/audio-file-report/commit/68482da56456883c77bf1171306c30596fd6f8f1)<br>[🟪 **DSP/SW**](../Areas/dsp-and-software.md)<br>✓ Initialized Python analyzer | [**19**](https://github.com/kevinworleymusic-afk/audio-file-report/commit/9e265562d572ae53df2327902725848bce5be847)<br>[🟪 **DSP/SW**](../Areas/dsp-and-software.md)<br>✓ Added Python features/docs |
+| **20** | [**21**](https://github.com/kevinworleymusic-afk/engineering-development-portfolio/commit/a5f1e2d5c7a6585f5c499307e4fab5f3f9df65d0)<br>[🟪 **DSP/SW**](../Areas/dsp-and-software.md)<br>✓ Added tests + MATLAB projects | **22** | **23** | **24** | **25** | **26** |
+| [**27**](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/commit/958a8a45d1d7ccd7806fc615ad3dfb8316c24090)<br>[🟪 **DSP/SW**](../Areas/dsp-and-software.md)<br>✓ Added DSP project plans | **28** | [**29**](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/commit/8bbb198458689f562ebc5fbc21352b483007004c)<br>[🟪 **DSP/SW**](../Areas/dsp-and-software.md)<br>✓ Added + documented PD prototype | **30** | **31** | — | — |
 
 ## Repository and Project-Cataloging Phase
 
-The standalone [Python Audio File Report](https://github.com/kevinworleymusic-afk/audio-file-report) began July 18, and the central Engineering Development Portfolio began July 21. During this initial phase, I cataloged and organized existing MATLAB and coding projects in GitHub, documented their methods and limitations, and defined future development work—including continued Python application development, DSP exercises, real-time Pure Data work, and later embedded and multichannel DSP directions. This records consolidation, documentation, and roadmap creation separately from projects newly implemented during the period.
+The standalone [Python Audio File Report](https://github.com/kevinworleymusic-afk/audio-file-report) began July 18. Python features and documentation followed July 19; tests and existing MATLAB projects were added July 21; automotive DSP project plans were committed July 27; and the existing Pure Data prototype and its documentation were added July 29. This distinguishes original implementation from later GitHub publication and organization. This records consolidation, documentation, and roadmap creation separately from projects newly implemented during the period.
 
 ## August 2026
 
