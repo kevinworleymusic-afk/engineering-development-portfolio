@@ -24,3 +24,13 @@ This section contains public portfolio copies of documents supporting Kevin Worl
 The recommendations were written primarily for education or substitute-teaching contexts. They are presented as evidence of transferable professional qualities rather than engineering-specific endorsements.
 
 These are portfolio-safe copies. Street addresses, certificate identifiers, and personal recommender contact details were removed before public posting. The original documents remain unchanged outside this repository.
+
+
+## Planned Reference Requests
+
+The following requests are planned for August 2, 2026. They are not listed as available recommendations unless a letter is received and approved for public use.
+
+- **Bradley Rikard:** education and teaching perspective
+- **Tyrone Jackson:** musicianship, artistic mindset, and work ethic
+- **Trey Wright:** music-performance perspective
+
