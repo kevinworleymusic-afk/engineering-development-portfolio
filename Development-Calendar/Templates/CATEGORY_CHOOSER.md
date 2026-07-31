@@ -4,7 +4,7 @@
 
 Choose one primary development pathway and, when useful, one maintenance or secondary pathway.
 
-## 🟧 Automotive Audio, Research & Technical Study
+## 🟧 Automotive Audio & Technical Skills
 
 **Choose:** system architecture · measurement/validation · cabin acoustics/loudspeaker integration · DSP/tuning · demo/implementation planning · technical research · career roadmap
 
