@@ -3,7 +3,7 @@
 [Master calendar](../README.md) · [Category pathways](../Areas/)
 
 - [Automotive Audio, Research & Technical-Study Calendar](automotive-audio.md)
-- [DSP & Software Calendar](dsp-and-software.md)
+- [DSP, Software & Electronics Calendar](dsp-and-software.md)
 - [Portfolio & Planning Calendar](portfolio-and-planning.md)
 - [Professional Networking & Acoustical Consulting Calendar](acoustical-consulting.md)
 - [Critical-Listening Calendar](https://github.com/kevinworleymusic-afk/technical-ear-training/tree/main/calendar) — maintained in its dedicated repository
