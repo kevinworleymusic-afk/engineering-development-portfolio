@@ -32,7 +32,7 @@ The standalone [Python Audio File Report](https://github.com/kevinworleymusic-af
 
 | **Monday** | **Tuesday** | **Wednesday** | **Thursday** | **Friday** | **Saturday** | **Sunday** |
 |---|---|---|---|---|---|---|
-| — | — | — | — | — | [**1**](#august-1-electrical-engineering-study-plan)<br>[🟪 **DSP/SW**](../Areas/dsp-and-software.md)<br>◇ Research EE study path | [**2**](../2026-08.md#august-1-2) |
+| — | — | — | — | — | [**1**](#august-1-electrical-engineering-study-plan)<br>[🟪 **DSP/SW**](../Areas/dsp-and-software.md)<br>◇ Research EE study path | [**2**](#august-2-circuit-activity-plan)<br>[🟪 **DSP/SW**](../Areas/dsp-and-software.md)<br>◇ Complete circuit/EE activity |
 | [**3**](../2026-08.md#august-3-9) | [**4**](../2026-08.md#august-3-9) | [**5**](../2026-08.md#august-3-9) | [**6**](../2026-08.md#august-3-9) | [**7**](../2026-08.md#august-3-9) | [**8**](../2026-08.md#august-3-9) | [**9**](../2026-08.md#august-3-9) |
 | [**10**](../2026-08.md#august-10-16) | [**11**](../2026-08.md#august-10-16) | [**12**](../2026-08.md#august-10-16) | [**13**](../2026-08.md#august-10-16) | [**14**](../2026-08.md#august-10-16) | [**15**](../2026-08.md#august-10-16) | [**16**](../2026-08.md#august-10-16) |
 | [**17**](../2026-08.md#august-17-23) | [**18**](../2026-08.md#august-17-23) | [**19**](../2026-08.md#august-17-23) | [**20**](../2026-08.md#august-17-23) | [**21**](../2026-08.md#august-17-23) | [**22**](../2026-08.md#august-17-23) | [**23**](../2026-08.md#august-17-23) |
@@ -45,7 +45,13 @@ Research electrical-engineering foundations relevant to audio electronics, DSP h
 
 **Planned output:** A short resource list and an initial sequence of electrical-engineering topics or practical exercises to evaluate for this pathway.
 
-Only August 1 currently contains a scheduled electronics-development task. Other dates will be populated after weekly objectives are selected.
+### August 2 Circuit Activity Plan
+
+Complete one introductory electrical-engineering or circuit-related activity informed by Alek Weidman’s guidance, if available. Record the source, concept, task, result, and remaining questions. If guidance has not arrived, keep the item pending rather than attributing an arbitrary exercise to Alek.
+
+**Planned output:** One documented foundational exercise or a clearly deferred next action tied to the eventual recommendation.
+
+Only August 1–2 currently contain scheduled electronics-development tasks. Other dates will be populated after weekly objectives are selected.
 
 ## Detailed Evidence
 
