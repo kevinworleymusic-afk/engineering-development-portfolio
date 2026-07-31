@@ -49,11 +49,17 @@ Future entries can document professional outreach, informational conversations, 
 
 | **Mon** | **Tue** | **Wed** | **Thu** | **Fri** | **Sat** | **Sun** |
 |---|---|---|---|---|---|---|
-| — | — | — | — | — | **1** | **2** |
+| — | — | — | — | — | [**1**](#august-1-electrical-engineering-guidance-plan)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>◇ Ask Alek about EE study | **2** |
 | **3** | **4** | **5** | **6** | **7** | **8** | **9** |
 | **10** | **11** | **12** | **13** | **14** | **15** | **16** |
 | **17** | **18** | **19** | **20** | **21** | **22** | **23** |
 | **24** | **25** | **26** | **27** | **28** | **29** | **30** |
 | **31** | — | — | — | — | — | — |
 
-No August networking or consulting tasks are assigned yet. Future dates will be populated only after a specific professional-development objective is selected.
+### August 1 Electrical Engineering Guidance Plan
+
+Ask **Alek Weidman**, whose graduate background also includes electrical engineering, for recommendations on self-study materials, foundational topics, or a sensible learning sequence. The purpose is to extend the introductory studio-electronics foundation developed through **Mike Porter’s course** into more systematic electrical-engineering study relevant to audio, DSP, measurement, and system implementation.
+
+**Planned output:** Recommended resources and an initial sequence of electrical-engineering topics to evaluate for the development curriculum.
+
+Future dates will be populated only after a specific professional-development objective is selected.
