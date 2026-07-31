@@ -70,3 +70,8 @@ The project is presented as an engineering-development case study. Its value lie
 
 - Kevin Worley
 - Justin Roberts
+
+
+## Supporting-File Recovery Status
+
+On July 31, 2026, I contacted collaborator **George Lawson** to identify the architectural-rendering software used alongside the earlier REW room-analysis work and ask whether the original shared project files remain accessible. The software identity, file availability, authorship boundaries, and suitability for publication are still unverified. No recovered files or architectural-model evidence are claimed in this portfolio unless they are obtained, reviewed, and documented with appropriate attribution.
