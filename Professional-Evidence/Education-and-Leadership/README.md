@@ -28,10 +28,10 @@ These are portfolio-safe copies. Street addresses, certificate identifiers, and 
 
 ## Planned Reference Requests
 
-The following requests are planned for August 2, 2026. They are not listed as available recommendations unless a letter is received and approved for public use.
+The Bradley Rikard, Robert Grogan, and Trey Wright requests are planned for August 2, 2026. The Tyrone Jackson request is planned for July 31, 2026. They are not listed as available recommendations unless a letter is received and approved for public use.
 
 - **Bradley Rikard:** education and teaching perspective
 - **Robert Grogan:** education, student teaching, and classroom-development perspective
-- **Tyrone Jackson:** personal growth from being highly reserved toward greater confidence, openness, and pursuit of professional potential, viewed through the similar developmental perspective he has shared
+- **Tyrone Jackson — planned July 31:** personal growth from being highly reserved toward greater confidence, openness, and pursuit of professional potential, viewed through the similar developmental perspective he has shared
 - **Trey Wright:** music-performance perspective
 
