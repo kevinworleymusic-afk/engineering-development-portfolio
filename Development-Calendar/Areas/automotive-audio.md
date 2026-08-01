@@ -33,6 +33,7 @@ Electrical/electronics study is displayed here whenever the purpose involves veh
 - [July monthly plan](../Plans/automotive-audio/01-monthly/2026-07.md)
 - [July 20–26 weekly plan](../Plans/automotive-audio/02-weekly/2026-07-20.md)
 - [July 27–August 2 weekly plan](../Plans/automotive-audio/02-weekly/2026-07-27.md)
+- [August 3–9 weekly plan](../Plans/automotive-audio/02-weekly/2026-08-03.md)
 
 ## Planning Templates
 
