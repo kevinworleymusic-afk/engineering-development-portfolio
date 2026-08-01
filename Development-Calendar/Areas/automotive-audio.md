@@ -26,7 +26,7 @@ Electrical/electronics study is displayed here whenever the purpose involves veh
 - [Capture-to-Reproduction repository](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study)
 - [Automotive implementation roadmap](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/Future-Projects/02_Automotive_Audio_Implementation_Roadmap.md)
 - [Conditional installed-DSP plan](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/Future-Projects/04_Conditional_Car_DSP_Installation_and_Portfolio_Validation_Plan.md)
-- [Automotive-audio and acoustical-consulting employer master list](../../Career-Research/Technical-Audio-Employer-Master-List/)
+- [Live automotive-audio, acoustical-consulting, and Georgia music-education employer tracker](https://docs.google.com/spreadsheets/d/1RuIrnG35fnQ2G6rblekq6ydcGVg35Rl4QB69DlzJnJY/edit)\n- [Employer-tracker documentation and archived workbook](../../Career-Research/Technical-Audio-Employer-Master-List/)
 - [Academic and publication distinctions](../../README.md#academic-and-publication-status)
 
 ## Populated Planning Records
