@@ -56,22 +56,22 @@ Future entries can document professional outreach, informational conversations, 
 
 | **Mon** | **Tue** | **Wed** | **Thu** | **Fri** | **Sat** | **Sun** |
 |---|---|---|---|---|---|---|
-| — | — | — | — | — | [**1**](#august-1-generator-barrier-project-plan)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Published consulting-employer dashboard<br><br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>◇ Finalize generator/barrier plan | [**2**](#august-2-targeted-networking-plan)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>◇ Request professional references |
+| — | — | — | — | — | [**1**](#august-1-generator-barrier-project-plan)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Published consulting-employer dashboard<br><br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Built initial generator/barrier workbook | [**2**](#august-2-targeted-networking-plan)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>◇ Request professional references |
 | **3** | **4** | **5** | **6** | **7** | **8** | **9** |
 | **10** | **11** | [**12**](#august-12-jay-krusac-follow-up-plan)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>◇ Jay guidance follow-up | **13** | **14** | **15** | **16** |
 | **17** | **18** | **19** | **20** | **21** | **22** | **23** |
 | **24** | **25** | **26** | **27** | **28** | **29** | **30** |
 | **31** | — | — | — | — | — | — |
 
-### August 1 Generator-Barrier Project Plan
+### August 1 Generator-Barrier Project Start
 
 **Completed career-research output:** Added a dedicated acoustical-consulting dashboard and 36-company consulting table to the [live Technical-Audio and Georgia Music-Education Employer Master List](https://docs.google.com/spreadsheets/d/1RuIrnG35fnQ2G6rblekq6ydcGVg35Rl4QB69DlzJnJY/edit). Supporting documentation and the archived Excel copy remain in the [organized career-research folder](../../Career-Research/Technical-Audio-Employer-Master-List/). The consulting view separates Southeast/regional practices, national specialty-acoustics firms, multidisciplinary AEC/engineering firms, and environmental/industrial-noise consultancies.
 
-**Today’s remaining acoustics objective:** Finalize the [Generator-to-Residence Barrier Noise Analysis](../../Projects/Technical-Audio-and-Research/Generator-to-Residence-Barrier-Noise-Analysis/) plan based on Ray Plasse’s more specific professional guidance. Lock down the case question, staged boundaries, required public generator data, source-barrier-receiver geometry, calculation sequence, workbook architecture, planned graphs, validation checks, and final consulting-style deliverables.
+**Completed acoustics objective:** Finalized the [Generator-to-Residence Barrier Noise Analysis](../../Projects/Technical-Audio-and-Research/Generator-to-Residence-Barrier-Noise-Analysis/) plan and built an [initial Google Sheets workbook](https://docs.google.com/spreadsheets/d/1_Qk3HXR3SjjTd_EvE4mVO0urOPPRktQFfQgToOaHJ8E/edit) based on Ray Plasse’s more specific professional guidance. The workbook includes the reusable calculation framework, barrier scenarios, dashboard, checks, and a separate Generac SG200 case-setup tab.
 
-The eventual model will begin with one publicly documented generator octave-band sound-power spectrum, predict octave-band and overall dBA sound pressure at a residential property-line receiver, and compare the effect of barrier height and placement through path-length difference and a documented barrier method. Ground absorption, air absorption, atmospheric effects, and other environmental refinements remain later phases rather than requirements for today.
+The current workbook demonstrates octave-band and overall dBA prediction using an illustrative spectrum, compares barrier height and placement through path-length difference, and clearly separates verified SG200 specifications from missing acoustic data. Manufacturer-specific octave-band data, `Lp` versus `Lw` routing, real-site geometry, independent formula validation, ground and atmospheric refinements, and final interpretation remain later work.
 
-**Minimum August 1 output:** A reviewable project plan and source-data strategy. No workbook, generator-data transcription, barrier calculation, numerical result, SketchUp/Treble exercise, or consulting conclusion is required today.
+**August 1 output completed:** Reviewable plan, source-data strategy, initial AI-assisted calculation workbook, preserved baseline template, and documented SG200 case setup. No numerical output is presented as an SG200 prediction or professional consulting conclusion.
 
 ### August 2 Professional-Reference Outreach Plan
 
