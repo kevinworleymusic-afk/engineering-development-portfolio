@@ -65,9 +65,13 @@ Future entries can document professional outreach, informational conversations, 
 
 ### August 1 Acoustical-Software Research Plan
 
-Use **Ray Plasse’s** guidance to evaluate the accessible **Treble** and **SketchUp** paths without claiming proficiency. Outline a practical consulting-foundations sequence covering Excel, octave-band sound levels, A-weighting, decibel summation, and sound power versus sound pressure. Treat Revit/AutoCAD as useful drawing-review familiarity and defer dense specialist platforms until a real role or project establishes the need.
+Use **Ray Plasse’s** guidance to complete one bounded consulting-foundations exercise in Excel or another spreadsheet program. Build rows for the standard octave-band center frequencies **63, 125, 250, 500, 1k, 2k, 4k, and 8k Hz**. Enter a clearly labeled example sound-pressure spectrum, add the standard A-weighting correction for each band, calculate the adjusted band levels, and calculate the combined broadband level through logarithmic decibel summation rather than arithmetic addition.
 
-**Planned output:** A shortlist of accessible acoustical-software tools, prerequisite skills, and initial practice steps to evaluate for the development curriculum.
+Include a short interpretation explaining why decibel band levels cannot be added arithmetically, what A-weighting changes, and the basic distinction between sound pressure at a location and sound power emitted by a source. Preserve formulas so the table can be reused with other spectra. Check the calculation manually or with a second method where practical, and label all example inputs as simulated rather than measured data.
+
+If time and energy remain, spend no more than 15–20 minutes orienting to **SketchUp** or **Treble** and record what the platform appears designed to model, access or licensing constraints, and one possible future exercise. This optional orientation does not require creating a model or claiming proficiency. Treat Revit/AutoCAD as later drawing-review familiarity and defer dense specialist platforms until a real role or project establishes the need.
+
+**Minimum planned output:** One reusable octave-band spreadsheet with A-weighting and logarithmic summation formulas, plus a brief interpretation and limitations note. **Optional output:** A short SketchUp or Treble orientation note. Estimated core time: 45–60 minutes.
 
 ### August 2 Professional-Reference Outreach Plan
 
