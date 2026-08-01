@@ -1,0 +1,75 @@
+# Audio Electronics Fundamentals Workbook
+
+**Status:** Planned digital project. No workbook, circuit simulation, or hardware validation has been completed yet.
+
+This project will develop a reusable spreadsheet for learning and demonstrating foundational electrical relationships through audio-oriented examples. Version 1 requires no physical components, breadboard, test equipment, MATLAB license, or paid circuit software.
+
+## Version 1: Voltage Divider, Loading, and RC Audio Filters
+
+The first release will form one connected signal-chain exercise rather than a collection of unrelated equations:
+
+1. Design an unloaded resistive voltage divider.
+2. Add a receiving-device input resistance and calculate loading effects.
+3. Add a coupling capacitor and calculate the resulting high-pass response.
+4. Compare component-value alternatives.
+5. Plot magnitude response over an audio-relevant frequency range.
+6. Validate known cases independently.
+7. Explain what the model establishes and what requires later simulation or measurement.
+
+## Planned Workbook Structure
+
+- **Read Me:** Purpose, definitions, editable inputs, assumptions, and limitations
+- **Ohm's Law and Power:** Voltage, current, resistance, and component-power relationships
+- **Voltage Divider:** Unloaded and loaded output voltage, attenuation, current, and power
+- **RC Filter:** Time constant, cutoff frequency, frequency-dependent magnitude, phase, and decibel conversion
+- **Component Comparison:** Alternative resistor/capacitor values and their effects
+- **Results Dashboard:** Key design values and frequency-response plots
+- **Validation:** Known-result checks, independent calculations, and formula-error status
+
+## Planned Inputs
+
+- Source voltage
+- Divider resistors
+- Source and load resistance
+- Coupling capacitor
+- Frequency range and selected check frequencies
+- Optional component tolerance for later sensitivity analysis
+
+## Planned Outputs
+
+- Intended versus loaded divider output
+- Loading error in volts, percent, and decibels
+- Effective resistance seen by the capacitor
+- RC time constant and cutoff frequency
+- Magnitude and phase across frequency
+- Output voltage and attenuation at selected frequencies
+- Component power estimates
+- Comparison charts and a concise interpretation
+
+## Validation Cases
+
+- Two equal unloaded divider resistors produce half the source voltage.
+- A very large load approaches the unloaded-divider result.
+- A finite parallel load lowers the effective resistance and changes output voltage.
+- At the ideal first-order cutoff frequency, magnitude is approximately -3.01 dB.
+- One decade above a first-order high-pass cutoff approaches the passband.
+- Hand-calculated examples agree with workbook formulas within stated rounding tolerance.
+
+## Boundaries
+
+Version 1 is a calculation and visualization project. It does not demonstrate physical construction, soldering, component tolerances, parasitics, noise, distortion, test-equipment use, or agreement between predicted and measured behavior. A later version may add independent circuit-simulator comparison and, if equipment becomes available, hardware validation.
+
+## Professional Context
+
+The project extends Kevin's introductory studio-electronics and equipment-service background into a documented, auditable digital exercise. It supports continued development in audio electronics, signal flow, DSP hardware, measurement, troubleshooting, and automotive-audio system integration without claiming electrical-engineering proficiency beyond the completed evidence.
+
+Guidance requested from Alek Weidman remains pending. This project was independently scoped while waiting and must not be presented as based on Alek's advice unless he later reviews or informs it.
+
+## Possible Later Modules
+
+- Series and parallel resistor-network analysis
+- Simplified ideal op-amp gain and headroom
+- Amplifier load, current, and power estimates
+- Audio-system DC power budgeting
+- Simulator comparison
+- Physical component and measurement validation
