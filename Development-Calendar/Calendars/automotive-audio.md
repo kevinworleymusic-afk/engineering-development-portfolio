@@ -46,7 +46,7 @@ Electrical/electronics study appears in this calendar when it is intentionally s
 
 **Completed:** Published a [technical-audio employer master list](../../Career-Research/Technical-Audio-Employer-Master-List/) containing 55 automotive-audio employers and a separately dashboarded 36-company acoustical-consulting expansion. The automotive view remains organized by Tier 1 suppliers, OEMs, DSP/software, audio components, measurement/NVH, engineering services, and aftermarket audio. Current openings are explicitly distinguished from longer-term targets.
 
-**Output:** [Download the reusable employer research and application tracker](../../Career-Research/Technical-Audio-Employer-Master-List/Technical-Audio-Employer-Master-List.xlsx).
+**Output:** [Open the live Google Sheets employer research and application tracker](https://docs.google.com/spreadsheets/d/1RuIrnG35fnQ2G6rblekq6ydcGVg35Rl4QB69DlzJnJY/edit). The archived Excel copy remains in the [organized career-research folder](../../Career-Research/Technical-Audio-Employer-Master-List/).
 
 ### August 2 Next-Week Project Plan
 
