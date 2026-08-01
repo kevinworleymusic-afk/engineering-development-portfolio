@@ -35,7 +35,7 @@ Electrical/electronics study appears in this calendar when it is intentionally s
 
 | **Monday** | **Tuesday** | **Wednesday** | **Thursday** | **Friday** | **Saturday** | **Sunday** |
 |---|---|---|---|---|---|---|
-| — | — | — | — | — | [**1**](#august-1-employer-research-plan)<br>[🟧 **AUTO/TECH**](../Areas/automotive-audio.md)<br>◇ Research auto employers<br><br>[🟧 **AUTO/TECH**](../Calendars/dsp-and-software.md#august-1-electrical-engineering-study-plan)<br>✓ EE support: scoped workbook | [**2**](#august-2-next-week-project-plan)<br>[🟧 **AUTO/TECH**](../Areas/automotive-audio.md)<br>◇ Plan next-week auto project<br><br>[🟧 **AUTO/TECH**](../Calendars/dsp-and-software.md#august-2-circuit-activity-plan)<br>◇ EE support: divider/loading model |
+| — | — | — | — | — | [**1**](#august-1-employer-research-plan)<br>[🟧 **AUTO/TECH**](../Areas/automotive-audio.md)<br>✓ Published 55-employer master list<br><br>[🟧 **AUTO/TECH**](../Calendars/dsp-and-software.md#august-1-electrical-engineering-study-plan)<br>◇ EE support: research study path | [**2**](#august-2-next-week-project-plan)<br>[🟧 **AUTO/TECH**](../Areas/automotive-audio.md)<br>◇ Plan next-week auto project<br><br>[🟧 **AUTO/TECH**](../Calendars/dsp-and-software.md#august-2-circuit-activity-plan)<br>◇ EE support: circuit activity |
 | [**3**](../2026-08.md#august-3-9)<br>◇ Refine auto career plan | [**4**](../2026-08.md#august-3-9) | [**5**](../2026-08.md#august-3-9) | [**6**](../2026-08.md#august-3-9) | [**7**](../2026-08.md#august-3-9) | [**8**](../2026-08.md#august-3-9) | [**9**](../2026-08.md#august-3-9) |
 | [**10**](../2026-08.md#august-10-16) | [**11**](../2026-08.md#august-10-16) | [**12**](../Calendars/acoustical-consulting.md#august-12-jay-krusac-follow-up-plan)<br>◇ Ask Jay: listening/DSP/mics | [**13**](../2026-08.md#august-10-16) | [**14**](../2026-08.md#august-10-16) | [**15**](../2026-08.md#august-10-16) | [**16**](../2026-08.md#august-10-16) |
 | [**17**](../2026-08.md#august-17-23) | [**18**](../2026-08.md#august-17-23) | [**19**](../2026-08.md#august-17-23) | [**20**](../2026-08.md#august-17-23) | [**21**](../2026-08.md#august-17-23) | [**22**](../2026-08.md#august-17-23) | [**23**](../2026-08.md#august-17-23) |
@@ -44,9 +44,9 @@ Electrical/electronics study appears in this calendar when it is intentionally s
 
 ### August 1 Employer Research Plan
 
-Review current automotive-audio and related technical openings, then build a comprehensive target-company list. For each company, record its relevant location or engineering center, industry role (OEM, Tier 1 supplier, audio brand, DSP/software company, or related organization), and representative position types. Distinguish currently open roles from longer-term target roles.
+**Completed:** Published a [55-employer automotive-audio master list](../../Career-Research/Automotive-Audio-Employer-Master-List/) organized by Tier 1 suppliers, OEMs, DSP/software and semiconductor companies, audio components, measurement/NVH, engineering services, and aftermarket audio. It records role families, North American hubs, Southeast relevance, priority, careers/evidence links, verification status, and editable application fields. Current openings are explicitly distinguished from longer-term employer targets.
 
-**Planned output:** A reusable employer-and-role matrix that can guide job searches, networking, skill development, and geographic planning.
+**Output:** [Download the reusable employer research and application tracker](../../Career-Research/Automotive-Audio-Employer-Master-List/Automotive-Audio-Employer-Master-List.xlsx).
 
 ### August 2 Next-Week Project Plan
 
