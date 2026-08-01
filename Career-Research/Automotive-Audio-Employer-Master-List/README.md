@@ -1,6 +1,8 @@
-# Automotive Audio Employer Master List
+# Technical-Audio Employer Master List — Automotive Audio and Acoustical Consulting
 
-This employer map organizes the automotive-audio hiring ecosystem into seven practical lanes rather than treating every company as the same kind of target:
+This employer map now contains two separate research and application systems: **automotive audio** and **acoustical consulting**. Each discipline has its own dashboard and employer table so different hiring structures and priorities are not blurred together.
+
+The automotive-audio side organizes the ecosystem into seven practical lanes:
 
 1. Tier 1 and integrated-system suppliers
 2. OEM and vehicle manufacturers
@@ -14,7 +16,7 @@ This employer map organizes the automotive-audio hiring ecosystem into seven pra
 
 - [Download the employer research and application tracker](Automotive-Audio-Employer-Master-List.xlsx)
 
-The workbook contains **55 initial employers**, likely role families, North American engineering hubs, Southeast relevance, Kevin-specific fit notes, career and evidence links, verification status, and editable application-tracking fields.
+The workbook contains **91 employer rows**: 55 automotive-audio employers and 36 acoustical-consulting employers. Both tables include likely role families, office or engineering hubs, Southeast relevance, Kevin-specific fit notes, career and evidence links, verification status, and editable application-tracking fields.
 
 ## Highest-priority starting groups
 
@@ -22,6 +24,19 @@ The workbook contains **55 initial employers**, likely role families, North Amer
 - **Detroit automotive-audio core:** HARMAN, Alps Alpine, FORVIA/Clarion, Bose Automotive, HEAD acoustics, General Motors, Ford and Stellantis.
 - **DSP and embedded audio:** DSP Concepts, Dirac, Dolby, Analog Devices, NXP and Texas Instruments.
 - **Measurement and validation:** HEAD acoustics, Audio Precision, HBK, GRAS and Klippel.
+
+## Acoustical-consulting dashboard
+
+The consulting tracker is divided into four lanes:
+
+1. Southeast and regional practices
+2. National specialty-acoustics firms
+3. Multidisciplinary AEC and engineering firms
+4. Environmental and industrial-noise consultancies
+
+The strongest immediate Atlanta-area targets are **Newcomb & Boyd** and **Waveguide**, followed by local or regional searches at **WSP, Coffman Engineers, AECOM, HDR, Jacobs, Trinity Consultants, NV5, and Salas O’Brien**. National specialist targets include **Acentech, Kirkegaard, Jaffe Holden, Cavanaugh Tocci, Cerami, and SM&W**.
+
+Consulting searches should include `acoustical consultant`, `acoustic designer`, `building acoustics`, `noise and vibration`, `environmental noise`, `sound isolation`, `field measurement`, `acoustical modeling`, `AV consultant`, and `commissioning`.
 
 ## Search rule
 
@@ -31,4 +46,4 @@ Useful searches include `audio systems`, `acoustic systems`, `vehicle audio`, `a
 
 ## Status
 
-**Version 1 published August 1, 2026.** This begins the broader cross-discipline employer list with automotive audio. Acoustical consulting, studio/immersive audio, technical software and music education can be added as later sections without mixing their employer types into this automotive foundation.
+**Version 2 published August 1, 2026.** Acoustical consulting was added as a separate dashboard and tracker while preserving the original automotive-audio structure. Studio/immersive audio, technical software and music education can be added later as distinct views.
