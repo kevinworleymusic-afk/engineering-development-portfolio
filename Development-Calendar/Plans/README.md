@@ -10,3 +10,9 @@ These records apply the monthly and weekly templates to the work already documen
 - [Professional Networking & Acoustical Consulting](networking-and-consulting/)
 
 The detailed calendars remain the day-by-day views. These plans explain the objective and progression behind those entries.
+
+## Current August Weekly Plans
+
+- [Automotive Audio — August 3–9](automotive-audio/02-weekly/2026-08-03.md)
+- [Networking & Consulting — August 3–9](networking-and-consulting/02-weekly/2026-08-03.md)
+- [Networking & Consulting — August 10–16](networking-and-consulting/02-weekly/2026-08-10.md)
