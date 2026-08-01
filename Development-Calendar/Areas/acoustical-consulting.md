@@ -30,6 +30,8 @@ This pathway records the professional source of guidance—such as outreach to A
 - [July 13–19 weekly plan](../Plans/networking-and-consulting/02-weekly/2026-07-13.md)
 - [July 20–26 weekly plan](../Plans/networking-and-consulting/02-weekly/2026-07-20.md)
 - [July 27–August 2 weekly plan](../Plans/networking-and-consulting/02-weekly/2026-07-27.md)
+- [August 3–9 weekly plan](../Plans/networking-and-consulting/02-weekly/2026-08-03.md)
+- [August 10–16 weekly plan](../Plans/networking-and-consulting/02-weekly/2026-08-10.md)
 
 ## Planning Templates
 
