@@ -31,7 +31,7 @@ This current-week snapshot shows how the portfolio is being developed across con
 
 - **[Music Performance and Personal Development](Professional-Evidence/Recommendations-and-Endorsements/02-music-performance-and-personal-development/):** Tyrone Jackson request sent; Trey Wright outreach planned.
 - **[Immersive Audio and Critical Listening](Professional-Evidence/Recommendations-and-Endorsements/04-immersive-audio-and-critical-listening/):** Jon Lechner agreed to provide a PDF; Ed Seay response pending.
-- **[Measurement and Technical Validation](Professional-Evidence/Recommendations-and-Endorsements/05-measurement-and-technical-validation/):** Dr. Michael Janas reconnection inquiry in progress.
+- **[Measurement and Technical Validation](Professional-Evidence/Recommendations-and-Endorsements/05-measurement-and-technical-validation/):** Dr. Michael Janas reconnection inquiry in progress.\n- **[Coding and DSP](Professional-Evidence/Recommendations-and-Endorsements/06-coding-and-dsp/):** Austin James guidance inquiry drafted but not confirmed sent; the purpose is to determine whether his GTA perspective or Dr. Eric Tarr’s faculty perspective is the more credible recommendation route.
 
 [Open the complete recommendation and endorsement tracker](Professional-Evidence/Recommendations-and-Endorsements/) for received, accepted, pending, planned, and conditional status distinctions. Only received public documents are presented as completed evidence.
 
