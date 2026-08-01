@@ -65,7 +65,7 @@ Future entries can document professional outreach, informational conversations, 
 
 ### August 1 Generator-Barrier Project Plan
 
-**Completed career-research output:** Added a dedicated acoustical-consulting dashboard and 36-company consulting table to the [Technical-Audio Employer Master List](../../Career-Research/Technical-Audio-Employer-Master-List/). The consulting view separates Southeast/regional practices, national specialty-acoustics firms, multidisciplinary AEC/engineering firms, and environmental/industrial-noise consultancies.
+**Completed career-research output:** Added a dedicated acoustical-consulting dashboard and 36-company consulting table to the [live Technical-Audio and Georgia Music-Education Employer Master List](https://docs.google.com/spreadsheets/d/1RuIrnG35fnQ2G6rblekq6ydcGVg35Rl4QB69DlzJnJY/edit). Supporting documentation and the archived Excel copy remain in the [organized career-research folder](../../Career-Research/Technical-Audio-Employer-Master-List/). The consulting view separates Southeast/regional practices, national specialty-acoustics firms, multidisciplinary AEC/engineering firms, and environmental/industrial-noise consultancies.
 
 **Today’s remaining acoustics objective:** Finalize the [Generator-to-Residence Barrier Noise Analysis](../../Projects/Technical-Audio-and-Research/Generator-to-Residence-Barrier-Noise-Analysis/) plan based on Ray Plasse’s more specific professional guidance. Lock down the case question, staged boundaries, required public generator data, source-barrier-receiver geometry, calculation sequence, workbook architecture, planned graphs, validation checks, and final consulting-style deliverables.
 
