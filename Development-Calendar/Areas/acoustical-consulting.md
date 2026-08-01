@@ -24,7 +24,7 @@ This pathway records the professional source of guidance—such as outreach to A
 - [Technical Evidence at a Glance](../../README.md#technical-evidence-at-a-glance)
 - [Professional evidence](../../Professional-Evidence/)
 - [Live acoustical-consulting, automotive-audio, and Georgia music-education employer tracker](https://docs.google.com/spreadsheets/d/1RuIrnG35fnQ2G6rblekq6ydcGVg35Rl4QB69DlzJnJY/edit)\n- [Employer-tracker documentation and archived workbook](../../Career-Research/Technical-Audio-Employer-Master-List/)
-- [Generator-to-Residence Barrier Noise Analysis](../../Projects/Technical-Audio-and-Research/Generator-to-Residence-Barrier-Noise-Analysis/) — planned outdoor-propagation and mitigation study based on Ray Plasse’s project guidance
+- [Generator-to-Residence Barrier Noise Analysis](../../Projects/Technical-Audio-and-Research/Generator-to-Residence-Barrier-Noise-Analysis/) — initial [Google Sheets workbook](https://docs.google.com/spreadsheets/d/1_Qk3HXR3SjjTd_EvE4mVO0urOPPRktQFfQgToOaHJ8E/edit) completed with a reusable calculation template and separate Generac SG200 setup; manufacturer acoustic data and final analysis remain pending
 
 ## Populated Planning Records
 
