@@ -56,24 +56,22 @@ Future entries can document professional outreach, informational conversations, 
 
 | **Mon** | **Tue** | **Wed** | **Thu** | **Fri** | **Sat** | **Sun** |
 |---|---|---|---|---|---|---|
-| — | — | — | — | — | [**1**](#august-1-acoustical-software-research-plan)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Published consulting-employer dashboard<br><br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>◇ Treble/SketchUp + calculations | [**2**](#august-2-targeted-networking-plan)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>◇ Request professional references |
+| — | — | — | — | — | [**1**](#august-1-generator-barrier-project-plan)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Published consulting-employer dashboard<br><br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>◇ Finalize generator/barrier plan | [**2**](#august-2-targeted-networking-plan)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>◇ Request professional references |
 | **3** | **4** | **5** | **6** | **7** | **8** | **9** |
 | **10** | **11** | [**12**](#august-12-jay-krusac-follow-up-plan)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>◇ Jay guidance follow-up | **13** | **14** | **15** | **16** |
 | **17** | **18** | **19** | **20** | **21** | **22** | **23** |
 | **24** | **25** | **26** | **27** | **28** | **29** | **30** |
 | **31** | — | — | — | — | — | — |
 
-### August 1 Acoustical-Software Research Plan
+### August 1 Generator-Barrier Project Plan
 
-**Completed career-research output:** Added a dedicated acoustical-consulting dashboard and 36-company consulting table to the [Technical-Audio Employer Master List](../../Career-Research/Technical-Audio-Employer-Master-List/). The consulting view separates Southeast/regional practices, national specialty-acoustics firms, multidisciplinary AEC/engineering firms, and environmental/industrial-noise consultancies. It records role families, offices, Southeast relevance, priority, careers/evidence links, verification status, and editable application fields. The broader technical exercise below remains separate and is not marked complete.
+**Completed career-research output:** Added a dedicated acoustical-consulting dashboard and 36-company consulting table to the [Technical-Audio Employer Master List](../../Career-Research/Technical-Audio-Employer-Master-List/). The consulting view separates Southeast/regional practices, national specialty-acoustics firms, multidisciplinary AEC/engineering firms, and environmental/industrial-noise consultancies.
 
-Use **Ray Plasse’s** guidance to complete one bounded consulting-foundations exercise in Excel or another spreadsheet program. Build rows for the standard octave-band center frequencies **63, 125, 250, 500, 1k, 2k, 4k, and 8k Hz**. Enter a clearly labeled example sound-pressure spectrum, add the standard A-weighting correction for each band, calculate the adjusted band levels, and calculate the combined broadband level through logarithmic decibel summation rather than arithmetic addition.
+**Today’s remaining acoustics objective:** Finalize the [Generator-to-Residence Barrier Noise Analysis](../../Projects/Technical-Audio-and-Research/Generator-to-Residence-Barrier-Noise-Analysis/) plan based on Ray Plasse’s more specific professional guidance. Lock down the case question, staged boundaries, required public generator data, source-barrier-receiver geometry, calculation sequence, workbook architecture, planned graphs, validation checks, and final consulting-style deliverables.
 
-Include a short interpretation explaining why decibel band levels cannot be added arithmetically, what A-weighting changes, and the basic distinction between sound pressure at a location and sound power emitted by a source. Preserve formulas so the table can be reused with other spectra. Check the calculation manually or with a second method where practical, and label all example inputs as simulated rather than measured data.
+The eventual model will begin with one publicly documented generator octave-band sound-power spectrum, predict octave-band and overall dBA sound pressure at a residential property-line receiver, and compare the effect of barrier height and placement through path-length difference and a documented barrier method. Ground absorption, air absorption, atmospheric effects, and other environmental refinements remain later phases rather than requirements for today.
 
-If time and energy remain, spend no more than 15–20 minutes orienting to **SketchUp** or **Treble** and record what the platform appears designed to model, access or licensing constraints, and one possible future exercise. This optional orientation does not require creating a model or claiming proficiency. Treat Revit/AutoCAD as later drawing-review familiarity and defer dense specialist platforms until a real role or project establishes the need.
-
-**Minimum planned output:** One reusable octave-band spreadsheet with A-weighting and logarithmic summation formulas, plus a brief interpretation and limitations note. **Optional output:** A short SketchUp or Treble orientation note. Estimated core time: 45–60 minutes.
+**Minimum August 1 output:** A reviewable project plan and source-data strategy. No workbook, generator-data transcription, barrier calculation, numerical result, SketchUp/Treble exercise, or consulting conclusion is required today.
 
 ### August 2 Professional-Reference Outreach Plan
 

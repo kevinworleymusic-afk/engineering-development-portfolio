@@ -24,6 +24,7 @@ This pathway records the professional source of guidance—such as outreach to A
 - [Technical Evidence at a Glance](../../README.md#technical-evidence-at-a-glance)
 - [Professional evidence](../../Professional-Evidence/)
 - [Acoustical-consulting employer dashboard and tracker](../../Career-Research/Technical-Audio-Employer-Master-List/)
+- [Generator-to-Residence Barrier Noise Analysis](../../Projects/Technical-Audio-and-Research/Generator-to-Residence-Barrier-Noise-Analysis/) — planned outdoor-propagation and mitigation study based on Ray Plasse’s project guidance
 
 ## Populated Planning Records
 
