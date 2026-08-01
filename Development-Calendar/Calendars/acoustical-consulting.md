@@ -15,6 +15,8 @@ Exact dates are used for confirmed events. Repository and document additions use
 - [July 13–19 weekly plan](../Plans/networking-and-consulting/02-weekly/2026-07-13.md)
 - [July 20–26 weekly plan](../Plans/networking-and-consulting/02-weekly/2026-07-20.md)
 - [July 27–August 2 weekly plan](../Plans/networking-and-consulting/02-weekly/2026-07-27.md)
+- [August 3–9 weekly plan](../Plans/networking-and-consulting/02-weekly/2026-08-03.md)
+- [August 10–16 weekly plan](../Plans/networking-and-consulting/02-weekly/2026-08-10.md)
 
 ## July 2026
 
@@ -42,7 +44,7 @@ Develop a professional network across acoustical consulting and technical audio 
 
 **July 31 outreach record:** Contacted **Ray Plasse** for guidance on an acoustical-software study path. Ray explained that, in his consulting role, familiarity with **Revit** or **AutoCAD** would help with reviewing and marking up architectural and mechanical drawings, although full licenses are expensive. He recommended **SketchUp** as a more accessible tool used in some environmental-noise modeling workflows, including contour lines and surrounding-building imports. He advised against investing heavily in dense, job-specific platforms such as **CadnaA, SoundPLAN, EASE, CATT,** or similar software without access and a defined use case; if selecting one acoustics-specific tool to explore, he suggested the web-based **Treble** platform as potentially relevant to automotive acoustic modeling. He also emphasized strong **Excel** ability and mastery of octave-band sound levels, A-weighting, decibel summation, and the distinction between sound power and sound pressure. Ray noted that REW is useful educationally but is not commonly used in his particular field practice.
 
-Kevin thanked Ray, explained that the portfolio goal is to approximate useful employer-facing software work within current access and cost constraints, connected this effort to the automotive guidance received from Jay Krusac, and described the broader effort to reconnect with prior professional and academic contacts. Kevin then asked Ray whether he remembered or had contact information for the former **REM Studio B manager** who had directly observed Kevin’s studio work. Ray identified her as **Jackie Hayes**; contact information and outreach remain pending. Kevin separately asked **Jon Lechner** the same REM Studio B contact question and asked whether Jon could help reconnect him with **Dr. Michael Janas**. These are contact-recovery inquiries; no recommendation has yet been requested from Jackie or Dr. Janas.
+Kevin thanked Ray, explained that the portfolio goal is to approximate useful employer-facing software work within current access and cost constraints, connected this effort to the automotive guidance received from Jay Krusac, and described the broader effort to reconnect with prior professional and academic contacts. Kevin then asked Ray whether he remembered or had contact information for the former **REM Studio B manager** who had directly observed Kevin’s studio work. Ray identified her as **Jackie Hayes**; direct contact information and outreach remain pending. Kevin separately asked **Jon Lechner** the same REM Studio B contact question and asked whether Jon could help reconnect him with **Dr. Michael Janas**. These are contact-recovery inquiries; no recommendation has yet been requested from Jackie or Dr. Janas.
 
 In parallel, contacted **Alek Weidman** for guidance on an electrical-engineering self-study path that could extend the introductory studio-electronics work completed through Mike Porter’s course. Also contacted **George Lawson** to identify the architectural-modeling software used in a prior REW room-analysis project and ask whether he still has access to the original project files. George confirmed that the project used **SketchUp**. Recovery of the original SketchUp model, REW data, and related project files remains pending. **Jon Lechner** agreed to provide a PDF character/professional recommendation grounded in Kevin’s work across the technical and creative demands of Belmont’s movie-mixing Dolby Atmos course after returning to the office Tuesday. A separate request was sent to **Tyrone Jackson** concerning personal growth, confidence, and professional potential; his response remains pending. **Lisa LaFountaine** was also asked to identify the former REM Studio B staff member. An **Ed Seay** recommendation request was sent July 31; his response remains pending.
 
@@ -54,9 +56,9 @@ Future entries can document professional outreach, informational conversations, 
 
 | **Mon** | **Tue** | **Wed** | **Thu** | **Fri** | **Sat** | **Sun** |
 |---|---|---|---|---|---|---|
-| — | — | — | — | — | [**1**](#august-1-acoustical-software-research-plan)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>◇ Evaluate Treble/SketchUp + core calculations | [**2**](#august-2-targeted-networking-plan)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>◇ Bradley/Trey outreach |
+| — | — | — | — | — | [**1**](#august-1-acoustical-software-research-plan)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>◇ Evaluate Treble/SketchUp + core calculations | [**2**](#august-2-targeted-networking-plan)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>◇ Request professional references |
 | **3** | **4** | **5** | **6** | **7** | **8** | **9** |
-| **10** | **11** | **12** | **13** | **14** | **15** | **16** |
+| **10** | **11** | [**12**](#august-12-jay-krusac-follow-up-plan)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>◇ Jay guidance follow-up | **13** | **14** | **15** | **16** |
 | **17** | **18** | **19** | **20** | **21** | **22** | **23** |
 | **24** | **25** | **26** | **27** | **28** | **29** | **30** |
 | **31** | — | — | — | — | — | — |
@@ -67,12 +69,18 @@ Use **Ray Plasse’s** guidance to evaluate the accessible **Treble** and **Sket
 
 **Planned output:** A shortlist of accessible acoustical-software tools, prerequisite skills, and initial practice steps to evaluate for the development curriculum.
 
-### August 2 Remaining Professional-Reference Outreach Plan
+### August 2 Professional-Reference Outreach Plan
 
 Request focused professional references from **Bradley Rikard** (education, student teaching, and classroom development) and **Trey Wright** (music performance). Bradley’s outreach will also ask whether he knows of nearby part-time music-education work, occasional music-substitute assignments, or other local music-program opportunities. Because the education requests fall near the beginning of the school week—and may coincide with first-day-of-school responsibilities—send them thoughtfully and allow extra response time. Tailor each request to the part of Kevin’s background the person directly observed, and record only requests that are actually sent.
 
-The **Tyrone Jackson** personal-growth request was completed July 31 and is not part of this remaining objective.
-
 **Planned output:** Two appropriately scoped recommendation requests plus a concise local-opportunity inquiry to Bradley and a follow-up record. Any letter remains pending—not portfolio evidence—until it is received and approved for public use.
+
+### August 12 Jay Krusac Follow-Up Plan
+
+Send a concise follow-up after the automotive conference. Briefly note that Jay’s July guidance has been considered and that the next steps are constrained by three practical choices. Ask which critical-listening abilities matter most for vehicle tuning and demo-system work, which lower-cost environment best teaches transferable DSP concepts when Audio Weaver is not currently accessible, and whether an initial vehicle-measurement setup should use one calibrated microphone with repeatable positions, multiple microphones, or another arrangement.
+
+This is a guidance checkpoint, not a major project presentation. Reasonable preparation consists of documenting available listening tools, current budget/access constraints, existing measurement equipment, and the intended vehicle-measurement questions. No purchase or finished automotive project is required before outreach.
+
+**Planned output:** Three focused questions and a recorded response status; route any technical advice into the listening, DSP/software, and automotive pathways.
 
 Future dates will be populated only after a specific professional-development objective is selected.
