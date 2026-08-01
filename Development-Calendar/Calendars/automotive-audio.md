@@ -44,9 +44,9 @@ Electrical/electronics study appears in this calendar when it is intentionally s
 
 ### August 1 Employer Research Plan
 
-**Completed:** Published a [technical-audio employer master list](../../Career-Research/Automotive-Audio-Employer-Master-List/) containing 55 automotive-audio employers and a separately dashboarded 36-company acoustical-consulting expansion. The automotive view remains organized by Tier 1 suppliers, OEMs, DSP/software, audio components, measurement/NVH, engineering services, and aftermarket audio. Current openings are explicitly distinguished from longer-term targets.
+**Completed:** Published a [technical-audio employer master list](../../Career-Research/Technical-Audio-Employer-Master-List/) containing 55 automotive-audio employers and a separately dashboarded 36-company acoustical-consulting expansion. The automotive view remains organized by Tier 1 suppliers, OEMs, DSP/software, audio components, measurement/NVH, engineering services, and aftermarket audio. Current openings are explicitly distinguished from longer-term targets.
 
-**Output:** [Download the reusable employer research and application tracker](../../Career-Research/Automotive-Audio-Employer-Master-List/Automotive-Audio-Employer-Master-List.xlsx).
+**Output:** [Download the reusable employer research and application tracker](../../Career-Research/Technical-Audio-Employer-Master-List/Technical-Audio-Employer-Master-List.xlsx).
 
 ### August 2 Next-Week Project Plan
 

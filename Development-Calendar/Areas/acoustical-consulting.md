@@ -23,7 +23,7 @@ This pathway records the professional source of guidance—such as outreach to A
 - [Main portfolio](../../README.md)
 - [Technical Evidence at a Glance](../../README.md#technical-evidence-at-a-glance)
 - [Professional evidence](../../Professional-Evidence/)
-- [Acoustical-consulting employer dashboard and tracker](../../Career-Research/Automotive-Audio-Employer-Master-List/)
+- [Acoustical-consulting employer dashboard and tracker](../../Career-Research/Technical-Audio-Employer-Master-List/)
 
 ## Populated Planning Records
 
