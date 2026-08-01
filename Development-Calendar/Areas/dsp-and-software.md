@@ -23,7 +23,7 @@ This is the primary home for electrical/electronics concepts, resources, exercis
 - [Python Audio File Report](https://github.com/kevinworleymusic-afk/audio-file-report)
 - [Pure Data prototype](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/01_Real-Time_DSP_Prototype_in_Pure_Data.md)
 - [MATLAB audio-DSP projects](../../Projects/Coding-and-Audio-Software/MATLAB-Projects/)
-- [Planned Audio Electronics Fundamentals Workbook](../../Projects/Coding-and-Audio-Software/Audio-Electronics-Fundamentals-Workbook/)
+- [Audio Electronics Fundamentals Workbook](../../Projects/Coding-and-Audio-Software/Audio-Electronics-Fundamentals-Workbook/) — study path researched and project framework established August 1; exercises remain in development
 - [Planned SigmaStudio follow-up](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/Future-Projects/03_Immersive_Audio_Evaluation_Part_2_SigmaStudio_DSP_Project.md)
 
 ## Populated Planning Records

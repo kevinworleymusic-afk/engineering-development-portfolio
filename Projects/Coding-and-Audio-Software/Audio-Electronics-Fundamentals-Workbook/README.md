@@ -1,6 +1,6 @@
 # Audio Electronics Fundamentals Workbook
 
-**Status:** Planned digital project. No workbook, circuit simulation, or hardware validation has been completed yet.
+**Status:** Study path researched and digital project framework established August 1, 2026. Workbook exercises, circuit simulation, and hardware validation remain pending.
 
 This project will develop a reusable spreadsheet for learning and demonstrating foundational electrical relationships through audio-oriented examples. Version 1 requires no physical components, breadboard, test equipment, MATLAB license, or paid circuit software.
 
