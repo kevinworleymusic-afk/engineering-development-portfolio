@@ -33,7 +33,7 @@ The standalone [Python Audio File Report](https://github.com/kevinworleymusic-af
 
 | **Monday** | **Tuesday** | **Wednesday** | **Thursday** | **Friday** | **Saturday** | **Sunday** |
 |---|---|---|---|---|---|---|
-| — | — | — | — | — | [**1**](#august-1-electrical-engineering-study-plan)<br>[🟪 **DSP/SW**](../Areas/dsp-and-software.md)<br>◇ Research EE study path | [**2**](#august-2-circuit-activity-plan)<br>[🟪 **DSP/SW**](../Areas/dsp-and-software.md)<br>◇ Complete circuit/EE activity |
+| — | — | — | — | — | [**1**](#august-1-electrical-engineering-study-plan)<br>[🟪 **DSP/SW**](../Areas/dsp-and-software.md)<br>✓ Scoped EE workbook | [**2**](#august-2-circuit-activity-plan)<br>[🟪 **DSP/SW**](../Areas/dsp-and-software.md)<br>◇ Begin divider/loading model |
 | [**3**](../2026-08.md#august-3-9) | [**4**](../2026-08.md#august-3-9) | [**5**](../2026-08.md#august-3-9) | [**6**](../2026-08.md#august-3-9) | [**7**](../2026-08.md#august-3-9) | [**8**](../2026-08.md#august-3-9) | [**9**](../2026-08.md#august-3-9) |
 | [**10**](../2026-08.md#august-10-16) | [**11**](../2026-08.md#august-10-16) | [**12**](../2026-08.md#august-10-16) | [**13**](../2026-08.md#august-10-16) | [**14**](../2026-08.md#august-10-16) | [**15**](../2026-08.md#august-10-16) | [**16**](../2026-08.md#august-10-16) |
 | [**17**](../2026-08.md#august-17-23) | [**18**](../2026-08.md#august-17-23) | [**19**](../2026-08.md#august-17-23) | [**20**](../2026-08.md#august-17-23) | [**21**](../2026-08.md#august-17-23) | [**22**](../2026-08.md#august-17-23) | [**23**](../2026-08.md#august-17-23) |
@@ -42,15 +42,15 @@ The standalone [Python Audio File Report](https://github.com/kevinworleymusic-af
 
 ### August 1 Electrical Engineering Study Plan
 
-Research electrical-engineering foundations relevant to audio electronics, DSP hardware, measurement, troubleshooting, and system implementation. Use any guidance received from **Alek Weidman** to identify credible materials and a sensible learning sequence that builds on the introductory studio-electronics and repair instruction completed through **Mike Porter’s course**.
+Independently scope the [Audio Electronics Fundamentals Workbook](../../Projects/Coding-and-Audio-Software/Audio-Electronics-Fundamentals-Workbook/README.md) from the introductory studio-electronics and repair instruction completed through **Mike Porter’s course**. Version 1 will digitally model a voltage divider, receiving-device loading, and an RC coupling/high-pass network with editable inputs, frequency-response plots, and known-result validation. It requires no physical components or measurement equipment.
 
-**Planned output:** A short resource list and an initial sequence of electrical-engineering topics or practical exercises to evaluate for this pathway.
+**Recorded output:** Planned project page published. Guidance requested from **Alek Weidman** remains pending and is not represented as the source, reviewer, or supervisor of this independently scoped project.
 
 ### August 2 Circuit Activity Plan
 
-Complete one introductory electrical-engineering or circuit-related activity informed by Alek Weidman’s guidance, if available. Record the source, concept, task, result, and remaining questions. If guidance has not arrived, keep the item pending rather than attributing an arbitrary exercise to Alek.
+Begin Version 1 of the Audio Electronics Fundamentals Workbook with the voltage-divider and loading model. Define source voltage, divider resistance, receiving-device input resistance, unloaded output, loaded output, attenuation, current, and component-power calculations. Add at least two known-result checks before extending the model to the RC filter and frequency-response plot.
 
-**Planned output:** One documented foundational exercise or a clearly deferred next action tied to the eventual recommendation.
+**Planned output:** An auditable first workbook module or, if not implemented, a documented formula map and input/output specification. This work is independent of Alek’s pending response; any later guidance will be evaluated and credited separately.
 
 Only August 1–2 currently contain scheduled electronics-development tasks. Other dates will be populated after weekly objectives are selected.
 
