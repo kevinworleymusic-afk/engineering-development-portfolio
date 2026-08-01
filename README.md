@@ -54,7 +54,7 @@ My Kennesaw State University background combined music performance, ensemble wor
 
 This experience supports listening for pitch, rhythm, harmony, timbre, balance, and ensemble interaction; diagnosing problems against an intended reference; and communicating corrective feedback. Teaching also developed team-leadership skills in setting expectations, coordinating shared work, adapting communication, making real-time decisions, and guiding improvement.
 
-Review the [music programs](https://campus.kennesaw.edu/colleges-departments/arts/academics/music/index.php), [Barber Middle School](https://www.cobbk12.org/barber/), [prior background](https://github.com/kevinworleymusic-afk/technical-ear-training/blob/main/PRIOR_EXPERIENCE.md#relevant-background), and [public letters and supporting documents](Professional-Evidence/Education-and-Leadership/README.md).
+Review the [music programs](https://campus.kennesaw.edu/colleges-departments/arts/academics/music/index.php), [Barber Middle School](https://www.cobbk12.org/barber/), [prior background](https://github.com/kevinworleymusic-afk/technical-ear-training/blob/main/PRIOR_EXPERIENCE.md#relevant-background), and [public letters and supporting documents](Professional-Evidence/Education-and-Leadership/README.md), and the [Georgia technical-audio and music-education employer tracker](https://docs.google.com/spreadsheets/d/1RuIrnG35fnQ2G6rblekq6ydcGVg35Rl4QB69DlzJnJY/edit).
 
 ## Critical Listening and Immersive Experience
 
