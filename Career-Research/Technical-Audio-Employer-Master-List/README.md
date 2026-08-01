@@ -14,7 +14,7 @@ The automotive-audio side organizes the ecosystem into seven practical lanes:
 
 ## Working file
 
-- [Download the employer research and application tracker](Technical-Audio-Employer-Master-List.xlsx)
+- [Open the live Google Sheets employer research and application tracker](https://docs.google.com/spreadsheets/d/1RuIrnG35fnQ2G6rblekq6ydcGVg35Rl4QB69DlzJnJY/edit)\n- [Download the archived Excel workbook](Technical-Audio-Employer-Master-List.xlsx)
 
 The workbook preserves **91 technical-audio employer rows**—55 automotive-audio employers and 36 acoustical-consulting employers—and adds **23 Georgia school-system targets**, **10 current or recently visible music-job leads**, a dedicated music-education dashboard, and a cautious certification-development plan. Links and vacancy checks are dated **August 1, 2026** and must be rechecked before applying.
 
