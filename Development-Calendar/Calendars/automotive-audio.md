@@ -7,6 +7,7 @@
 - [July monthly plan](../Plans/automotive-audio/01-monthly/2026-07.md)
 - [July 20–26 weekly plan](../Plans/automotive-audio/02-weekly/2026-07-20.md)
 - [July 27–August 2 weekly plan](../Plans/automotive-audio/02-weekly/2026-07-27.md)
+- [August 3–9 weekly plan](../Plans/automotive-audio/02-weekly/2026-08-03.md)
 
 Repository and document additions use the date of the first relevant GitHub commit. Sessions, calls, and outreach use their recorded real-world dates. Entries describing multi-day strategy or procedure development are period-level records and do not imply that a particular file was created that day.
 
@@ -36,7 +37,7 @@ Electrical/electronics study appears in this calendar when it is intentionally s
 |---|---|---|---|---|---|---|
 | — | — | — | — | — | [**1**](#august-1-employer-research-plan)<br>[🟧 **AUTO/TECH**](../Areas/automotive-audio.md)<br>◇ Research auto employers<br><br>[🟧 **AUTO/TECH**](../Calendars/dsp-and-software.md#august-1-electrical-engineering-study-plan)<br>◇ EE support: research study path | [**2**](#august-2-next-week-project-plan)<br>[🟧 **AUTO/TECH**](../Areas/automotive-audio.md)<br>◇ Plan next-week auto project<br><br>[🟧 **AUTO/TECH**](../Calendars/dsp-and-software.md#august-2-circuit-activity-plan)<br>◇ EE support: circuit activity |
 | [**3**](../2026-08.md#august-3-9)<br>◇ Refine auto career plan | [**4**](../2026-08.md#august-3-9) | [**5**](../2026-08.md#august-3-9) | [**6**](../2026-08.md#august-3-9) | [**7**](../2026-08.md#august-3-9) | [**8**](../2026-08.md#august-3-9) | [**9**](../2026-08.md#august-3-9) |
-| [**10**](../2026-08.md#august-10-16) | [**11**](../2026-08.md#august-10-16) | [**12**](../2026-08.md#august-10-16) | [**13**](../2026-08.md#august-10-16) | [**14**](../2026-08.md#august-10-16) | [**15**](../2026-08.md#august-10-16) | [**16**](../2026-08.md#august-10-16) |
+| [**10**](../2026-08.md#august-10-16) | [**11**](../2026-08.md#august-10-16) | [**12**](../Calendars/acoustical-consulting.md#august-12-jay-krusac-follow-up-plan)<br>◇ Ask Jay: listening/DSP/mics | [**13**](../2026-08.md#august-10-16) | [**14**](../2026-08.md#august-10-16) | [**15**](../2026-08.md#august-10-16) | [**16**](../2026-08.md#august-10-16) |
 | [**17**](../2026-08.md#august-17-23) | [**18**](../2026-08.md#august-17-23) | [**19**](../2026-08.md#august-17-23) | [**20**](../2026-08.md#august-17-23) | [**21**](../2026-08.md#august-17-23) | [**22**](../2026-08.md#august-17-23) | [**23**](../2026-08.md#august-17-23) |
 | [**24**](../2026-08.md#august-24-30) | [**25**](../2026-08.md#august-24-30) | [**26**](../2026-08.md#august-24-30) | [**27**](../2026-08.md#august-24-30) | [**28**](../2026-08.md#august-24-30) | [**29**](../2026-08.md#august-24-30) | [**30**](../2026-08.md#august-24-30) |
 | [**31**](../2026-08.md#august-31) | — | — | — | — | — | — |
