@@ -23,7 +23,7 @@ This pathway records the professional source of guidance—such as outreach to A
 - [Main portfolio](../../README.md)
 - [Technical Evidence at a Glance](../../README.md#technical-evidence-at-a-glance)
 - [Professional evidence](../../Professional-Evidence/)
-- [Acoustical-consulting employer dashboard and tracker](../../Career-Research/Technical-Audio-Employer-Master-List/)
+- [Live acoustical-consulting, automotive-audio, and Georgia music-education employer tracker](https://docs.google.com/spreadsheets/d/1RuIrnG35fnQ2G6rblekq6ydcGVg35Rl4QB69DlzJnJY/edit)\n- [Employer-tracker documentation and archived workbook](../../Career-Research/Technical-Audio-Employer-Master-List/)
 - [Generator-to-Residence Barrier Noise Analysis](../../Projects/Technical-Audio-and-Research/Generator-to-Residence-Barrier-Noise-Analysis/) — planned outdoor-propagation and mitigation study based on Ray Plasse’s project guidance
 
 ## Populated Planning Records
