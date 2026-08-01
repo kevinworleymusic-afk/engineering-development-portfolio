@@ -56,7 +56,7 @@ Future entries can document professional outreach, informational conversations, 
 
 | **Mon** | **Tue** | **Wed** | **Thu** | **Fri** | **Sat** | **Sun** |
 |---|---|---|---|---|---|---|
-| — | — | — | — | — | [**1**](#august-1-acoustical-software-research-plan)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>◇ Evaluate Treble/SketchUp + core calculations | [**2**](#august-2-targeted-networking-plan)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>◇ Request professional references |
+| — | — | — | — | — | [**1**](#august-1-acoustical-software-research-plan)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Published calculator design<br>◇ Workbook build | [**2**](#august-2-targeted-networking-plan)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>◇ Request professional references |
 | **3** | **4** | **5** | **6** | **7** | **8** | **9** |
 | **10** | **11** | [**12**](#august-12-jay-krusac-follow-up-plan)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>◇ Jay guidance follow-up | **13** | **14** | **15** | **16** |
 | **17** | **18** | **19** | **20** | **21** | **22** | **23** |
