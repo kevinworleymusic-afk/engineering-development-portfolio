@@ -18,7 +18,7 @@ This gateway separates received evidence from requests still in progress. A name
 | **Accepted; document pending** | Jon Lechner — agreed to provide a PDF after returning to the office Tuesday |
 | **Requested; response pending** | Ed Seay, Tyrone Jackson |
 | **Planned; not yet requested** | Bradley Rikard, Trey Wright |
-| **Conditional / contact pending** | Former REM Studio B manager/staff member (identity/contact requested through Lisa LaFountaine, Ray Plasse, and Jon Lechner) |
+| **Conditional / contact pending** | Jackie Hayes — former REM Studio B contact identified by Ray Plasse; contact information and outreach pending |
 | **Possible future request** | Dr. Michael Janas (reconnection assistance requested from Jon Lechner; no recommendation request sent) |
 
 Automotive-audio and acoustical-consulting endorsements are intentionally deferred until a professional has observed enough completed work to evaluate it directly.

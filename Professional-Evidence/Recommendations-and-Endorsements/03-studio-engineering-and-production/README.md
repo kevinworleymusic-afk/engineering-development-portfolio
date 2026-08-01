@@ -10,4 +10,4 @@ The public copy permanently removes the supervisor's email, handwritten signatur
 
 ## Conditional
 
-- **Former REM Studio B manager/staff member** — possible studio/Atmos perspective; Lisa LaFountaine, Ray Plasse, and Jon Lechner have been asked to help identify or locate the person before any recommendation request is made
+- **Jackie Hayes — identity confirmed:** Ray Plasse identified Jackie as the former REM Studio B person Kevin remembered. Her contact information and any outreach remain pending; no recommendation has yet been requested. She could potentially provide a studio/Atmos perspective based on directly observing Kevin’s sustained work in REM Studio B.
