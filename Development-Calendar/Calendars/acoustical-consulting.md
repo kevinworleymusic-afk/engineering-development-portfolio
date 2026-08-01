@@ -65,13 +65,13 @@ Future entries can document professional outreach, informational conversations, 
 
 ### August 1 Acoustical-Software Research Plan
 
-Use **Ray Plasse’s** guidance to complete one bounded consulting-foundations exercise in Excel or another spreadsheet program. Build rows for the standard octave-band center frequencies **63, 125, 250, 500, 1k, 2k, 4k, and 8k Hz**. Enter a clearly labeled example sound-pressure spectrum, add the standard A-weighting correction for each band, calculate the adjusted band levels, and calculate the combined broadband level through logarithmic decibel summation rather than arithmetic addition.
+Use **Ray Plasse’s** guidance to complete one bounded consulting-foundations exercise in Excel or another spreadsheet program. Build rows for the standard octave-band center frequencies **63, 125, 250, 500, 1k, 2k, 4k, and 8k Hz**. Import compatible public sound-power spectra for a CRAC condenser, VRF condenser, and toilet extract fan from the cited Environment Agency-hosted professional noise assessment. Add source quantities, A-weighting corrections, adjusted totals, and logarithmic octave-band combination.
 
-Include a short interpretation explaining why decibel band levels cannot be added arithmetically, what A-weighting changes, and the basic distinction between sound pressure at a location and sound power emitted by a source. Preserve formulas so the table can be reused with other spectra. Check the calculation manually or with a second method where practical, and label all example inputs as simulated rather than measured data.
+Include a short interpretation explaining why decibel band levels cannot be added arithmetically, what A-weighting changes, and the basic distinction between sound pressure at a location and sound power emitted by a source. Preserve formulas so the table can be reused with other spectra. Check the calculation manually or with a second method where practical, and preserve the public report title, table/page, URL, units, and transcription notes.
 
 If time and energy remain, spend no more than 15–20 minutes orienting to **SketchUp** or **Treble** and record what the platform appears designed to model, access or licensing constraints, and one possible future exercise. This optional orientation does not require creating a model or claiming proficiency. Treat Revit/AutoCAD as later drawing-review familiarity and defer dense specialist platforms until a real role or project establishes the need.
 
-**Minimum planned output:** One reusable octave-band spreadsheet with A-weighting and logarithmic summation formulas, plus a brief interpretation and limitations note. **Optional output:** A short SketchUp or Treble orientation note. Estimated core time: 45–60 minutes.
+**Design completed:** [Public-Data Noise Assessment Calculator Project Design and Reviewer Feedback Brief](../../Projects/Technical-Audio-and-Research/Public-Data-Octave-Band-Noise-Assessment-Calculator/Public-Data-Noise-Assessment-Calculator-Project-Design.pdf). **Next output:** Build the reusable octave-band workbook described in the brief, with source traceability, scenario comparison, validation tests, interpretation, and limitations. SketchUp or Treble remains optional and separate.
 
 ### August 2 Professional-Reference Outreach Plan
 
