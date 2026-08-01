@@ -1,11 +1,12 @@
 # Generator-to-Residence Barrier Noise Analysis
 
-**Status:** Project plan established August 1, 2026. Source selection, workbook implementation, calculations, and conclusions remain pending.
+**Status:** Initial workbook framework completed August 1, 2026. Generac SG200 case setup is documented; manufacturer-specific octave-band data, real-site geometry, independent validation, and final conclusions remain pending.
 
-This planned acoustical-consulting exercise will predict outdoor sound from a generator at a residential property-line receiver and evaluate how barrier geometry changes the predicted A-weighted sound-pressure level. It replaces the earlier broad public-data noise-calculator concept with a specific, practical case based on guidance from acoustical consultant **Ray Plasse**.
+This developing acoustical-consulting exercise predicts outdoor sound from a generator at a residential property-line receiver and evaluates how barrier geometry changes the predicted A-weighted sound-pressure level. It replaces the earlier broad public-data noise-calculator concept with a specific, practical case based on guidance from acoustical consultant **Ray Plasse**.
 
-## Project Plan
+## Current Workbook and Project Plan
 
+- [Open the working Generator-to-Residence Barrier Noise Analysis Google Sheet](https://docs.google.com/spreadsheets/d/1_Qk3HXR3SjjTd_EvE4mVO0urOPPRktQFfQgToOaHJ8E/edit)
 - [Generator Barrier Noise Analysis - Project Plan](Generator-Barrier-Noise-Analysis-Project-Plan.pdf)
 
 The PDF is a concise, reviewable brief suitable for sharing with a knowledgeable friend or practitioner. It defines the question, inputs, calculation sequence, staged scope, deliverables, validation requirements, limitations, and feedback questions.
@@ -29,16 +30,19 @@ The PDF is a concise, reviewable brief suitable for sharing with a knowledgeable
 
 The first working model will include geometric spreading and barrier attenuation. Ground absorption, air absorption, atmospheric effects, source directivity, reflections, terrain, multiple barriers, background noise, and regulatory criteria will be added only after the core model works and each method can be sourced and validated. Results will be labeled as educational predictions, not field measurements or a professional compliance assessment.
 
-## Planned Workbook
+## Initial Workbook Framework
 
-- **Read Me and Assumptions** - purpose, definitions, units, editable inputs, method references, and limitations
-- **Published Generator Data** - model, operating condition, octave-band `Lw`, source URL, document page/table, and transcription check
-- **Geometry and Scenarios** - source/receiver heights, horizontal distances, barrier height and location, and named cases
-- **Propagation** - source-to-receiver distance, geometric divergence, and optional later attenuation terms
-- **Barrier Calculation** - direct path, diffracted path, path-length difference, wavelength/Fresnel inputs, insertion loss, and method limits
-- **A-Weighted Results** - unmitigated and mitigated octave-band `Lp`, A-weighting corrections, overall dBA, and reduction
-- **Sensitivity Dashboard** - barrier-height and source/barrier/receiver-position comparisons
-- **Validation** - unit checks, hand calculations, no-barrier baseline, zero/near-zero path-difference behavior, and formula status
+The initial Google Sheets workbook preserves a reusable calculation template while separating the current manufacturer case from the illustrative inputs. It contains:
+
+- **Project Overview** - purpose, workflow, assumptions, educational-use statement, and limitations
+- **Inputs** - editable geometry, criterion, directivity, A-weighting values, and an explicitly illustrative `Lw` spectrum
+- **Barrier Calculation** - direct and diffracted paths, path-length difference, wavelength, Fresnel number, estimated insertion loss, and octave-band receiver levels
+- **Scenarios** - editable barrier-height and placement comparisons
+- **Results Dashboard** - no-barrier and barrier dBA results, checks, and a spectrum chart
+- **Validation & References** - formula-status checks, method notes, and source links
+- **SG200 Case Setup** - verified Generac SG200 identity, Level 2 enclosure proposal, dimensions, assumptions, required acoustic-data fields, and a blank 63–8,000 Hz holding table
+
+The displayed numerical results remain demonstrations because the reusable template still contains illustrative sound-power inputs.
 
 ## Planned Deliverables
 
@@ -93,6 +97,8 @@ The first working model will include geometric spreading and barrier attenuation
 
 Ray Plasse proposed the generator-to-residence barrier scenario and emphasized path-length difference, receiver-level prediction, barrier geometry, and optional environmental attenuation effects. His guidance established the project direction; it does not imply supervision, review, endorsement, or collaboration. Kevin will select and cite the data, implement and validate the calculations, and own all interpretations and errors.
 
-## Current August 1 Objective
+## August 1 Progress and Next Step
 
-Today is limited to **locking down this project plan**: define the case, phases, required inputs, source-data strategy, deliverables, validation checks, and scope boundaries. No workbook, numerical result, or consulting conclusion is required today.
+The August 1 planning milestone and initial workbook framework are complete. The workbook was developed with AI assistance under Kevin’s direction and is not presented as a completed professional analysis.
+
+Generac’s official [SG200 specification sheet](https://www.generac.com/globalassets/products/business/stationary-generators/gaseous-industrial-generators/spec-sheets/sg200-200kw-industrial-gaseous-generator-specsheet.pdf) now supports the manufacturer-case setup, including the proposed Level 2 sound-attenuated enclosure. The publicly accessible specification does not contain the SG200 octave-band acoustic spectrum. The next technical step is to obtain model- and enclosure-specific full-load octave-band data, confirm whether it is `Lp` at 7 m or `Lw`, adapt the propagation method accordingly, define a realistic site, and independently verify the calculations before interpreting results.
