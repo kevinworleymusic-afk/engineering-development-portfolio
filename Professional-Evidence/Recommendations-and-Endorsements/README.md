@@ -5,10 +5,11 @@ This gateway separates received evidence from requests still in progress. A name
 ## Discipline Folders
 
 - [Education and Teaching](01-education-and-teaching/) — four received public letters; one planned request
-- [Music Performance and Personal Development](02-music-performance-and-personal-development/) — two planned requests
+- [Music Performance and Personal Development](02-music-performance-and-personal-development/) — one request pending and one planned request
 - [Studio Engineering and Production](03-studio-engineering-and-production/) — one received supervisor evaluation and one conditional studio contact
 - [Immersive Audio and Critical Listening](04-immersive-audio-and-critical-listening/) — two requests sent
 - [Measurement and Technical Validation](05-measurement-and-technical-validation/) — one possible future request
+- [Coding and DSP](06-coding-and-dsp/) — one guidance inquiry drafted; recommender route not yet selected
 
 ## Status Summary
 
@@ -18,8 +19,9 @@ This gateway separates received evidence from requests still in progress. A name
 | **Accepted; document pending** | Jon Lechner — agreed to provide a PDF after returning to the office Tuesday |
 | **Requested; response pending** | Ed Seay, Tyrone Jackson |
 | **Planned; not yet requested** | Bradley Rikard, Trey Wright |
-| **Conditional / contact pending** | Jackie Hayes — former REM Studio B contact identified by Ray Plasse; contact information and outreach pending |
+| **Conditional / contact pending** | Former REM Studio B manager/staff member (identity/contact requested through Lisa LaFountaine, Ray Plasse, and Jon Lechner) |
 | **Possible future request** | Dr. Michael Janas (reconnection assistance requested from Jon Lechner; no recommendation request sent) |
+| **Guidance inquiry drafted; not confirmed sent** | Austin James — ask whether his GTA observations support a coding/DSP recommendation or whether Dr. Eric Tarr is the more appropriate route |
 
 Automotive-audio and acoustical-consulting endorsements are intentionally deferred until a professional has observed enough completed work to evaluate it directly.
 
