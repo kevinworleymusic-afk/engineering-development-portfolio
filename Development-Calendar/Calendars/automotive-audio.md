@@ -35,7 +35,7 @@ Electrical/electronics study appears in this calendar when it is intentionally s
 
 | **Monday** | **Tuesday** | **Wednesday** | **Thursday** | **Friday** | **Saturday** | **Sunday** |
 |---|---|---|---|---|---|---|
-| — | — | — | — | — | [**1**](#august-1-employer-research-plan)<br>[🟧 **AUTO/TECH**](../Areas/automotive-audio.md)<br>✓ Published 91-row employer tracker<br><br>[🟧 **AUTO/TECH**](../Calendars/dsp-and-software.md#august-1-electrical-engineering-study-plan)<br>✓ EE support: path + project setup | [**2**](#august-2-next-week-project-plan)<br>[🟧 **AUTO/TECH**](../Areas/automotive-audio.md)<br>◇ Plan next-week auto project<br><br>[🟧 **AUTO/TECH**](../Calendars/dsp-and-software.md#august-2-circuit-activity-plan)<br>◇ EE support: circuit activity |
+| — | — | — | — | — | [**1**](#august-1-employer-research-plan)<br>[🟧 **AUTO/TECH**](../Areas/automotive-audio.md)<br>✓ Published 91-row employer tracker<br><br>[🟧 **AUTO/TECH**](../Calendars/dsp-and-software.md#august-1-electrical-engineering-study-plan)<br>✓ EE support: path + project setup | [**2**](#august-2-in-car-dsp-research)<br>[🟧 **AUTO/TECH**](../Areas/automotive-audio.md)<br>✓ Researched in-car DSP options |
 | [**3**](../2026-08.md#august-3-9)<br>◇ Refine auto career plan | [**4**](../2026-08.md#august-3-9) | [**5**](../2026-08.md#august-3-9) | [**6**](../2026-08.md#august-3-9) | [**7**](../2026-08.md#august-3-9) | [**8**](../2026-08.md#august-3-9) | [**9**](../2026-08.md#august-3-9) |
 | [**10**](../2026-08.md#august-10-16) | [**11**](../2026-08.md#august-10-16) | [**12**](../Calendars/acoustical-consulting.md#august-12-jay-krusac-follow-up-plan)<br>◇ Ask Jay: listening/DSP/mics | [**13**](../2026-08.md#august-10-16) | [**14**](../2026-08.md#august-10-16) | [**15**](../2026-08.md#august-10-16) | [**16**](../2026-08.md#august-10-16) |
 | [**17**](../2026-08.md#august-17-23) | [**18**](../2026-08.md#august-17-23) | [**19**](../2026-08.md#august-17-23) | [**20**](../2026-08.md#august-17-23) | [**21**](../2026-08.md#august-17-23) | [**22**](../2026-08.md#august-17-23) | [**23**](../2026-08.md#august-17-23) |
@@ -48,11 +48,11 @@ Electrical/electronics study appears in this calendar when it is intentionally s
 
 **Output:** [Open the live Google Sheets employer research and application tracker](https://docs.google.com/spreadsheets/d/1RuIrnG35fnQ2G6rblekq6ydcGVg35Rl4QB69DlzJnJY/edit). The archived Excel copy remains in the [organized career-research folder](../../Career-Research/Technical-Audio-Employer-Master-List/).
 
-### August 2 Next-Week Project Plan
+### August 2 In-Car DSP Research
 
-Select one automotive-audio project for the following week and turn it into an implementable plan. An in-car DSP study is one candidate, but the final choice should follow feasibility, available tools, and the strength of the evidence it can produce.
+**Completed:** Researched practical options for adding DSP to the current vehicle, including equipment, installation, cost, and how a future system could support hands-on automotive-audio learning.
 
-**Planned output:** A defined project question, deliverable, required tools or inputs, implementation steps, evidence standard, and stopping point.
+This records research and decision preparation only. No DSP purchase, installation, measurement session, or tuning result is claimed. A specific implementation plan remains future work after the equipment and installation approach are selected.
 
 Only August 1–3 currently contain planned automotive tasks. Later dates will be populated after weekly objectives are selected.
 
