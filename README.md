@@ -8,17 +8,11 @@ Start with the [room-response analysis](Projects/Coding-and-Audio-Software/MATLA
 
 **Navigate:** [Master Development Calendar](Development-Calendar/) · [Professional Endorsements](#professional-recommendations-and-endorsements) · [Technical Projects](#major-technical-audio-and-applied-engineering-projects) · [Music Performance & Music Education Background](#music-performance--music-education-background) · [Critical Listening](#critical-listening-and-immersive-experience) · [DSP, Software & Electronics](#audio-dsp-and-software-projects) · [Technical Foundations](#additional-technical-foundations) · [Career Direction](#career-direction-acoustical-consulting-and-automotive-audio)
 
-## Development Calendar at a Glance
+## Current Development — August 2026
 
-This current-week snapshot shows how the portfolio is being developed across connected disciplines. **✓ Recorded · ◇ Planned**
+Current work focuses on developing the Generator-to-Residence Barrier Noise Analysis, continuing structured technical ear training, planning an applied automotive-audio project, and strengthening foundational electronics knowledge. Completed milestones, active work, deferred tasks, and future plans are recorded separately so planned activities are not presented as completed technical evidence.
 
-[🟦 **Listening**](Development-Calendar/Areas/critical-listening.md) · [🟧 **Automotive/Technical Skills**](Development-Calendar/Areas/automotive-audio.md) · [🟪 **DSP/Software**](Development-Calendar/Areas/dsp-and-software.md) · [🟩 **Planning**](Development-Calendar/Areas/portfolio-and-planning.md) · [🟨 **Networking/Consulting**](Development-Calendar/Areas/acoustical-consulting.md)
-
-| **Mon** | **Tue** | **Wed** | **Thu** | **Fri** | **Sat** | **Sun** |
-|---|---|---|---|---|---|---|
-| [**27**](Development-Calendar/README.md#july-2026)<br>🟦 ✓ Session 1<br>🟩 ✓ Career update<br>🟧 ✓ Published roadmap<br>🟪 ✓ DSP plans | [**28**](Development-Calendar/README.md#july-2026)<br>🟦 ✓ Listening procedures<br>🟩 ✓ Planning workflow<br>🟧 ✓ Prioritized projects | [**29**](Development-Calendar/README.md#july-2026)<br>🟦 ✓ Training evidence<br>🟪 ✓ Added PD project<br>🟩 ✓ Integrated evidence<br>🟧 ✓ Organized roadmap | [**30**](Development-Calendar/README.md#july-2026)<br>🟦 ✓ Session 2 + warmup<br>🟩 ✓ Calendar system<br>🟧 ✓ Linked auto work | [**31**](Development-Calendar/README.md#july-2026)<br>🟦 ↪ Listening moved to Sat<br>🟪 PD next step undecided<br>🟧 ✓ Selected auto-support EE study<br>🟩 ✓ Ray guidance documented<br>🟨 ✓ REM/Janas contact follow-up<br>🟨 ✓ Lechner agreed; PDF pending | [**1**](Development-Calendar/README.md#august-2026)<br>🟦 ◇ EQ/distortion → comp/reverb<br>🟧 ✓ 91-row employer tracker<br>🟨 ✓ Consulting-employer dashboard<br>🟪 ✓ EE path + project setup<br>🟨 ✓ Initial generator/barrier workbook | [**2**](Development-Calendar/README.md#august-2026)<br>🟦 ◇ All-chapter warmups<br>🟪 ◇ Circuit/EE activity<br>🟧 ◇ Plan auto project<br>🟨 ◇ Request references |
-
-[Open the full master calendar](Development-Calendar/) for the complete daily history, monthly objectives, weekly progression, and detailed category calendars.
+[View the complete development calendar](Development-Calendar/) for the daily history, monthly objectives, weekly progression, detailed category calendars, and planning records.
 
 ## Professional Recommendations and Endorsements
 
