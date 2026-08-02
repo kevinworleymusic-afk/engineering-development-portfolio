@@ -33,7 +33,7 @@ The standalone [Python Audio File Report](https://github.com/kevinworleymusic-af
 
 | **Monday** | **Tuesday** | **Wednesday** | **Thursday** | **Friday** | **Saturday** | **Sunday** |
 |---|---|---|---|---|---|---|
-| — | — | — | — | — | [**1**](#august-1-electrical-engineering-study-plan)<br>[🟪 **DSP/SW**](../Areas/dsp-and-software.md)<br>✓ EE path researched; project set up | [**2**](#august-2-circuit-activity-plan)<br>[🟪 **DSP/SW**](../Areas/dsp-and-software.md)<br>◇ Complete circuit/EE activity |
+| — | — | — | — | — | [**1**](#august-1-electrical-engineering-study-plan)<br>[🟪 **DSP/SW**](../Areas/dsp-and-software.md)<br>✓ EE path researched; project set up | [**2**](#august-2-circuit-activity-deferred)<br>[🟪 **DSP/SW**](../Areas/dsp-and-software.md)<br>↪ Circuit activity deferred |
 | [**3**](../2026-08.md#august-3-9) | [**4**](../2026-08.md#august-3-9) | [**5**](../2026-08.md#august-3-9) | [**6**](../2026-08.md#august-3-9) | [**7**](../2026-08.md#august-3-9) | [**8**](../2026-08.md#august-3-9) | [**9**](../2026-08.md#august-3-9) |
 | [**10**](../2026-08.md#august-10-16) | [**11**](../2026-08.md#august-10-16) | [**12**](../2026-08.md#august-10-16) | [**13**](../2026-08.md#august-10-16) | [**14**](../2026-08.md#august-10-16) | [**15**](../2026-08.md#august-10-16) | [**16**](../2026-08.md#august-10-16) |
 | [**17**](../2026-08.md#august-17-23) | [**18**](../2026-08.md#august-17-23) | [**19**](../2026-08.md#august-17-23) | [**20**](../2026-08.md#august-17-23) | [**21**](../2026-08.md#august-17-23) | [**22**](../2026-08.md#august-17-23) | [**23**](../2026-08.md#august-17-23) |
@@ -46,11 +46,9 @@ The standalone [Python Audio File Report](https://github.com/kevinworleymusic-af
 
 This completes the study-path research and project-setup objective. Guidance requested from **Alek Weidman** remains pending and may refine the sequence later; it is not presented as the source of the independently established project. The individual workbook exercises and August 2 circuit/EE activity remain separate, unfinished work.
 
-### August 2 Circuit Activity Plan
+### August 2 Circuit Activity Deferred
 
-Complete one introductory electrical-engineering or circuit-related activity informed by Alek Weidman’s guidance, if available. Record the source, concept, task, result, and remaining questions. If guidance has not arrived, keep the item pending rather than attributing an arbitrary exercise to Alek.
-
-**Planned output:** One documented foundational exercise or a clearly deferred next action tied to the eventual recommendation.
+The circuit exercise was moved back because the activity plan is not yet specific enough to execute and document responsibly. It remains unscheduled until the source, concept, task, expected result, and evidence standard are defined; no completion is claimed.
 
 Only August 1–2 currently contain scheduled electronics-development tasks. Other dates will be populated after weekly objectives are selected.
 
