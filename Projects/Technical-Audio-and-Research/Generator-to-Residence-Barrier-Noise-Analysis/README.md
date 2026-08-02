@@ -15,7 +15,7 @@ The PDF is a concise, reviewable brief suitable for sharing with a knowledgeable
 
 - [*Industrial Noise Control Manual (Revised Edition)*](https://stacks.cdc.gov/view/cdc/209384/cdc_209384_DS1.pdf) — Paul Jensen, Charles R. Jokel, and Laymon N. Miller; DHEW (NIOSH) Publication No. 79-117; December 1978.
 
-**Planned use:** Consult the manual’s treatment of noise-problem analysis, sound measurement, source/path/receiver controls, acoustical materials, and applied case histories. Case History 30 (Motor Generator Set) and Case History 43 (Gas Turbine Generator) are especially relevant to the generator-noise study.
+**Planned use:** Use the manual’s generator case histories—especially Case History 30 (Motor Generator Set), with Case History 43 (Gas Turbine Generator) as a broader reference—as guidance for the structure and evaluation rubric of this portfolio case study. They will help define what the finished work should document: the noise problem, source–path–receiver system, input data and assumptions, analysis method, control alternatives, before-and-after results, validation, limitations, and recommendations. The manual’s broader treatment of sound measurement, source/path/receiver controls, and acoustical materials will also support the technical approach.
 
 This is recorded as active reading/reference material, not as a source already reviewed in full. Any method adopted from it will be cited explicitly and checked against current manufacturer data, applicable current standards, and an independent calculation before supporting conclusions.
 
