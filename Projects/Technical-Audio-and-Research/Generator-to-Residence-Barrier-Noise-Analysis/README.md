@@ -11,6 +11,14 @@ This developing acoustical-consulting exercise predicts outdoor sound from a gen
 
 The PDF is a concise, reviewable brief suitable for sharing with a knowledgeable friend or practitioner. It defines the question, inputs, calculation sequence, staged scope, deliverables, validation requirements, limitations, and feedback questions.
 
+## Reading and Reference Material
+
+- [*Industrial Noise Control Manual (Revised Edition)*](https://stacks.cdc.gov/view/cdc/209384/cdc_209384_DS1.pdf) — Paul Jensen, Charles R. Jokel, and Laymon N. Miller; DHEW (NIOSH) Publication No. 79-117; December 1978.
+
+**Planned use:** Consult the manual’s treatment of noise-problem analysis, sound measurement, source/path/receiver controls, acoustical materials, and applied case histories. Case History 30 (Motor Generator Set) and Case History 43 (Gas Turbine Generator) are especially relevant to the generator-noise study.
+
+This is recorded as active reading/reference material, not as a source already reviewed in full. Any method adopted from it will be cited explicitly and checked against current manufacturer data, applicable current standards, and an independent calculation before supporting conclusions.
+
 ## Core Question
 
 > Using a publicly documented octave-band sound-power spectrum for a commercial generator, what sound-pressure level is predicted at a residential property line, and how would an intervening barrier change the octave-band and overall dBA results?
