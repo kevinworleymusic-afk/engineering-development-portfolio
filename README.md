@@ -10,7 +10,7 @@ Start with the [room-response analysis](Projects/Coding-and-Audio-Software/MATLA
 
 ## Current Development — August 2026
 
-Current work focuses on developing the Generator-to-Residence Barrier Noise Analysis, continuing structured technical ear training, planning an applied automotive-audio project, and strengthening foundational electronics knowledge. Completed milestones, active work, deferred tasks, and future plans are recorded separately so planned activities are not presented as completed technical evidence.
+Current work leads with structured technical ear training and applied automotive-audio development, supported by continued growth in foundational electronics. The developing Generator-to-Residence Barrier Noise Analysis extends this work toward acoustical consulting. Completed milestones, active work, deferred tasks, and future plans are recorded separately so planned activities are not presented as completed technical evidence.
 
 [View the complete development calendar](Development-Calendar/) for the daily history, monthly objectives, weekly progression, detailed category calendars, and planning records.
 
