@@ -56,7 +56,7 @@ Future entries can document professional outreach, informational conversations, 
 
 | **Mon** | **Tue** | **Wed** | **Thu** | **Fri** | **Sat** | **Sun** |
 |---|---|---|---|---|---|---|
-| — | — | — | — | — | [**1**](#august-1-generator-barrier-project-plan)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Published consulting-employer dashboard<br><br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Built initial generator/barrier workbook | [**2**](#august-2-targeted-networking-plan)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>◇ Request professional references |
+| — | — | — | — | — | [**1**](#august-1-generator-barrier-project-plan)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Published consulting-employer dashboard<br><br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Built initial generator/barrier workbook | [**2**](#august-2-targeted-networking-plan)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>◇ Send remaining requests by Aug. 3 AM |
 | **3** | **4** | **5** | **6** | **7** | **8** | **9** |
 | **10** | **11** | [**12**](#august-12-jay-krusac-follow-up-plan)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>◇ Jay guidance follow-up | **13** | **14** | **15** | **16** |
 | **17** | **18** | **19** | **20** | **21** | **22** | **23** |
@@ -75,7 +75,7 @@ The current workbook demonstrates octave-band and overall dBA prediction using a
 
 ### August 2 Professional-Reference Outreach Plan
 
-Request focused professional references from **Bradley Rikard** (education, student teaching, and classroom development) and **Trey Wright** (music performance). Bradley’s outreach will also ask whether he knows of nearby part-time music-education work, occasional music-substitute assignments, or other local music-program opportunities. Because the education requests fall near the beginning of the school week—and may coincide with first-day-of-school responsibilities—send them thoughtfully and allow extra response time. Tailor each request to the part of Kevin’s background the person directly observed, and record only requests that are actually sent.
+Send the remaining focused professional-reference requests tonight, August 2, or tomorrow morning, August 3, depending on when the outreach block begins. Requests include **Bradley Rikard** (education, student teaching, and classroom development) and **Trey Wright** (music performance). Bradley’s outreach will also ask whether he knows of nearby part-time music-education work, occasional music-substitute assignments, or other local music-program opportunities. Because the education requests fall near the beginning of the school week—and may coincide with first-day-of-school responsibilities—send them thoughtfully and allow extra response time. Tailor each request to the part of Kevin’s background the person directly observed, and record only requests that are actually sent.
 
 **Planned output:** Two appropriately scoped recommendation requests plus a concise local-opportunity inquiry to Bradley and a follow-up record. Any letter remains pending—not portfolio evidence—until it is received and approved for public use.
 
