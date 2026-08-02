@@ -2,7 +2,7 @@
 
 Master’s-trained technical audio engineer with experience in room measurement, electroacoustic validation, critical listening, immersive audio, DSP, and analysis software. Work at Ocean Way Nashville and Starstruck Entertainment developed practical experience with complex audio systems, signal flow, facility workflows, and client-focused collaboration.
 
-Current development targets acoustical consulting and automotive audio, including measurement, noise control, cabin acoustics, loudspeaker integration, DSP, tuning, and technical reporting.
+Automotive and in-cabin audio are my primary direction, with emphasis on vehicle measurement, cabin acoustics, loudspeaker integration, DSP, tuning, and technical validation. Acoustical consulting is a complementary path for strengthening measurement, noise-control, analysis, and reporting skills.
 
 Start with the [room-response analysis](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Impulse-Response-and-Audio-Systems-Analysis/README.md), [Audio Precision validation study](Projects/Technical-Audio-and-Research/Studer-A80-vs-A800-Plugin-Validation-Study/README.md), [critical-listening record](https://github.com/kevinworleymusic-afk/technical-ear-training), [Pure Data DSP prototype](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/01_Real-Time_DSP_Prototype_in_Pure_Data.md), [Python Audio File Report](https://github.com/kevinworleymusic-afk/audio-file-report), and [automotive development roadmap](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/Future-Projects/02_Automotive_Audio_Implementation_Roadmap.md).
 
@@ -10,7 +10,7 @@ Start with the [room-response analysis](Projects/Coding-and-Audio-Software/MATLA
 
 ## Current Development — August 2026
 
-Current work leads with structured technical ear training and applied automotive-audio development, supported by foundational electronics study and a developing generator/barrier acoustics project.
+Current work leads with structured technical ear training and applied automotive-audio development, supported by foundational electronics study. A developing generator/barrier project extends those measurement and analysis skills into acoustical consulting.
 
 [View the complete development calendar](Development-Calendar/) for recorded milestones, active work, and future plans.
 
@@ -76,7 +76,7 @@ Introductory instruction from [Mike Porter](https://www.namm.org/library/oral-hi
 
 ## Career Direction: Acoustical Consulting and Automotive Audio
 
-I hold an M.S. in Audio Engineering from Belmont University and supported sessions for music recorded for EA Sports College Football 25. I am pursuing junior opportunities in acoustical consulting and automotive audio where I can contribute while developing through professional mentorship.
+I hold an M.S. in Audio Engineering from Belmont University and supported sessions for music recorded for EA Sports College Football 25. My primary goal is an automotive or in-cabin audio role where I can develop in vehicle measurement, loudspeaker integration, DSP, tuning, and validation. I am also open to junior acoustical-consulting opportunities that build transferable measurement, analysis, and reporting experience.
 
 My foundation combines measurement and reporting, critical listening, Python/MATLAB/Pure Data work, teaching, and technical communication. The [Pure Data prototype](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/01_Real-Time_DSP_Prototype_in_Pure_Data.md) is implemented; vehicle studies and hardware extensions remain planned or access-dependent.
 
