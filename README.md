@@ -1,27 +1,20 @@
 # Kevin Worley — Technical Audio Engineering Portfolio
 
-Master’s-trained technical audio engineer with experience in room measurement, electroacoustic validation, critical listening, immersive audio, DSP, and analysis software. Work at Ocean Way Nashville and Starstruck Entertainment developed practical experience with complex audio systems, signal flow, facility workflows, and client-focused collaboration.
-
-My primary direction is applied psychoacoustic engineering: connecting listener experience with perceptual research, product design, DSP, tuning, measurement, and validation. I am drawn to cross-functional roles where I can trace perceived results through acoustics, electroacoustic hardware, signal flow, and implementation, then translate those findings across teams. My music-education background supports this through experience explaining listening concepts, adapting communication, and leading groups toward shared solutions. Automotive and in-cabin audio are a leading application, alongside immersive and other electroacoustic systems; acoustical consulting remains a complementary path.
+Master’s-trained technical audio engineer developing toward applied psychoacoustic and automotive-audio roles that connect critical listening, measurement, DSP, tuning, and validation. Experience includes Ocean Way Nashville, Starstruck Entertainment, Audio Precision testing, immersive audio, MATLAB/Python/Pure Data development, technical reporting, and music-education leadership.
 
 ## Evidence at a Glance
 
-- **M.S. in Audio Engineering Technology** with applied work spanning measurement, electroacoustic validation, immersive audio, DSP, and technical reporting
-- **Audio Precision SYS 2522 validation:** frequency response, SNR, and THD+N comparison of a Studer A80 tape recorder and A800 plug-in
-- **Critical listening:** 3,410,130 SoundGym SPI across 9,491 completed activities, plus 733 logged Corey-software trials with task-specific results and limitations
-- **Immersive and professional audio:** Ocean Way Nashville, Starstruck Entertainment, guided 7.1.4 listening, and listener participation in three published AES studies
-- **Implemented technical work:** MATLAB room-response and DSP analysis, a Python audio-reporting tool, and a Pure Data real-time DSP prototype
-- **Automotive direction:** structured development toward in-cabin tuning, measurement, validation, DSP, and cross-functional audio-systems work
+- **[Audio Precision validation](Projects/Technical-Audio-and-Research/Studer-A80-vs-A800-Plugin-Validation-Study/README.md):** Studer A80/A800 frequency response, SNR, and THD+N
+- **[Critical listening](https://github.com/kevinworleymusic-afk/technical-ear-training):** 3,410,130 SPI, 9,491 SoundGym activities, and 733 logged Corey trials
+- **Measurement and DSP:** [MATLAB room analysis](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Impulse-Response-and-Audio-Systems-Analysis/README.md), [Python audio reporting](https://github.com/kevinworleymusic-afk/audio-file-report), and [Pure Data processing](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/01_Real-Time_DSP_Prototype_in_Pure_Data.md)
+- **Immersive and professional audio:** Ocean Way Nashville, Starstruck Entertainment, guided 7.1.4 work, and listener participation in three published AES studies
+- **[Automotive development](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/Future-Projects/02_Automotive_Audio_Implementation_Roadmap.md):** in-cabin tuning, measurement, validation, DSP, and systems planning
 
-Start with the [room-response analysis](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Impulse-Response-and-Audio-Systems-Analysis/README.md), [Audio Precision validation study](Projects/Technical-Audio-and-Research/Studer-A80-vs-A800-Plugin-Validation-Study/README.md), [critical-listening record](https://github.com/kevinworleymusic-afk/technical-ear-training), [Pure Data DSP prototype](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/01_Real-Time_DSP_Prototype_in_Pure_Data.md), [Python Audio File Report](https://github.com/kevinworleymusic-afk/audio-file-report), and [automotive development roadmap](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/Future-Projects/02_Automotive_Audio_Implementation_Roadmap.md).
-
-**Navigate:** [Master Development Calendar](Development-Calendar/) · [Professional Endorsements](#professional-recommendations-and-endorsements) · [Technical Projects](#major-technical-audio-and-applied-engineering-projects) · [Music Performance & Music Education Background](#music-performance--music-education-background) · [Critical Listening](#critical-listening-and-immersive-experience) · [DSP, Software & Electronics](#audio-dsp-and-software-projects) · [Technical Foundations](#additional-technical-foundations) · [Career Direction](#career-direction-applied-psychoacoustic-engineering-and-audio-systems)
+**Navigate:** [Technical Projects](#major-technical-audio-and-applied-engineering-projects) · [Critical Listening](#critical-listening-and-immersive-experience) · [Professional Evidence](#professional-recommendations-and-endorsements) · [Current Development](#current-development--august-2026) · [Career Direction](#career-direction-applied-psychoacoustic-engineering-and-audio-systems)
 
 ## Current Development — August 2026
 
-Current work leads with structured critical-listening development and automotive-audio study, supported by DSP and foundational electronics. Together, these build toward applied psychoacoustic engineering that connects perceived sound quality with measurement and system decisions. A developing generator/barrier project extends the measurement and reporting side into acoustical consulting.
-
-[View the complete development calendar](Development-Calendar/) for recorded milestones, active work, and future plans.
+Current work prioritizes structured critical listening and automotive-audio study, supported by DSP, electronics, and an acoustical-consulting generator/barrier project. [View milestones, active work, and future plans](Development-Calendar/).
 
 ## Professional Recommendations and Endorsements
 
@@ -33,19 +26,19 @@ Four public recommendation letters document education, musicianship, reliability
 
 ### [Apartment/Home-Studio Room Impulse-Response and Audio Systems Analysis](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Impulse-Response-and-Audio-Systems-Analysis/README.md)
 
-Captured a Yamaha HS8-to-Rode NT1 room response and analyzed it in MATLAB using impulse-response estimation, FFT/IFFT processing, convolution, and null comparison. Includes the [methodology](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Impulse-Response-and-Audio-Systems-Analysis/METHODOLOGY.md), [analysis](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Impulse-Response-and-Audio-Systems-Analysis/MATLAB-ANALYSIS.md), and [results and limitations](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Impulse-Response-and-Audio-Systems-Analysis/RESULTS-AND-LIMITATIONS.md).
+Captured a Yamaha HS8-to-Rode NT1 room response and analyzed it through impulse-response estimation, FFT/IFFT processing, convolution, and null comparison. [Methodology](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Impulse-Response-and-Audio-Systems-Analysis/METHODOLOGY.md) · [Analysis](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Impulse-Response-and-Audio-Systems-Analysis/MATLAB-ANALYSIS.md) · [Results and limitations](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Impulse-Response-and-Audio-Systems-Analysis/RESULTS-AND-LIMITATIONS.md)
 
 ### [Studer A80 vs. A800 Plug-In Validation Study](Projects/Technical-Audio-and-Research/Studer-A80-vs-A800-Plugin-Validation-Study/README.md)
 
-Used an Audio Precision SYS 2522 to compare a Studer A80 tape recorder with the Universal Audio A800 plug-in through frequency-response, SNR, and THD+N testing at 15 and 30 IPS. Includes the [methodology](Projects/Technical-Audio-and-Research/Studer-A80-vs-A800-Plugin-Validation-Study/TEST-METHODOLOGY.md), [results](Projects/Technical-Audio-and-Research/Studer-A80-vs-A800-Plugin-Validation-Study/RESULTS-SUMMARY.md), and [lessons learned](Projects/Technical-Audio-and-Research/Studer-A80-vs-A800-Plugin-Validation-Study/LESSONS-LEARNED.md).
+Used an Audio Precision SYS 2522 to compare a Studer A80 tape recorder with the Universal Audio A800 plug-in through frequency-response, SNR, and THD+N testing at 15 and 30 IPS. [Methodology](Projects/Technical-Audio-and-Research/Studer-A80-vs-A800-Plugin-Validation-Study/TEST-METHODOLOGY.md) · [Results](Projects/Technical-Audio-and-Research/Studer-A80-vs-A800-Plugin-Validation-Study/RESULTS-SUMMARY.md) · [Lessons learned](Projects/Technical-Audio-and-Research/Studer-A80-vs-A800-Plugin-Validation-Study/LESSONS-LEARNED.md)
 
 ### [Ocean Way Jazz Combo: Dolby Atmos Recording Independent Study](Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/README.md)
 
-Explored a 2L Cube-inspired microphone approach for stable, natural 7.1.4 reproduction of a jazz combo and strings in Ocean Way Nashville Studio A. Includes the [recording approach](Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/README.md#recording-approach), [session layout](Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/Session-Layout.pdf), and [surviving evidence and limitations](Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/README.md#documentation-status).
+Explored a 2L Cube-inspired microphone approach for stable, natural 7.1.4 reproduction of a jazz combo and strings in Ocean Way Nashville Studio A. [Recording approach](Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/README.md#recording-approach) · [Session layout](Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/Session-Layout.pdf) · [Evidence and limitations](Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/README.md#documentation-status)
 
 ### [Loudspeaker vs. Headphone Frequency-Boost Identification Study](Projects/Technical-Audio-and-Research/Loudspeaker-vs-Headphone-Frequency-Boost-Identification/README.md)
 
-Designed an unpublished controlled-listening study comparing trained listeners' frequency-boost identification over loudspeakers and headphones. Includes the [design and limitations](Projects/Technical-Audio-and-Research/Loudspeaker-vs-Headphone-Frequency-Boost-Identification/README.md), [deliverables](Projects/Technical-Audio-and-Research/Loudspeaker-vs-Headphone-Frequency-Boost-Identification/deliverables/), [data](Projects/Technical-Audio-and-Research/Loudspeaker-vs-Headphone-Frequency-Boost-Identification/data/), and [experiment materials](Projects/Technical-Audio-and-Research/Loudspeaker-vs-Headphone-Frequency-Boost-Identification/experiment-materials/).
+Designed an unpublished controlled-listening study comparing trained listeners' frequency-boost identification over loudspeakers and headphones. [Design and limitations](Projects/Technical-Audio-and-Research/Loudspeaker-vs-Headphone-Frequency-Boost-Identification/README.md) · [Deliverables](Projects/Technical-Audio-and-Research/Loudspeaker-vs-Headphone-Frequency-Boost-Identification/deliverables/) · [Data](Projects/Technical-Audio-and-Research/Loudspeaker-vs-Headphone-Frequency-Boost-Identification/data/) · [Materials](Projects/Technical-Audio-and-Research/Loudspeaker-vs-Headphone-Frequency-Boost-Identification/experiment-materials/)
 
 ## Music Performance & Music Education Background
 
