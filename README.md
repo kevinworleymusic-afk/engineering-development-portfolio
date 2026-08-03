@@ -6,7 +6,7 @@ My primary direction is applied psychoacoustic engineering: connecting listener 
 
 ## Evidence at a Glance
 
-- **M.S. in Audio Engineering** with applied work spanning measurement, electroacoustic validation, immersive audio, DSP, and technical reporting
+- **M.S. in Audio Engineering Technology** with applied work spanning measurement, electroacoustic validation, immersive audio, DSP, and technical reporting
 - **Audio Precision SYS 2522 validation:** frequency response, SNR, and THD+N comparison of a Studer A80 tape recorder and A800 plug-in
 - **Critical listening:** 3,410,130 SoundGym SPI across 9,491 completed activities, plus 733 logged Corey-software trials with task-specific results and limitations
 - **Immersive and professional audio:** Ocean Way Nashville, Starstruck Entertainment, guided 7.1.4 listening, and listener participation in three published AES studies
