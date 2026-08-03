@@ -11,6 +11,12 @@ The authoritative listening calendar remains in the Technical Ear Training repos
 3. Add only a short linked Critical Listening entry to each applicable day on the [master calendar](../README.md).
 4. Link completed days to the detailed listening session or calendar entry.
 
+## Current Results
+
+- [Concise critical-listening results summary](https://github.com/kevinworleymusic-afk/technical-ear-training/blob/main/LISTENING_RESULTS_SUMMARY.md)
+- [Cumulative progress dashboard](https://github.com/kevinworleymusic-afk/technical-ear-training/blob/main/PROGRESS.md)
+- [August 3 complete session record](https://github.com/kevinworleymusic-afk/technical-ear-training/blob/main/logs/03-daily/2026-W32/2026-08-03_procedure-setup.md)
+
 ## Current Detailed Record
 
 - [Full listening calendar](https://github.com/kevinworleymusic-afk/technical-ear-training/tree/main/calendar)
