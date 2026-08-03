@@ -4,6 +4,15 @@ Master’s-trained technical audio engineer with experience in room measurement,
 
 My primary direction is applied psychoacoustic engineering: connecting listener experience with perceptual research, product design, DSP, tuning, measurement, and validation. I am drawn to cross-functional roles where I can trace perceived results through acoustics, electroacoustic hardware, signal flow, and implementation, then translate those findings across teams. My music-education background supports this through experience explaining listening concepts, adapting communication, and leading groups toward shared solutions. Automotive and in-cabin audio are a leading application, alongside immersive and other electroacoustic systems; acoustical consulting remains a complementary path.
 
+## Evidence at a Glance
+
+- **M.S. in Audio Engineering** with applied work spanning measurement, electroacoustic validation, immersive audio, DSP, and technical reporting
+- **Audio Precision SYS 2522 validation:** frequency response, SNR, and THD+N comparison of a Studer A80 tape recorder and A800 plug-in
+- **Critical listening:** 3,410,130 SoundGym SPI across 9,491 completed activities, plus 733 logged Corey-software trials with task-specific results and limitations
+- **Immersive and professional audio:** Ocean Way Nashville, Starstruck Entertainment, guided 7.1.4 listening, and listener participation in three published AES studies
+- **Implemented technical work:** MATLAB room-response and DSP analysis, a Python audio-reporting tool, and a Pure Data real-time DSP prototype
+- **Automotive direction:** structured development toward in-cabin tuning, measurement, validation, DSP, and cross-functional audio-systems work
+
 Start with the [room-response analysis](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Impulse-Response-and-Audio-Systems-Analysis/README.md), [Audio Precision validation study](Projects/Technical-Audio-and-Research/Studer-A80-vs-A800-Plugin-Validation-Study/README.md), [critical-listening record](https://github.com/kevinworleymusic-afk/technical-ear-training), [Pure Data DSP prototype](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/01_Real-Time_DSP_Prototype_in_Pure_Data.md), [Python Audio File Report](https://github.com/kevinworleymusic-afk/audio-file-report), and [automotive development roadmap](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/Future-Projects/02_Automotive_Audio_Implementation_Roadmap.md).
 
 **Navigate:** [Master Development Calendar](Development-Calendar/) · [Professional Endorsements](#professional-recommendations-and-endorsements) · [Technical Projects](#major-technical-audio-and-applied-engineering-projects) · [Music Performance & Music Education Background](#music-performance--music-education-background) · [Critical Listening](#critical-listening-and-immersive-experience) · [DSP, Software & Electronics](#audio-dsp-and-software-projects) · [Technical Foundations](#additional-technical-foundations) · [Career Direction](#career-direction-applied-psychoacoustic-engineering-and-audio-systems)
@@ -19,10 +28,6 @@ Current work leads with structured critical-listening development and automotive
 Four public recommendation letters document education, musicianship, reliability, communication, teamwork, and leadership. [Torey Harding's privacy-redacted Starstruck internship evaluation](Professional-Evidence/Recommendations-and-Endorsements/03-studio-engineering-and-production/Torey-Harding-Starstruck-Internship-Evaluation-Fall-2023-Public.pdf) records 150 hours, perfect attendance, and an **Outstanding** overall rating.
 
 [Browse received and pending evidence](Professional-Evidence/Recommendations-and-Endorsements/).
-
-## Academic and Publication Status
-
-My projects are academic, classroom, independent-study, or portfolio work—not peer-reviewed publications. My separate participation as a listener, not an author, in published Belmont AES studies is documented in the [publication and participation distinctions](https://github.com/kevinworleymusic-afk/technical-ear-training/blob/main/PRIOR_EXPERIENCE.md#research-and-controlled-listening-exposure).
 
 ## Major Technical-Audio and Applied-Engineering Projects
 
@@ -73,6 +78,10 @@ Original implementations are preserved with documented limitations and recommend
 ### Studio Electronics and Equipment-Service Foundations
 
 Introductory instruction from [Mike Porter](https://www.namm.org/library/oral-history/mike-porter/) at Belmont covered components, analog signal flow, transducers, test equipment, signal tracing, electrical safety, repair, and soldering. Related evidence appears in the [measurement methodology](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Impulse-Response-and-Audio-Systems-Analysis/METHODOLOGY.md) and [troubleshooting lessons](Projects/Technical-Audio-and-Research/Studer-A80-vs-A800-Plugin-Validation-Study/LESSONS-LEARNED.md).
+
+## Academic and Publication Status
+
+My projects are academic, classroom, independent-study, or portfolio work—not peer-reviewed publications. My separate participation as a listener, not an author, in published Belmont AES studies is documented in the [publication and participation distinctions](https://github.com/kevinworleymusic-afk/technical-ear-training/blob/main/PRIOR_EXPERIENCE.md#research-and-controlled-listening-exposure).
 
 ## Career Direction: Applied Psychoacoustic Engineering and Audio Systems
 
