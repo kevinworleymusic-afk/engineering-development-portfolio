@@ -5,7 +5,7 @@ Master’s-trained technical audio engineer developing toward applied psychoacou
 ## Evidence at a Glance
 
 - **[Audio Precision validation](Projects/Technical-Audio-and-Research/Studer-A80-vs-A800-Plugin-Validation-Study/README.md):** Studer A80/A800 frequency response, SNR, and THD+N
-- **[Critical listening](https://github.com/kevinworleymusic-afk/technical-ear-training):** 3,410,130 SPI, 9,491 SoundGym activities, and 733 logged Corey trials
+- **[Critical listening](https://github.com/kevinworleymusic-afk/technical-ear-training):** 3,410,130 SPI, 9,491 SoundGym activities, and over 1800 logged and cataloged James Corey trials.
 - **Measurement and DSP:** [MATLAB room analysis](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Impulse-Response-and-Audio-Systems-Analysis/README.md), [Python audio reporting](https://github.com/kevinworleymusic-afk/audio-file-report), and [Pure Data processing](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/01_Real-Time_DSP_Prototype_in_Pure_Data.md)
 - **Immersive and professional audio:** Ocean Way Nashville, Starstruck Entertainment, guided 7.1.4 work, and listener participation in three published AES studies
 - **[Automotive development](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/Future-Projects/02_Automotive_Audio_Implementation_Roadmap.md):** in-cabin tuning, measurement, validation, DSP, and systems planning
