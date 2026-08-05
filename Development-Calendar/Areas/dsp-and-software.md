@@ -18,6 +18,7 @@ This is the primary home for electrical/electronics concepts, resources, exercis
 ## Current Detailed Record
 
 - [Full DSP, Software & Electronics Calendar](../Calendars/dsp-and-software.md)
+- [August 3 automotive DSP access and alternatives guidance](../Calendars/dsp-and-software.md#august-3-automotive-dsp-learning-routes)
 - [Repository and project-cataloging phase](../Calendars/dsp-and-software.md#repository-and-project-cataloging-phase)
 - [Audio DSP and Software portfolio section](../../README.md#audio-dsp-and-software)
 - [Python Audio File Report](https://github.com/kevinworleymusic-afk/audio-file-report)
