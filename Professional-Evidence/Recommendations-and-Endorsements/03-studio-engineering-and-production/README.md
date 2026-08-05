@@ -8,6 +8,10 @@ This is an internship supervisor evaluation rather than a conventional recommend
 
 The public copy permanently removes the supervisor's email, handwritten signature, and GeoIP/location page. The original evaluation remains unchanged outside this repository.
 
+## Requested; Response Pending
+
+- **Dr. Michael Janas** — request sent August 5 for a reference addressing the knowledge and experience Kevin developed in Janas’s tape class. No acceptance or letter has been received.
+
 ## Conditional
 
 - **Jackie Hayes — identity confirmed:** Ray Plasse identified Jackie as the former REM Studio B person Kevin remembered. Her contact information and any outreach remain pending; no recommendation has yet been requested. She could potentially provide a studio/Atmos perspective based on directly observing Kevin’s sustained work in REM Studio B.
