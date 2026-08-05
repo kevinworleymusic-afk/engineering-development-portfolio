@@ -23,6 +23,10 @@ This gateway separates received evidence from requests still in progress. A name
 | **Possible future request** | Dr. Michael Janas (reconnection assistance requested from Jon Lechner; no recommendation request sent) |
 | **Guidance inquiry drafted; not confirmed sent** | Austin James — ask whether his GTA observations support a coding/DSP recommendation or whether Dr. Eric Tarr is the more appropriate route |
 
+## August 4 Follow-Up Record
+
+Kevin checked in on pending professional-reference contacts and attempted to obtain project files from Justin Roberts. No new recommendation, approval, or file is marked received because no confirmed response or completed transfer was reported. The individual statuses above remain authoritative until new evidence arrives.
+
 Automotive-audio and acoustical-consulting endorsements are intentionally deferred until a professional has observed enough completed work to evaluate it directly.
 
 ## Publication Standard
