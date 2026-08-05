@@ -58,7 +58,9 @@ This records research and decision preparation only. No DSP purchase, installati
 
 **Completed:** Jay Krusac supplied a warm local contact at Panasonic Automotive in the Atlanta/Peachtree City area and answered the prepared questions. His DSP guidance distinguished interview-level familiarity with Audio Weaver from accessible hands-on learning through miniDSP, TinySine/SigmaStudio, and potentially DSPi. Kevin also studied privately emailed Sean Olive keynote materials that evening as automotive-audio professional learning.
 
-No Panasonic opportunity, tour, hiring action, mentorship, hardware purchase, or DSP implementation is claimed.
+**Probable public identity, not confirmed:** Kevin believes Jay’s contact may be [Jim Walter](https://www.linkedin.com/in/jim-walter-41144221), whose LinkedIn profile lists him as Executive Director — Advanced Engineering at Panasonic Automotive North America in Peachtree City from January 2024 to present. This is a contextual match based on first name, employer, and location; the private number has not been used to verify the identity.
+
+No Panasonic opportunity, tour, hiring action, mentorship, verified identity, hardware purchase, or DSP implementation is claimed.
 
 ### August 4 Panasonic Outreach
 
