@@ -20,6 +20,7 @@ Electrical/electronics study is displayed here whenever the purpose involves veh
 ## Current Detailed Record
 
 - [Full Automotive Audio, Research & Technical-Study Calendar](../Calendars/automotive-audio.md)
+- [August 3–4 local Panasonic introduction and DSP-learning guidance](../Plans/automotive-audio/02-weekly/2026-08-03.md)
 - [Automotive portfolio section](../../README.md#career-direction-acoustical-consulting-and-automotive-audio)
 - [Major technical projects](../../README.md#major-technical-audio-and-applied-engineering-projects)
 - [Development syllabus](../../SYLLABUS.md)
