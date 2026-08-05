@@ -34,7 +34,7 @@ The standalone [Python Audio File Report](https://github.com/kevinworleymusic-af
 | **Monday** | **Tuesday** | **Wednesday** | **Thursday** | **Friday** | **Saturday** | **Sunday** |
 |---|---|---|---|---|---|---|
 | — | — | — | — | — | [**1**](#august-1-electrical-engineering-study-plan)<br>[🟪 **DSP/SW**](../Areas/dsp-and-software.md)<br>✓ EE path researched; project set up | [**2**](#august-2-circuit-activity-deferred)<br>[🟪 **DSP/SW**](../Areas/dsp-and-software.md)<br>↪ Circuit activity deferred |
-| [**3**](#august-3-automotive-dsp-learning-routes)<br>[🟪 **DSP/SW**](../Areas/dsp-and-software.md)<br>✓ Documented DSP access + alternatives | [**4**](../2026-08.md#august-3-9) | [**5**](#august-5-dsp-knowledge-outreach)<br>[🟪 **DSP/SW**](../Areas/dsp-and-software.md)<br>✓ Asked contacts about platform knowledge | [**6**](../2026-08.md#august-3-9) | [**7**](../2026-08.md#august-3-9) | [**8**](../2026-08.md#august-3-9) | [**9**](../2026-08.md#august-3-9) |
+| [**3**](#august-3-automotive-dsp-learning-routes)<br>[🟪 **DSP/SW**](../Areas/dsp-and-software.md)<br>✓ Documented DSP access + alternatives | [**4**](../2026-08.md#august-3-9) | [**5**](#august-5-dsp-knowledge-outreach)<br>[🟪 **DSP/SW**](../Areas/dsp-and-software.md)<br>✓ Asked contacts about platform knowledge<br>◇ Evening: review options + project/buy criteria | [**6**](../2026-08.md#august-3-9) | [**7**](../2026-08.md#august-3-9) | [**8**](../2026-08.md#august-3-9) | [**9**](../2026-08.md#august-3-9) |
 | [**10**](../2026-08.md#august-10-16) | [**11**](../2026-08.md#august-10-16) | [**12**](../2026-08.md#august-10-16) | [**13**](../2026-08.md#august-10-16) | [**14**](../2026-08.md#august-10-16) | [**15**](../2026-08.md#august-10-16) | [**16**](../2026-08.md#august-10-16) |
 | [**17**](../2026-08.md#august-17-23) | [**18**](../2026-08.md#august-17-23) | [**19**](../2026-08.md#august-17-23) | [**20**](../2026-08.md#august-17-23) | [**21**](../2026-08.md#august-17-23) | [**22**](../2026-08.md#august-17-23) | [**23**](../2026-08.md#august-17-23) |
 | [**24**](../2026-08.md#august-24-30) | [**25**](../2026-08.md#august-24-30) | [**26**](../2026-08.md#august-24-30) | [**27**](../2026-08.md#august-24-30) | [**28**](../2026-08.md#august-24-30) | [**29**](../2026-08.md#august-24-30) | [**30**](../2026-08.md#august-24-30) |
@@ -61,6 +61,12 @@ Other dates will be populated after weekly objectives are selected.
 ### August 5 DSP Knowledge Outreach
 
 Kevin asked professional contacts what familiarity or practical knowledge they have concerning the platforms and constraints Jay identified: Audio Weaver, miniDSP, TinySine/SigmaStudio, and DSPi. This records questions sent, not confirmed expertise, platform validation, or implementation. Responses remain pending.
+
+#### Evening Objective — Planned
+
+Revisit the Audio Weaver material and the miniDSP, TinySine/SigmaStudio, and DSPi resources Jay supplied. Generate realistic future project ideas for each route and determine whether the next useful step can be completed with existing software, requires an evaluation/development board, or may justify researching a hardware purchase.
+
+**Intended output:** a short option comparison containing potential project, transferable skill, required software/hardware, approximate access barrier, validation method, and next decision. No purchase or completed implementation is claimed by scheduling this review.
 
 ## Detailed Evidence
 
