@@ -57,8 +57,8 @@ Future entries can document professional outreach, informational conversations, 
 | **Mon** | **Tue** | **Wed** | **Thu** | **Fri** | **Sat** | **Sun** |
 |---|---|---|---|---|---|---|
 | — | — | — | — | — | [**1**](#august-1-generator-barrier-project-plan)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Published consulting-employer dashboard<br><br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Built initial generator/barrier workbook | [**2**](#august-2-targeted-networking-plan)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>◇ Send remaining requests by Aug. 3 AM |
-| **3** | **4** | **5** | **6** | **7** | **8** | **9** |
-| **10** | **11** | [**12**](#august-12-jay-krusac-follow-up-plan)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>◇ Jay guidance follow-up | **13** | **14** | **15** | **16** |
+| [**3**](#august-3-jay-response-and-panasonic-introduction)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Local Panasonic contact + DSP guidance | [**4**](#august-4-panasonic-and-reference-follow-up)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Texted Jim; reply pending<br><br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Reference/file follow-ups | **5** | **6** | **7** | **8** | **9** |
+| **10** | **11** | [**12**](#august-12-follow-up-status)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Checkpoint completed early Aug. 3 | **13** | **14** | **15** | **16** |
 | **17** | **18** | **19** | **20** | **21** | **22** | **23** |
 | **24** | **25** | **26** | **27** | **28** | **29** | **30** |
 | **31** | — | — | — | — | — | — |
@@ -79,12 +79,18 @@ Send the remaining focused professional-reference requests tonight, August 2, or
 
 **Planned output:** Two appropriately scoped recommendation requests plus a concise local-opportunity inquiry to Bradley and a follow-up record. Any letter remains pending—not portfolio evidence—until it is received and approved for public use.
 
-### August 12 Jay Krusac Follow-Up Plan
+### August 3 Jay Response and Panasonic Introduction
 
-Send a concise follow-up after the automotive conference. Briefly note that Jay’s July guidance has been considered and that the next steps are constrained by three practical choices. Ask which critical-listening abilities matter most for vehicle tuning and demo-system work, which lower-cost environment best teaches transferable DSP concepts when Audio Weaver is not currently accessible, and whether an initial vehicle-measurement setup should use one calibrated microphone with repeatable positions, multiple microphones, or another arrangement.
+Jay Krusac responded and shared the private phone number of Jim, a Panasonic Automotive contact in the Atlanta/Peachtree City area. Jay described Jim as open to chatting or texting and as a potentially useful local contact. Kevin then asked the planned listening, DSP-access, and vehicle-measurement questions. Jay supplied guidance on Audio Weaver concepts and lower-cost learning routes including miniDSP, TinySine/SigmaStudio, and DSPi.
 
-This is a guidance checkpoint, not a major project presentation. Reasonable preparation consists of documenting available listening tools, current budget/access constraints, existing measurement equipment, and the intended vehicle-measurement questions. No purchase or finished automotive project is required before outreach.
+The phone number remains private. This records a warm introduction and guidance exchange, not a job lead, interview, tour, endorsement, or established mentoring relationship.
 
-**Planned output:** Three focused questions and a recorded response status; route any technical advice into the listening, DSP/software, and automotive pathways.
+### August 4 Panasonic and Reference Follow-Up
+
+Kevin sent an initial text to Jim; no response has been received yet. He also checked in on pending professional-reference contacts and attempted to obtain project files from Justin Roberts. Existing recommendation and file statuses remain pending until a response or document is actually received.
+
+### August 12 Follow-Up Status
+
+The original Jay Krusac guidance checkpoint was completed early on August 3. No duplicate August 12 outreach is required. Any later contact should be driven by a response, a substantive progress update, or a new focused question.
 
 Future dates will be populated only after a specific professional-development objective is selected.
