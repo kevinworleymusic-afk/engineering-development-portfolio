@@ -20,6 +20,7 @@ This pathway records the professional source of guidance—such as outreach to A
 ## Current Detailed Record
 
 - [Full Professional Networking & Acoustical Consulting Calendar](../Calendars/acoustical-consulting.md)
+- [August 3–4 Panasonic introduction, outreach, and reference/file follow-up](../Plans/networking-and-consulting/02-weekly/2026-08-03.md)
 - [Main portfolio](../../README.md)
 - [Technical Evidence at a Glance](../../README.md#technical-evidence-at-a-glance)
 - [Professional evidence](../../Professional-Evidence/)
