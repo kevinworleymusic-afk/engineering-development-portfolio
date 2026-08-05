@@ -6,6 +6,6 @@
 
 ## Requested; Response Pending
 
-- **Ed Seay** — critical listening, mixing judgment, recorded-music history, studio-technology development, and the connection between musical context and production decisions
+- **Ed Seay** — original request sent July 31 and resent August 5; requested scope covers critical listening, mixing judgment, recorded-music history, studio-technology development, and the connection between musical context and production decisions. Response remains pending.
 
 No recommendation is represented as received until the document is supplied and approved for public use.
