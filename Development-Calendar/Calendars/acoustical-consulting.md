@@ -57,7 +57,7 @@ Future entries can document professional outreach, informational conversations, 
 | **Mon** | **Tue** | **Wed** | **Thu** | **Fri** | **Sat** | **Sun** |
 |---|---|---|---|---|---|---|
 | — | — | — | — | — | [**1**](#august-1-generator-barrier-project-plan)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Published consulting-employer dashboard<br><br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Built initial generator/barrier workbook | [**2**](#august-2-targeted-networking-plan)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>◇ Send remaining requests by Aug. 3 AM |
-| [**3**](#august-3-jay-response-and-panasonic-introduction)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Local Panasonic contact + DSP guidance | [**4**](#august-4-panasonic-and-reference-follow-up)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Texted Jim; reply pending<br><br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Reference/file follow-ups | [**5**](#august-5-information-and-contact-check-ins)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Lechner information received<br>✓ DSP-knowledge questions sent<br>✓ Jim reaction added; reply pending | **6** | **7** | **8** | **9** |
+| [**3**](#august-3-jay-response-and-panasonic-introduction)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Local Panasonic contact + DSP guidance | [**4**](#august-4-panasonic-and-reference-follow-up)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Texted Jim; reply pending<br><br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Reference/file follow-ups | [**5**](#august-5-information-and-contact-check-ins)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Lechner information received<br>✓ DSP-knowledge questions sent<br>✓ Jim reaction added; reply pending<br>✓ Resent Seay request<br>✓ Sent Janas tape-class request | **6** | **7** | **8** | **9** |
 | **10** | **11** | [**12**](#august-12-follow-up-status)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Checkpoint completed early Aug. 3 | **13** | **14** | **15** | **16** |
 | **17** | **18** | **19** | **20** | **21** | **22** | **23** |
 | **24** | **25** | **26** | **27** | **28** | **29** | **30** |
@@ -94,6 +94,8 @@ Kevin sent an initial text to Jim; no response has been received yet. He also ch
 Kevin received information from Jon Lechner. The exact item is not classified here as the expected recommendation PDF without separate confirmation. Kevin also asked contacts what knowledge or experience they have concerning the DSP platforms and constraints Jay discussed—Audio Weaver, miniDSP, TinySine/SigmaStudio, and DSPi. These are information-gathering questions; responses remain pending.
 
 Jim’s August 4 text showed as read. Kevin added a question-mark reaction to that existing message on August 5 so it could surface again. This was not a second text, and Jim has not replied.
+
+Kevin resent the recommendation-request email to Ed Seay and sent Dr. Michael Janas a reference request focused on the knowledge and experience Kevin developed in Janas’s tape class. These are confirmed outreach actions only; both responses and any resulting documents remain pending.
 
 ### August 12 Follow-Up Status
 
