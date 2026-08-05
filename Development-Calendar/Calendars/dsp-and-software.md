@@ -34,7 +34,7 @@ The standalone [Python Audio File Report](https://github.com/kevinworleymusic-af
 | **Monday** | **Tuesday** | **Wednesday** | **Thursday** | **Friday** | **Saturday** | **Sunday** |
 |---|---|---|---|---|---|---|
 | — | — | — | — | — | [**1**](#august-1-electrical-engineering-study-plan)<br>[🟪 **DSP/SW**](../Areas/dsp-and-software.md)<br>✓ EE path researched; project set up | [**2**](#august-2-circuit-activity-deferred)<br>[🟪 **DSP/SW**](../Areas/dsp-and-software.md)<br>↪ Circuit activity deferred |
-| [**3**](../2026-08.md#august-3-9) | [**4**](../2026-08.md#august-3-9) | [**5**](../2026-08.md#august-3-9) | [**6**](../2026-08.md#august-3-9) | [**7**](../2026-08.md#august-3-9) | [**8**](../2026-08.md#august-3-9) | [**9**](../2026-08.md#august-3-9) |
+| [**3**](#august-3-automotive-dsp-learning-routes)<br>[🟪 **DSP/SW**](../Areas/dsp-and-software.md)<br>✓ Documented DSP access + alternatives | [**4**](../2026-08.md#august-3-9) | [**5**](../2026-08.md#august-3-9) | [**6**](../2026-08.md#august-3-9) | [**7**](../2026-08.md#august-3-9) | [**8**](../2026-08.md#august-3-9) | [**9**](../2026-08.md#august-3-9) |
 | [**10**](../2026-08.md#august-10-16) | [**11**](../2026-08.md#august-10-16) | [**12**](../2026-08.md#august-10-16) | [**13**](../2026-08.md#august-10-16) | [**14**](../2026-08.md#august-10-16) | [**15**](../2026-08.md#august-10-16) | [**16**](../2026-08.md#august-10-16) |
 | [**17**](../2026-08.md#august-17-23) | [**18**](../2026-08.md#august-17-23) | [**19**](../2026-08.md#august-17-23) | [**20**](../2026-08.md#august-17-23) | [**21**](../2026-08.md#august-17-23) | [**22**](../2026-08.md#august-17-23) | [**23**](../2026-08.md#august-17-23) |
 | [**24**](../2026-08.md#august-24-30) | [**25**](../2026-08.md#august-24-30) | [**26**](../2026-08.md#august-24-30) | [**27**](../2026-08.md#august-24-30) | [**28**](../2026-08.md#august-24-30) | [**29**](../2026-08.md#august-24-30) | [**30**](../2026-08.md#august-24-30) |
@@ -50,7 +50,13 @@ This completes the study-path research and project-setup objective. Guidance req
 
 The circuit exercise was moved back because the activity plan is not yet specific enough to execute and document responsibly. It remains unscheduled until the source, concept, task, expected result, and evidence standard are defined; no completion is claimed.
 
-Only August 1–2 currently contain scheduled electronics-development tasks. Other dates will be populated after weekly objectives are selected.
+### August 3 Automotive DSP Learning Routes
+
+**Completed guidance record:** Jay Krusac explained that Audio Weaver is not consumer-affordable and normally depends on evaluation hardware and MATLAB licensing, while public study can still build useful interview vocabulary. He suggested the [Audio Weaver overview](https://www.youtube.com/watch?v=fHBc4pHY9PI), [miniDSP](https://www.minidsp.com/) for light EQ/tuning practice, [TinySine DSP hardware](https://www.tinysineaudio.com/collections/audio-amplifier-with-dsp) for SigmaStudio experimentation, and the [DSPi project](https://www.audiosciencereview.com/forum/index.php?threads/introducing-dspi-a-powerful-user-friendly-and-open-source-dsp-for-less-than-a-cup-of-coffee.69343/) as an affordable open-source resource to investigate.
+
+This is a resource and access-constraint record. It does not claim that any platform was purchased, implemented, validated, or used in production. Jay explicitly had not explored DSPi, so it remains an option for independent evaluation rather than a validated recommendation.
+
+Other dates will be populated after weekly objectives are selected.
 
 ## Detailed Evidence
 
