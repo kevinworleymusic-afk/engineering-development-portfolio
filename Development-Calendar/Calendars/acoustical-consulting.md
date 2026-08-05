@@ -83,7 +83,9 @@ Send the remaining focused professional-reference requests tonight, August 2, or
 
 Jay Krusac responded and shared the private phone number of Jim, a Panasonic Automotive contact in the Atlanta/Peachtree City area. Jay described Jim as open to chatting or texting and as a potentially useful local contact. Kevin then asked the planned listening, DSP-access, and vehicle-measurement questions. Jay supplied guidance on Audio Weaver concepts and lower-cost learning routes including miniDSP, TinySine/SigmaStudio, and DSPi.
 
-The phone number remains private. This records a warm introduction and guidance exchange, not a job lead, interview, tour, endorsement, or established mentoring relationship.
+The phone number remains private. **Probable public identity, not confirmed from the private number:** Kevin believes the contact may be [Jim Walter](https://www.linkedin.com/in/jim-walter-41144221). Walter’s LinkedIn profile lists him as **Executive Director — Advanced Engineering at Panasonic Automotive North America**, based in **Peachtree City, Georgia**, from **January 2024 to present**. The first name, employer, and location match Jay’s description, but the identity remains an inference until Jay or Jim confirms the surname.
+
+This records a warm introduction and guidance exchange, not a job lead, interview, tour, endorsement, established mentoring relationship, or verified identity match.
 
 ### August 4 Panasonic and Reference Follow-Up
 
