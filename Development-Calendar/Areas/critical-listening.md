@@ -15,7 +15,8 @@ The authoritative listening calendar remains in the Technical Ear Training repos
 
 - [Concise critical-listening results summary](https://github.com/kevinworleymusic-afk/technical-ear-training/blob/main/LISTENING_RESULTS_SUMMARY.md)
 - [Cumulative progress dashboard](https://github.com/kevinworleymusic-afk/technical-ear-training/blob/main/PROGRESS.md)
-- [August 2 complete session record](https://github.com/kevinworleymusic-afk/technical-ear-training/blob/main/logs/03-daily/2026-W31/2026-08-02_session-04.md)
+- [August 5 complete session record](https://github.com/kevinworleymusic-afk/technical-ear-training/blob/main/logs/03-daily/2026-W32/2026-08-05_fine-resolution-pink-noise-eq.md)
+- **Current continuation record:** At least 3,491 documented trials across four completed sessions, including 3,170 EQ trials; August 5 added the first scored music-transfer blocks and one-third-octave pink-noise benchmarks.
 
 ## Current Detailed Record
 
