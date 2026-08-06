@@ -18,7 +18,7 @@ A jazz combo and string ensemble were recorded using a spatial capture approach 
 
 The project was recorded in the historic Ocean Way Nashville Studio A, providing access to a world-class commercial recording environment and its professional recording, monitoring, and studio infrastructure.
 
-Conducting the study in the historic Studio A allowed the research team to work with exceptionally high-quality microphones, signal paths, monitoring systems, and acoustics. Although the precise microphone models cannot be verified from the surviving documentation, the facility and equipment provided a professional foundation for evaluating the immersive recording technique.
+Conducting the study in the historic Studio A allowed the research team to work with exceptionally high-quality microphones, signal paths, monitoring systems, and acoustics. A surviving pre-session recording plan documents the intended microphone models and channel assignments. Because it is a planning artifact rather than a final session report, it confirms the design intent but does not independently prove that every listed microphone was deployed unchanged.
 
 ## Research team and roles
 
@@ -55,6 +55,14 @@ Because the approach connected microphone positions with corresponding playback 
 A surviving handwritten [session layout](Session-Layout.pdf) records the physical arrangement used for the study in Ocean Way Nashville Studio A. The working floor plan identifies the control-room orientation, central 2L Cube-inspired array, drum and amplifier positions, string-player stations, supporting microphones, and a room microphone. The drawing was explicitly created as a not-to-scale overview of the general session layout rather than as a measured architectural plan.
 
 This document provides additional evidence that performer placement, microphone geometry, and the relationship between the ensemble and the immersive array were considered during the planning and execution of the recording.
+
+## Pre-session recording plan documentation
+
+The surviving [Ocean Way Studio A recording plan dated February 21, 2024](Ocean-Way-Studio-A-Recording-Plan-2024-02-21.pdf) documents the intended jazz string ensemble, repertoire, 2L Cube channel assignments, direct microphones, and signal-path choices.
+
+The planned 2L Cube-inspired array used Neumann M50 microphones for the front-left, front-right, and front-center positions; AKG C12/C414 microphones for the rear-left and rear-right positions; Sennheiser MKH 800 microphones for the front height positions; and DPA 4006 microphones for the rear height positions. The direct-microphone plan also specifies ribbon microphones and Millennia preamps for strings, microphone and DI paths for bass and guitar, dedicated drum microphones, and an additional room microphone.
+
+This is pre-session evidence of the intended design. Any substitutions or deviations made during the session have not been independently confirmed.
 
 ## Surviving sessions
 
@@ -117,7 +125,7 @@ The longer-term goal is to combine immersive-audio experience with professional 
 
 The original Pro Tools sessions and some recording files survive, but the sessions cannot currently be reopened because the required Pro Tools license is unavailable.
 
-The exact microphone models, detailed signal routing, plug-in settings, and complete renderer configuration have not been independently verified. Portfolio documentation therefore distinguishes between information confirmed by surviving files and details reconstructed from firsthand participation.
+The pre-session recording plan verifies the intended microphone models and signal-path design, while the surviving session layout and Pro Tools references corroborate portions of the implemented structure. Actual deployment of every planned microphone, any day-of-session substitutions, detailed signal routing, plug-in settings, and the complete renderer configuration have not been independently verified. Portfolio documentation therefore distinguishes among planned details, information confirmed by surviving files, and details reconstructed from firsthand participation.
 
 No session files or musical recordings will be published publicly without confirming the necessary ownership and permissions.
 
