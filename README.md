@@ -4,7 +4,7 @@ Master’s-trained technical audio engineer developing toward applied psychoacou
 
 ## Evidence at a Glance
 
-- **[Audio Precision validation](Projects/Technical-Audio-and-Research/Studer-A80-vs-A800-Plugin-Validation-Study/README.md):** Studer A80/A800 frequency response, SNR, and THD+N
+- **Audio Precision measurement and validation:** [SSL Fusion device measurements](Projects/Technical-Audio-and-Research/SSL-Fusion-Audio-Precision-Measurement-Project/README.md) covering frequency response, THD+N, phase, crosstalk, and reference/noise behavior; and [Studer A80/A800 validation](Projects/Technical-Audio-and-Research/Studer-A80-vs-A800-Plugin-Validation-Study/README.md) covering frequency response, SNR, and THD+N
 - **[Critical listening](https://github.com/kevinworleymusic-afk/technical-ear-training):** 3,410,130 SPI, 9,491 SoundGym activities, and at least 3,491 logged James Corey trials.
 - **Measurement and DSP:** [MATLAB room analysis](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Impulse-Response-and-Audio-Systems-Analysis/README.md), [Python audio reporting](https://github.com/kevinworleymusic-afk/audio-file-report), and [Pure Data processing](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/01_Real-Time_DSP_Prototype_in_Pure_Data.md)
 - **Immersive and professional audio:** Ocean Way Nashville, Starstruck Entertainment, guided 7.1.4 work, and listener participation in three published AES studies
@@ -18,7 +18,7 @@ Current work prioritizes structured critical listening and automotive-audio stud
 
 ## Professional Recommendations and Endorsements
 
-Four public recommendation letters document education, musicianship, reliability, communication, teamwork, and leadership. [Torey Harding's privacy-redacted Starstruck internship evaluation](Professional-Evidence/Recommendations-and-Endorsements/03-studio-engineering-and-production/Torey-Harding-Starstruck-Internship-Evaluation-Fall-2023-Public.pdf) records 150 hours, perfect attendance, and an **Outstanding** overall rating.
+Five public recommendation letters document education, musicianship, reliability, communication, teamwork, and leadership. [Torey Harding's privacy-redacted Starstruck internship evaluation](Professional-Evidence/Recommendations-and-Endorsements/03-studio-engineering-and-production/Torey-Harding-Starstruck-Internship-Evaluation-Fall-2023-Public.pdf) records 150 hours, perfect attendance, and an **Outstanding** overall rating.
 
 [Browse received and pending evidence](Professional-Evidence/Recommendations-and-Endorsements/).
 
@@ -28,13 +28,17 @@ Four public recommendation letters document education, musicianship, reliability
 
 Captured a Yamaha HS8-to-Rode NT1 room response and analyzed it through impulse-response estimation, FFT/IFFT processing, convolution, and null comparison. [Methodology](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Impulse-Response-and-Audio-Systems-Analysis/METHODOLOGY.md) · [Analysis](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Impulse-Response-and-Audio-Systems-Analysis/MATLAB-ANALYSIS.md) · [Results and limitations](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Impulse-Response-and-Audio-Systems-Analysis/RESULTS-AND-LIMITATIONS.md)
 
+### [SSL Fusion Audio Precision Measurement Project](Projects/Technical-Audio-and-Research/SSL-Fusion-Audio-Precision-Measurement-Project/README.md)
+
+Measured an SSL Fusion analog stereo processor in AET-5010 using an Audio Precision analyzer, documenting frequency response, THD+N, phase, crosstalk, and reference/noise readings. [Original course report](Projects/Technical-Audio-and-Research/SSL-Fusion-Audio-Precision-Measurement-Project/original-report/SSL-Fusion-Audio-Precision-Measurement-Course-Report.pdf) · [Results and limitations](Projects/Technical-Audio-and-Research/SSL-Fusion-Audio-Precision-Measurement-Project/README.md#limitations-and-interpretation)
+
 ### [Studer A80 vs. A800 Plug-In Validation Study](Projects/Technical-Audio-and-Research/Studer-A80-vs-A800-Plugin-Validation-Study/README.md)
 
 Used an Audio Precision SYS 2522 to compare a Studer A80 tape recorder with the Universal Audio A800 plug-in through frequency-response, SNR, and THD+N testing at 15 and 30 IPS. [Methodology](Projects/Technical-Audio-and-Research/Studer-A80-vs-A800-Plugin-Validation-Study/TEST-METHODOLOGY.md) · [Results](Projects/Technical-Audio-and-Research/Studer-A80-vs-A800-Plugin-Validation-Study/RESULTS-SUMMARY.md) · [Lessons learned](Projects/Technical-Audio-and-Research/Studer-A80-vs-A800-Plugin-Validation-Study/LESSONS-LEARNED.md)
 
 ### [Ocean Way Jazz Combo: Dolby Atmos Recording Independent Study](Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/README.md)
 
-Explored a 2L Cube-inspired microphone approach for stable, natural 7.1.4 reproduction of a jazz combo and strings in Ocean Way Nashville Studio A. [Recording approach](Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/README.md#recording-approach) · [Session layout](Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/Session-Layout.pdf) · [Evidence and limitations](Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/README.md#documentation-status)
+Explored a 2L Cube-inspired microphone approach for stable, natural 7.1.4 reproduction of a jazz combo and strings in Ocean Way Nashville Studio A. [Recording approach](Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/README.md#recording-approach) · [Pre-session recording plan](Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/Ocean-Way-Studio-A-Recording-Plan-2024-02-21.pdf) · [Session layout](Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/Session-Layout.pdf) · [Evidence and limitations](Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/README.md#documentation-status)
 
 ### [Loudspeaker vs. Headphone Frequency-Boost Identification Study](Projects/Technical-Audio-and-Research/Loudspeaker-vs-Headphone-Frequency-Boost-Identification/README.md)
 
