@@ -7,7 +7,7 @@ This gateway separates received evidence from requests still in progress. A name
 - [Education and Teaching](01-education-and-teaching/) — four received public letters; one planned request
 - [Music Performance and Personal Development](02-music-performance-and-personal-development/) — one request pending and one planned request
 - [Studio Engineering and Production](03-studio-engineering-and-production/) — one received supervisor evaluation, one tape-class reference request pending, and one conditional studio contact
-- [Immersive Audio and Critical Listening](04-immersive-audio-and-critical-listening/) — two requests sent
+- [Immersive Audio and Critical Listening](04-immersive-audio-and-critical-listening/) — one received public letter and one request pending
 - [Measurement and Technical Validation](05-measurement-and-technical-validation/) — one separate possible future measurement-focused request
 - [Coding and DSP](06-coding-and-dsp/) — one guidance inquiry drafted; recommender route not yet selected
 
@@ -15,13 +15,16 @@ This gateway separates received evidence from requests still in progress. A name
 
 | Status | People / evidence |
 |---|---|
-| **Received and public** | Dr. Charles R. Jackson, Dr. Alison Mann, Kathy Ratcliffe, Sam Skelton, Torey Harding internship evaluation |
-| **Accepted; document pending** | Jon Lechner — agreed to provide a PDF after returning to the office Tuesday |
+| **Received and public** | Dr. Charles R. Jackson, Dr. Alison Mann, Kathy Ratcliffe, Sam Skelton, Torey Harding internship evaluation, [Jon Lechner recommendation](04-immersive-audio-and-critical-listening/Jon-Lechner-Recommendation-August-2026-Public.pdf) |
 | **Requested; response pending** | Ed Seay — request resent August 5; Tyrone Jackson; Dr. Michael Janas — tape-class request sent August 5 |
 | **Planned; not yet requested** | Bradley Rikard, Trey Wright |
 | **Conditional / contact pending** | Former REM Studio B manager/staff member (identity/contact requested through Lisa LaFountaine, Ray Plasse, and Jon Lechner) |
 | **Possible future request** | Dr. Michael Janas — a separate measurement/Audio Precision scope remains possible, distinct from the tape-class request sent August 5 |
 | **Guidance inquiry drafted; not confirmed sent** | Austin James — ask whether his GTA observations support a coding/DSP recommendation or whether Dr. Eric Tarr is the more appropriate route |
+
+## August 5 Jon Lechner Recommendation
+
+Received Jon Lechner’s signed Belmont recommendation and published a [privacy-redacted public copy](04-immersive-audio-and-critical-listening/Jon-Lechner-Recommendation-August-2026-Public.pdf). The letter independently corroborates dedication, technical aptitude, creative vision, spatial-audio understanding, professional-grade Dolby Atmos work, object-based mixing, spatial positioning, complex multichannel environments, and an unreserved recommendation for audio and post-production opportunities. The public copy removes the handwritten signature, mailing address, and telephone numbers; the original remains unchanged outside the repository.
 
 ## August 5 Outreach Record
 
