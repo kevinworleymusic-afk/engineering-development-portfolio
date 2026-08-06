@@ -18,7 +18,7 @@ Current work prioritizes structured critical listening and automotive-audio stud
 
 ## Professional Recommendations and Endorsements
 
-Five public recommendation letters document education, musicianship, reliability, communication, teamwork, and leadership. [Torey Harding's privacy-redacted Starstruck internship evaluation](Professional-Evidence/Recommendations-and-Endorsements/03-studio-engineering-and-production/Torey-Harding-Starstruck-Internship-Evaluation-Fall-2023-Public.pdf) records 150 hours, perfect attendance, and an **Outstanding** overall rating.
+Six public recommendation letters document education, musicianship, reliability, communication, teamwork, and leadership. [Torey Harding's privacy-redacted Starstruck internship evaluation](Professional-Evidence/Recommendations-and-Endorsements/03-studio-engineering-and-production/Torey-Harding-Starstruck-Internship-Evaluation-Fall-2023-Public.pdf) records 150 hours, perfect attendance, and an **Outstanding** overall rating.
 
 [Browse received and pending evidence](Professional-Evidence/Recommendations-and-Endorsements/).
 
