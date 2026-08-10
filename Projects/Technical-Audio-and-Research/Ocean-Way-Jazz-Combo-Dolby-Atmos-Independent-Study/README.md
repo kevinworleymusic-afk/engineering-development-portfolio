@@ -22,7 +22,7 @@ Conducting the study in the historic Studio A allowed the research team to work 
 
 ## Research team and roles
 
-The project was supervised by Dr. Doyeun Ko of Belmont University.
+The project was supervised by Dr. Doyuen Ko of Belmont University.
 
 The three core student researchers were:
 
