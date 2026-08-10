@@ -26,9 +26,10 @@ Eight recommendation and reference entries across seven professionals include si
 
 ### Critical Listening, Psychoacoustics, and Immersive Audio
 
+- **Listening software — [Technical Listening Trainer prototype](https://github.com/kevinworleymusic-afk/technical-listening-trainer):** Customizable automotive-focused exercises with blind EQ detection/identification, validated biquad processing, cabin-condition simulation, and CSV analytics.
 - **Listening research — [Loudspeaker vs. Headphone Frequency-Change Identification Study](Projects/Technical-Audio-and-Research/Loudspeaker-vs-Headphone-Frequency-Boost-Identification/README.md):** Designed and administered a controlled pink-noise study with completed response analysis; results found no significant overall headphone-versus-loudspeaker difference and better identification of boosts than cuts.
 - **Immersive recording — [Ocean Way Jazz Combo Dolby Atmos Independent Study](Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/README.md):** 2L Cube-inspired capture and 7.1.4 routing for jazz combo and strings in Ocean Way Nashville Studio A, supported by a [recording plan](Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/Ocean-Way-Studio-A-Recording-Plan-2024-02-21.pdf) and [session layout](Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/Session-Layout.pdf).
-- **Atmos and immersive environments:** Listening, workflow, and room-operation exposure across Belmont’s film-mixing Atmos suites, REM Studio B’s Atmos room, Starstruck Entertainment’s Atmos studio, the Ocean Way 7.1.4 immersive study, and additional immersive-audio demonstrations and expos.
+- **Atmos and immersive environments:** Listening, workflow, and room-operation exposure across Belmont’s film-mixing Atmos suites, REM Studio B’s Atmos room, Starstruck Entertainment’s Atmos studio, and additional immersive-audio demonstrations and expos.
 
 ### Measurement, Acoustics, and Validation
 
@@ -39,7 +40,6 @@ Eight recommendation and reference entries across seven professionals include si
 
 ### Software, DSP, and Electronics
 
-- **Python prototype — [Technical Listening Trainer](https://github.com/kevinworleymusic-afk/technical-listening-trainer):** Customizable automotive-focused critical-listening exercises with blind EQ detection/identification, validated biquad processing, cabin-condition simulation, and CSV analytics.
 - **Python — [Audio File Report](https://github.com/kevinworleymusic-afk/audio-file-report):** Tested command-line WAV validator and analyzer with metadata reports, stereo FFT plots, diagnostics, corruption checks, and saved or interactive output.
 - **Pure Data — [Real-Time DSP and Tuning-Workflow Prototype](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/01_Real-Time_DSP_Prototype_in_Pure_Data.md):** First node-based signal-flow and tuning-workflow prototype, developing Audio Weaver-relevant competencies through playback, delay, filtering, gain, test signals, low-frequency routing, and protected output; built in Pure Data, not Audio Weaver.
 - **Electronics foundations — [Coursework and development workbook](Projects/Coding-and-Audio-Software/Audio-Electronics-Fundamentals-Workbook/README.md):** Introductory studio-electronics study with [Mike Porter](https://www.belmont.edu/profiles/mike-porter/) covered circuit components, analog signal flow, test equipment, troubleshooting, electrical safety, repair, and soldering; the current workbook extends that foundation through planned calculation and simulation exercises.
