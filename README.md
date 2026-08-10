@@ -28,6 +28,7 @@ Eight recommendation and reference entries across seven professionals include si
 
 - **Listening research — [Loudspeaker vs. Headphone Frequency-Change Identification Study](Projects/Technical-Audio-and-Research/Loudspeaker-vs-Headphone-Frequency-Boost-Identification/README.md):** Designed and administered a controlled pink-noise study with completed response analysis; results found no significant overall headphone-versus-loudspeaker difference and better identification of boosts than cuts.
 - **Immersive recording — [Ocean Way Jazz Combo Dolby Atmos Independent Study](Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/README.md):** 2L Cube-inspired capture and 7.1.4 routing for jazz combo and strings in Ocean Way Nashville Studio A, supported by a [recording plan](Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/Ocean-Way-Studio-A-Recording-Plan-2024-02-21.pdf) and [session layout](Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/Session-Layout.pdf).
+- **Atmos and immersive environments:** Listening, workflow, and room-operation exposure across Belmont’s film-mixing Atmos suites, REM Studio B’s Atmos room, Starstruck Entertainment’s Atmos studio, the Ocean Way 7.1.4 immersive study, and additional immersive-audio demonstrations and expos.
 
 ### Measurement, Acoustics, and Validation
 
@@ -57,8 +58,6 @@ My prototype [Technical Listening Trainer](https://github.com/kevinworleymusic-a
 My training record includes [SoundGym](https://www.soundgym.co/member/profile?m=byy1s26wj7u) results of 9,491 completed activities, a 3,410,130 SPI, and the Diamond Ears Award, followed by continued James Corey software exercises. The [documented training repository](https://github.com/kevinworleymusic-afk/technical-ear-training) contains at least 3,491 logged trials, including 87% across 1,000 +3 dB one-third-octave pink-noise trials and the first separately documented music-transfer blocks, with task-specific limitations preserved alongside the results.
 
 I have designed and administered [listening tests](Projects/Technical-Audio-and-Research/Loudspeaker-vs-Headphone-Frequency-Boost-Identification/README.md) and participated as a listener—not author—in three published AES studies, giving me practical familiarity with stimulus preparation, controlled instructions, trial administration, response logging, and interpretation limits.
-
-- **Atmos and immersive environments:** Listening, workflow, and room-operation exposure across Belmont’s film-mixing Atmos suites, REM Studio B’s Atmos room, Starstruck Entertainment’s Atmos studio, the [Ocean Way 7.1.4 immersive study](Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/README.md), and additional immersive-audio demonstrations and expos.
 
 Additional experience includes instruction from [Ed Seay](https://aes.digitellinc.com/b/sp/ed-seay-3855).
 
