@@ -69,7 +69,7 @@ My projects are academic, classroom, independent-study, or portfolio work—not 
 
 ## Career Direction: Applied Psychoacoustic Engineering and Audio Systems
 
-I hold an M.S. in Audio Engineering from Belmont University and supported sessions for music recorded for EA Sports College Football 25. I am developing toward applied psychoacoustic engineering and audio-systems roles that connect intended experience, human perception, objective measurement, and technical implementation.
+I hold an M.S. in Audio Engineering from Belmont University and supported sessions for music recorded for EA Sports College Football 25. I am developing toward applied psychoacoustic engineering and audio-systems roles that connect the desired listening experience with human perception, objective measurement, and technical implementation.
 
 Automotive and in-cabin audio are a leading application, but the same direction can extend to immersive audio, loudspeakers, headphones and hearables, product sound-quality evaluation, perceptual testing, tuning, and validation. My foundation combines critical listening, music and production experience, measurement and reporting, Python/MATLAB/Pure Data work, teaching, and cross-functional communication. The [Pure Data prototype](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/01_Real-Time_DSP_Prototype_in_Pure_Data.md) is implemented; vehicle studies and hardware extensions remain planned or access-dependent.
 
