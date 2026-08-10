@@ -5,7 +5,7 @@ Master’s-trained technical audio engineer developing toward applied psychoacou
 ## Evidence at a Glance
 
 - **Audio Precision measurement and validation:** [SSL Fusion device measurements](Projects/Technical-Audio-and-Research/SSL-Fusion-Audio-Precision-Measurement-Project/README.md) covering frequency response, THD+N, phase, crosstalk, and reference/noise behavior; and [Studer A80/A800 validation](Projects/Technical-Audio-and-Research/Studer-A80-vs-A800-Plugin-Validation-Study/README.md) covering frequency response, SNR, and THD+N
-- **Critical-listening software and evidence:** [Technical Listening Trainer](https://github.com/kevinworleymusic-afk/technical-listening-trainer), a prototype designed to support my continuing critical-listening training through highly customizable exercises aligned with my automotive-audio development needs, including blind EQ detection/identification, validated biquad processing, automobile-condition simulation, and CSV analytics; plus a [documented training record](https://github.com/kevinworleymusic-afk/technical-ear-training) with 3,410,130 SPI, 9,491 SoundGym activities, and at least 3,491 logged James Corey trials
+- **Critical-listening development:** [Customizable automotive-focused trainer prototype](https://github.com/kevinworleymusic-afk/technical-listening-trainer) and a [documented training record](https://github.com/kevinworleymusic-afk/technical-ear-training) with 3,410,130 SPI, 9,491 SoundGym activities, and at least 3,491 logged James Corey trials
 - **Measurement and DSP:** [MATLAB room analysis](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Impulse-Response-and-Audio-Systems-Analysis/README.md), [Python audio reporting](https://github.com/kevinworleymusic-afk/audio-file-report), and [Pure Data processing](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/01_Real-Time_DSP_Prototype_in_Pure_Data.md)
 - **Immersive and professional audio:** Ocean Way Nashville, Starstruck Entertainment, guided 7.1.4 work, and listener participation in three published AES studies
 - **Automotive development:** planned work is kept separate in the [automotive implementation roadmap](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/Future-Projects/02_Automotive_Audio_Implementation_Roadmap.md)
@@ -14,7 +14,7 @@ Master’s-trained technical audio engineer developing toward applied psychoacou
 
 ## Current Development — August 2026
 
-Current work prioritizes continued development and use of the prototype [Technical Listening Trainer](https://github.com/kevinworleymusic-afk/technical-listening-trainer), structured critical-listening practice, and automotive-audio study, supported by DSP, electronics, and an acoustical-consulting generator/barrier project. [View the current development calendar](Development-Calendar/).
+Current work prioritizes the [Technical Listening Trainer prototype](https://github.com/kevinworleymusic-afk/technical-listening-trainer), structured listening practice, and automotive-audio study, supported by DSP, electronics, and a generator/barrier acoustics project. [View the current development calendar](Development-Calendar/).
 
 ## Professional Recommendations and Endorsements
 
@@ -55,7 +55,7 @@ This experience supports critical listening, diagnosis against a reference, corr
 
 ## Critical Listening and Immersive Experience
 
-I developed the prototype [Technical Listening Trainer](https://github.com/kevinworleymusic-afk/technical-listening-trainer) to help me complete and extend my critical-listening training through exercises that can be customized as closely as possible to my automotive-audio development needs: user-selected audio, blind A/B detection, frequency/Q/gain identification, validated parametric-EQ processing, automobile-condition simulation, and exportable trial analytics.
+My prototype [Technical Listening Trainer](https://github.com/kevinworleymusic-afk/technical-listening-trainer) turns customizable, automotive-focused EQ exercises into blind trials with exportable analytics.
 
 My training record includes [SoundGym](https://www.soundgym.co/member/profile?m=byy1s26wj7u) results of 9,491 completed activities, a 3,410,130 SPI, and the Diamond Ears Award, followed by continued James Corey software exercises. The [documented training repository](https://github.com/kevinworleymusic-afk/technical-ear-training) contains at least 3,491 logged trials, including 87% across 1,000 +3 dB one-third-octave pink-noise trials and the first separately documented music-transfer blocks, with task-specific limitations preserved alongside the results.
 
