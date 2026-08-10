@@ -1,36 +1,67 @@
-# Loudspeaker vs. Headphone Frequency-Boost Identification Study
+# Loudspeaker vs. Headphone Frequency-Change Identification Study
 
-An experimental audio-engineering research project examining whether trained listeners identify boosted frequency bands more accurately over studio loudspeakers or headphones.
+A completed graduate listening-test project examining whether monitoring through studio loudspeakers or headphones affects listeners’ ability to identify frequency-response changes.
 
 ## Publication Status
 
-This was an **unpublished graduate academic project**. The paper, presentations, data, and listening-test materials in this repository were not peer-reviewed or published as a journal or conference study.
+This was an **unpublished academic project**, not a peer-reviewed journal or conference study. The repository preserves an earlier design-stage paper as well as the completed collaborative experiment, analysis workbook, and results presentation.
 
-## Research Question
+## Project Development
 
-In which monitoring environment can trained listeners more accurately identify frequency boosts: an industry-standard loudspeaker system or industry-standard studio headphones?
+The work progressed through two related stages:
 
-## Experimental Design
+1. **Initial research design:** a proposed jazz-excerpt frequency-boost identification study comparing JBL loudspeakers and Sennheiser HD 280 Pro headphones.
+2. **Completed experiment and analysis:** a collaborative pink-noise study by Kevin Worley and Forrest Kimbrough comparing boost/cut identification under loudspeaker and headphone conditions.
 
-- **Participants:** 14 trained listeners divided into two groups of seven.
-- **Monitoring environments:** JBL loudspeakers in the Belmont Listening Labs and Sennheiser HD 280 Pro headphones.
-- **Stimuli:** Three 15-second jazz excerpts with boosts centered at 250 Hz, 500 Hz, 1 kHz, 2 kHz, or 4 kHz.
-- **EQ treatment:** 9 dB boost with a Q of 2.
-- **Trials:** 45 questions per monitoring condition, producing 90 responses per participant and 1,260 individual responses overall.
-- **Order control:** The two groups completed the loudspeaker and headphone conditions in opposite orders to reduce training effects.
-- **Planned analysis:** ANOVA and paired-sample t-tests examining monitoring environment, frequency band, stimulus, and group/order effects.
+The earlier paper retains future-tense statistical language because it documents the design stage. It should not be used to imply that the later experiment and analysis were unfinished.
+
+## Completed Experiment
+
+The completed study used:
+
+- Paired pink-noise stimuli containing a reference and a frequency-modified example
+- Center frequencies of **250 Hz, 500 Hz, and 1 kHz**
+- Boosts and cuts of **0, 2, 4, 6, and 8 dB**
+- Thirty randomized samples organized across five test sets
+- Alternating headphone and loudspeaker conditions every 15 trials
+- 150 trials per participant
+- Descriptive statistics, a reported nonparametric ANOVA, and Wilcoxon matched-pairs comparisons
+
+## Reported Results
+
+The final presentation reports:
+
+- **No significant overall difference** between headphone and loudspeaker performance: \(X^2 = 0.07\), \(n = 900\), \(p = .73\)
+- Significantly better identification of **boosts** (M = 0.36) than **cuts** (M = 0.21): \(n = 360\), \(p < .001\)
+- The strongest condition at **500 Hz, +8 dB**
+- No significant headphone-versus-loudspeaker difference for the 500 Hz, +8 dB condition: \(Z = -0.6\), \(n = 29\), \(p > .05\)
+
+These values are reported from the preserved presentation and have not been independently recalculated for this portfolio summary.
 
 ## Portfolio Evidence
 
-This project demonstrates experimental design, critical listening-test development, stimulus preparation in Logic Pro, trial randomization, quantitative data organization, statistical-analysis planning, academic research, and technical presentation.
+This project demonstrates experience with:
+
+- Designing and administering structured listening tests
+- Stimulus creation and controlled presentation
+- Condition ordering and trial randomization
+- Participant instructions and response collection
+- Quantitative data organization
+- Statistical analysis and interpretation
+- Separating results from limitations
+- Technical writing and presentation
+- Collaborative experimental work
 
 ## Repository Contents
 
-- [`deliverables/`](deliverables/) — final paper and two presentation versions.
-- [`data/`](data/) — analysis workbook and randomized trial order.
-- [`experiment-materials/`](experiment-materials/) — experiment syllabus and the zipped Logic Pro stimulus session.
-- [`planning-and-documentation/`](planning-and-documentation/) — specifications, citation list, templates, and submission checklists retained as project-development evidence.
+- [Completed results presentation](deliverables/Headphone%20v.%20Loudspeaker%20Presentation.pptx)
+- [Initial research-design presentation](deliverables/Loudspeaker%20vs%20Headphone%20Presentation.pptx)
+- [Initial design-stage paper](deliverables/Final%20Paper-Kevin%20Worley.pdf)
+- [Analysis workbook](data/LSP%20V%20HP%20Data%20Analysis.xlsx)
+- [Randomized trial order](data/Marker%20Trials%20Randomization%20Order%20LSP%20vs.%20HP.xlsx)
+- [Experiment materials](experiment-materials/)
+- [Planning and documentation](planning-and-documentation/)
 
-## Notes
+## Interpretation Limits
 
-The supplied paper is preserved as submitted. Its results section primarily documents the intended statistical analysis rather than reporting completed inferential results, so this repository describes the work as an experimental research project without overstating its conclusions. The two presentation files and two paper-template files are retained separately because they are distinct source files and may represent different stages of development.
+The completed analysis is documented primarily in the final collaborative presentation and workbook rather than incorporated into the earlier paper. The study used a specific pink-noise task, equipment configuration, participant pool, and set of frequency/gain conditions, so its results should not be generalized to every listening task or monitoring system.
