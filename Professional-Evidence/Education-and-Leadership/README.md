@@ -15,7 +15,8 @@ This section contains public portfolio copies of documents supporting Kevin Worl
 ### [Recommendation Letters](Recommendation-Letters/)
 
 - [Dr. Charles R. Jackson](Recommendation-Letters/Recommendation-Charles-R-Jackson-Public.pdf) — musicianship, maturity, self-discipline, reliability, and teamwork
-- [Sam Skelton](Recommendation-Letters/Recommendation-Sam-Skelton-Public.pdf) — musicianship, education, trustworthiness, and teaching skills while supporting students at Ocean Way Nashville
+- [Sam Skelton — education and professional development](Recommendation-Letters/Recommendation-Sam-Skelton-Public.pdf) — musicianship, education, trustworthiness, and teaching skills while supporting students at Ocean Way Nashville
+- [Sam Skelton — jazz performance](../Recommendations-and-Endorsements/01-music-education-performance-and-leadership/Sam-Skelton-Jazz-Performance-Recommendation-September-2025-Public.pdf) — more than ten years of perspective on jazz-performance development, versatility, continued audio study, and professional studio contributions
 - [Kathy Ratcliffe](Recommendation-Letters/Recommendation-Kathy-Ratcliffe-Public.pdf) — responsibility, punctuality, decision-making, teamwork, professionalism, and firm student leadership
 - [Dr. Alison Mann](Recommendation-Letters/Recommendation-Alison-Mann-Public.pdf) — academic achievement, inclusive teaching, adaptability, student teaching at Barber Middle School, instrumental versatility, collaboration, and positive leadership
 
@@ -28,4 +29,4 @@ These are portfolio-safe copies. Street addresses, certificate identifiers, and 
 
 ## Recommendation and Endorsement Tracker
 
-The broader [recommendation and professional-endorsement gateway](../Recommendations-and-Endorsements/) organizes completed public evidence by discipline. Education files remain here in their original portfolio organization and are linked from that gateway.
+The broader [recommendation and professional-endorsement gateway](../Recommendations-and-Endorsements/) and combined [Music Education, Performance, and Leadership category](../Recommendations-and-Endorsements/01-music-education-performance-and-leadership/) present these letters as a connected foundation in listening, musicianship, communication, teaching, reliability, collaboration, and leadership.
