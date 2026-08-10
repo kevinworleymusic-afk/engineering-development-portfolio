@@ -9,3 +9,9 @@ Jon Lechner, Instructor of Audio Engineering Technology at Belmont University, t
 It specifically corroborates experience in Belmont’s professional-grade cinematic Dolby Atmos environment, including object-based mixing, spatial positioning, complex multichannel work, and translating creative storytelling choices into immersive environments. Lechner recommends Kevin without reservation for audio and post-production opportunities.
 
 The public copy removes the handwritten signature, mailing address, and office and cell telephone numbers. The original received PDF remains unchanged outside this repository.
+
+## Job-Specific Reference Availability
+
+**Dr. Doyuen Ko — Professor of Audio Engineering Technology, Belmont University:** Dr. Ko is open to considering a direct-to-employer recommendation for a specific, aligned role. In this category, potentially relevant observed work includes supervision of the Ocean Way 2L Cube-inspired immersive-recording independent study, critical-listening development, listening-test methodology, research, and technical reporting.
+
+This is not a received or pending public endorsement. Any recommendation would require his agreement for the particular position and would be shared directly with the employer.
