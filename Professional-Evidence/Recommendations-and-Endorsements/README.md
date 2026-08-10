@@ -1,41 +1,32 @@
 # Recommendations and Professional Endorsements
 
-This gateway separates received evidence from requests still in progress. A name appearing under **pending**, **planned**, or **conditional** does not imply that a recommendation has been received or approved for public use.
+This section presents completed recommendation and supervisor evidence that is available for public portfolio use. Unfinished outreach, planned requests, and private contact tracking are not displayed here.
 
-## Discipline Folders
+## Received Public Evidence
 
-- [Education and Teaching](01-education-and-teaching/) — four received public letters; one planned request
-- [Music Performance and Personal Development](02-music-performance-and-personal-development/) — one request pending and one planned request
-- [Studio Engineering and Production](03-studio-engineering-and-production/) — one received supervisor evaluation, one tape-class reference request pending, and one conditional studio contact
-- [Immersive Audio and Critical Listening](04-immersive-audio-and-critical-listening/) — one received public letter and one request pending
-- [Measurement and Technical Validation](05-measurement-and-technical-validation/) — one separate possible future measurement-focused request
-- [Coding and DSP](06-coding-and-dsp/) — one guidance inquiry drafted; recommender route not yet selected
+### Education and Teaching
 
-## Status Summary
+- [Dr. Charles R. Jackson](../Education-and-Leadership/Recommendation-Letters/Recommendation-Charles-R-Jackson-Public.pdf) — musicianship, maturity, self-discipline, reliability, and teamwork
+- [Dr. Alison Mann](../Education-and-Leadership/Recommendation-Letters/Recommendation-Alison-Mann-Public.pdf) — inclusive teaching, adaptability, student teaching, collaboration, and positive leadership
+- [Kathy Ratcliffe](../Education-and-Leadership/Recommendation-Letters/Recommendation-Kathy-Ratcliffe-Public.pdf) — responsibility, punctuality, decision-making, teamwork, professionalism, and student leadership
+- [Sam Skelton — education and professional development](../Education-and-Leadership/Recommendation-Letters/Recommendation-Sam-Skelton-Public.pdf) — musicianship, education, trustworthiness, and teaching skills
 
-| Status | People / evidence |
-|---|---|
-| **Received and public** | Dr. Charles R. Jackson, Dr. Alison Mann, Kathy Ratcliffe, Sam Skelton, Torey Harding internship evaluation, [Jon Lechner recommendation](04-immersive-audio-and-critical-listening/Jon-Lechner-Recommendation-August-2026-Public.pdf) |
-| **Requested; response pending** | Ed Seay — request resent August 5; Tyrone Jackson; Dr. Michael Janas — tape-class request sent August 5 |
-| **Planned; not yet requested** | Bradley Rikard, Trey Wright |
-| **Conditional / contact pending** | Former REM Studio B manager/staff member (identity/contact requested through Lisa LaFountaine, Ray Plasse, and Jon Lechner) |
-| **Possible future request** | Dr. Michael Janas — a separate measurement/Audio Precision scope remains possible, distinct from the tape-class request sent August 5 |
-| **Guidance inquiry drafted; not confirmed sent** | Austin James — ask whether his GTA observations support a coding/DSP recommendation or whether Dr. Eric Tarr is the more appropriate route |
+### Music Performance
 
-## August 5 Jon Lechner Recommendation
+- [Sam Skelton — jazz performance, September 2025](02-music-performance-and-personal-development/Sam-Skelton-Jazz-Performance-Recommendation-September-2025-Public.pdf) — more than ten years of firsthand perspective on Kevin’s development, jazz-performance background, versatility, musicianship, continued audio-engineering education, and professional studio contributions
 
-Received Jon Lechner’s signed Belmont recommendation and published a [privacy-redacted public copy](04-immersive-audio-and-critical-listening/Jon-Lechner-Recommendation-August-2026-Public.pdf). The letter independently corroborates dedication, technical aptitude, creative vision, spatial-audio understanding, professional-grade Dolby Atmos work, object-based mixing, spatial positioning, complex multichannel environments, and an unreserved recommendation for audio and post-production opportunities. The public copy removes the handwritten signature, mailing address, and telephone numbers; the original remains unchanged outside the repository.
+### Studio Engineering and Production
 
-## August 5 Outreach Record
+- [Torey Harding — Starstruck Studios internship evaluation, Fall 2023](03-studio-engineering-and-production/Torey-Harding-Starstruck-Internship-Evaluation-Fall-2023-Public.pdf) — 150 internship hours, perfect attendance, an **Outstanding** overall rating, initiative, active learning, teamwork, and readiness to contribute in a professional studio
 
-Kevin resent the recommendation-request email to **Ed Seay** and sent **Dr. Michael Janas** a reference request focused on the knowledge and experience developed in Janas’s tape class. Both responses remain pending. No acceptance, document receipt, endorsement, or permission for public use is claimed.
+### Immersive Audio and Critical Listening
 
-## August 4 Follow-Up Record
+- [Jon Lechner — audio and post-production recommendation, August 2026](04-immersive-audio-and-critical-listening/Jon-Lechner-Recommendation-August-2026-Public.pdf) — dedication, technical aptitude, creative vision, spatial-audio understanding, Dolby Atmos work, object-based mixing, spatial positioning, and complex multichannel environments
 
-Kevin checked in on pending professional-reference contacts and attempted to obtain project files from Justin Roberts. No new recommendation, approval, or file is marked received because no confirmed response or completed transfer was reported. The individual statuses above remain authoritative until new evidence arrives.
+## Evidence Summary
 
-Automotive-audio and acoustical-consulting endorsements are intentionally deferred until a professional has observed enough completed work to evaluate it directly.
+The collection contains **six public recommendation letters** and **one public supervisor evaluation**. Together they document musicianship, performance, teaching, reliability, communication, teamwork, studio professionalism, technical aptitude, and immersive-audio experience.
 
 ## Publication Standard
 
-Only received documents that are appropriate for public use are linked as evidence. Public copies remove private contact information, addresses, identifiers, signatures, geolocation data, and similar personal details where applicable. The original documents remain unchanged outside this repository.
+Only received documents that are appropriate for public use are linked as evidence. Public copies remove private contact information, addresses, identifiers, signatures, geolocation data, and similar personal details where applicable. Original documents remain unchanged outside this repository.
