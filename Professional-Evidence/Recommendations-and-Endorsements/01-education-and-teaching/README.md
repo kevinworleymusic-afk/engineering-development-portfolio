@@ -7,8 +7,4 @@
 - [Kathy Ratcliffe](../../Education-and-Leadership/Recommendation-Letters/Recommendation-Kathy-Ratcliffe-Public.pdf) — responsibility, punctuality, decision-making, teamwork, professionalism, and student leadership
 - [Sam Skelton](../../Education-and-Leadership/Recommendation-Letters/Recommendation-Sam-Skelton-Public.pdf) — musicianship, education, trustworthiness, and teaching skills
 
-## Planned
-
-- **Bradley Rikard** — student-teaching and classroom-development perspective, paired with an inquiry about nearby part-time music-education or substitute opportunities
-
-Planned names are tracking items, not available recommendations.
+Only completed, public evidence is listed on this page.
