@@ -24,13 +24,13 @@ This section presents completed recommendation and supervisor evidence available
 
 **Dr. Doyuen Ko — Professor of Audio Engineering Technology, Belmont University:** Dr. Ko has indicated that he does not provide blanket portfolio letters, but is open to considering a recommendation for a specific position when the role aligns with work he directly supervised and the recommendation can be shared directly with the employer. Relevant areas may include immersive recording, critical listening and listening-test methodology, Audio Precision measurement, research, and technical reporting.
 
-This is reference availability, not a received endorsement. No public PDF is available or pending; any future recommendation would require Dr. Ko’s agreement for the specific role and would follow his direct-to-employer policy. The same status is recorded in the relevant [Immersive Audio and Critical Listening](04-immersive-audio-and-critical-listening/) and [Measurement and Technical Validation](05-measurement-and-technical-validation/) folders.
+This is reference availability for an aligned role, not a publicly available general endorsement. No public PDF is available or pending; any future recommendation would require Dr. Ko’s agreement for the specific role and would follow his direct-to-employer policy. The same status is recorded in the relevant [Immersive Audio and Critical Listening](04-immersive-audio-and-critical-listening/) and [Measurement and Technical Validation](05-measurement-and-technical-validation/) folders.
 
 ## Evidence Summary
 
 The collection contains **eight named recommendation and reference entries across seven professionals**: **six public recommendation letters**, **one public supervisor evaluation**, and **one job-specific reference-availability statement**. The entries represent Dr. Charles R. Jackson; Dr. Alison Mann; Kathy Ratcliffe; Sam Skelton, through two separate letters; Torey Harding; Jon Lechner; and Dr. Doyuen Ko. Together they document musicianship, performance, teaching, reliability, communication, teamwork, studio professionalism, technical aptitude, immersive-audio experience, measurement, and technical reporting.
 
-Dr. Ko's entry records conditional, role-specific availability rather than a received endorsement; it is included in the total without being counted among the seven public documents.
+Dr. Ko's entry records conditional, role-specific reference availability rather than a publicly available general endorsement; it is included in the total without being counted among the seven public documents.
 
 ## Publication Standard
 
