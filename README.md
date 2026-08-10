@@ -84,5 +84,6 @@ Automotive and in-cabin audio are a leading application, but the same direction 
 
 ### Active and future development
 
+- **Audio Weaver concept-study track:** Beginning an ongoing review of DSP Concepts and Audio Weaver tutorials, with notes documenting key terminology, signal-flow patterns, tuning workflows, and transferable concepts. This is a learning plan, not a claim of direct Audio Weaver access or implementation experience.
 - [Generator/barrier analysis framework](Projects/Technical-Audio-and-Research/Generator-to-Residence-Barrier-Noise-Analysis/README.md) — initial workbook and project framework are complete; manufacturer-specific acoustic data, independent validation, and final conclusions remain pending
 - [Automotive implementation roadmap](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/Future-Projects/02_Automotive_Audio_Implementation_Roadmap.md) — planned work, not completed evidence
