@@ -1,6 +1,6 @@
 # Recommendations and Professional Endorsements
 
-This section presents completed recommendation and supervisor evidence available for public portfolio use, organized by the areas each source directly supports. Unfinished outreach and private contact tracking are not displayed.
+This section presents completed recommendation and supervisor evidence available for public portfolio use, together with clearly labeled job-specific reference availability. Entries are organized by the areas each source directly supports. Unfinished outreach and private contact tracking are not displayed.
 
 ## Received Public Evidence
 
@@ -28,7 +28,9 @@ This is reference availability, not a received endorsement. No public PDF is ava
 
 ## Evidence Summary
 
-The collection contains **six public recommendation letters** and **one public supervisor evaluation**. Together they document musicianship, performance, teaching, reliability, communication, teamwork, studio professionalism, technical aptitude, and immersive-audio experience.
+The collection contains **eight named recommendation and reference entries across seven professionals**: **six public recommendation letters**, **one public supervisor evaluation**, and **one job-specific reference-availability statement**. The entries represent Dr. Charles R. Jackson; Dr. Alison Mann; Kathy Ratcliffe; Sam Skelton, through two separate letters; Torey Harding; Jon Lechner; and Dr. Doyuen Ko. Together they document musicianship, performance, teaching, reliability, communication, teamwork, studio professionalism, technical aptitude, immersive-audio experience, measurement, and technical reporting.
+
+Dr. Ko's entry records conditional, role-specific availability rather than a received endorsement; it is included in the total without being counted among the seven public documents.
 
 ## Publication Standard
 
