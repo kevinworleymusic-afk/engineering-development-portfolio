@@ -8,7 +8,7 @@ A jazz combo and string ensemble were recorded in the historic Ocean Way Nashvil
 
 ## Research team
 
-The project was supervised by Dr. Doyeun Ko of Belmont University.
+The project was supervised by Dr. Doyuen Ko of Belmont University.
 
 Core student researchers:
 
