@@ -2,7 +2,7 @@
 
 **Status:** Study path researched and digital project framework established August 1, 2026. Workbook exercises, circuit simulation, and hardware validation remain pending.
 
-This project will develop a reusable spreadsheet for learning and demonstrating foundational electrical relationships through audio-oriented examples. Version 1 requires no physical components, breadboard, test equipment, MATLAB license, or paid circuit software.
+This project extends introductory studio-electronics coursework completed with Mike Porter, which covered circuit components, analog signal flow, test equipment, troubleshooting, electrical safety, repair, and soldering. It will develop a reusable spreadsheet for learning and demonstrating foundational electrical relationships through audio-oriented examples. Version 1 requires no physical components, breadboard, test equipment, MATLAB license, or paid circuit software.
 
 ## Version 1: Voltage Divider, Loading, and RC Audio Filters
 
