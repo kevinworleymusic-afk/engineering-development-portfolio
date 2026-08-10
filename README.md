@@ -18,7 +18,7 @@ Current priorities are the [listening-trainer prototype](https://github.com/kevi
 
 ## Professional Recommendations and Endorsements
 
-Eight recommendation and reference entries across seven professionals include six public letters, one supervisor evaluation, and Dr. Doyuen Ko’s role-specific reference availability—not a publicly available general endorsement. Together they support my musicianship, teaching, reliability, studio professionalism, technical aptitude, immersive-audio experience, measurement, and reporting.
+Eight recommendation and reference entries across seven professionals include six public letters, one supervisor evaluation, and Dr. Doyuen Ko’s role-specific reference availability—not a publicly available general endorsement. Together they support my technical aptitude, measurement, reporting, immersive-audio experience, studio professionalism, reliability, musicianship, and teaching.
 
 [Browse recommendation and reference evidence](Professional-Evidence/Recommendations-and-Endorsements/).
 
