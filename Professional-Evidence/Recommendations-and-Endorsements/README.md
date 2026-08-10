@@ -23,6 +23,12 @@ This section presents completed recommendation and supervisor evidence that is a
 
 - [Jon Lechner — audio and post-production recommendation, August 2026](04-immersive-audio-and-critical-listening/Jon-Lechner-Recommendation-August-2026-Public.pdf) — dedication, technical aptitude, creative vision, spatial-audio understanding, Dolby Atmos work, object-based mixing, spatial positioning, and complex multichannel environments
 
+## Job-Specific Reference Availability
+
+**Dr. Doyuen Ko — Professor of Audio Engineering Technology, Belmont University:** Dr. Ko has indicated that he does not provide blanket portfolio letters, but is open to considering a recommendation for a specific position when the role aligns with work he directly supervised and the recommendation can be shared directly with the employer. Relevant observed areas may include immersive recording, critical listening and listening-test methodology, Audio Precision measurement, research, and technical reporting.
+
+This is reference availability, not a received endorsement. No public PDF is currently available or pending; any future recommendation would require Dr. Ko’s agreement for the specific role and would follow his direct-to-employer policy.
+
 ## Evidence Summary
 
 The collection contains **six public recommendation letters** and **one public supervisor evaluation**. Together they document musicianship, performance, teaching, reliability, communication, teamwork, studio professionalism, technical aptitude, and immersive-audio experience.
