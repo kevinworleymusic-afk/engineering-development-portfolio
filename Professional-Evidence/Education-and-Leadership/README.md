@@ -28,4 +28,4 @@ These are portfolio-safe copies. Street addresses, certificate identifiers, and 
 
 ## Recommendation and Endorsement Tracker
 
-The broader [recommendation and professional-endorsement gateway](../Recommendations-and-Endorsements/) separates received evidence from pending, planned, conditional, and future requests by discipline. Education files remain here in their original portfolio organization and are linked from that gateway.
+The broader [recommendation and professional-endorsement gateway](../Recommendations-and-Endorsements/) organizes completed public evidence by discipline. Education files remain here in their original portfolio organization and are linked from that gateway.
