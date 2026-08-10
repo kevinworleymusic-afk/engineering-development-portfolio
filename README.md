@@ -18,7 +18,7 @@ Current work prioritizes structured critical listening and automotive-audio stud
 
 ## Professional Recommendations and Endorsements
 
-Six public recommendation letters document education, musicianship, reliability, communication, teamwork, and leadership. [Torey Harding's privacy-redacted Starstruck internship evaluation](Professional-Evidence/Recommendations-and-Endorsements/03-studio-engineering-and-production/Torey-Harding-Starstruck-Internship-Evaluation-Fall-2023-Public.pdf) records 150 hours, perfect attendance, and an **Outstanding** overall rating.
+Six public recommendation letters document education, musicianship, performance, reliability, communication, teamwork, technical aptitude, and immersive-audio experience. [Sam Skelton’s jazz-performance recommendation](Professional-Evidence/Recommendations-and-Endorsements/02-music-performance-and-personal-development/Sam-Skelton-Jazz-Performance-Recommendation-September-2025-Public.pdf) provides more than ten years of perspective on my development as a musician and professional. [Torey Harding’s privacy-redacted Starstruck internship evaluation](Professional-Evidence/Recommendations-and-Endorsements/03-studio-engineering-and-production/Torey-Harding-Starstruck-Internship-Evaluation-Fall-2023-Public.pdf) records 150 hours, perfect attendance, and an **Outstanding** overall rating.
 
 [Browse received recommendation evidence](Professional-Evidence/Recommendations-and-Endorsements/).
 
@@ -46,7 +46,7 @@ Designed an unpublished controlled-listening study comparing trained listeners' 
 
 ## Music Performance & Music Education Background
 
-My Kennesaw State University background combined music performance, jazz study, ensemble work, and music education. I student taught at Barber Middle School under Dr. Robert Grogan and Bradley Rikard, with additional pedagogy and performance mentorship documented in my [public letters and supporting materials](Professional-Evidence/Education-and-Leadership/README.md).
+My Kennesaw State University background combined music performance, jazz study, ensemble work, and music education. [Sam Skelton’s jazz-performance recommendation](Professional-Evidence/Recommendations-and-Endorsements/02-music-performance-and-personal-development/Sam-Skelton-Jazz-Performance-Recommendation-September-2025-Public.pdf) independently documents my musicianship, versatility, continued development, and work in professional musical environments. I student taught at Barber Middle School under Dr. Robert Grogan and Bradley Rikard, with additional pedagogy and leadership evidence in my [public letters and supporting materials](Professional-Evidence/Education-and-Leadership/README.md).
 
 This experience supports critical listening, diagnosis against a reference, corrective feedback, communication, and team leadership. See my [prior background](https://github.com/kevinworleymusic-afk/technical-ear-training/blob/main/PRIOR_EXPERIENCE.md#relevant-background).
 
