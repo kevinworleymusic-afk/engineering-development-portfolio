@@ -26,7 +26,7 @@ Six public recommendation letters document education, musicianship, performance,
 
 ### Critical Listening, Psychoacoustics, and Immersive Audio
 
-- **Research design — [Loudspeaker vs. Headphone Frequency-Boost Identification Study](Projects/Technical-Audio-and-Research/Loudspeaker-vs-Headphone-Frequency-Boost-Identification/README.md):** Completed experimental design, stimuli, paper, presentation, and supporting materials for an unpublished study; data collection and analysis were not completed.
+- **Listening research — [Loudspeaker vs. Headphone Frequency-Change Identification Study](Projects/Technical-Audio-and-Research/Loudspeaker-vs-Headphone-Frequency-Boost-Identification/README.md):** Designed and administered a controlled pink-noise study with completed response analysis; results found no significant overall headphone-versus-loudspeaker difference and better identification of boosts than cuts.
 - **Immersive recording — [Ocean Way Jazz Combo Dolby Atmos Independent Study](Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/README.md):** 2L Cube-inspired capture and 7.1.4 routing for jazz combo and strings in Ocean Way Nashville Studio A, supported by a [recording plan](Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/Ocean-Way-Studio-A-Recording-Plan-2024-02-21.pdf) and [session layout](Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/Session-Layout.pdf).
 
 ### Measurement, Acoustics, and Validation
