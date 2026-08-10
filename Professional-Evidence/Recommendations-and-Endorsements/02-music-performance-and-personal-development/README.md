@@ -1,13 +1,19 @@
-# Music Performance and Personal Development
+# Music Performance
 
-## Requested; Response Pending
+## Received and Public
 
-- **Tyrone Jackson** — request sent July 31 for a perspective on personal growth from being highly reserved toward greater confidence, openness, and pursuit of professional potential, informed by a similar developmental perspective he has shared
+### [Sam Skelton — Jazz Performance Recommendation, September 2025](Sam-Skelton-Jazz-Performance-Recommendation-September-2025-Public.pdf)
 
-- **Sam Sketon** — jazz performance recommendation completed September 29, 2025.  For questions, contact Sam Skelton at Kennesaw State using any of his contact information.
+Sam Skelton, Director of Jazz Studies and Principal Lecturer of Saxophone at Kennesaw State University, provides more than ten years of firsthand perspective on Kevin’s development as a musician and professional.
 
-## Planned
+The letter supports:
 
-- **Trey Wright** — music-performance perspective
+- Jazz-performance study and experience across varied genres and settings
+- Musicianship, versatility, and commitment to continued learning
+- Undergraduate preparation in jazz performance and music education
+- Continued technical growth through graduate audio-engineering study
+- Contributions as a Student Staff Engineer at Ocean Way Nashville
+- Contributions as a Studio Intern at Starstruck Entertainment
+- Intelligence, trustworthiness, professionalism, and capacity to contribute in demanding environments
 
-Neither item is represented as a received recommendation until a document is supplied and approved for public use.
+The public copy removes the recommender’s direct email address. The original document remains unchanged outside the repository.
