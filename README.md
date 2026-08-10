@@ -58,7 +58,9 @@ My training record includes [SoundGym](https://www.soundgym.co/member/profile?m=
 
 I have designed and administered [listening tests](Projects/Technical-Audio-and-Research/Loudspeaker-vs-Headphone-Frequency-Boost-Identification/README.md) and participated as a listener—not author—in three published AES studies, giving me practical familiarity with stimulus preparation, controlled instructions, trial administration, response logging, and interpretation limits.
 
-Additional experience includes instruction from [Ed Seay](https://aes.digitellinc.com/b/sp/ed-seay-3855), guided 7.1.4 Dolby Atmos listening, and the [Ocean Way immersive study](Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/README.md).
+- **Atmos and immersive environments:** Listening, workflow, and room-operation exposure across Belmont’s film-mixing Atmos suites, REM Studio B’s Atmos room, Starstruck Entertainment’s Atmos studio, the [Ocean Way 7.1.4 immersive study](Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/README.md), and additional immersive-audio demonstrations and expos.
+
+Additional experience includes instruction from [Ed Seay](https://aes.digitellinc.com/b/sp/ed-seay-3855).
 
 ## Academic and Publication Status
 
