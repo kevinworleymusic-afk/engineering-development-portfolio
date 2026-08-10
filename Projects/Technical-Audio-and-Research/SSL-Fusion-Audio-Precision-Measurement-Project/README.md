@@ -2,7 +2,7 @@
 
 ## Project Type
 
-AET-5010 **Acoustic & Electroacoustic Measurement and Design** course report completed at Belmont University under Dr. Doyeun Ko and dated April 27, 2023.
+AET-5010 **Acoustic & Electroacoustic Measurement and Design** course report completed at Belmont University under Dr. Doyuen Ko and dated April 27, 2023.
 
 ## Publication Status
 
