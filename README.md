@@ -15,7 +15,7 @@ Master’s-trained technical audio engineer developing toward roles in acoustica
 
 ## Current Development — August 2026
 
-Current priorities are acoustical and environmental-noise analysis, the [listening-trainer prototype](https://github.com/kevinworleymusic-afk/technical-listening-trainer), structured listening practice, automotive-audio study, and DSP/electronics. [Development calendar](Development-Calendar/).
+Current work advances two applied directions in parallel: acoustical consulting, including environmental-noise analysis, and automotive/in-cabin audio. Supporting work includes the [listening-trainer prototype](https://github.com/kevinworleymusic-afk/technical-listening-trainer), structured listening practice, and DSP/electronics. [Development calendar](Development-Calendar/).
 
 ## Professional Recommendations and Endorsements
 
@@ -66,7 +66,7 @@ Projects are academic, classroom, independent-study, or portfolio work—not pee
 
 I hold an M.S. in Audio Engineering Technology from Belmont University and supported sessions for music recorded for EA Sports College Football 25. I am developing toward roles in acoustical consulting, applied psychoacoustic engineering, and audio systems that connect objective measurement, analysis, human perception, and technical communication.
 
-Relevant applications include architectural/room acoustics, environmental noise, automotive/in-cabin audio, immersive audio, loudspeakers, headphones/hearables, sound-quality evaluation, perceptual testing, tuning, and validation. My foundation combines acoustic measurement and analysis, listening, technical reporting, Excel/Python/MATLAB/Pure Data, music/production, teaching, and cross-functional communication. The [Pure Data prototype](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/01_Real-Time_DSP_Prototype_in_Pure_Data.md) is implemented; vehicle studies and hardware extensions remain planned or access-dependent.
+Two leading applications are acoustical consulting—especially architectural/room acoustics and environmental noise—and automotive/in-cabin audio. The same foundation extends to immersive audio, loudspeakers, headphones/hearables, sound-quality evaluation, perceptual testing, tuning, and validation. It combines acoustic measurement and analysis, listening, technical reporting, Excel/Python/MATLAB/Pure Data, music/production, teaching, and cross-functional communication. The [Pure Data prototype](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/01_Real-Time_DSP_Prototype_in_Pure_Data.md) is implemented; vehicle studies and hardware extensions remain planned or access-dependent.
 
 ### Active and future development
 
