@@ -8,11 +8,11 @@ This section presents completed recommendation and supervisor evidence available
 
 ### [Immersive Audio and Critical Listening](04-immersive-audio-and-critical-listening/)
 
-- [Jon Lechner — audio and post-production recommendation, August 2026](04-immersive-audio-and-critical-listening/Jon-Lechner-Recommendation-August-2026-Public.pdf) — technical aptitude, creative vision, spatial-audio understanding, Dolby Atmos work, object-based mixing, spatial positioning, and complex multichannel environments
+- [Jon Lechner — audio and post-production recommendation, August 2026](04-immersive-audio-and-critical-listening/Jon-Lechner-Recommendation-August-2026-Public.pdf) — Belmont Audio Engineering Technology instructor Jon Lechner provides academic and technical validation of strong dedication, work ethic, technical aptitude, and creative vision developed through Sound Design for Mixed Media. His recommendation specifically supports understanding of spatial-audio principles and experience working in Belmont's professional-grade cinematic Dolby Atmos environment, including object-based mixing, spatial positioning, complex multichannel work, and translating creative storytelling decisions into immersive environments. Lechner recommends Kevin without reservation for audio and post-production opportunities.
 
 ### [Studio Engineering and Production](03-studio-engineering-and-production/)
 
-- [Torey Harding — Starstruck Studios internship evaluation, Fall 2023](03-studio-engineering-and-production/Torey-Harding-Starstruck-Internship-Evaluation-Fall-2023-Public.pdf) — 150 internship hours, perfect attendance, an **Outstanding** overall rating, initiative, teamwork, and readiness to contribute in a professional studio
+- [Torey Harding — Starstruck Studios internship evaluation, Fall 2023](03-studio-engineering-and-production/Torey-Harding-Starstruck-Internship-Evaluation-Fall-2023-Public.pdf) — This direct internship-supervisor evaluation documents 150 completed hours at Starstruck Studios with zero tardy, late, or absent days and an **Outstanding** overall rating. Harding's evaluation supports professional reliability as well as initiative, active questioning, hands-on learning, teamwork, and the ability to function productively in a professional studio environment. The evaluation concludes that Kevin would be an asset to a future studio, providing workplace-based evidence that complements the academic and technical recommendations elsewhere in this collection.
 
 ### Job-Specific Technical Reference Availability
 
