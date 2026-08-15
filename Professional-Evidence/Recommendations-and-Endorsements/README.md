@@ -1,6 +1,8 @@
 # Recommendations and Professional Endorsements
 
-This section presents completed recommendation and supervisor evidence available for public portfolio use, together with clearly labeled job-specific reference availability. Entries are ordered by relevance to the portfolio's current technical-audio direction, while broader music-education, performance, and leadership evidence remains available below. Unfinished outreach and private contact tracking are not displayed.
+**Selected professional evidence validating technical aptitude, immersive-audio experience, studio professionalism, critical listening, measurement experience, and broader leadership and communication skills.**
+
+This section presents completed recommendation and supervisor evidence available for public portfolio use, together with clearly labeled job-specific reference availability. Entries are ordered by relevance to the portfolio's current technical-audio direction, while broader music-education, performance, and leadership evidence remains available below. The collection is intentionally selective: technical evidence is surfaced first, while additional professional recommendations provide supporting evidence of reliability, communication, musicianship, teamwork, and leadership. Unfinished outreach and private contact tracking are not displayed.
 
 ## Technical Audio Evidence
 
@@ -30,9 +32,9 @@ This is reference availability for an aligned role, not a publicly available gen
 
 ## Evidence Summary
 
-The strongest technical-audio evidence is surfaced first: Jon Lechner supports immersive-audio and critical-listening experience; Torey Harding provides direct supervisor evidence from professional studio work; and Dr. Doyuen Ko is available for position-specific technical references when a role aligns with work he directly supervised. The broader collection adds evidence of musicianship, teaching, reliability, communication, teamwork, leadership, and professional development from Dr. Charles R. Jackson, Dr. Alison Mann, Kathy Ratcliffe, and Sam Skelton.
+The strongest technical-audio evidence is surfaced first: Jon Lechner supports immersive-audio and critical-listening experience; Torey Harding provides direct supervisor evidence from professional studio work; and Dr. Doyuen Ko is available for position-specific technical references when a role aligns with work he directly supervised. The broader collection adds complementary evidence of musicianship, teaching, reliability, communication, teamwork, leadership, and professional development from Dr. Charles R. Jackson, Dr. Alison Mann, Kathy Ratcliffe, and Sam Skelton.
 
-The collection contains **six public recommendation letters**, **one public supervisor evaluation**, and **one job-specific reference-availability statement** across seven professionals. Dr. Ko's entry is conditional, role-specific reference availability rather than a publicly available general endorsement.
+As additional technical-audio recommendations or supervisor evidence are received in the future, they can be added to the appropriate technical category without changing this relevance-first structure.
 
 ## Publication Standard
 
