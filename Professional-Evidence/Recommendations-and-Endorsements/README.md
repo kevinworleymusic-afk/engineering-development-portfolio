@@ -1,8 +1,10 @@
 # Recommendations and Professional Endorsements
 
-**Selected professional evidence validating technical aptitude, immersive-audio experience, studio professionalism, critical listening, measurement experience, and broader leadership and communication skills.**
+**Independent professional and academic evidence of consistent work ethic, reliability, technical aptitude, professionalism, teamwork, communication, and continued development across multiple environments.**
 
-This section presents completed recommendation and supervisor evidence available for public portfolio use, together with clearly labeled job-specific reference availability. Entries are ordered by relevance to the portfolio's current technical-audio direction, while broader music-education, performance, and leadership evidence remains available below. The collection is intentionally selective: technical evidence is surfaced first, while additional professional recommendations provide supporting evidence of reliability, communication, musicianship, teamwork, and leadership. Unfinished outreach and private contact tracking are not displayed.
+This collection brings together recommendations and supervisor evaluations from people who have taught, supervised, or worked with Kevin across technical audio, professional studio work, higher education, music education, and performance. Taken together, the value of the section is not dependent on any single letter: the broader pattern provides evidence across several years and multiple settings that the same core qualities — reliability, work ethic, professionalism, initiative, collaboration, and continued development — have been recognized by different instructors and supervisors.
+
+Technical-audio evidence is presented first because it is most directly relevant to the portfolio's current direction. The broader professional and academic endorsements remain fully visible because they demonstrate that these qualities are not isolated to one project, course, or supervisor. Clearly labeled job-specific reference availability is included separately from completed public recommendations. Unfinished outreach and private contact tracking are not displayed.
 
 ## Technical Audio Evidence
 
@@ -20,7 +22,7 @@ This section presents completed recommendation and supervisor evidence available
 
 This is reference availability for an aligned role, not a publicly available general endorsement. No public PDF is available or pending; any future recommendation would require Dr. Ko’s agreement for the specific role and would follow his direct-to-employer policy. The same status is recorded in the relevant [Immersive Audio and Critical Listening](04-immersive-audio-and-critical-listening/) and [Measurement and Technical Validation](05-measurement-and-technical-validation/) folders.
 
-## Additional Professional Evidence
+## Broader Professional and Academic Endorsements
 
 ### [Music Education, Performance, and Leadership](01-music-education-performance-and-leadership/)
 
@@ -32,9 +34,9 @@ This is reference availability for an aligned role, not a publicly available gen
 
 ## Evidence Summary
 
-The strongest technical-audio evidence is surfaced first: Jon Lechner supports immersive-audio and critical-listening experience; Torey Harding provides direct supervisor evidence from professional studio work; and Dr. Doyuen Ko is available for position-specific technical references when a role aligns with work he directly supervised. The broader collection adds complementary evidence of musicianship, teaching, reliability, communication, teamwork, leadership, and professional development from Dr. Charles R. Jackson, Dr. Alison Mann, Kathy Ratcliffe, and Sam Skelton.
+The collection is intended to show a **pattern across independent sources**, not simply to accumulate recommendation documents. Jon Lechner provides technically relevant evidence from audio-engineering education and immersive-audio work; Torey Harding provides direct workplace evidence from a professional studio; Dr. Doyuen Ko provides position-specific technical reference availability for work he directly supervised; and Dr. Charles R. Jackson, Dr. Alison Mann, Kathy Ratcliffe, and Sam Skelton provide additional perspectives from education, performance, leadership, and professional development. Together, these sources show similar professional qualities being observed by different people in substantially different environments.
 
-As additional technical-audio recommendations or supervisor evidence are received in the future, they can be added to the appropriate technical category without changing this relevance-first structure.
+As additional technical-audio recommendations or supervisor evidence are received in the future, they can be added to the appropriate technical category without changing this relevance-first, multiple-source structure.
 
 ## Publication Standard
 
