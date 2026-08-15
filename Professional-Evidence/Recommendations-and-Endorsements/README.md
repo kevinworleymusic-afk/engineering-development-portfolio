@@ -1,10 +1,8 @@
 # Recommendations and Professional Endorsements
 
-**Independent professional and academic evidence of consistent work ethic, reliability, technical aptitude, professionalism, teamwork, communication, and continued development across multiple environments.**
+**Recommendations and supervisor evaluations from technical audio, professional studio, academic, music education, and performance settings, providing perspectives on work ethic, reliability, technical aptitude, professionalism, teamwork, and communication.**
 
-This collection brings together recommendations and supervisor evaluations from people who have taught, supervised, or worked with Kevin across technical audio, professional studio work, higher education, music education, and performance. Taken together, the value of the section is not dependent on any single letter: the broader pattern provides evidence across several years and multiple settings that the same core qualities — reliability, work ethic, professionalism, initiative, collaboration, and continued development — have been recognized by different instructors and supervisors.
-
-Technical-audio evidence is presented first because it is most directly relevant to the portfolio's current direction. The broader professional and academic endorsements remain fully visible because they demonstrate that these qualities are not isolated to one project, course, or supervisor. Clearly labeled job-specific reference availability is included separately from completed public recommendations. Unfinished outreach and private contact tracking are not displayed.
+Technical-audio evidence is presented first for relevance to the portfolio's current direction, followed by recommendations from other professional and academic settings. Together, these materials provide perspectives from multiple instructors and supervisors across different stages and environments. Job-specific reference availability is clearly distinguished from completed public recommendations, and unfinished outreach or private contact tracking is not displayed.
 
 ## Technical Audio Evidence
 
@@ -34,9 +32,9 @@ This is reference availability for an aligned role, not a publicly available gen
 
 ## Evidence Summary
 
-The collection is intended to show a **pattern across independent sources**, not simply to accumulate recommendation documents. Jon Lechner provides technically relevant evidence from audio-engineering education and immersive-audio work; Torey Harding provides direct workplace evidence from a professional studio; Dr. Doyuen Ko provides position-specific technical reference availability for work he directly supervised; and Dr. Charles R. Jackson, Dr. Alison Mann, Kathy Ratcliffe, and Sam Skelton provide additional perspectives from education, performance, leadership, and professional development. Together, these sources show similar professional qualities being observed by different people in substantially different environments.
+Jon Lechner provides technically relevant evidence from audio-engineering education and immersive-audio work; Torey Harding provides direct workplace evidence from a professional studio; Dr. Doyuen Ko provides position-specific technical reference availability for work he directly supervised; and Dr. Charles R. Jackson, Dr. Alison Mann, Kathy Ratcliffe, and Sam Skelton provide perspectives from education, performance, leadership, and professional development.
 
-As additional technical-audio recommendations or supervisor evidence are received in the future, they can be added to the appropriate technical category without changing this relevance-first, multiple-source structure.
+Additional technical-audio recommendations or supervisor evidence can be added to the appropriate category as they are received.
 
 ## Publication Standard
 
