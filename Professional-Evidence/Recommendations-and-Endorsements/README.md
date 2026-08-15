@@ -20,6 +20,8 @@ The entries below are the recommendations and supervisor/reference evidence most
 
 This is reference availability for an aligned role, not a publicly available general endorsement. No public PDF is available or pending; any future recommendation would require Dr. Ko’s agreement for the specific role and would follow his direct-to-employer policy. The same status is recorded in the relevant [Immersive Audio and Critical Listening](04-immersive-audio-and-critical-listening/) and [Measurement and Technical Validation](05-measurement-and-technical-validation/) folders.
 
+Other Belmont Audio Engineering Technology faculty who directly supervised relevant work may also be appropriate position-specific references depending on the role. They are not listed here as available references until that availability has been confirmed for a specific application.
+
 ## Additional Professional Evidence
 
 ### [Music Education, Performance, and Leadership](01-music-education-performance-and-leadership/)
