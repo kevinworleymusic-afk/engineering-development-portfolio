@@ -35,7 +35,7 @@ The standalone [Python Audio File Report](https://github.com/kevinworleymusic-af
 |---|---|---|---|---|---|---|
 | — | — | — | — | — | [**1**](#august-1-electrical-engineering-study-plan)<br>[🟪 **DSP/SW**](../Areas/dsp-and-software.md)<br>✓ EE path researched; project set up | [**2**](#august-2-circuit-activity-deferred)<br>[🟪 **DSP/SW**](../Areas/dsp-and-software.md)<br>↪ Circuit activity deferred |
 | [**3**](#august-3-automotive-dsp-learning-routes)<br>[🟪 **DSP/SW**](../Areas/dsp-and-software.md)<br>✓ Documented DSP access + alternatives | [**4**](../2026-08.md#august-3-9) | [**5**](#august-5-dsp-knowledge-outreach)<br>[🟪 **DSP/SW**](../Areas/dsp-and-software.md)<br>✓ Asked contacts about platform knowledge<br>◇ Evening: review options + project/buy criteria | [**6**](../2026-08.md#august-3-9) | [**7**](../2026-08.md#august-3-9) | [**8**](../2026-08.md#august-3-9) | [**9**](../2026-08.md#august-3-9) |
-| [**10**](../2026-08.md#august-10-16) | [**11**](../2026-08.md#august-10-16) | [**12**](../2026-08.md#august-10-16) | [**13**](../2026-08.md#august-10-16) | [**14**](../2026-08.md#august-10-16) | [**15**](../2026-08.md#august-10-16) | [**16**](../2026-08.md#august-10-16) |
+| [**10**](../2026-08.md#august-10-16) | [**11**](../2026-08.md#august-10-16) | [**12**](../2026-08.md#august-10-16) | [**13**](../2026-08.md#august-10-16) | [**14**](#august-14-15-trainer-and-electronics-planning)<br>[🟪 **DSP/SW**](../Areas/dsp-and-software.md)<br>✓ Planned adaptive difficulty + song transfer | [**15**](#august-14-15-trainer-and-electronics-planning)<br>[🟪 **DSP/SW**](../Areas/dsp-and-software.md)<br>✓ Ordered electronics reference<br>✓ Began purchase-priority planning | [**16**](../2026-08.md#august-10-16) |
 | [**17**](../2026-08.md#august-17-23) | [**18**](../2026-08.md#august-17-23) | [**19**](../2026-08.md#august-17-23) | [**20**](../2026-08.md#august-17-23) | [**21**](../2026-08.md#august-17-23) | [**22**](../2026-08.md#august-17-23) | [**23**](../2026-08.md#august-17-23) |
 | [**24**](../2026-08.md#august-24-30) | [**25**](../2026-08.md#august-24-30) | [**26**](../2026-08.md#august-24-30) | [**27**](../2026-08.md#august-24-30) | [**28**](../2026-08.md#august-24-30) | [**29**](../2026-08.md#august-24-30) | [**30**](../2026-08.md#august-24-30) |
 | [**31**](../2026-08.md#august-31) | — | — | — | — | — | — |
@@ -67,6 +67,14 @@ Kevin asked professional contacts what familiarity or practical knowledge they h
 Revisit the Audio Weaver material and the miniDSP, TinySine/SigmaStudio, and DSPi resources Jay supplied. Generate realistic future project ideas for each route and determine whether the next useful step can be completed with existing software, requires an evaluation/development board, or may justify researching a hardware purchase.
 
 **Intended output:** a short option comparison containing potential project, transferable skill, required software/hardware, approximate access barrier, validation method, and next decision. No purchase or completed implementation is claimed by scheduling this review.
+
+### August 14–15 Trainer and Electronics Planning
+
+**August 14:** Completed the planning step for adaptive listening-trainer difficulty and transfer of the current multi-band EQ work from pink noise to musical material. This marks the DSP/software planning item complete; adaptive behavior and the expanded song workflow are not yet claimed as coded or validated.
+
+**August 15:** Ordered *Practical Electronics for Inventors, Fourth Edition* by Paul Scherz and Simon Monk, with delivery expected Monday, August 17. The book is intended to support the existing Audio Electronics Fundamentals Workbook and provide a broader reference for components, circuits, measurement, and practical electronics. Kevin also contacted Alek Weidmann for advice concerning the book and an electronics-learning direction. The purchase records acquisition of a study resource, not completion of the material or demonstrated electronics competence.
+
+In parallel, Kevin began planning how to ask Jim Walter and potentially Jay Krusac which initial equipment purchases would provide the highest professional-development return. The decision framework should distinguish inexpensive study resources, DSP development hardware, measurement tools, and vehicle-installation costs before a purchase is made. Jay’s earlier general platform guidance remains an input; additional hiring-needs context has not yet been received.
 
 ## Detailed Evidence
 
