@@ -37,6 +37,17 @@ Use the [populated pathway plans](Plans/) to review the objectives behind record
 
 > **Reading guide:** This main view records concise outcomes in a phone-friendly weekly agenda. Select a date or category for the fuller record.
 
+<details>
+<summary><strong>Choose a July view</strong></summary>
+
+- **Full month:** Continue below
+- [July 1–12 — Pre-calendar period](Weeks/2026-07-01-12.md)
+- [July 13–19 — Outreach and software foundation](Weeks/2026-07-13-19.md)
+- [July 20–26 — Portfolio, guidance, and listening launch](Weeks/2026-07-20-26.md)
+- [July 27–31 — Baselines, procedures, and planning](Weeks/2026-07-27-31.md)
+
+</details>
+
 ### July 1–12 — Pre-calendar development period
 
 The consolidated development calendar had not yet begun. No day-by-day entries are available for this period; this should not be interpreted as a period without work or progress.
@@ -94,6 +105,19 @@ The consolidated development calendar had not yet begun. No day-by-day entries a
 ## August 2026
 
 > **Reading guide:** This main view records concise outcomes in a phone-friendly weekly agenda. Select a date or category for the fuller record.
+
+<details>
+<summary><strong>Choose an August view</strong></summary>
+
+- **Full month:** Continue below
+- [August 1–2 — Foundation and structured session](Weeks/2026-08-01-02.md)
+- [August 3–9 — Benchmarks, DSP research, and trainer development](Weeks/2026-08-03-09.md)
+- [August 10–16 — Trainer refinement and evaluation-system work](Weeks/2026-08-10-16.md)
+- [August 17–23 — Planned progression](Weeks/2026-08-17-23.md)
+- [August 24–30 — Evidence consolidation](Weeks/2026-08-24-30.md)
+- [August 31 — Monthly review](Weeks/2026-08-31.md)
+
+</details>
 
 ### August 1–2 — Foundation and first structured session
 
