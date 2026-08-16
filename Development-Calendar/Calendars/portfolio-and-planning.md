@@ -19,13 +19,67 @@ Repository and document additions use the date of the first relevant GitHub comm
 
 ## July 2026
 
-| **Mon** | **Tue** | **Wed** | **Thu** | **Fri** | **Sat** | **Sun** |
-|---|---|---|---|---|---|---|
-| — | — | **1** | **2** | **3** | **4** | **5** |
-| **6** | **7** | **8** | **9** | **10** | **11** | **12** |
-| **13** | **14** | **15** | **16** | **17** | **18** | **19** |
-| **20** | [**21**](../../README.md)<br>[🟩 **PLAN**](../Areas/portfolio-and-planning.md)<br>✓ Built central portfolio | [**22**](../../README.md#major-technical-audio-and-applied-engineering-projects)<br>[🟩 **PLAN**](../Areas/portfolio-and-planning.md)<br>✓ Added project context | **23** | [**24**](https://github.com/kevinworleymusic-afk/engineering-development-portfolio/commit/48a794540f35a17b8db1cbcf94b908dbea955f9d)<br>[🟩 **PLAN**](../Areas/portfolio-and-planning.md)<br>✓ Added development binder | **25** | [**26**](https://github.com/kevinworleymusic-afk/engineering-development-portfolio/commit/f36309df1f924362d609220f6d6042fb1396b75d)<br>[🟩 **PLAN**](../Areas/portfolio-and-planning.md)<br>✓ Linked portfolio evidence |
-| [**27**](https://github.com/kevinworleymusic-afk/engineering-development-portfolio/commit/f68acb837b3cd48c8746378e4b32ebef4b7af6c7)<br>[🟩 **PLAN**](../Areas/portfolio-and-planning.md)<br>✓ Updated career direction | [**28**](../Plans/portfolio-and-planning/02-weekly/2026-07-27.md)<br>[🟩 **PLAN**](../Areas/portfolio-and-planning.md)<br>✓ Developed planning workflow | [**29**](https://github.com/kevinworleymusic-afk/engineering-development-portfolio/commit/404062b356e7ffca52c95dd0c3c4d44e0ad20dae)<br>[🟩 **PLAN**](../Areas/portfolio-and-planning.md)<br>✓ Integrated portfolio evidence | [**30**](../README.md)<br>[🟩 **PLAN**](../Areas/portfolio-and-planning.md)<br>✓ Built calendar/planning system | **31**<br>[🟩 **PLAN**](../Areas/portfolio-and-planning.md)<br>✓ Scoped weekend study | — | — |
+> **Calendar view:** Open the full-month overview for a concise scan, or expand only the week you want to inspect. Dates without category-specific activity are intentionally omitted from the detailed weekly tables.
+
+<details open>
+<summary><strong>Full July overview</strong></summary>
+
+| Period | Category activity |
+|---|---|
+| **July 1–5** | No category-specific entry recorded. |
+| **July 6–12** | No category-specific entry recorded. |
+| **July 13–19** | No category-specific entry recorded. |
+| **July 20–26** | ✓ Built central portfolio; ✓ Added project context; ✓ Added development binder; ✓ Linked portfolio evidence |
+| **July 27–31** | ✓ Updated career direction; ✓ Developed planning workflow; ✓ Integrated portfolio evidence; ✓ Built calendar/planning system; ✓ Scoped weekend study |
+
+</details>
+
+<details>
+<summary><strong>July 1–5</strong> — no category-specific entry</summary>
+
+No category-specific activity is assigned to this week in this mini calendar.
+
+</details>
+
+<details>
+<summary><strong>July 6–12</strong> — no category-specific entry</summary>
+
+No category-specific activity is assigned to this week in this mini calendar.
+
+</details>
+
+<details>
+<summary><strong>July 13–19</strong> — no category-specific entry</summary>
+
+No category-specific activity is assigned to this week in this mini calendar.
+
+</details>
+
+<details>
+<summary><strong>July 20–26</strong> — 4 recorded dates</summary>
+
+| Date | Detailed category record |
+|---|---|
+| **July 21** | [🟩 **PLAN**](../Areas/portfolio-and-planning.md)<br>✓ Built central portfolio |
+| **July 22** | [🟩 **PLAN**](../Areas/portfolio-and-planning.md)<br>✓ Added project context |
+| **July 24** | [🟩 **PLAN**](../Areas/portfolio-and-planning.md)<br>✓ Added development binder |
+| **July 26** | [🟩 **PLAN**](../Areas/portfolio-and-planning.md)<br>✓ Linked portfolio evidence |
+
+</details>
+
+<details>
+<summary><strong>July 27–31</strong> — 5 recorded dates</summary>
+
+| Date | Detailed category record |
+|---|---|
+| **July 27** | [🟩 **PLAN**](../Areas/portfolio-and-planning.md)<br>✓ Updated career direction |
+| **July 28** | [🟩 **PLAN**](../Areas/portfolio-and-planning.md)<br>✓ Developed planning workflow |
+| **July 29** | [🟩 **PLAN**](../Areas/portfolio-and-planning.md)<br>✓ Integrated portfolio evidence |
+| **July 30** | [🟩 **PLAN**](../Areas/portfolio-and-planning.md)<br>✓ Built calendar/planning system |
+| **July 31** | [🟩 **PLAN**](../Areas/portfolio-and-planning.md)<br>✓ Scoped weekend study |
+
+</details>
+
 
 ### July 31 Planning Output
 
@@ -49,14 +103,68 @@ Repository and document additions use the date of the first relevant GitHub comm
 
 ## August 2026
 
-| **Mon** | **Tue** | **Wed** | **Thu** | **Fri** | **Sat** | **Sun** |
-|---|---|---|---|---|---|---|
-| — | — | — | — | — | [**1**](../2026-08.md#august-1-2) | [**2**](../2026-08.md#august-1-2) |
-| [**3**](../2026-08.md#august-3-9)<br>[🟩 **PLAN**](../Areas/portfolio-and-planning.md)<br>◇ August/career plan | [**4**](../2026-08.md#august-3-9) | [**5**](../2026-08.md#august-3-9) | [**6**](../2026-08.md#august-3-9) | [**7**](../2026-08.md#august-3-9) | [**8**](../2026-08.md#august-3-9) | [**9**](../2026-08.md#august-3-9) |
-| [**10**](../2026-08.md#august-10-16) | [**11**](../2026-08.md#august-10-16) | [**12**](../2026-08.md#august-10-16) | [**13**](../2026-08.md#august-10-16) | [**14**](../2026-08.md#august-10-16) | [**15**](#august-15-subjective-listening-portfolio-integration)<br>[🟩 **PLAN**](../Areas/portfolio-and-planning.md)<br>✓ Published project documentation<br>✓ Separated live system from public demo | [**16**](../2026-08.md#august-10-16) |
-| [**17**](../2026-08.md#august-17-23) | [**18**](../2026-08.md#august-17-23) | [**19**](../2026-08.md#august-17-23) | [**20**](../2026-08.md#august-17-23) | [**21**](../2026-08.md#august-17-23) | [**22**](../2026-08.md#august-17-23) | [**23**](../2026-08.md#august-17-23) |
-| [**24**](../2026-08.md#august-24-30) | [**25**](../2026-08.md#august-24-30) | [**26**](../2026-08.md#august-24-30) | [**27**](../2026-08.md#august-24-30) | [**28**](../2026-08.md#august-24-30) | [**29**](../2026-08.md#august-24-30) | [**30**](../2026-08.md#august-24-30) |
-| [**31**](../2026-08.md#august-31) | — | — | — | — | — | — |
+> **Calendar view:** Open the full-month overview for a concise scan, or expand only the week you want to inspect. Dates without category-specific activity are intentionally omitted from the detailed weekly tables.
+
+<details open>
+<summary><strong>Full August overview</strong></summary>
+
+| Period | Category activity |
+|---|---|
+| **August 1–2** | No category-specific entry recorded. |
+| **August 3–9** | ◇ August/career plan |
+| **August 10–16** | ✓ Published project documentation; ✓ Separated live system from public demo |
+| **August 17–23** | No category-specific entry recorded. |
+| **August 24–30** | No category-specific entry recorded. |
+| **August 31** | No category-specific entry recorded. |
+
+</details>
+
+<details>
+<summary><strong>August 1–2</strong> — no category-specific entry</summary>
+
+No category-specific activity is assigned to this week in this mini calendar.
+
+</details>
+
+<details>
+<summary><strong>August 3–9</strong> — 1 recorded date</summary>
+
+| Date | Detailed category record |
+|---|---|
+| **August 3** | [🟩 **PLAN**](../Areas/portfolio-and-planning.md)<br>◇ August/career plan |
+
+</details>
+
+<details>
+<summary><strong>August 10–16</strong> — 1 recorded date</summary>
+
+| Date | Detailed category record |
+|---|---|
+| **August 15** | [🟩 **PLAN**](../Areas/portfolio-and-planning.md)<br>✓ Published project documentation<br>✓ Separated live system from public demo |
+
+</details>
+
+<details>
+<summary><strong>August 17–23</strong> — no category-specific entry</summary>
+
+No category-specific activity is assigned to this week in this mini calendar.
+
+</details>
+
+<details>
+<summary><strong>August 24–30</strong> — no category-specific entry</summary>
+
+No category-specific activity is assigned to this week in this mini calendar.
+
+</details>
+
+<details>
+<summary><strong>August 31</strong> — no category-specific entry</summary>
+
+No category-specific activity is assigned to this week in this mini calendar.
+
+</details>
+
 
 Future PLAN tabs will be populated only after weekly objectives or daily tasks are selected.
 
