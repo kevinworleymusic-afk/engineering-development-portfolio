@@ -31,7 +31,7 @@ Exact dates are used for confirmed events. Repository and document additions use
 | **July 6–12** | No category-specific entry recorded. |
 | **July 13–19** | ✓ Contacted consultant; ✓ Outreach/research period; ✓ Outreach/research period; ✓ Outreach/research period; ✓ Outreach/research period; ✓ Outreach/research period |
 | **July 20–26** | ✓ Scheduled Coffman call; ✓ Prepared call; ✓ Prepared call; ✓ Prepared call; ✓ Completed Coffman call |
-| **July 27–31** | ✓ Tyrone request sent; ✓ Lechner agreed; PDF pending; ✓ EE, acoustics + evidence outreach |
+| **July 27–31** | ✓ EE, acoustics, and evidence outreach; ✓ Lechner recommendation process began and was later completed |
 
 </details>
 
@@ -81,7 +81,7 @@ No category-specific activity is assigned to this week in this mini calendar.
 
 | Date | Detailed category record |
 |---|---|
-| **July 31** | [🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Tyrone request sent<br>✓ Lechner agreed; PDF pending<br>✓ EE, acoustics + evidence outreach |
+| **July 31** | [🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ EE, acoustics + evidence outreach<br>✓ Lechner recommendation process began and was later completed |
 
 </details>
 
@@ -102,9 +102,9 @@ Develop a professional network across acoustical consulting and technical audio 
 
 **July 31 outreach record:** Contacted **Ray Plasse** for guidance on an acoustical-software study path. Ray explained that, in his consulting role, familiarity with **Revit** or **AutoCAD** would help with reviewing and marking up architectural and mechanical drawings, although full licenses are expensive. He recommended **SketchUp** as a more accessible tool used in some environmental-noise modeling workflows, including contour lines and surrounding-building imports. He advised against investing heavily in dense, job-specific platforms such as **CadnaA, SoundPLAN, EASE, CATT,** or similar software without access and a defined use case; if selecting one acoustics-specific tool to explore, he suggested the web-based **Treble** platform as potentially relevant to automotive acoustic modeling. He also emphasized strong **Excel** ability and mastery of octave-band sound levels, A-weighting, decibel summation, and the distinction between sound power and sound pressure. Ray noted that REW is useful educationally but is not commonly used in his particular field practice.
 
-Kevin thanked Ray, explained that the portfolio goal is to approximate useful employer-facing software work within current access and cost constraints, connected this effort to the automotive guidance received from Jay Krusac, and described the broader effort to reconnect with prior professional and academic contacts. Kevin then asked Ray whether he remembered or had contact information for the former **REM Studio B manager** who had directly observed Kevin’s studio work. Ray identified her as **Jackie Hayes**; direct contact information and outreach remain pending. Kevin separately asked **Jon Lechner** the same REM Studio B contact question and asked whether Jon could help reconnect him with **Dr. Michael Janas**. These are contact-recovery inquiries; no recommendation has yet been requested from Jackie or Dr. Janas.
+Kevin thanked Ray, explained that the portfolio goal is to approximate useful employer-facing software work within current access and cost constraints, connected this effort to the automotive guidance received from Jay Krusac, and described the broader effort to reconnect with prior professional and academic contacts. Kevin also pursued recovery of prior project contacts and source files.
 
-In parallel, contacted **Alek Weidman** for guidance on an electrical-engineering self-study path that could extend the introductory studio-electronics work completed through Mike Porter’s course. Also contacted **George Lawson** to identify the architectural-modeling software used in a prior REW room-analysis project and ask whether he still has access to the original project files. George confirmed that the project used **SketchUp**. Recovery of the original SketchUp model, REW data, and related project files remains pending. **Jon Lechner** agreed to provide a PDF character/professional recommendation grounded in Kevin’s work across the technical and creative demands of Belmont’s movie-mixing Dolby Atmos course after returning to the office Tuesday. A separate request was sent to **Tyrone Jackson** concerning personal growth, confidence, and professional potential; his response remains pending. **Lisa LaFountaine** was also asked to identify the former REM Studio B staff member. An **Ed Seay** recommendation request was sent July 31; his response remains pending.
+In parallel, contacted **Alek Weidman** for guidance on an electrical-engineering self-study path that could extend the introductory studio-electronics work completed through Mike Porter’s course. Also contacted **George Lawson** to identify the architectural-modeling software used in a prior REW room-analysis project and ask whether he still has access to the original project files. George confirmed that the project used **SketchUp**. Recovery of the original SketchUp model, REW data, and related project files remains pending. **Jon Lechner** agreed to provide a character/professional recommendation grounded in Kevin’s work across the technical and creative demands of Belmont’s movie-mixing Dolby Atmos course. The signed recommendation was received and published August 5.
 
 Future entries can document professional outreach, informational conversations, relationship follow-up, applications, industry events, room-acoustics study, measurement and analysis, technical reporting, and client-oriented recommendations.
 
@@ -119,8 +119,8 @@ Future entries can document professional outreach, informational conversations, 
 
 | Period | Category activity |
 |---|---|
-| **August 1–2** | ✓ Published consulting-employer dashboard; ; ✓ Built initial generator/barrier workbook; ◇ Send remaining requests by Aug. 3 AM |
-| **August 3–9** | ✓ Local Panasonic contact + DSP guidance; ✓ Texted Jim; reply pending; ; ✓ Reference/file follow-ups; ✓ Lechner letter received + published; ✓ DSP-knowledge questions sent; ✓ Jim reaction added; reply pending; ✓ Resent Seay request; ✓ Se… |
+| **August 1–2** | ✓ Published consulting-employer dashboard; ✓ Built initial generator/barrier workbook |
+| **August 3–9** | ✓ Local Panasonic contact + DSP guidance; ✓ Texted Jim; ✓ Project-file follow-up; ✓ Lechner recommendation received and published; ✓ DSP-platform questions sent |
 | **August 10–16** | ✓ Checkpoint completed early Aug. 3; ✓ Jim Walter response received; ✓ Alek Weidmann electronics inquiry |
 | **August 17–23** | No category-specific entry recorded. |
 | **August 24–30** | No category-specific entry recorded. |
@@ -129,12 +129,11 @@ Future entries can document professional outreach, informational conversations, 
 </details>
 
 <details>
-<summary><strong>August 1–2</strong> — 2 recorded dates</summary>
+<summary><strong>August 1–2</strong> — 1 recorded date</summary>
 
 | Date | Detailed category record |
 |---|---|
 | **August 1** | [🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Published consulting-employer dashboard<br><br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Built initial generator/barrier workbook |
-| **August 2** | [🟨 **NET**](../Areas/acoustical-consulting.md)<br>◇ Send remaining requests by Aug. 3 AM |
 
 </details>
 
@@ -144,8 +143,8 @@ Future entries can document professional outreach, informational conversations, 
 | Date | Detailed category record |
 |---|---|
 | **August 3** | [🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Local Panasonic contact + DSP guidance |
-| **August 4** | [🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Texted Jim; reply pending<br><br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Reference/file follow-ups |
-| **August 5** | [🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Lechner letter received + published<br>✓ DSP-knowledge questions sent<br>✓ Jim reaction added; reply pending<br>✓ Resent Seay request<br>✓ Sent Janas tape-class request |
+| **August 4** | [🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Texted Jim; reply pending<br><br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Project-file recovery follow-up |
+| **August 5** | [🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Lechner letter received + published<br>✓ DSP-knowledge questions sent<br>✓ Jim reaction added; reply pending |
 
 </details>
 
@@ -191,11 +190,6 @@ The current workbook demonstrates octave-band and overall dBA prediction using a
 
 **August 1 output completed:** Reviewable plan, source-data strategy, initial AI-assisted calculation workbook, preserved baseline template, and documented SG200 case setup. No numerical output is presented as an SG200 prediction or professional consulting conclusion.
 
-### August 2 Professional-Reference Outreach Plan
-
-Send the remaining focused professional-reference requests tonight, August 2, or tomorrow morning, August 3, depending on when the outreach block begins. Requests include **Bradley Rikard** (education, student teaching, and classroom development) and **Trey Wright** (music performance). Bradley’s outreach will also ask whether he knows of nearby part-time music-education work, occasional music-substitute assignments, or other local music-program opportunities. Because the education requests fall near the beginning of the school week—and may coincide with first-day-of-school responsibilities—send them thoughtfully and allow extra response time. Tailor each request to the part of Kevin’s background the person directly observed, and record only requests that are actually sent.
-
-**Planned output:** Two appropriately scoped recommendation requests plus a concise local-opportunity inquiry to Bradley and a follow-up record. Any letter remains pending—not portfolio evidence—until it is received and approved for public use.
 
 ### August 3 Jay Response and Panasonic Introduction
 
@@ -207,7 +201,7 @@ This records a warm introduction and guidance exchange, not a job lead, intervie
 
 ### August 4 Panasonic and Reference Follow-Up
 
-Kevin sent an initial text to Jim; no response has been received yet. He also checked in on pending professional-reference contacts and attempted to obtain project files from Justin Roberts. Existing recommendation and file statuses remain pending until a response or document is actually received.
+Kevin sent an initial text to Jim; no response has been received yet. He also attempted to obtain project files from Justin Roberts; receipt remains unconfirmed.
 
 ### August 5 Information and Contact Check-Ins
 
@@ -215,7 +209,6 @@ Kevin received Jon Lechner’s signed Belmont recommendation and published a [pr
 
 Jim’s August 4 text showed as read. Kevin added a question-mark reaction to that existing message on August 5 so it could surface again. This was not a second text, and Jim has not replied.
 
-Kevin resent the recommendation-request email to Ed Seay and sent Dr. Michael Janas a reference request focused on the knowledge and experience Kevin developed in Janas’s tape class. These are confirmed outreach actions only; both responses and any resulting documents remain pending.
 
 ### August 12 Follow-Up Status
 
