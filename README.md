@@ -9,13 +9,19 @@ Master’s-trained technical audio engineer developing toward roles in acoustica
 - **Acoustical analysis:** [MATLAB room-response analysis](Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Impulse-Response-and-Audio-Systems-Analysis/README.md) and a [generator-to-residence barrier framework](Projects/Technical-Audio-and-Research/Generator-to-Residence-Barrier-Noise-Analysis/README.md) addressing source–path–receiver geometry, octave bands, A-weighting, attenuation, and validation planning
 - **DSP and software:** [Python audio reporting](https://github.com/kevinworleymusic-afk/audio-file-report), [Pure Data processing](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/01_Real-Time_DSP_Prototype_in_Pure_Data.md), and Audio Weaver/DSP Concepts tutorial review focused on transferable signal-flow and tuning concepts—not direct Audio Weaver use
 - **Immersive and professional audio:** [Ocean Way Jazz Combo Dolby Atmos Independent Study](Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/README.md) with 2L Cube-inspired capture and 7.1.4 routing; Starstruck Entertainment; additional Atmos-room exposure; and [listener participation in three published AES studies](https://github.com/kevinworleymusic-afk/technical-ear-training/blob/main/PRIOR_EXPERIENCE.md#research-and-controlled-listening-exposure)
-- **Automotive development:** planned [Measurement-Guided DSP Development in SigmaStudio](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/Future-Projects/03_Immersive_Audio_Evaluation_Part_2_SigmaStudio_DSP_Project.md) will translate future simulated-cabin measurement and listening results into a documented correction strategy
+- **Automotive development:** Preparing for direct in-vehicle work by defining a suitable car-DSP purchase and installation path, identifying a calibrated microphone/measurement setup for my own vehicle, and planning [Measurement-Guided DSP Development in SigmaStudio](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/Future-Projects/03_Immersive_Audio_Evaluation_Part_2_SigmaStudio_DSP_Project.md)
 
 **Navigate:** [Project Portfolio](#project-portfolio) · [Critical Listening](#critical-listening-and-immersive-experience) · [Professional Evidence](#professional-recommendations-and-endorsements) · [Current Development](#current-development--august-2026) · [Career Direction](#career-direction-acoustics-applied-psychoacoustic-engineering-and-audio-systems)
 
 ## Current Development — August 2026
 
 Current work advances two applied directions in parallel: acoustical consulting, including environmental-noise analysis, and automotive/in-cabin audio. Supporting work includes the [listening-trainer prototype](https://github.com/kevinworleymusic-afk/technical-listening-trainer), objective listening practice, the separate subjective-evaluation workflow, and DSP/electronics. [Development calendar](Development-Calendar/).
+
+**Immediate technical-development priorities:**
+
+- **DSP and automotive implementation:** Continue Audio Weaver/DSP Concepts tutorial review, define accessible DSP-specific exercises that demonstrate transferable signal-flow and tuning skills, and prepare for the purchase and installation of a DSP in my vehicle.
+- **In-vehicle measurement capability:** Identify a suitable calibrated microphone and supporting measurement setup so I can capture repeatable frequency-response and related measurements in my own vehicle.
+- **Electronics foundations:** Select concepts and exercises from Alek Weidman’s recommended [*Practical Electronics for Inventors*, Fourth Edition](https://www.amazon.com/Practical-Electronics-Inventors-Fourth-Scherz/dp/1259587541), then connect the selected work to the existing calculation/simulation workbook. Exact exercises and sequence remain to be decided.
 
 ## Professional Recommendations and Endorsements
 
@@ -71,6 +77,8 @@ Two leading applications are acoustical consulting—especially architectural/ro
 
 ### Active and future development
 
-- **Audio Weaver concept-study:** Tutorial review and notes on terminology, signal flow, tuning workflows, and transferable concepts; no claim of direct Audio Weaver access or implementation.
+- **DSP and automotive systems development:** Continue Audio Weaver/DSP Concepts tutorial review and define practical DSP exercises using accessible tools. Tutorial review, planned exercises, and implemented exercises will remain separately labeled; no direct Audio Weaver access or implementation is claimed.
+- **Vehicle DSP and measurement preparation:** Determine a suitable DSP purchase/installation path and a calibrated microphone-based setup for capturing my own repeatable in-vehicle measurements before beginning measurement-guided tuning work.
+- **Electronics development:** Select and document book-guided concepts and exercises that extend the [Audio Electronics Fundamentals Workbook](Projects/Coding-and-Audio-Software/Audio-Electronics-Fundamentals-Workbook/README.md); simulation and hardware validation remain future stages.
 - [Generator/barrier analysis](Projects/Technical-Audio-and-Research/Generator-to-Residence-Barrier-Noise-Analysis/README.md) — framework/workbook complete; final acoustic data, validation, and conclusions pending
 - [Automotive implementation roadmap](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/Future-Projects/02_Automotive_Audio_Implementation_Roadmap.md) — planned work, not completed evidence
