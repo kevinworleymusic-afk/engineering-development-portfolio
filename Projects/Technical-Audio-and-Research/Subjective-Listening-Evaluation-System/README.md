@@ -8,7 +8,7 @@
 
 This system supports a repeatable 20–30 minute subjective listening session built around three excerpts. It is intended to develop structured sound-quality judgment and documentation across headphones, loudspeakers, and—when access permits—in-vehicle playback.
 
-It complements, but does not replace, my [Technical Listening Trainer](https://github.com/kevinworleymusic-afk/technical-listening-trainer). The trainer is a customizable prototype for blind identification of controlled EQ/frequency-response changes. This evaluation system instead records broader subjective judgments about reproduced music, listening context, evidence, and possible technical causes.
+It complements, but does not replace, my [objective listening practice](https://github.com/kevinworleymusic-afk/technical-ear-training) and [Technical Listening Trainer](https://github.com/kevinworleymusic-afk/technical-listening-trainer). Those protocols use identification or matching tasks with defined correct answers, while this system records broader subjective judgments about reproduced music, listening context, evidence, and possible technical causes.
 
 ## Current workflow
 
@@ -50,7 +50,7 @@ The private operational spreadsheet also includes a hidden **Sample Answer Key**
 
 After a form response is submitted, the **Song Results** tab can match that Sample ID and display the source track, processing type, direction, center frequency, gain, Q, bandwidth, compression parameters, intended perceptual effect, difficulty, random seed, export filename, and notes.
 
-The answer key can initially be entered manually. Ultimately, this workflow is planned as an extension mode within the [Technical Listening Trainer](https://github.com/kevinworleymusic-afk/technical-listening-trainer). Once built, the mode would generate randomized daily processed samples, assign matching anonymous Sample IDs and metadata, export the WAV files for playback on headphones, loudspeakers, or in a vehicle, and produce a spreadsheet-compatible answer-key CSV. The daily samples would then feed a recurring weekly subjective-assessment cycle that remains separate from the trainer’s frequency-identification practice.
+The answer key can initially be entered manually. Ultimately, this workflow is planned as an extension mode within the [Technical Listening Trainer](https://github.com/kevinworleymusic-afk/technical-listening-trainer). Once built, the mode would generate randomized daily processed samples, assign matching anonymous Sample IDs and metadata, export the WAV files for playback on headphones, loudspeakers, or in a vehicle, and produce a spreadsheet-compatible answer-key CSV. The daily samples would then feed a recurring weekly subjective-assessment cycle that remains separate from the trainer’s objective frequency-identification practice.
 
 Development would be phased around capabilities that are actually coded and validated. The first version would use the trainer’s currently implemented or already-decided processing controls—most likely beginning with controlled EQ changes—rather than claiming a broad generator from the outset. As the workflow matures, additional processing modules could be added in response to the particular qualities I want to evaluate more closely, extending beyond EQ toward controlled changes related to dynamics, spatial presentation, integrity or artifacts, and other reproducible sound-quality variables.
 
