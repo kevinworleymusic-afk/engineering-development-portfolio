@@ -1,6 +1,6 @@
 # Subjective Listening Evaluation System
 
-**Status:** Working Google Forms/private operational Google Sheets prototype with a public static portfolio demo; initial test submission and decimal-score calculations verified.
+**Status:** Working Google Forms/private operational Google Sheets prototype with a synchronized public portfolio demo; multi-excerpt calculations, test-row exclusion, song-level reporting, and personal benchmark formulas verified.
 
 [Open the participant listening-evaluation form](https://docs.google.com/forms/d/e/1FAIpQLSfJ6O_C5mjK4NK-ksL4qypP1SVIjpJ0t70tmDYYH1jt4ApYSg/viewform) · [Open the view-only portfolio demo spreadsheet](https://docs.google.com/spreadsheets/d/1NOJMtAY4zNbnHCFAKzup7GrGMY9p2WbLzJXa5yzCznY/edit)
 
@@ -19,16 +19,26 @@ One Google Form submission represents one listening session and can evaluate thr
 - paper-aligned descriptive qualities, confidence, overall observations, musical evidence, technical hypotheses, and possible verification;
 - decimal ratings from 0.0 to 10.0.
 
-The private operational spreadsheet automatically produces the following outputs; the public portfolio demo provides a static example:
+The private operational spreadsheet and synchronized public portfolio demo provide the following outputs:
 
 - session averages for spectral, spatial, dynamics, integrity, and listener-assigned overall quality;
 - a paper-based calculated overall value using spectral, spatial, and dynamics ratings;
 - a supplementary four-attribute composite that also includes integrity;
 - differences between the listener-assigned overall score and both calculated values;
 - one song-level row per excerpt, preserving the ratings and calculated comparisons for each selected song;
-- exclusion of session IDs beginning with `TEST` from real-session dashboard averages.
+- exclusion of session IDs beginning with `TEST` from completed-evaluation counts, real-session dashboard averages, and personal benchmarking;
+- a **Kevin Score** view that preserves raw ratings while expressing each valid session as a within-listener z-score and 0–100 normal-distribution percentile;
+- hidden rolling baselines that compare each valid result only with that listener’s earlier non-test sessions, avoiding an inappropriate multi-listener population assumption.
 
 These calculated values are organizational and reflective tools. They do not independently establish perceptual accuracy or psychometric validity.
+
+## Latest system additions
+
+The current form and spreadsheet now operate as one coordinated three-excerpt workflow rather than a one-excerpt template. The **Instructions** tab mirrors all 38 live form items, including required/optional status, decimal 0.0–10.0 fields, playback and reference information, descriptor checkboxes, and the A/B/C correspondence to Excerpts 1/2/3.
+
+The portfolio demo has also been synchronized with the operational calculation structure. Its **Overall Calculated Results** tab summarizes each submission, **Song Results** separates the selected excerpts and can reveal imported answer-key metadata only after matching by Sample ID, and the **Dashboard** reports real-session totals and averages without allowing test submissions to distort those values. The **Kevin Score** adds both full-history personal standardization and a hidden rolling z-score engine; the score remains a one-listener development indicator, not a Harman score, perceptual-accuracy percentage, or population norm.
+
+The portfolio demo contains demonstration data rather than my ongoing private listening record, and it is not connected as a second response destination for the operational form.
 
 ## Processed-sample answer-key extension
 
