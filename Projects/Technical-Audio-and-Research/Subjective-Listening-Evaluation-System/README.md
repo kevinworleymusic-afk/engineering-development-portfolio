@@ -42,6 +42,10 @@ After a form response is submitted, the **Song Results** tab can match that Samp
 
 The answer key can initially be entered manually. Ultimately, this workflow is planned as an extension mode within the [Technical Listening Trainer](https://github.com/kevinworleymusic-afk/technical-listening-trainer). Once built, the mode would generate randomized daily processed samples, assign matching anonymous Sample IDs and metadata, export the WAV files for playback on headphones, loudspeakers, or in a vehicle, and produce a spreadsheet-compatible answer-key CSV. The daily samples would then feed a recurring weekly subjective-assessment cycle that remains separate from the trainer’s frequency-identification practice.
 
+Development would be phased around capabilities that are actually coded and validated. The first version would use the trainer’s currently implemented or already-decided processing controls—most likely beginning with controlled EQ changes—rather than claiming a broad generator from the outset. As the workflow matures, additional processing modules could be added in response to the particular qualities I want to evaluate more closely, extending beyond EQ toward controlled changes related to dynamics, spatial presentation, integrity or artifacts, and other reproducible sound-quality variables.
+
+The initial method for producing and organizing these altered files still needs to be designed and tested. The preferred long-term implementation is for sample generation, randomization, metadata capture, WAV export, and answer-key export to operate together inside the Listening Trainer, rather than depending on a separate manual file-processing workflow.
+
 Hiding a tab provides practical self-blinding but is not secure blinding for the spreadsheet owner. Stronger future control would retain unrevealed settings inside the app or a separately controlled data store until the corresponding test is complete.
 
 ## Interpretation goals
@@ -66,6 +70,7 @@ The paper describes a mature Harman in-situ vehicle-evaluation workflow using ex
 
 - Complete repeated real sessions before drawing conclusions from trends.
 - Establish personal rating anchors and monitor within-listener repeatability.
-- Build the Listening Trainer extension mode for randomized daily sample generation, anonymous Sample IDs, portable WAV export, answer-key CSV export, and weekly subjective-assessment sessions.
+- Define and validate the initial EQ-based file-generation method, then build the Listening Trainer extension mode for randomized daily samples, anonymous Sample IDs, portable WAV export, answer-key CSV export, and weekly subjective-assessment sessions.
+- Expand beyond EQ only through separately implemented and validated processing modules tied to specific subjective qualities.
 - Add accuracy and confusion analysis only when trials have objectively defined answers.
 - Evaluate headphone, loudspeaker, and eventual in-vehicle results as distinct playback contexts.
