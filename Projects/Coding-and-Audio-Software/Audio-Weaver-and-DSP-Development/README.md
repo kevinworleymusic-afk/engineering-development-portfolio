@@ -81,6 +81,32 @@ Each implemented exercise should include:
 - automotive-audio relevance;
 - limitations and next step.
 
+## Industry Reading and Project-Idea Intake
+
+Industry readings may suggest follow-on exercises, but collecting a source does not mean its technology has been implemented. Candidate work becomes a selected project only after its scope, required data, accessible tools, validation method, and claims boundary are documented.
+
+### Personal Sound Zones: Individualizing In-Cabin Audio
+
+- **Source:** Eric Arntzen, Analog Devices, July 29, 2026
+- **Link:** [Personal Sound Zones: Individualizing In-Cabin Audio](https://www.analog.com/en/signals/articles/next-frontier-of-the-sdv.html)
+- **Status:** Reading; project directions remain candidates
+- **Relevance:** Connects seat-specific audio, real-time spillover reduction, existing cabin and headrest speakers, DSP-resource efficiency, low-latency networking, and software-defined vehicle integration. Because this is an Analog Devices industry article describing ADI technologies and market positioning, its claims are starting points for technical investigation rather than independent validation.
+
+**Questions to investigate**
+
+1. How are sound-zone separation and leakage quantified across frequency and seat position?
+2. How robust is performance to head movement, passenger movement, and changing cabin conditions?
+3. What transfer-function measurements and multichannel control model would be required?
+4. How do latency, processor load, channel count, and network architecture constrain the design?
+5. How should speech intelligibility, music quality, privacy, and interference be evaluated together?
+
+**Candidate exercises**
+
+- **Two-zone simulation:** Model a simplified 2×2 loudspeaker-to-listener transfer matrix in MATLAB or Python and compare target-seat level, leakage, acoustic contrast, and frequency-dependent behavior.
+- **Architecture trade study:** Compare a standard cabin-speaker layout with one augmented by headrest speakers, documenting routing, latency, compute assumptions, isolation, and validation needs.
+- **Subjective PSZ evaluation:** Adapt the existing Subjective Listening Evaluation System to blind-rate isolation, interference, speech intelligibility, and music quality across controlled conditions.
+- **Real-time concept demonstrator:** After simulation, explore a small Pure Data or accessible-DSP prototype with two program sources, controllable leakage, and documented limitations—not a production automotive PSZ implementation.
+
 ## Connection to Vehicle Development
 
 This track is intended to prepare for later in-vehicle work: selecting and installing a car DSP, establishing a calibrated microphone-based measurement setup, capturing repeatable baseline measurements, applying a documented correction strategy, and comparing measurement changes with objective and subjective listening evidence.
