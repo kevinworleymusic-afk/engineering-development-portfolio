@@ -225,7 +225,7 @@ The original Jay Krusac guidance checkpoint was completed early on August 3. No 
 
 **Jim Walter:** Received a response after the earlier Panasonic Automotive introduction and follow-up. This records renewed contact only; no job opportunity, interview, hiring action, mentorship, or commitment is inferred from the response.
 
-**Alek Weidmann:** Reached out for advice about learning electronics and for information about *Practical Electronics for Inventors, Fourth Edition* by Paul Scherz and Simon Monk. The outreach is recorded as a request for guidance; any advice received should be documented separately and attributed only after it is actually provided.
+**Alek Weidmann:** Received Alek Weidmann’s link to [*Practical Electronics for Inventors, Fourth Edition*](https://www.amazon.com/Practical-Electronics-Inventors-Fourth-Scherz/dp/1259587541) by Paul Scherz and Simon Monk. The shared resource and follow-up inquiry are documented without implying that Alek supervised the resulting study plan.
 
 
 Future dates will be populated only after a specific professional-development objective is selected.
