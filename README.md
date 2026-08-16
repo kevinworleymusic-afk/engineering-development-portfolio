@@ -19,7 +19,7 @@ Current work advances two applied directions in parallel: acoustical consulting,
 
 ## Professional Recommendations and Endorsements
 
-Seven completed recommendation and evaluation entries across six professionals include six public letters and one supervisor evaluation. Together they support my technical aptitude, measurement, reporting, immersive-audio experience, studio professionalism, reliability, musicianship, and teaching.
+Eight recommendation, evaluation, and confirmed-reference entries across seven professionals include six public letters, one supervisor evaluation, and Dr. Doyuen Ko’s role-specific private reference availability. Together they support my technical aptitude, measurement, reporting, immersive-audio experience, studio professionalism, reliability, musicianship, and teaching.
 
 [Browse recommendation and reference evidence](Professional-Evidence/Recommendations-and-Endorsements/).
 
