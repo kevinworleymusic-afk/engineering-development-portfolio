@@ -26,7 +26,7 @@ Current work advances two applied directions in parallel: acoustical consulting,
 
 ## Professional Recommendations and Endorsements
 
-Eight recommendation, evaluation, and confirmed-reference entries across seven professionals include six public letters, one supervisor evaluation, and Dr. Doyuen Ko’s role-specific private reference availability. Together they support my technical aptitude, measurement, reporting, immersive-audio experience, studio professionalism, reliability, musicianship, and teaching.
+Eight entries across seven professionals include six public letters, one supervisor evaluation, and Dr. Doyuen Ko’s role-specific private reference availability. They support my technical aptitude, measurement, reporting, immersive-audio experience, studio professionalism, musicianship, and teaching.
 
 [Browse recommendation and reference evidence](Professional-Evidence/Recommendations-and-Endorsements/).
 
@@ -64,11 +64,11 @@ My Kennesaw State preparation combines musicianship, ensemble experience, teachi
 
 ## Critical Listening and Immersive Experience
 
-My objective listening practice includes a [SoundGym](https://www.soundgym.co/member/profile?m=byy1s26wj7u) record of 9,491 activities, a 3,410,130 SPI, and the Diamond Ears Award. Continued objective identification and matching practice through [James Corey training](https://github.com/kevinworleymusic-afk/technical-ear-training) includes at least 3,491 logged trials, 87% across 1,000 +3 dB one-third-octave pink-noise trials, music-transfer blocks, and documented task limitations.
+My objective listening record includes [SoundGym](https://www.soundgym.co/member/profile?m=byy1s26wj7u) (9,491 activities, 3,410,130 SPI, and Diamond Ears) and at least 3,491 logged [James Corey trials](https://github.com/kevinworleymusic-afk/technical-ear-training), including 87% across 1,000 +3 dB one-third-octave pink-noise trials, music-transfer blocks, and documented limitations.
 
-Separate from that objective practice, the [Subjective Listening Evaluation System](Projects/Technical-Audio-and-Research/Subjective-Listening-Evaluation-System/README.md) records three excerpts per session through paper-informed attribute ratings and descriptors, then summarizes results by session and song. Its spreadsheet excludes test rows, supports hidden answer-key comparisons, and maintains raw, rolling-z, and 0–100 Kevin Score views for one-listener longitudinal tracking. Randomized sample generation inside the Listening Trainer remains a planned extension.
+The separate [Subjective Listening Evaluation System](Projects/Technical-Audio-and-Research/Subjective-Listening-Evaluation-System/README.md) supports three-excerpt, paper-informed assessments and one-listener longitudinal analysis; randomized Listening Trainer sample generation remains planned.
 
-I have also designed and administered a controlled [frequency-change identification study](Projects/Technical-Audio-and-Research/Loudspeaker-vs-Headphone-Frequency-Boost-Identification/README.md) and participated as a listener—not author—in three published AES studies, providing experience with stimulus preparation, controlled instructions, trial administration, response logging, and interpretation limits.
+I also designed and administered a controlled [frequency-change identification study](Projects/Technical-Audio-and-Research/Loudspeaker-vs-Headphone-Frequency-Boost-Identification/README.md) and participated as a listener—not author—in three published AES studies, gaining experience with controlled instructions, response logging, and interpretation limits.
 
 Additional experience includes instruction from [Ed Seay](https://aes.digitellinc.com/b/sp/ed-seay-3855).
 
@@ -84,9 +84,8 @@ Two leading applications are acoustical consulting—especially architectural/ro
 
 ### Active and future development
 
-- **Subjective-listening integration:** Extend the current Forms/Sheets procedure into a Listening Trainer mode that exports randomized daily stimuli and matching hidden answer-key metadata, initially for EQ and later for other controlled alterations.
-- **DSP and automotive systems development:** Begin from the [Audio Weaver/DSP development directory](Projects/Coding-and-Audio-Software/Audio-Weaver-and-DSP-Development/README.md), which links the official introductory tutorials and defines the review record, initial exercise candidates, validation expectations, and claims boundary.
-- **Vehicle DSP and measurement preparation:** Determine a suitable DSP purchase/installation path and a calibrated microphone-based setup for capturing my own repeatable in-vehicle measurements before beginning measurement-guided tuning work.
-- **Electronics development:** Begin from the [Practical Electronics book-study guide](Projects/Coding-and-Audio-Software/Audio-Electronics-Fundamentals-Workbook/BOOK-STUDY-START.md), then document selected concepts and exercises in the [Audio Electronics Fundamentals Workbook](Projects/Coding-and-Audio-Software/Audio-Electronics-Fundamentals-Workbook/README.md); simulation and hardware validation remain future stages.
-- [Generator/barrier analysis](Projects/Technical-Audio-and-Research/Generator-to-Residence-Barrier-Noise-Analysis/README.md) — framework/workbook complete; final acoustic data, validation, and conclusions pending
-- [Automotive implementation roadmap](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/Future-Projects/02_Automotive_Audio_Implementation_Roadmap.md) — planned work, not completed evidence
+- **Subjective-listening integration:** Add randomized daily stimuli and hidden answer-key export to the Listening Trainer, beginning with EQ and later other controlled alterations.
+- **DSP development:** Follow the [Audio Weaver/DSP pathway](Projects/Coding-and-Audio-Software/Audio-Weaver-and-DSP-Development/README.md) for tutorial review, applied exercises, validation, and clear claims boundaries.
+- **Vehicle preparation:** Select a DSP installation path and calibrated-microphone setup before measurement-guided in-vehicle tuning.
+- **Electronics development:** Use the [book-study guide](Projects/Coding-and-Audio-Software/Audio-Electronics-Fundamentals-Workbook/BOOK-STUDY-START.md) and document selected work in the [electronics workbook](Projects/Coding-and-Audio-Software/Audio-Electronics-Fundamentals-Workbook/README.md); simulation and hardware validation remain future stages.
+- **Acoustical consulting:** Complete the pending data, validation, and conclusions for the [generator/barrier analysis](Projects/Technical-Audio-and-Research/Generator-to-Residence-Barrier-Noise-Analysis/README.md).
