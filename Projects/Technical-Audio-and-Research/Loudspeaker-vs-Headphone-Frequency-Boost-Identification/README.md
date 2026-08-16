@@ -1,6 +1,6 @@
 # Loudspeaker vs. Headphone Frequency-Change Identification Study
 
-A completed graduate listening-test project examining whether monitoring through studio loudspeakers or headphones affects listeners’ ability to identify frequency-response changes.
+A completed graduate **objective listening-test** project examining whether monitoring through studio loudspeakers or headphones affects listeners’ ability to identify frequency-response changes with defined correct answers.
 
 ## Publication Status
 
@@ -15,7 +15,7 @@ The work progressed through two related stages:
 
 The earlier paper retains future-tense statistical language because it documents the design stage. It should not be used to imply that the later experiment and analysis were unfinished.
 
-## Completed Experiment
+## Completed Objective Identification Experiment
 
 The completed study used:
 
