@@ -107,6 +107,26 @@ Industry readings may suggest follow-on exercises, but collecting a source does 
 - **Subjective PSZ evaluation:** Adapt the existing Subjective Listening Evaluation System to blind-rate isolation, interference, speech intelligibility, and music quality across controlled conditions.
 - **Real-time concept demonstrator:** After simulation, explore a small Pure Data or accessible-DSP prototype with two program sources, controllable leakage, and documented limitations—not a production automotive PSZ implementation.
 
+## Preliminary Personal-Sound-Zone Development Path
+
+**Status:** Initial idea capture only. I will refine the scope after reading the article directly and deciding which questions are most useful and feasible.
+
+A manageable sequence could be:
+
+1. **Article review and system map:** Summarize the problem, identify the signal paths and production constraints, and separate technical information from product-positioning claims.
+2. **Two-speaker/two-listener simulation:** Create a simplified MATLAB or Python transfer-matrix model and compare unprocessed routing with basic delay, gain, filtering, or least-squares control.
+3. **Objective evaluation:** Measure desired-program level, unwanted leakage, acoustic contrast, frequency dependence, and sensitivity to listener-position or transfer-function changes.
+4. **Audible demonstration:** Export before-and-after examples for both simulated listening positions so measured separation can be compared with perceived separation.
+5. **Subjective evaluation connection:** Adapt the existing listening-evaluation workflow to blind-rate leakage, interference, speech intelligibility, music quality, spatial stability, and overall effectiveness.
+6. **Architecture comparison:** Compare standard cabin speakers, added headrest speakers, and near-seat approaches in terms of channel count, routing, latency, processing, isolation, installation, and validation requirements.
+7. **Later physical experiment:** If suitable speakers, interface channels, and measurement microphones become available, measure a small two-position system and compare physical results with the simulation.
+
+A possible central project question is:
+
+> How closely do objective sound-zone separation measurements predict perceived isolation, intelligibility, and sound quality as processing and listener position change?
+
+This direction could connect DSP, acoustical measurement, automotive architecture, critical listening, subjective evaluation, and technical reporting. It would remain a simplified concept study unless and until it is validated in a representative vehicle environment.
+
 ## Connection to Vehicle Development
 
 This track is intended to prepare for later in-vehicle work: selecting and installing a car DSP, establishing a calibrated microphone-based measurement setup, capturing repeatable baseline measurements, applying a documented correction strategy, and comparing measurement changes with objective and subjective listening evidence.
