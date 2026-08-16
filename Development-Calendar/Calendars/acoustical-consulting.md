@@ -20,13 +20,71 @@ Exact dates are used for confirmed events. Repository and document additions use
 
 ## July 2026
 
-| **Mon** | **Tue** | **Wed** | **Thu** | **Fri** | **Sat** | **Sun** |
-|---|---|---|---|---|---|---|
-| — | — | **1** | **2** | **3** | **4** | **5** |
-| **6** | **7** | **8** | **9** | **10** | **11** | **12** |
-| **13** | [**14**](#confirmed-events-and-networking-context)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Contacted consultant | [**15**](#confirmed-events-and-networking-context)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Outreach/research period | [**16**](#confirmed-events-and-networking-context)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Outreach/research period | [**17**](#confirmed-events-and-networking-context)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Outreach/research period | [**18**](#confirmed-events-and-networking-context)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Outreach/research period | [**19**](#confirmed-events-and-networking-context)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Outreach/research period |
-| [**20**](#confirmed-events-and-networking-context)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Scheduled Coffman call | [**21**](#confirmed-events-and-networking-context)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Prepared call | [**22**](#confirmed-events-and-networking-context)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Prepared call | [**23**](#confirmed-events-and-networking-context)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Prepared call | [**24**](#confirmed-events-and-networking-context)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Completed Coffman call | **25** | **26** |
-| **27** | **28** | **29** | **30** | [**31**](#networking-and-consulting-development-areas)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Tyrone request sent<br>✓ Lechner agreed; PDF pending<br>✓ EE, acoustics + evidence outreach | — | — |
+> **Calendar view:** Open the full-month overview for a concise scan, or expand only the week you want to inspect. Dates without category-specific activity are intentionally omitted from the detailed weekly tables.
+
+<details open>
+<summary><strong>Full July overview</strong></summary>
+
+| Period | Category activity |
+|---|---|
+| **July 1–5** | No category-specific entry recorded. |
+| **July 6–12** | No category-specific entry recorded. |
+| **July 13–19** | ✓ Contacted consultant; ✓ Outreach/research period; ✓ Outreach/research period; ✓ Outreach/research period; ✓ Outreach/research period; ✓ Outreach/research period |
+| **July 20–26** | ✓ Scheduled Coffman call; ✓ Prepared call; ✓ Prepared call; ✓ Prepared call; ✓ Completed Coffman call |
+| **July 27–31** | ✓ Tyrone request sent; ✓ Lechner agreed; PDF pending; ✓ EE, acoustics + evidence outreach |
+
+</details>
+
+<details>
+<summary><strong>July 1–5</strong> — no category-specific entry</summary>
+
+No category-specific activity is assigned to this week in this mini calendar.
+
+</details>
+
+<details>
+<summary><strong>July 6–12</strong> — no category-specific entry</summary>
+
+No category-specific activity is assigned to this week in this mini calendar.
+
+</details>
+
+<details>
+<summary><strong>July 13–19</strong> — 6 recorded dates</summary>
+
+| Date | Detailed category record |
+|---|---|
+| **July 14** | [🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Contacted consultant |
+| **July 15** | [🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Outreach/research period |
+| **July 16** | [🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Outreach/research period |
+| **July 17** | [🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Outreach/research period |
+| **July 18** | [🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Outreach/research period |
+| **July 19** | [🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Outreach/research period |
+
+</details>
+
+<details>
+<summary><strong>July 20–26</strong> — 5 recorded dates</summary>
+
+| Date | Detailed category record |
+|---|---|
+| **July 20** | [🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Scheduled Coffman call |
+| **July 21** | [🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Prepared call |
+| **July 22** | [🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Prepared call |
+| **July 23** | [🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Prepared call |
+| **July 24** | [🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Completed Coffman call |
+
+</details>
+
+<details>
+<summary><strong>July 27–31</strong> — 1 recorded date</summary>
+
+| Date | Detailed category record |
+|---|---|
+| **July 31** | [🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Tyrone request sent<br>✓ Lechner agreed; PDF pending<br>✓ EE, acoustics + evidence outreach |
+
+</details>
+
 
 ### Month Objective
 
@@ -54,14 +112,74 @@ Future entries can document professional outreach, informational conversations, 
 
 ## August 2026
 
-| **Mon** | **Tue** | **Wed** | **Thu** | **Fri** | **Sat** | **Sun** |
-|---|---|---|---|---|---|---|
-| — | — | — | — | — | [**1**](#august-1-generator-barrier-project-plan)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Published consulting-employer dashboard<br><br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Built initial generator/barrier workbook | [**2**](#august-2-targeted-networking-plan)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>◇ Send remaining requests by Aug. 3 AM |
-| [**3**](#august-3-jay-response-and-panasonic-introduction)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Local Panasonic contact + DSP guidance | [**4**](#august-4-panasonic-and-reference-follow-up)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Texted Jim; reply pending<br><br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Reference/file follow-ups | [**5**](#august-5-information-and-contact-check-ins)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Lechner letter received + published<br>✓ DSP-knowledge questions sent<br>✓ Jim reaction added; reply pending<br>✓ Resent Seay request<br>✓ Sent Janas tape-class request | **6** | **7** | **8** | **9** |
-| **10** | **11** | [**12**](#august-12-follow-up-status)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Checkpoint completed early Aug. 3 | **13** | **14** | [**15**](#august-15-professional-follow-up)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Jim Walter response received<br>✓ Alek Weidmann electronics inquiry | **16** |
-| **17** | **18** | **19** | **20** | **21** | **22** | **23** |
-| **24** | **25** | **26** | **27** | **28** | **29** | **30** |
-| **31** | — | — | — | — | — | — |
+> **Calendar view:** Open the full-month overview for a concise scan, or expand only the week you want to inspect. Dates without category-specific activity are intentionally omitted from the detailed weekly tables.
+
+<details open>
+<summary><strong>Full August overview</strong></summary>
+
+| Period | Category activity |
+|---|---|
+| **August 1–2** | ✓ Published consulting-employer dashboard; ; ✓ Built initial generator/barrier workbook; ◇ Send remaining requests by Aug. 3 AM |
+| **August 3–9** | ✓ Local Panasonic contact + DSP guidance; ✓ Texted Jim; reply pending; ; ✓ Reference/file follow-ups; ✓ Lechner letter received + published; ✓ DSP-knowledge questions sent; ✓ Jim reaction added; reply pending; ✓ Resent Seay request; ✓ Se… |
+| **August 10–16** | ✓ Checkpoint completed early Aug. 3; ✓ Jim Walter response received; ✓ Alek Weidmann electronics inquiry |
+| **August 17–23** | No category-specific entry recorded. |
+| **August 24–30** | No category-specific entry recorded. |
+| **August 31** | No category-specific entry recorded. |
+
+</details>
+
+<details>
+<summary><strong>August 1–2</strong> — 2 recorded dates</summary>
+
+| Date | Detailed category record |
+|---|---|
+| **August 1** | [🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Published consulting-employer dashboard<br><br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Built initial generator/barrier workbook |
+| **August 2** | [🟨 **NET**](../Areas/acoustical-consulting.md)<br>◇ Send remaining requests by Aug. 3 AM |
+
+</details>
+
+<details>
+<summary><strong>August 3–9</strong> — 3 recorded dates</summary>
+
+| Date | Detailed category record |
+|---|---|
+| **August 3** | [🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Local Panasonic contact + DSP guidance |
+| **August 4** | [🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Texted Jim; reply pending<br><br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Reference/file follow-ups |
+| **August 5** | [🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Lechner letter received + published<br>✓ DSP-knowledge questions sent<br>✓ Jim reaction added; reply pending<br>✓ Resent Seay request<br>✓ Sent Janas tape-class request |
+
+</details>
+
+<details>
+<summary><strong>August 10–16</strong> — 2 recorded dates</summary>
+
+| Date | Detailed category record |
+|---|---|
+| **August 12** | [🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Checkpoint completed early Aug. 3 |
+| **August 15** | [🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Jim Walter response received<br>✓ Alek Weidmann electronics inquiry |
+
+</details>
+
+<details>
+<summary><strong>August 17–23</strong> — no category-specific entry</summary>
+
+No category-specific activity is assigned to this week in this mini calendar.
+
+</details>
+
+<details>
+<summary><strong>August 24–30</strong> — no category-specific entry</summary>
+
+No category-specific activity is assigned to this week in this mini calendar.
+
+</details>
+
+<details>
+<summary><strong>August 31</strong> — no category-specific entry</summary>
+
+No category-specific activity is assigned to this week in this mini calendar.
+
+</details>
+
 
 ### August 1 Generator-Barrier Project Start
 
