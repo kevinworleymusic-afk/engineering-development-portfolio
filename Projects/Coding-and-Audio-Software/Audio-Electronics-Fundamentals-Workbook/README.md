@@ -63,7 +63,7 @@ Version 1 is a calculation and visualization project. It does not demonstrate ph
 
 The project extends Kevin's introductory studio-electronics and equipment-service background into a documented, auditable digital exercise. It supports continued development in audio electronics, signal flow, DSP hardware, measurement, troubleshooting, and automotive-audio system integration without claiming electrical-engineering proficiency beyond the completed evidence.
 
-Alek Weidman subsequently recommended and linked [*Practical Electronics for Inventors*, Fourth Edition](https://www.oreilly.com/library/view/practical-electronics-for/9781259587542/) by Paul Scherz and Simon Monk. I plan to extend my electronics foundations selectively through concepts and exercises from this book, but the exact chapters, exercises, sequence, and resulting portfolio evidence are still to be decided. The existing Version 1 workbook plan was independently scoped before that recommendation and should remain identified as such unless it is deliberately revised around specific book material.
+Alek Weidman subsequently recommended and linked [*Practical Electronics for Inventors*, Fourth Edition](https://www.amazon.com/Practical-Electronics-Inventors-Fourth-Scherz/dp/1259587541) by Paul Scherz and Simon Monk. I plan to extend my electronics foundations selectively through concepts and exercises from this book, but the exact chapters, exercises, sequence, and resulting portfolio evidence are still to be decided. The existing Version 1 workbook plan was independently scoped before that recommendation and should remain identified as such unless it is deliberately revised around specific book material.
 
 ## Possible Later Modules
 
