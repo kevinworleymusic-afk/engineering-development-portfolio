@@ -13,13 +13,67 @@ Repository and document additions use the date of the first relevant GitHub comm
 
 ## July 2026
 
-| **Monday** | **Tuesday** | **Wednesday** | **Thursday** | **Friday** | **Saturday** | **Sunday** |
-|---|---|---|---|---|---|---|
-| — | — | **1** | **2** | **3** | **4** | **5** |
-| **6** | **7** | **8** | **9** | **10** | **11** | **12** |
-| **13** | **14** | **15** | **16** | **17** | **18** | **19** |
-| **20** | **21** | **22** | [**23**](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/commit/036d8aed284d3a596204a251da3092b488ceb3a5)<br>[🟧 **AUTO/TECH**](../Areas/automotive-audio.md)<br>✓ Created capture/repro structure | [**24**](#expert-input-and-strategy-phase)<br>[🟧 **AUTO/TECH**](../Areas/automotive-audio.md)<br>✓ Synthesized expert guidance | [**25**](#expert-input-and-strategy-phase)<br>[🟧 **AUTO/TECH**](../Areas/automotive-audio.md)<br>✓ Defined Tier-1/OEM direction | [**26**](#expert-input-and-strategy-phase)<br>[🟧 **AUTO/TECH**](../Areas/automotive-audio.md)<br>✓ Outlined portfolio options |
-| [**27**](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/commit/faba9469a08200403de47a7818a072b9419f65bc)<br>[🟧 **AUTO/TECH**](../Areas/automotive-audio.md)<br>✓ Published auto roadmap | [**28**](#expert-input-and-strategy-phase)<br>[🟧 **AUTO/TECH**](../Areas/automotive-audio.md)<br>✓ Prioritized feasible projects | [**29**](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/commit/6ed1a62b3864a7a5aab3467c6ef573bb868de3a9)<br>[🟧 **AUTO/TECH**](../Areas/automotive-audio.md)<br>✓ Organized roadmap + DSP plans | [**30**](../README.md)<br>[🟧 **AUTO/TECH**](../Areas/automotive-audio.md)<br>✓ Linked auto work to calendar | [**31**](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/tree/main/docs/Future-Projects)<br>[🟧 **AUTO/TECH**](../Areas/automotive-audio.md)<br>✓ Selected auto-support EE study | — | — |
+> **Calendar view:** Open the full-month overview for a concise scan, or expand only the week you want to inspect. Dates without category-specific activity are intentionally omitted from the detailed weekly tables.
+
+<details open>
+<summary><strong>Full July overview</strong></summary>
+
+| Period | Category activity |
+|---|---|
+| **July 1–5** | No category-specific entry recorded. |
+| **July 6–12** | No category-specific entry recorded. |
+| **July 13–19** | No category-specific entry recorded. |
+| **July 20–26** | ✓ Created capture/repro structure; ✓ Synthesized expert guidance; ✓ Defined Tier-1/OEM direction; ✓ Outlined portfolio options |
+| **July 27–31** | ✓ Published auto roadmap; ✓ Prioritized feasible projects; ✓ Organized roadmap + DSP plans; ✓ Linked auto work to calendar; ✓ Selected auto-support EE study |
+
+</details>
+
+<details>
+<summary><strong>July 1–5</strong> — no category-specific entry</summary>
+
+No category-specific activity is assigned to this week in this mini calendar.
+
+</details>
+
+<details>
+<summary><strong>July 6–12</strong> — no category-specific entry</summary>
+
+No category-specific activity is assigned to this week in this mini calendar.
+
+</details>
+
+<details>
+<summary><strong>July 13–19</strong> — no category-specific entry</summary>
+
+No category-specific activity is assigned to this week in this mini calendar.
+
+</details>
+
+<details>
+<summary><strong>July 20–26</strong> — 4 recorded dates</summary>
+
+| Date | Detailed category record |
+|---|---|
+| **July 23** | [🟧 **AUTO/TECH**](../Areas/automotive-audio.md)<br>✓ Created capture/repro structure |
+| **July 24** | [🟧 **AUTO/TECH**](../Areas/automotive-audio.md)<br>✓ Synthesized expert guidance |
+| **July 25** | [🟧 **AUTO/TECH**](../Areas/automotive-audio.md)<br>✓ Defined Tier-1/OEM direction |
+| **July 26** | [🟧 **AUTO/TECH**](../Areas/automotive-audio.md)<br>✓ Outlined portfolio options |
+
+</details>
+
+<details>
+<summary><strong>July 27–31</strong> — 5 recorded dates</summary>
+
+| Date | Detailed category record |
+|---|---|
+| **July 27** | [🟧 **AUTO/TECH**](../Areas/automotive-audio.md)<br>✓ Published auto roadmap |
+| **July 28** | [🟧 **AUTO/TECH**](../Areas/automotive-audio.md)<br>✓ Prioritized feasible projects |
+| **July 29** | [🟧 **AUTO/TECH**](../Areas/automotive-audio.md)<br>✓ Organized roadmap + DSP plans |
+| **July 30** | [🟧 **AUTO/TECH**](../Areas/automotive-audio.md)<br>✓ Linked auto work to calendar |
+| **July 31** | [🟧 **AUTO/TECH**](../Areas/automotive-audio.md)<br>✓ Selected auto-support EE study |
+
+</details>
+
 
 ### July Progression
 
@@ -33,14 +87,74 @@ Electrical/electronics study appears in this calendar when it is intentionally s
 
 ## August 2026
 
-| **Monday** | **Tuesday** | **Wednesday** | **Thursday** | **Friday** | **Saturday** | **Sunday** |
-|---|---|---|---|---|---|---|
-| — | — | — | — | — | [**1**](#august-1-employer-research-plan)<br>[🟧 **AUTO/TECH**](../Areas/automotive-audio.md)<br>✓ Published 91-row employer tracker<br><br>[🟧 **AUTO/TECH**](../Calendars/dsp-and-software.md#august-1-electrical-engineering-study-plan)<br>✓ EE support: path + project setup | [**2**](#august-2-in-car-dsp-research)<br>[🟧 **AUTO/TECH**](../Areas/automotive-audio.md)<br>✓ Researched in-car DSP options |
-| [**3**](#august-3-panasonic-introduction-and-dsp-guidance)<br>[🟧 **AUTO/TECH**](../Areas/automotive-audio.md)<br>✓ Local Panasonic contact + DSP routes | [**4**](#august-4-panasonic-outreach)<br>[🟧 **AUTO/TECH**](../Areas/automotive-audio.md)<br>✓ Initial text; reply pending | [**5**](#august-5-dsp-contact-questions-and-panasonic-status)<br>[🟧 **AUTO/TECH**](../Areas/automotive-audio.md)<br>✓ Asked contacts about DSP resources<br>✓ Jim message read; reply pending | [**6**](../2026-08.md#august-3-9) | [**7**](../2026-08.md#august-3-9) | [**8**](../2026-08.md#august-3-9) | [**9**](../2026-08.md#august-3-9) |
-| [**10**](../2026-08.md#august-10-16) | [**11**](../2026-08.md#august-10-16) | [**12**](../Calendars/acoustical-consulting.md#august-12-follow-up-status)<br>✓ Jay checkpoint completed early Aug. 3 | [**13**](../2026-08.md#august-10-16) | [**14**](../2026-08.md#august-10-16) | [**15**](#august-15-response-and-purchase-priority-planning)<br>[🟧 **AUTO/TECH**](../Areas/automotive-audio.md)<br>✓ Jim Walter response received<br>✓ Began purchase-priority advice plan | [**16**](../2026-08.md#august-10-16) |
-| [**17**](../2026-08.md#august-17-23) | [**18**](../2026-08.md#august-17-23) | [**19**](../2026-08.md#august-17-23) | [**20**](../2026-08.md#august-17-23) | [**21**](../2026-08.md#august-17-23) | [**22**](../2026-08.md#august-17-23) | [**23**](../2026-08.md#august-17-23) |
-| [**24**](../2026-08.md#august-24-30) | [**25**](../2026-08.md#august-24-30) | [**26**](../2026-08.md#august-24-30) | [**27**](../2026-08.md#august-24-30) | [**28**](../2026-08.md#august-24-30) | [**29**](../2026-08.md#august-24-30) | [**30**](../2026-08.md#august-24-30) |
-| [**31**](../2026-08.md#august-31) | — | — | — | — | — | — |
+> **Calendar view:** Open the full-month overview for a concise scan, or expand only the week you want to inspect. Dates without category-specific activity are intentionally omitted from the detailed weekly tables.
+
+<details open>
+<summary><strong>Full August overview</strong></summary>
+
+| Period | Category activity |
+|---|---|
+| **August 1–2** | ✓ Published 91-row employer tracker; ; ✓ EE support: path + project setup; ✓ Researched in-car DSP options |
+| **August 3–9** | ✓ Local Panasonic contact + DSP routes; ✓ Initial text; reply pending; ✓ Asked contacts about DSP resources; ✓ Jim message read; reply pending |
+| **August 10–16** | ✓ Jay checkpoint completed early Aug. 3; ✓ Jim Walter response received; ✓ Began purchase-priority advice plan |
+| **August 17–23** | No category-specific entry recorded. |
+| **August 24–30** | No category-specific entry recorded. |
+| **August 31** | No category-specific entry recorded. |
+
+</details>
+
+<details>
+<summary><strong>August 1–2</strong> — 2 recorded dates</summary>
+
+| Date | Detailed category record |
+|---|---|
+| **August 1** | [🟧 **AUTO/TECH**](../Areas/automotive-audio.md)<br>✓ Published 91-row employer tracker<br><br>[🟧 **AUTO/TECH**](../Calendars/dsp-and-software.md#august-1-electrical-engineering-study-plan)<br>✓ EE support: path + project setup |
+| **August 2** | [🟧 **AUTO/TECH**](../Areas/automotive-audio.md)<br>✓ Researched in-car DSP options |
+
+</details>
+
+<details>
+<summary><strong>August 3–9</strong> — 3 recorded dates</summary>
+
+| Date | Detailed category record |
+|---|---|
+| **August 3** | [🟧 **AUTO/TECH**](../Areas/automotive-audio.md)<br>✓ Local Panasonic contact + DSP routes |
+| **August 4** | [🟧 **AUTO/TECH**](../Areas/automotive-audio.md)<br>✓ Initial text; reply pending |
+| **August 5** | [🟧 **AUTO/TECH**](../Areas/automotive-audio.md)<br>✓ Asked contacts about DSP resources<br>✓ Jim message read; reply pending |
+
+</details>
+
+<details>
+<summary><strong>August 10–16</strong> — 2 recorded dates</summary>
+
+| Date | Detailed category record |
+|---|---|
+| **August 12** | ✓ Jay checkpoint completed early Aug. 3 |
+| **August 15** | [🟧 **AUTO/TECH**](../Areas/automotive-audio.md)<br>✓ Jim Walter response received<br>✓ Began purchase-priority advice plan |
+
+</details>
+
+<details>
+<summary><strong>August 17–23</strong> — no category-specific entry</summary>
+
+No category-specific activity is assigned to this week in this mini calendar.
+
+</details>
+
+<details>
+<summary><strong>August 24–30</strong> — no category-specific entry</summary>
+
+No category-specific activity is assigned to this week in this mini calendar.
+
+</details>
+
+<details>
+<summary><strong>August 31</strong> — no category-specific entry</summary>
+
+No category-specific activity is assigned to this week in this mini calendar.
+
+</details>
+
 
 ### August 1 Employer Research Plan
 
