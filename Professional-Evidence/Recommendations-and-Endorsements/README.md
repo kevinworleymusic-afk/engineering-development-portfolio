@@ -2,7 +2,7 @@
 
 **Recommendations and supervisor evaluations from technical audio, professional studio, academic, music education, and performance settings, providing perspectives on work ethic, reliability, technical aptitude, professionalism, teamwork, and communication.**
 
-Technical-audio evidence is presented first for relevance to the portfolio's current direction, followed by recommendations from other professional and academic settings. Together, these materials provide perspectives from multiple instructors and supervisors across different stages and environments. Unfinished outreach and private contact tracking are not displayed.
+Technical-audio evidence is presented first for relevance to the portfolio's current direction, followed by recommendations from other professional and academic settings. Together, these materials provide perspectives from multiple instructors and supervisors across different stages and environments. Confirmed role-specific reference availability is distinguished from completed public recommendations; unfinished outreach and private contact tracking are not displayed.
 
 ## Technical Audio Evidence
 
@@ -14,6 +14,12 @@ Technical-audio evidence is presented first for relevance to the portfolio's cur
 
 - [Torey Harding — Starstruck Studios internship evaluation, Fall 2023](03-studio-engineering-and-production/Torey-Harding-Starstruck-Internship-Evaluation-Fall-2023-Public.pdf) — This direct internship-supervisor evaluation documents 150 completed hours at Starstruck Studios with zero tardy, late, or absent days and an **Outstanding** overall rating. Harding's evaluation supports professional reliability as well as initiative, active questioning, hands-on learning, teamwork, and the ability to function productively in a professional studio environment. The evaluation concludes that Kevin would be an asset to a future studio, providing workplace-based evidence that complements the academic and technical recommendations elsewhere in this collection.
 
+
+### Confirmed Role-Specific Technical Reference Availability
+
+**Dr. Doyuen Ko — Professor of Audio Engineering Technology, Belmont University:** Dr. Ko has indicated that he does not provide blanket portfolio letters, but is open to considering a recommendation for a specific position when the role aligns with work he directly supervised and the recommendation can be shared directly with the employer. Relevant areas may include immersive recording; Atmos-room operation; multichannel routing, monitoring, and session preparation; critical listening and listening-test methodology; Audio Precision measurement; research; and technical reporting.
+
+This is confirmed reference availability for an aligned role, not a publicly available general endorsement or a pending PDF. Any recommendation would require Dr. Ko’s agreement for the particular position and would be shared privately and directly with the employer. The same boundary is recorded in the relevant [Immersive Audio and Critical Listening](04-immersive-audio-and-critical-listening/) and [Measurement and Technical Validation](05-measurement-and-technical-validation/) folders.
 
 ## Broader Professional and Academic Endorsements
 
@@ -27,7 +33,7 @@ Technical-audio evidence is presented first for relevance to the portfolio's cur
 
 ## Evidence Summary
 
-Jon Lechner provides technically relevant evidence from audio-engineering education and immersive-audio work; Torey Harding provides direct workplace evidence from a professional studio; and Dr. Charles R. Jackson, Dr. Alison Mann, Kathy Ratcliffe, and Sam Skelton provide perspectives from education, performance, leadership, and professional development.
+Jon Lechner provides technically relevant evidence from audio-engineering education and immersive-audio work; Torey Harding provides direct workplace evidence from a professional studio; Dr. Doyuen Ko provides confirmed position-specific technical reference availability for work he directly supervised; and Dr. Charles R. Jackson, Dr. Alison Mann, Kathy Ratcliffe, and Sam Skelton provide perspectives from education, performance, leadership, and professional development.
 
 Additional technical-audio recommendations or supervisor evidence can be added to the appropriate category as they are received.
 
