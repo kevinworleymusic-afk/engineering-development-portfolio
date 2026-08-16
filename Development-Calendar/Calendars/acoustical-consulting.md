@@ -58,7 +58,7 @@ Future entries can document professional outreach, informational conversations, 
 |---|---|---|---|---|---|---|
 | — | — | — | — | — | [**1**](#august-1-generator-barrier-project-plan)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Published consulting-employer dashboard<br><br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Built initial generator/barrier workbook | [**2**](#august-2-targeted-networking-plan)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>◇ Send remaining requests by Aug. 3 AM |
 | [**3**](#august-3-jay-response-and-panasonic-introduction)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Local Panasonic contact + DSP guidance | [**4**](#august-4-panasonic-and-reference-follow-up)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Texted Jim; reply pending<br><br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Reference/file follow-ups | [**5**](#august-5-information-and-contact-check-ins)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Lechner letter received + published<br>✓ DSP-knowledge questions sent<br>✓ Jim reaction added; reply pending<br>✓ Resent Seay request<br>✓ Sent Janas tape-class request | **6** | **7** | **8** | **9** |
-| **10** | **11** | [**12**](#august-12-follow-up-status)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Checkpoint completed early Aug. 3 | **13** | **14** | **15** | **16** |
+| **10** | **11** | [**12**](#august-12-follow-up-status)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Checkpoint completed early Aug. 3 | **13** | **14** | [**15**](#august-15-professional-follow-up)<br>[🟨 **NET**](../Areas/acoustical-consulting.md)<br>✓ Jim Walter response received<br>✓ Alek Weidmann electronics inquiry | **16** |
 | **17** | **18** | **19** | **20** | **21** | **22** | **23** |
 | **24** | **25** | **26** | **27** | **28** | **29** | **30** |
 | **31** | — | — | — | — | — | — |
@@ -102,5 +102,12 @@ Kevin resent the recommendation-request email to Ed Seay and sent Dr. Michael Ja
 ### August 12 Follow-Up Status
 
 The original Jay Krusac guidance checkpoint was completed early on August 3. No duplicate August 12 outreach is required. Any later contact should be driven by a response, a substantive progress update, or a new focused question.
+
+### August 15 Professional Follow-Up
+
+**Jim Walter:** Received a response after the earlier Panasonic Automotive introduction and follow-up. This records renewed contact only; no job opportunity, interview, hiring action, mentorship, or commitment is inferred from the response.
+
+**Alek Weidmann:** Reached out for advice about learning electronics and for information about *Practical Electronics for Inventors, Fourth Edition* by Paul Scherz and Simon Monk. The outreach is recorded as a request for guidance; any advice received should be documented separately and attributed only after it is actually provided.
+
 
 Future dates will be populated only after a specific professional-development objective is selected.
