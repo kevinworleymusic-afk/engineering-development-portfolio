@@ -37,7 +37,7 @@ Electrical/electronics study appears in this calendar when it is intentionally s
 |---|---|---|---|---|---|---|
 | — | — | — | — | — | [**1**](#august-1-employer-research-plan)<br>[🟧 **AUTO/TECH**](../Areas/automotive-audio.md)<br>✓ Published 91-row employer tracker<br><br>[🟧 **AUTO/TECH**](../Calendars/dsp-and-software.md#august-1-electrical-engineering-study-plan)<br>✓ EE support: path + project setup | [**2**](#august-2-in-car-dsp-research)<br>[🟧 **AUTO/TECH**](../Areas/automotive-audio.md)<br>✓ Researched in-car DSP options |
 | [**3**](#august-3-panasonic-introduction-and-dsp-guidance)<br>[🟧 **AUTO/TECH**](../Areas/automotive-audio.md)<br>✓ Local Panasonic contact + DSP routes | [**4**](#august-4-panasonic-outreach)<br>[🟧 **AUTO/TECH**](../Areas/automotive-audio.md)<br>✓ Initial text; reply pending | [**5**](#august-5-dsp-contact-questions-and-panasonic-status)<br>[🟧 **AUTO/TECH**](../Areas/automotive-audio.md)<br>✓ Asked contacts about DSP resources<br>✓ Jim message read; reply pending | [**6**](../2026-08.md#august-3-9) | [**7**](../2026-08.md#august-3-9) | [**8**](../2026-08.md#august-3-9) | [**9**](../2026-08.md#august-3-9) |
-| [**10**](../2026-08.md#august-10-16) | [**11**](../2026-08.md#august-10-16) | [**12**](../Calendars/acoustical-consulting.md#august-12-follow-up-status)<br>✓ Jay checkpoint completed early Aug. 3 | [**13**](../2026-08.md#august-10-16) | [**14**](../2026-08.md#august-10-16) | [**15**](../2026-08.md#august-10-16) | [**16**](../2026-08.md#august-10-16) |
+| [**10**](../2026-08.md#august-10-16) | [**11**](../2026-08.md#august-10-16) | [**12**](../Calendars/acoustical-consulting.md#august-12-follow-up-status)<br>✓ Jay checkpoint completed early Aug. 3 | [**13**](../2026-08.md#august-10-16) | [**14**](../2026-08.md#august-10-16) | [**15**](#august-15-response-and-purchase-priority-planning)<br>[🟧 **AUTO/TECH**](../Areas/automotive-audio.md)<br>✓ Jim Walter response received<br>✓ Began purchase-priority advice plan | [**16**](../2026-08.md#august-10-16) |
 | [**17**](../2026-08.md#august-17-23) | [**18**](../2026-08.md#august-17-23) | [**19**](../2026-08.md#august-17-23) | [**20**](../2026-08.md#august-17-23) | [**21**](../2026-08.md#august-17-23) | [**22**](../2026-08.md#august-17-23) | [**23**](../2026-08.md#august-17-23) |
 | [**24**](../2026-08.md#august-24-30) | [**25**](../2026-08.md#august-24-30) | [**26**](../2026-08.md#august-24-30) | [**27**](../2026-08.md#august-24-30) | [**28**](../2026-08.md#august-24-30) | [**29**](../2026-08.md#august-24-30) | [**30**](../2026-08.md#august-24-30) |
 | [**31**](../2026-08.md#august-31) | — | — | — | — | — | — |
@@ -71,6 +71,12 @@ Later dates will be populated after weekly objectives are selected.
 ### August 5 DSP Contact Questions and Panasonic Status
 
 Kevin asked contacts what familiarity or practical knowledge they have concerning Audio Weaver, miniDSP, TinySine/SigmaStudio, and DSPi after Jay’s August 3 guidance. Responses remain pending. Jim’s August 4 text showed as read; a question-mark reaction was added to the existing message on August 5, but no new text or reply is recorded.
+
+### August 15 Response and Purchase-Priority Planning
+
+Kevin confirmed that the Panasonic Automotive contact introduced by Jay Krusac is **Jim Walter** and received a response from him. This supersedes the earlier identity inference while preserving the same status boundary: the contact does not by itself imply a job opportunity, interview, endorsement, or established mentorship.
+
+Kevin began developing a focused question for Jim—and potentially a later progress-based follow-up with Jay—about which first purchases would provide the strongest professional-development value. Jay had already supplied general direction concerning Audio Weaver access constraints and more accessible miniDSP, TinySine/SigmaStudio, and DSPi routes. The purpose of asking Jim would be to add local hiring-practice and current employer-needs context before spending money. This is question and decision planning only; no new hardware purchase, outreach message on this topic, installation, or implementation is claimed.
 
 ## Expert Input and Automotive Strategy Phase
 
