@@ -53,12 +53,18 @@ Repository and document additions use the date of the first relevant GitHub comm
 |---|---|---|---|---|---|---|
 | — | — | — | — | — | [**1**](../2026-08.md#august-1-2) | [**2**](../2026-08.md#august-1-2) |
 | [**3**](../2026-08.md#august-3-9)<br>[🟩 **PLAN**](../Areas/portfolio-and-planning.md)<br>◇ August/career plan | [**4**](../2026-08.md#august-3-9) | [**5**](../2026-08.md#august-3-9) | [**6**](../2026-08.md#august-3-9) | [**7**](../2026-08.md#august-3-9) | [**8**](../2026-08.md#august-3-9) | [**9**](../2026-08.md#august-3-9) |
-| [**10**](../2026-08.md#august-10-16) | [**11**](../2026-08.md#august-10-16) | [**12**](../2026-08.md#august-10-16) | [**13**](../2026-08.md#august-10-16) | [**14**](../2026-08.md#august-10-16) | [**15**](../2026-08.md#august-10-16) | [**16**](../2026-08.md#august-10-16) |
+| [**10**](../2026-08.md#august-10-16) | [**11**](../2026-08.md#august-10-16) | [**12**](../2026-08.md#august-10-16) | [**13**](../2026-08.md#august-10-16) | [**14**](../2026-08.md#august-10-16) | [**15**](#august-15-subjective-listening-portfolio-integration)<br>[🟩 **PLAN**](../Areas/portfolio-and-planning.md)<br>✓ Published project documentation<br>✓ Separated live system from public demo | [**16**](../2026-08.md#august-10-16) |
 | [**17**](../2026-08.md#august-17-23) | [**18**](../2026-08.md#august-17-23) | [**19**](../2026-08.md#august-17-23) | [**20**](../2026-08.md#august-17-23) | [**21**](../2026-08.md#august-17-23) | [**22**](../2026-08.md#august-17-23) | [**23**](../2026-08.md#august-17-23) |
 | [**24**](../2026-08.md#august-24-30) | [**25**](../2026-08.md#august-24-30) | [**26**](../2026-08.md#august-24-30) | [**27**](../2026-08.md#august-24-30) | [**28**](../2026-08.md#august-24-30) | [**29**](../2026-08.md#august-24-30) | [**30**](../2026-08.md#august-24-30) |
 | [**31**](../2026-08.md#august-31) | — | — | — | — | — | — |
 
 Future PLAN tabs will be populated only after weekly objectives or daily tasks are selected.
+
+### August 15 Subjective-Listening Portfolio Integration
+
+Published the [Subjective Listening Evaluation System](../../Projects/Technical-Audio-and-Research/Subjective-Listening-Evaluation-System/) as a documented Critical Listening portfolio addition. The project page links the participant-facing Google Form and a static public demonstration spreadsheet, explains the paper-informed three-excerpt workflow, distinguishes the system from the frequency-identification trainer, documents session/song-level analysis and the planned anonymous Sample ID/CSV answer-key extension, and states the current limitations without presenting the adaptation as Harman’s full industrial method.
+
+Kept the operational spreadsheet restricted because it will receive real responses and future answer-key data. Created a separate portfolio-demo copy for public view and changed the GitHub links so visitors do not reach the private response system. The master portfolio page was kept concise by using a short Evidence-at-a-Glance reference and one substantive project bullet, with full technical detail delegated to the project page.
 
 ## Planning Principle
 
