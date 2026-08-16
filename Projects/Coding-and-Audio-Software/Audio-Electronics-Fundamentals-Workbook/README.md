@@ -1,6 +1,6 @@
 # Audio Electronics Fundamentals Workbook
 
-**Status:** Study path researched and digital project framework established August 1, 2026. Workbook exercises, circuit simulation, and hardware validation remain pending.
+**Status:** Study path researched, digital project framework established August 1, 2026, and an additional book-guided extension identified. Workbook exercises, circuit simulation, and hardware validation remain pending.
 
 This project extends introductory studio-electronics coursework completed with [Mike Porter](https://www.belmont.edu/profiles/mike-porter/), which covered circuit components, analog signal flow, test equipment, troubleshooting, electrical safety, repair, and soldering. It will develop a reusable spreadsheet for learning and demonstrating foundational electrical relationships through audio-oriented examples. Version 1 requires no physical components, breadboard, test equipment, MATLAB license, or paid circuit software.
 
@@ -63,7 +63,7 @@ Version 1 is a calculation and visualization project. It does not demonstrate ph
 
 The project extends Kevin's introductory studio-electronics and equipment-service background into a documented, auditable digital exercise. It supports continued development in audio electronics, signal flow, DSP hardware, measurement, troubleshooting, and automotive-audio system integration without claiming electrical-engineering proficiency beyond the completed evidence.
 
-Guidance requested from Alek Weidman remains pending. This project was independently scoped while waiting and must not be presented as based on Alek's advice unless he later reviews or informs it.
+Alek Weidman subsequently recommended and linked [*Practical Electronics for Inventors*, Fourth Edition](https://www.oreilly.com/library/view/practical-electronics-for/9781259587542/) by Paul Scherz and Simon Monk. I plan to extend my electronics foundations selectively through concepts and exercises from this book, but the exact chapters, exercises, sequence, and resulting portfolio evidence are still to be decided. The existing Version 1 workbook plan was independently scoped before that recommendation and should remain identified as such unless it is deliberately revised around specific book material.
 
 ## Possible Later Modules
 
