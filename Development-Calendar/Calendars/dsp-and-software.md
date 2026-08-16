@@ -13,13 +13,65 @@ Repository and document additions use the date of the first relevant GitHub comm
 
 ## July 2026
 
-| **Monday** | **Tuesday** | **Wednesday** | **Thursday** | **Friday** | **Saturday** | **Sunday** |
-|---|---|---|---|---|---|---|
-| — | — | **1** | **2** | **3** | **4** | **5** |
-| **6** | **7** | **8** | **9** | **10** | **11** | **12** |
-| **13** | **14** | **15** | **16** | **17** | [**18**](https://github.com/kevinworleymusic-afk/audio-file-report/commit/68482da56456883c77bf1171306c30596fd6f8f1)<br>[🟪 **DSP/SW**](../Areas/dsp-and-software.md)<br>✓ Initialized Python analyzer | [**19**](https://github.com/kevinworleymusic-afk/audio-file-report/commit/9e265562d572ae53df2327902725848bce5be847)<br>[🟪 **DSP/SW**](../Areas/dsp-and-software.md)<br>✓ Added Python features/docs |
-| **20** | [**21**](https://github.com/kevinworleymusic-afk/engineering-development-portfolio/commit/a5f1e2d5c7a6585f5c499307e4fab5f3f9df65d0)<br>[🟪 **DSP/SW**](../Areas/dsp-and-software.md)<br>✓ Added tests + MATLAB projects | **22** | **23** | **24** | **25** | **26** |
-| [**27**](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/commit/958a8a45d1d7ccd7806fc615ad3dfb8316c24090)<br>[🟪 **DSP/SW**](../Areas/dsp-and-software.md)<br>✓ Added DSP project plans | **28** | [**29**](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/commit/8bbb198458689f562ebc5fbc21352b483007004c)<br>[🟪 **DSP/SW**](../Areas/dsp-and-software.md)<br>✓ Added + documented PD prototype | **30** | **31**<br>[🟪 **DSP/SW**](../Areas/dsp-and-software.md)<br>PD next step undecided | — | — |
+> **Calendar view:** Open the full-month overview for a concise scan, or expand only the week you want to inspect. Dates without category-specific activity are intentionally omitted from the detailed weekly tables.
+
+<details open>
+<summary><strong>Full July overview</strong></summary>
+
+| Period | Category activity |
+|---|---|
+| **July 1–5** | No category-specific entry recorded. |
+| **July 6–12** | No category-specific entry recorded. |
+| **July 13–19** | ✓ Initialized Python analyzer; ✓ Added Python features/docs |
+| **July 20–26** | ✓ Added tests + MATLAB projects |
+| **July 27–31** | ✓ Added DSP project plans; ✓ Added + documented PD prototype; PD next step undecided |
+
+</details>
+
+<details>
+<summary><strong>July 1–5</strong> — no category-specific entry</summary>
+
+No category-specific activity is assigned to this week in this mini calendar.
+
+</details>
+
+<details>
+<summary><strong>July 6–12</strong> — no category-specific entry</summary>
+
+No category-specific activity is assigned to this week in this mini calendar.
+
+</details>
+
+<details>
+<summary><strong>July 13–19</strong> — 2 recorded dates</summary>
+
+| Date | Detailed category record |
+|---|---|
+| **July 18** | [🟪 **DSP/SW**](../Areas/dsp-and-software.md)<br>✓ Initialized Python analyzer |
+| **July 19** | [🟪 **DSP/SW**](../Areas/dsp-and-software.md)<br>✓ Added Python features/docs |
+
+</details>
+
+<details>
+<summary><strong>July 20–26</strong> — 1 recorded date</summary>
+
+| Date | Detailed category record |
+|---|---|
+| **July 21** | [🟪 **DSP/SW**](../Areas/dsp-and-software.md)<br>✓ Added tests + MATLAB projects |
+
+</details>
+
+<details>
+<summary><strong>July 27–31</strong> — 3 recorded dates</summary>
+
+| Date | Detailed category record |
+|---|---|
+| **July 27** | [🟪 **DSP/SW**](../Areas/dsp-and-software.md)<br>✓ Added DSP project plans |
+| **July 29** | [🟪 **DSP/SW**](../Areas/dsp-and-software.md)<br>✓ Added + documented PD prototype |
+| **July 31** | [🟪 **DSP/SW**](../Areas/dsp-and-software.md)<br>PD next step undecided |
+
+</details>
+
 
 ### July 31 Planned Validation
 
@@ -31,14 +83,73 @@ The standalone [Python Audio File Report](https://github.com/kevinworleymusic-af
 
 ## August 2026
 
-| **Monday** | **Tuesday** | **Wednesday** | **Thursday** | **Friday** | **Saturday** | **Sunday** |
-|---|---|---|---|---|---|---|
-| — | — | — | — | — | [**1**](#august-1-electrical-engineering-study-plan)<br>[🟪 **DSP/SW**](../Areas/dsp-and-software.md)<br>✓ EE path researched; project set up | [**2**](#august-2-circuit-activity-deferred)<br>[🟪 **DSP/SW**](../Areas/dsp-and-software.md)<br>↪ Circuit activity deferred |
-| [**3**](#august-3-automotive-dsp-learning-routes)<br>[🟪 **DSP/SW**](../Areas/dsp-and-software.md)<br>✓ Documented DSP access + alternatives | [**4**](../2026-08.md#august-3-9) | [**5**](#august-5-dsp-knowledge-outreach)<br>[🟪 **DSP/SW**](../Areas/dsp-and-software.md)<br>✓ Asked contacts about platform knowledge<br>◇ Evening: review options + project/buy criteria | [**6**](../2026-08.md#august-3-9) | [**7**](../2026-08.md#august-3-9) | [**8**](../2026-08.md#august-3-9) | [**9**](../2026-08.md#august-3-9) |
-| [**10**](../2026-08.md#august-10-16) | [**11**](../2026-08.md#august-10-16) | [**12**](../2026-08.md#august-10-16) | [**13**](../2026-08.md#august-10-16) | [**14**](#august-14-15-trainer-and-electronics-planning)<br>[🟪 **DSP/SW**](../Areas/dsp-and-software.md)<br>✓ Planned adaptive difficulty + song transfer | [**15**](#august-14-15-trainer-and-electronics-planning)<br>[🟪 **DSP/SW**](../Areas/dsp-and-software.md)<br>✓ Ordered electronics reference<br>✓ Began purchase-priority planning | [**16**](../2026-08.md#august-10-16) |
-| [**17**](../2026-08.md#august-17-23) | [**18**](../2026-08.md#august-17-23) | [**19**](../2026-08.md#august-17-23) | [**20**](../2026-08.md#august-17-23) | [**21**](../2026-08.md#august-17-23) | [**22**](../2026-08.md#august-17-23) | [**23**](../2026-08.md#august-17-23) |
-| [**24**](../2026-08.md#august-24-30) | [**25**](../2026-08.md#august-24-30) | [**26**](../2026-08.md#august-24-30) | [**27**](../2026-08.md#august-24-30) | [**28**](../2026-08.md#august-24-30) | [**29**](../2026-08.md#august-24-30) | [**30**](../2026-08.md#august-24-30) |
-| [**31**](../2026-08.md#august-31) | — | — | — | — | — | — |
+> **Calendar view:** Open the full-month overview for a concise scan, or expand only the week you want to inspect. Dates without category-specific activity are intentionally omitted from the detailed weekly tables.
+
+<details open>
+<summary><strong>Full August overview</strong></summary>
+
+| Period | Category activity |
+|---|---|
+| **August 1–2** | ✓ EE path researched; project set up; ↪ Circuit activity deferred |
+| **August 3–9** | ✓ Documented DSP access + alternatives; ✓ Asked contacts about platform knowledge; ◇ Evening: review options + project/buy criteria |
+| **August 10–16** | ✓ Planned adaptive difficulty + song transfer; ✓ Ordered electronics reference; ✓ Began purchase-priority planning |
+| **August 17–23** | No category-specific entry recorded. |
+| **August 24–30** | No category-specific entry recorded. |
+| **August 31** | No category-specific entry recorded. |
+
+</details>
+
+<details>
+<summary><strong>August 1–2</strong> — 2 recorded dates</summary>
+
+| Date | Detailed category record |
+|---|---|
+| **August 1** | [🟪 **DSP/SW**](../Areas/dsp-and-software.md)<br>✓ EE path researched; project set up |
+| **August 2** | [🟪 **DSP/SW**](../Areas/dsp-and-software.md)<br>↪ Circuit activity deferred |
+
+</details>
+
+<details>
+<summary><strong>August 3–9</strong> — 2 recorded dates</summary>
+
+| Date | Detailed category record |
+|---|---|
+| **August 3** | [🟪 **DSP/SW**](../Areas/dsp-and-software.md)<br>✓ Documented DSP access + alternatives |
+| **August 5** | [🟪 **DSP/SW**](../Areas/dsp-and-software.md)<br>✓ Asked contacts about platform knowledge<br>◇ Evening: review options + project/buy criteria |
+
+</details>
+
+<details>
+<summary><strong>August 10–16</strong> — 2 recorded dates</summary>
+
+| Date | Detailed category record |
+|---|---|
+| **August 14** | [🟪 **DSP/SW**](../Areas/dsp-and-software.md)<br>✓ Planned adaptive difficulty + song transfer |
+| **August 15** | [🟪 **DSP/SW**](../Areas/dsp-and-software.md)<br>✓ Ordered electronics reference<br>✓ Began purchase-priority planning |
+
+</details>
+
+<details>
+<summary><strong>August 17–23</strong> — no category-specific entry</summary>
+
+No category-specific activity is assigned to this week in this mini calendar.
+
+</details>
+
+<details>
+<summary><strong>August 24–30</strong> — no category-specific entry</summary>
+
+No category-specific activity is assigned to this week in this mini calendar.
+
+</details>
+
+<details>
+<summary><strong>August 31</strong> — no category-specific entry</summary>
+
+No category-specific activity is assigned to this week in this mini calendar.
+
+</details>
+
 
 ### August 1 Electrical Engineering Study Plan
 
