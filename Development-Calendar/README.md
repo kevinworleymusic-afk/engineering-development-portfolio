@@ -35,13 +35,45 @@ Use the [populated pathway plans](Plans/) to review the objectives behind record
 
 ## July 2026
 
-| **Mon** | **Tue** | **Wed** | **Thu** | **Fri** | **Sat** | **Sun** |
-|---|---|---|---|---|---|---|
-| — | — | **1** | **2** | **3** | **4** | **5** |
-| **6** | **7** | **8** | **9** | **10** | **11** | **12** |
-| **13** | [**14**](Areas/acoustical-consulting.md)<br>[🟨 **NET**](Areas/acoustical-consulting.md)<br>✓ Contacted consultant | [**15**](Areas/acoustical-consulting.md)<br>[🟨 **NET**](Areas/acoustical-consulting.md)<br>✓ Outreach/research period | [**16**](Areas/acoustical-consulting.md)<br>[🟨 **NET**](Areas/acoustical-consulting.md)<br>✓ Outreach/research period | [**17**](Areas/acoustical-consulting.md)<br>[🟨 **NET**](Areas/acoustical-consulting.md)<br>✓ Outreach/research period | [**18**](Areas/dsp-and-software.md)<br>[🟪 **DSP/SW**](Areas/dsp-and-software.md)<br>✓ Initialized Python analyzer<br><br>[🟨 **NET**](Areas/acoustical-consulting.md)<br>✓ Outreach/research period | [**19**](Areas/dsp-and-software.md)<br>[🟪 **DSP/SW**](Areas/dsp-and-software.md)<br>✓ Added Python features/docs<br><br>[🟨 **NET**](Areas/acoustical-consulting.md)<br>✓ Outreach/research period |
-| [**20**](Areas/acoustical-consulting.md)<br>[🟨 **NET**](Areas/acoustical-consulting.md)<br>✓ Scheduled Coffman call | [**21**](Areas/portfolio-and-planning.md)<br>[🟩 **PLAN**](Areas/portfolio-and-planning.md)<br>✓ Built central portfolio<br><br>[🟪 **DSP/SW**](Areas/dsp-and-software.md)<br>✓ Added tests + MATLAB projects<br><br>[🟨 **NET**](Areas/acoustical-consulting.md)<br>✓ Prepared call | [**22**](Areas/portfolio-and-planning.md)<br>[🟩 **PLAN**](Areas/portfolio-and-planning.md)<br>✓ Added project context<br><br>[🟨 **NET**](Areas/acoustical-consulting.md)<br>✓ Prepared call | [**23**](Areas/automotive-audio.md)<br>[🟧 **AUTO/TECH**](Areas/automotive-audio.md)<br>✓ Created capture/repro structure<br><br>[🟨 **NET**](Areas/acoustical-consulting.md)<br>✓ Prepared call | [**24**](Areas/automotive-audio.md)<br>[🟧 **AUTO/TECH**](Areas/automotive-audio.md)<br>✓ Synthesized expert guidance<br><br>[🟩 **PLAN**](Areas/portfolio-and-planning.md)<br>✓ Added development binder<br><br>[🟨 **NET**](Areas/acoustical-consulting.md)<br>✓ Completed Coffman call | [**25**](Areas/automotive-audio.md)<br>[🟧 **AUTO/TECH**](Areas/automotive-audio.md)<br>✓ Defined Tier-1/OEM direction | [**26**](Areas/critical-listening.md)<br>[🟦 **LISTEN**](Areas/critical-listening.md)<br>✓ Initialized ear-training repo<br><br>[🟩 **PLAN**](Areas/portfolio-and-planning.md)<br>✓ Linked portfolio evidence<br><br>[🟧 **AUTO/TECH**](Areas/automotive-audio.md)<br>✓ Outlined portfolio options |
-| [**27**](Areas/critical-listening.md)<br>[🟦 **LISTEN**](Areas/critical-listening.md)<br>✓ Ran baseline + Session 1<br><br>[🟩 **PLAN**](Areas/portfolio-and-planning.md)<br>✓ Updated career direction<br><br>[🟧 **AUTO/TECH**](Areas/automotive-audio.md)<br>✓ Published auto roadmap<br><br>[🟪 **DSP/SW**](Areas/dsp-and-software.md)<br>✓ Added DSP project plans | [**28**](Areas/critical-listening.md)<br>[🟦 **LISTEN**](Areas/critical-listening.md)<br>✓ Developed listening procedures<br><br>[🟩 **PLAN**](Areas/portfolio-and-planning.md)<br>✓ Developed planning workflow<br><br>[🟧 **AUTO/TECH**](Areas/automotive-audio.md)<br>✓ Prioritized feasible projects | [**29**](Areas/critical-listening.md)<br>[🟦 **LISTEN**](Areas/critical-listening.md)<br>✓ Refined training evidence<br><br>[🟪 **DSP/SW**](Areas/dsp-and-software.md)<br>✓ Added + documented PD prototype<br><br>[🟩 **PLAN**](Areas/portfolio-and-planning.md)<br>✓ Integrated portfolio evidence<br><br>[🟧 **AUTO/TECH**](Areas/automotive-audio.md)<br>✓ Organized roadmap + DSP plans | [**30**](Areas/critical-listening.md)<br>[🟦 **LISTEN**](Areas/critical-listening.md)<br>✓ Ran Session 2 + built warmup system<br><br>[🟩 **PLAN**](Areas/portfolio-and-planning.md)<br>✓ Built calendar/planning system<br><br>[🟧 **AUTO/TECH**](Areas/automotive-audio.md)<br>✓ Linked auto work to calendar | **31**<br>[🟦 **LISTEN**](Areas/critical-listening.md)<br>↪ Session moved to Saturday<br><br>[🟪 **DSP/SW**](Areas/dsp-and-software.md)<br>PD next step undecided<br><br>[🟧 **AUTO/TECH**](Areas/automotive-audio.md)<br>✓ Selected auto-support EE study<br><br>[🟩 **PLAN**](Areas/portfolio-and-planning.md)<br>✓ Scoped weekend study<br><br>[🟨 **NET**](Areas/acoustical-consulting.md)<br>✓ Tyrone request sent<br><br>[🟨 **NET**](Areas/acoustical-consulting.md)<br>✓ Lechner agreed; PDF pending | — | — |
+> **Reading guide:** This main view records concise outcomes in a phone-friendly weekly agenda. Select a date or category for the fuller record.
+
+### July 1–12 — Pre-calendar development period
+
+The consolidated development calendar had not yet begun. No day-by-day entries are available for this period; this should not be interpreted as a period without work or progress.
+
+### July 13–19 — Outreach and software foundation
+
+| Date | Recorded outcomes |
+|---|---|
+| **Mon., July 13** | — No consolidated entry recorded. |
+| [**Tue., July 14**](Areas/acoustical-consulting.md) | [🟨 **NET**](Areas/acoustical-consulting.md) ✓ Contacted an acoustical consultant. |
+| [**Wed., July 15**](Areas/acoustical-consulting.md) | [🟨 **NET**](Areas/acoustical-consulting.md) ✓ Professional outreach and research period. |
+| [**Thu., July 16**](Areas/acoustical-consulting.md) | [🟨 **NET**](Areas/acoustical-consulting.md) ✓ Professional outreach and research period. |
+| [**Fri., July 17**](Areas/acoustical-consulting.md) | [🟨 **NET**](Areas/acoustical-consulting.md) ✓ Professional outreach and research period. |
+| [**Sat., July 18**](Areas/dsp-and-software.md) | [🟪 **DSP/SW**](Areas/dsp-and-software.md) ✓ Initialized the Python audio analyzer.<br>[🟨 **NET**](Areas/acoustical-consulting.md) ✓ Continued outreach and research. |
+| [**Sun., July 19**](Areas/dsp-and-software.md) | [🟪 **DSP/SW**](Areas/dsp-and-software.md) ✓ Added Python analyzer features and documentation.<br>[🟨 **NET**](Areas/acoustical-consulting.md) ✓ Continued outreach and research. |
+
+### July 20–26 — Portfolio structure, expert guidance, and listening launch
+
+| Date | Recorded outcomes |
+|---|---|
+| [**Mon., July 20**](Areas/acoustical-consulting.md) | [🟨 **NET**](Areas/acoustical-consulting.md) ✓ Scheduled the Coffman Engineers call. |
+| [**Tue., July 21**](Areas/portfolio-and-planning.md) | [🟩 **PLAN**](Areas/portfolio-and-planning.md) ✓ Built the central engineering portfolio.<br>[🟪 **DSP/SW**](Areas/dsp-and-software.md) ✓ Added tests and MATLAB projects.<br>[🟨 **NET**](Areas/acoustical-consulting.md) ✓ Prepared for the Coffman call. |
+| [**Wed., July 22**](Areas/portfolio-and-planning.md) | [🟩 **PLAN**](Areas/portfolio-and-planning.md) ✓ Added project context.<br>[🟨 **NET**](Areas/acoustical-consulting.md) ✓ Continued call preparation. |
+| [**Thu., July 23**](Areas/automotive-audio.md) | [🟧 **AUTO/TECH**](Areas/automotive-audio.md) ✓ Created the capture-to-reproduction project structure.<br>[🟨 **NET**](Areas/acoustical-consulting.md) ✓ Continued call preparation. |
+| [**Fri., July 24**](Areas/automotive-audio.md) | [🟧 **AUTO/TECH**](Areas/automotive-audio.md) ✓ Synthesized expert automotive-audio guidance.<br>[🟩 **PLAN**](Areas/portfolio-and-planning.md) ✓ Added the development binder.<br>[🟨 **NET**](Areas/acoustical-consulting.md) ✓ Completed the Coffman call. |
+| [**Sat., July 25**](Areas/automotive-audio.md) | [🟧 **AUTO/TECH**](Areas/automotive-audio.md) ✓ Defined the Tier-1-to-OEM direction. |
+| [**Sun., July 26**](Areas/critical-listening.md) | [🟦 **LISTEN**](Areas/critical-listening.md) ✓ Initialized the technical ear-training repository.<br>[🟩 **PLAN**](Areas/portfolio-and-planning.md) ✓ Linked portfolio evidence.<br>[🟧 **AUTO/TECH**](Areas/automotive-audio.md) ✓ Outlined automotive portfolio options. |
+
+### July 27–31 — Baselines, procedures, and connected development planning
+
+| Date | Recorded outcomes |
+|---|---|
+| [**Mon., July 27**](Areas/critical-listening.md) | [🟦 **LISTEN**](Areas/critical-listening.md) ✓ Ran the listening baseline and Session 1.<br>[🟩 **PLAN**](Areas/portfolio-and-planning.md) ✓ Updated career direction.<br>[🟧 **AUTO/TECH**](Areas/automotive-audio.md) ✓ Published the automotive roadmap.<br>[🟪 **DSP/SW**](Areas/dsp-and-software.md) ✓ Added DSP project plans. |
+| [**Tue., July 28**](Areas/critical-listening.md) | [🟦 **LISTEN**](Areas/critical-listening.md) ✓ Developed listening procedures.<br>[🟩 **PLAN**](Areas/portfolio-and-planning.md) ✓ Developed the planning workflow.<br>[🟧 **AUTO/TECH**](Areas/automotive-audio.md) ✓ Prioritized feasible automotive projects. |
+| [**Wed., July 29**](Areas/critical-listening.md) | [🟦 **LISTEN**](Areas/critical-listening.md) ✓ Refined training evidence.<br>[🟪 **DSP/SW**](Areas/dsp-and-software.md) ✓ Added and documented a Pure Data prototype.<br>[🟩 **PLAN**](Areas/portfolio-and-planning.md) ✓ Integrated portfolio evidence.<br>[🟧 **AUTO/TECH**](Areas/automotive-audio.md) ✓ Organized the roadmap and DSP plans. |
+| [**Thu., July 30**](Areas/critical-listening.md) | [🟦 **LISTEN**](Areas/critical-listening.md) ✓ Ran Session 2 and built the warmup system.<br>[🟩 **PLAN**](Areas/portfolio-and-planning.md) ✓ Built the calendar and planning system.<br>[🟧 **AUTO/TECH**](Areas/automotive-audio.md) ✓ Linked automotive work to the calendar. |
+| **Fri., July 31** | [🟦 **LISTEN**](Areas/critical-listening.md) ↪ Moved the next session to Saturday.<br>[🟪 **DSP/SW**](Areas/dsp-and-software.md) ◇ Pure Data next step remained undecided.<br>[🟧 **AUTO/TECH**](Areas/automotive-audio.md) ✓ Selected automotive-supporting electrical-engineering study.<br>[🟩 **PLAN**](Areas/portfolio-and-planning.md) ✓ Scoped weekend study.<br>[🟨 **NET**](Areas/acoustical-consulting.md) ✓ Sent Tyrone request; Lechner agreed to help, with PDF pending. |
 
 ### Month Objective
 
