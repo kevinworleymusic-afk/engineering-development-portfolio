@@ -1,8 +1,8 @@
 # Subjective Listening Evaluation System
 
-**Status:** Working Google Forms/Google Sheets prototype; initial test submission and decimal-score calculations verified.
+**Status:** Working Google Forms/private operational Google Sheets prototype with a public static portfolio demo; initial test submission and decimal-score calculations verified.
 
-[Open the listening-evaluation form](https://docs.google.com/forms/d/e/1FAIpQLSfJ6O_C5mjK4NK-ksL4qypP1SVIjpJ0t70tmDYYH1jt4ApYSg/viewform?usp=publish-editor) · [Open the analysis spreadsheet](https://docs.google.com/spreadsheets/d/1dEGKaDw4eBsM4zcSu__DMW410KiG_fWaVccJeJHmV10/edit)
+[Open the participant listening-evaluation form](https://docs.google.com/forms/d/e/1FAIpQLSfJ6O_C5mjK4NK-ksL4qypP1SVIjpJ0t70tmDYYH1jt4ApYSg/viewform) · [Open the view-only portfolio demo spreadsheet](https://docs.google.com/spreadsheets/d/1NOJMtAY4zNbnHCFAKzup7GrGMY9p2WbLzJXa5yzCznY/edit)
 
 ## Purpose
 
@@ -19,7 +19,7 @@ One Google Form submission represents one listening session and can evaluate thr
 - paper-aligned descriptive qualities, confidence, overall observations, musical evidence, technical hypotheses, and possible verification;
 - decimal ratings from 0.0 to 10.0.
 
-The connected spreadsheet automatically produces:
+The private operational spreadsheet automatically produces the following outputs; the public portfolio demo provides a static example:
 
 - session averages for spectral, spatial, dynamics, integrity, and listener-assigned overall quality;
 - a paper-based calculated overall value using spectral, spatial, and dynamics ratings;
@@ -32,7 +32,7 @@ These calculated values are organizational and reflective tools. They do not ind
 
 ## Processed-sample answer-key extension
 
-The spreadsheet also includes a hidden **Sample Answer Key** tab for future blind or partially blind trials using altered audio files. A unique anonymous Sample ID can connect:
+The private operational spreadsheet also includes a hidden **Sample Answer Key** tab for future blind or partially blind trials using altered audio files. A unique anonymous Sample ID can connect:
 
 1. the exported audio filename;
 2. the Sample ID entered as an excerpt in the listening form; and
