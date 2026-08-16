@@ -86,6 +86,6 @@ Two leading applications are acoustical consulting—especially architectural/ro
 
 - **Subjective-listening integration:** Add randomized daily stimuli and hidden answer-key export to the Listening Trainer, beginning with EQ and later other controlled alterations.
 - **DSP development:** Follow the [Audio Weaver/DSP pathway](Projects/Coding-and-Audio-Software/Audio-Weaver-and-DSP-Development/README.md) for tutorial review, applied exercises, validation, and clear claims boundaries.
-- **Vehicle preparation:** Select a DSP installation path and calibrated-microphone setup before measurement-guided in-vehicle tuning.
+- **Vehicle preparation:** Select a DSP installation path and calibrated-microphone setup before measurement-guided in-vehicle tuning; use the [automotive reading and project-idea log](Projects/Technical-Audio-and-Research/Automotive-Audio-Reading-and-Project-Ideas.md) to scope related exercises.
 - **Electronics development:** Use the [book-study guide](Projects/Coding-and-Audio-Software/Audio-Electronics-Fundamentals-Workbook/BOOK-STUDY-START.md) and document selected work in the [electronics workbook](Projects/Coding-and-Audio-Software/Audio-Electronics-Fundamentals-Workbook/README.md); simulation and hardware validation remain future stages.
 - **Acoustical consulting:** Complete the pending data, validation, and conclusions for the [generator/barrier analysis](Projects/Technical-Audio-and-Research/Generator-to-Residence-Barrier-Noise-Analysis/README.md).
