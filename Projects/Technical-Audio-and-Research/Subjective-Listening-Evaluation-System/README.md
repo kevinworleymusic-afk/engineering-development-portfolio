@@ -40,7 +40,7 @@ The private operational spreadsheet also includes a hidden **Sample Answer Key**
 
 After a form response is submitted, the **Song Results** tab can match that Sample ID and display the source track, processing type, direction, center frequency, gain, Q, bandwidth, compression parameters, intended perceptual effect, difficulty, random seed, export filename, and notes.
 
-The answer key can initially be entered manually. A planned listening-app mode would later generate randomized processed WAV files, reuse the same Sample ID for the filename and metadata, and export a spreadsheet-compatible CSV for a day or week of trials.
+The answer key can initially be entered manually. Ultimately, this workflow is planned as an extension mode within the [Technical Listening Trainer](https://github.com/kevinworleymusic-afk/technical-listening-trainer). Once built, the mode would generate randomized daily processed samples, assign matching anonymous Sample IDs and metadata, export the WAV files for playback on headphones, loudspeakers, or in a vehicle, and produce a spreadsheet-compatible answer-key CSV. The daily samples would then feed a recurring weekly subjective-assessment cycle that remains separate from the trainer’s frequency-identification practice.
 
 Hiding a tab provides practical self-blinding but is not secure blinding for the spreadsheet owner. Stronger future control would retain unrevealed settings inside the app or a separately controlled data store until the corresponding test is complete.
 
@@ -66,6 +66,6 @@ The paper describes a mature Harman in-situ vehicle-evaluation workflow using ex
 
 - Complete repeated real sessions before drawing conclusions from trends.
 - Establish personal rating anchors and monitor within-listener repeatability.
-- Add app-generated anonymous Sample IDs, processed WAV export, and answer-key CSV export.
+- Build the Listening Trainer extension mode for randomized daily sample generation, anonymous Sample IDs, portable WAV export, answer-key CSV export, and weekly subjective-assessment sessions.
 - Add accuracy and confusion analysis only when trials have objectively defined answers.
 - Evaluate headphone, loudspeaker, and eventual in-vehicle results as distinct playback contexts.
