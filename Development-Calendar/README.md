@@ -113,7 +113,7 @@ The consolidated development calendar had not yet begun. No day-by-day entries a
 - [August 1–2 — Foundation and structured session](Weeks/2026-08-01-02.md)
 - [August 3–9 — Benchmarks, DSP research, and trainer development](Weeks/2026-08-03-09.md)
 - [August 10–16 — Trainer refinement and evaluation-system work](Weeks/2026-08-10-16.md)
-- [August 17–23 — Planned progression](Weeks/2026-08-17-23.md)
+- [August 17–23 — Mastery system and architecture development](Weeks/2026-08-17-23.md)
 - [August 24–30 — Evidence consolidation](Weeks/2026-08-24-30.md)
 - [August 31 — Monthly review](Weeks/2026-08-31.md)
 
@@ -150,11 +150,22 @@ The consolidated development calendar had not yet begun. No day-by-day entries a
 | [**Sat., Aug. 15**](2026-08.md#august-10-16) | [🟦 **LISTEN**](Areas/critical-listening.md) ✓ Analyzed the Kaiser/Harman paper and developed a [subjective-listening evaluation system](../Projects/Technical-Audio-and-Research/Subjective-Listening-Evaluation-System/).<br>[🟨 **NET**](Areas/acoustical-consulting.md) ✓ Heard back from Jim Walter and received Alek Weidmann’s electronics-study book link.<br>[🟪 **DSP/SW**](Areas/dsp-and-software.md) ✓ Began electronics-study and professional-development purchasing priorities; ordered [*Practical Electronics for Inventors, Fourth Edition*](https://www.amazon.com/Practical-Electronics-Inventors-Fourth-Scherz/dp/1259587541).<br>[🟩 **PLAN**](Areas/portfolio-and-planning.md) ✓ Published the portfolio demo and documentation. |
 | [**Sun., Aug. 16**](2026-08.md#august-10-16) | — No completed entry recorded yet. |
 
+### August 17–23 — Mastery system and architecture development
+
+| Date | Recorded outcomes |
+|---|---|
+| [**Mon., Aug. 17**](2026-08.md#august-17--mastery-operating-system-build) | [🟩 **PLAN**](Areas/portfolio-and-planning.md) ✓ ~12-hour mastery-system build and portfolio reorganization: created the Automotive Audio Mastery Registry, organized existing and planned work into Buckets 01–11, reconciled project/feature states and mappings, built dashboard/bucket-map/registry/schedule/history views, and established evidence, workflow, and bounded-development rules. |
+| [**Tue., Aug. 18**](2026-08.md#august-18--vehicle-noise-research--core--focus-baseline-10) | [🟧 **AUTO/TECH**](Areas/automotive-audio.md) ✓ 150 min vehicle-noise research and Bucket 03 planning; developed P-039 and six modules.<br>[🟧 **AUTO/TECH**](Areas/automotive-audio.md) ✓ 420 min completed **Core + Focus Baseline 1.0 — Purpose-Driven Cabin Audio Architecture**, including product vision, system/channel architecture, operating behavior, feature index, research roadmap, citations, and final editorial/branding refinement.<br>[🟩 **PLAN**](Areas/portfolio-and-planning.md) ✓ Closed the day at 570 actual minutes across two meaningful work blocks; listening was intentionally skipped and Audio Weaver was not completed. |
+| **Wed., Aug. 19** | ◇ Continue the next bounded project or study from the mastery registry. |
+| **Thu., Aug. 20** | ◇ Continue evidence-producing bucket rotation. |
+| **Fri., Aug. 21** | ◇ Continue evidence-producing bucket rotation. |
+| **Sat., Aug. 22** | ◇ Continue evidence-producing bucket rotation. |
+| **Sun., Aug. 23** | ◇ Review the week and carry forward only defined next actions. |
+
 ### Remaining August plan
 
 | Period | Planned progression |
 |---|---|
-| [**Aug. 17–23**](2026-08.md#august-17-23) | ◇ Advance difficulty or project scope from evidence. |
 | [**Aug. 24–30**](2026-08.md#august-24-30) | ◇ Produce or consolidate reviewable evidence. |
 | [**Aug. 31**](2026-08.md#august-31) | ◇ Review the month and establish September priorities. |
 
@@ -171,7 +182,7 @@ The consolidated development calendar had not yet begun. No day-by-day entries a
 - [**August 1–2:** Establish employer research, technical-study direction, and the next listening cycle.](2026-08.md#august-1-2)
 - [**August 3–9:** Begin a balanced cross-disciplinary cycle and follow the strongest evidence-producing threads.](2026-08.md#august-3-9)
 - [**August 10–16:** Stabilize selected development priorities across listening, DSP/software, networking, and career search.](2026-08.md#august-10-16)
-- [**August 17–23:** Advance difficulty or project scope from evidence.](2026-08.md#august-17-23)
+- [**August 17–23:** Build the mastery operating system, reorganize the portfolio into the bucket architecture, and begin evidence-driven system-definition work.](2026-08.md#august-17-23)
 - [**August 24–30:** Produce or consolidate reviewable evidence.](2026-08.md#august-24-30)
 - [**August 31:** Review the month and establish September priorities.](2026-08.md#august-31)
 
