@@ -16,3 +16,7 @@ Uses requirements from 01, diagnostic hooks from 06, integration knowledge from 
 
 ## Next credible demonstration
 A defined fault matrix and reproducible software test set with sensitivity/specificity or false-pass/false-fail analysis and explicit limits on production relevance.
+
+## Source documents
+
+- [Simulated Automotive Audio End-of-Line Validation Plan](END-OF-LINE-VALIDATION-PLAN.md)
