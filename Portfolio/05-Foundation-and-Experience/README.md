@@ -1,6 +1,6 @@
 # Foundation & Experience
 
-This portfolio view presents the education, professional audio experience, musicianship, research exposure, communication background, and recommendations that support the technical work shown elsewhere in the portfolio.
+This portfolio view presents the education, professional audio experience, musicianship, research exposure, communication background, recommendations, and development infrastructure that support the technical work shown elsewhere in the portfolio.
 
 ## What this page is for
 
@@ -19,7 +19,7 @@ Undergraduate preparation combined music performance, musicianship, ensemble wor
 ### Ocean Way Nashville
 Student-staff engineering experience in a professional recording environment, including session support and work connected to music recorded for EA Sports College Football 25.
 
-Graduate independent-study work in Ocean Way Studio A also included a 2L Cube-inspired jazz-combo/string capture and 7.1.4 immersive reproduction workflow. [Project evidence](../../Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/)
+Graduate independent-study work in Ocean Way Studio A also included a 2L Cube-inspired jazz-combo/string capture and 7.1.4 immersive reproduction workflow. [Project evidence](../02-Psychoacoustics-and-Critical-Listening/Projects/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/)
 
 ### Starstruck Entertainment
 Studio internship experience supporting professional recording operations and exposure to immersive-audio facilities and workflows.
@@ -44,7 +44,16 @@ Teaching experience also provides evidence of preparation, documentation, correc
 
 The portfolio includes public recommendations, supervisor evaluation material, and role-specific reference availability supporting technical aptitude, measurement and reporting, studio professionalism, musicianship, education, and collaborative work.
 
-[Browse professional evidence](../../Experience-and-Evidence/Recommendations-and-Endorsements/)
+[Browse professional evidence](Experience-and-Evidence/Recommendations-and-Endorsements/)
+
+## Development infrastructure
+
+This area also contains the supporting infrastructure behind the portfolio rather than leaving it loose at the repository root:
+
+- [Curriculum](Development-System/Curriculum/)
+- [Planning & Tracking](Development-System/Planning-and-Tracking/)
+- [Development Syllabus](Development-System/SYLLABUS.md)
+- [Career & Planning](Career-and-Planning/)
 
 ## How this foundation connects to the technical portfolio
 

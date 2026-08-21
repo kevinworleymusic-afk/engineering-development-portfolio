@@ -21,13 +21,13 @@ This page is intended for DSP, audio-software, embedded-audio, test-automation, 
 [Pure Data implementation](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/01_Real-Time_DSP_Prototype_in_Pure_Data.md) covering node-based playback, delay, filtering, gain, test signals, low-frequency routing, and output protection.
 
 ### MATLAB Audio DSP Projects
-[Project collection](../../Projects/Coding-and-Audio-Software/MATLAB-Projects/) covering filtering and discrete-time systems, convolution, tempo-synchronized delay, nonlinear processing, clipping, harmonics, THD, distortion, and mid-side/spatial processing.
+[Project collection](Projects/Coding-and-Audio-Software/MATLAB-Projects/) covering filtering and discrete-time systems, convolution, tempo-synchronized delay, nonlinear processing, clipping, harmonics, THD, distortion, and mid-side/spatial processing.
 
 ### Audio Electronics Fundamentals
-[Workbook and development area](../../Projects/Coding-and-Audio-Software/Audio-Electronics-Fundamentals-Workbook/) building from prior coursework in circuits, analog signal flow, test equipment, troubleshooting, safety, repair, and soldering toward more explicit calculation and simulation work.
+[Workbook and development area](Projects/Coding-and-Audio-Software/Audio-Electronics-Fundamentals-Workbook/) building from prior coursework in circuits, analog signal flow, test equipment, troubleshooting, safety, repair, and soldering toward more explicit calculation and simulation work.
 
 ### Audio Weaver and DSP Development
-[Development pathway](../../Projects/Coding-and-Audio-Software/Audio-Weaver-and-DSP-Development/) documenting tutorial review and accessible-tool DSP exercises while avoiding claims of direct Audio Weaver implementation before that work is completed.
+[Development pathway](Projects/Coding-and-Audio-Software/Audio-Weaver-and-DSP-Development/) documenting tutorial review and accessible-tool DSP exercises while avoiding claims of direct Audio Weaver implementation before that work is completed.
 
 ## Relevant automotive development functions
 
