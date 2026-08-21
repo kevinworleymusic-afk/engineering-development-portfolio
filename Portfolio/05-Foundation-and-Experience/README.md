@@ -44,7 +44,7 @@ Teaching experience also provides evidence of preparation, documentation, correc
 
 The portfolio includes public recommendations, supervisor evaluation material, and role-specific reference availability supporting technical aptitude, measurement and reporting, studio professionalism, musicianship, education, and collaborative work.
 
-[Browse professional evidence](../../Professional-Evidence/Recommendations-and-Endorsements/)
+[Browse professional evidence](../../Experience-and-Evidence/Recommendations-and-Endorsements/)
 
 ## How this foundation connects to the technical portfolio
 
