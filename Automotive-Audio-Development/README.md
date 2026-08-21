@@ -48,3 +48,8 @@ The 11 functions are the development architecture. For a faster recruiter-facing
 ## Evidence discipline
 
 Status labels separate completed, active, planned, access-dependent, and reference-only work. Portfolio pages should state both **what the evidence demonstrates** and **what it does not demonstrate**. Google Docs, spreadsheets, notebooks, Python repositories, reports, and measurements become portfolio evidence only when their role, method, result, limitation, and next maturation step are documented.
+
+## Source documentation
+
+- [Migrated source-document index](SOURCE-DOCUMENT-INDEX.md)
+- [Public Mastery Registry summary](REGISTRY-SUMMARY.md)
