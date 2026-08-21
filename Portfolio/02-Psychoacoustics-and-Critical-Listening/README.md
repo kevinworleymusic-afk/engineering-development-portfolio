@@ -1,60 +1,86 @@
 # Psychoacoustics & Critical Listening
 
-This portfolio view presents my work through a perceptual-audio lens: critical listening, sound-quality evaluation, controlled listening studies, subjective methodology, spatial/immersive experience, and the connection between what listeners hear and the engineering decisions used to shape or validate a system.
+**Critical Listening · Sound Quality · Controlled Evaluation · Spatial Audio · Perception-to-Engineering Decisions**
 
-## What this page is for
+My perceptual-audio work combines a long musical and critical-listening foundation with graduate audio-engineering training, controlled listening studies, software-assisted ear training, subjective evaluation design, immersive audio, and increasingly automotive-oriented tuning diagnosis.
 
-This page is intended for sound-quality, tuning, psychoacoustics, subjective-evaluation, listening-research, and perceptual-audio teams.
+I am interested in the engineering problem behind a listening judgment: **What changed? Can I hear it reliably? Under what conditions? How confident am I? What system behavior could cause it? What measurement or controlled comparison should come next?**
 
-## Selected evidence
+This page is my targeted portfolio for **psychoacoustics, sound-quality, automotive tuning, subjective evaluation, listening research, and perceptual-audio roles**.
+
+## Core Strengths
+
+- Structured critical-listening practice with documented trial results rather than unsupported claims of a “good ear.”
+- Controlled listening-study design and analysis across playback conditions.
+- Subjective sound-quality evaluation using repeatable attributes, descriptors, reference conditions, and confidence tracking.
+- Experience in immersive and spatial-audio environments, including graduate independent-study work in 7.1.4.
+- Ability to connect perceptual observations to DSP, measurement, acoustics, and diagnostic hypotheses.
+- Python/software development used to make listening practice and evaluation more systematic and measurable.
+
+## Featured Work
 
 ### Technical Ear Training
-[Repository](https://github.com/kevinworleymusic-afk/technical-ear-training) documenting structured objective listening practice, including EQ identification work, logged trial results, prior listening/research exposure, and limitations.
+[Repository](https://github.com/kevinworleymusic-afk/technical-ear-training)
+
+A documented critical-listening development program focused on objective identification of spectral changes. The repository records methods, trial results, prior listening and research exposure, and limitations so improvement can be evaluated as evidence rather than anecdote.
 
 ### Technical Listening Trainer
-[Repository](https://github.com/kevinworleymusic-afk/technical-listening-trainer) for customizable blind EQ identification and matching practice with controlled answers, validated filters, configurable conditions, and CSV-based analytics.
+[Repository](https://github.com/kevinworleymusic-afk/technical-listening-trainer)
+
+A configurable listening-training tool supporting blind EQ identification and matching, controlled answers, validated filters, randomized conditions, and CSV-based analytics. Building the tool also connects perceptual training directly to DSP and software implementation.
 
 ### Subjective Listening Evaluation System
-[Project](Projects/Subjective-Listening-Evaluation-System/) developing a repeatable three-excerpt evaluation workflow using attribute ratings, descriptors, session/song-level analysis, hidden answer-key matching, and longitudinal single-listener metrics.
+[View project](Projects/Subjective-Listening-Evaluation-System/)
+
+A developing repeatable three-excerpt evaluation workflow using attribute ratings, spectral and spatial descriptors, playback/reference conditions, confidence, hidden answer-key matching, session/song-level analysis, and longitudinal single-listener metrics.
+
+The objective is to make subjective evaluation **structured enough to compare over time without pretending subjective judgments become purely objective measurements**.
 
 ### Loudspeaker vs. Headphone Frequency-Change Identification
-[Study](Projects/Loudspeaker-vs-Headphone-Frequency-Boost-Identification/) designed, administered, and analyzed as a controlled comparison of frequency-change identification across playback conditions.
+[View study](Projects/Loudspeaker-vs-Headphone-Frequency-Boost-Identification/)
+
+Controlled comparison of frequency-change identification across loudspeaker and headphone playback. I designed, administered, and analyzed the study, providing evidence in experimental structure, listening-condition control, response analysis, and interpretation limits.
 
 ### Automotive Audio Tuning Diagnostic Judgment
-[Project](../01-Automotive-Audio-Systems/Projects/Automotive-Audio-Tuning-Diagnostic-Judgment/) focused on turning perceived defects into structured diagnostic hypotheses rather than treating tuning as unexplained preference.
+[View project](../01-Automotive-Audio-Systems/Projects/Automotive-Audio-Tuning-Diagnostic-Judgment/)
+
+Automotive-facing work that treats a perceived defect as the beginning of a diagnostic process. The project develops plausible causes, discriminating tests, and tuning actions rather than jumping directly from “what I hear” to an assumed solution.
 
 ### Ocean Way Jazz Combo Dolby Atmos Independent Study
-[Project](Projects/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/) using a 2L Cube-inspired capture approach and 7.1.4 routing in Ocean Way Studio A, connecting natural acoustic capture with immersive reproduction.
+[View project](Projects/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/)
 
-## Research and listening exposure
+Graduate independent study in Ocean Way Studio A using a **2L Cube-inspired capture approach** and 7.1.4 reproduction. The work grew from an interest in capturing a natural acoustic performance with minimal dependence on subjective post-production and later became an intellectual bridge into playback-system and automotive reproduction questions.
 
-My broader foundation includes participation as a listener, not author, in published AES studies; extensive structured listening practice; immersive-room exposure; and graduate audio-engineering work that required repeated critical judgments about spectral, spatial, and system behavior.
+## Research & Listening Exposure
 
-## Relevant automotive development functions
+I have participated as a **listener, not author**, in published AES research. That experience provided exposure to formal test instructions, controlled conditions, response logging, perceptual tasks, and the limits placed on interpretation in experimental work.
 
-**Primary:** 02 Perception & Critical Listening
+My broader listening background includes professional and graduate studio environments, Dolby Atmos rooms, music performance, ensemble work, and extensive structured ear training. I treat those experiences as a foundation that becomes more useful when paired with controlled methodology and documented results.
 
-**Strong supporting functions:** 05 DSP & Sound Tuning, 08 Measurement & Validation, 11 Cross-Functional Engineering
+## Technical Methods
 
-The central engineering question is not simply whether I can hear a difference, but whether I can define the condition, control the comparison, document the observation, estimate confidence, connect the perception to plausible causes, and design a credible next test.
+**Listening:** blind identification · EQ matching · controlled comparison · subjective attributes · spectral/spatial descriptors · reference conditions · confidence tracking
 
-## Current development priorities
+**Analysis:** trial logging · CSV workflows · session/song-level comparison · longitudinal metrics · error/confusion analysis
 
-- continue controlled objective listening and matching practice
-- strengthen repeatable subjective sound-quality evaluation
-- connect perceptual judgments to measurable system behavior
-- expand automotive-specific listening and tuning diagnosis
-- improve experimental design, scoring, confidence tracking, and longitudinal analysis
+**Implementation:** Python · audio filtering · randomized stimulus generation · answer management · evaluation-tool development
 
-## Relevant tools and methods
+**Spatial/immersive:** 7.1.4 workflows · immersive-room experience · natural acoustic capture/reproduction · spatial descriptors
 
-Blind identification and matching · controlled listening procedures · EQ/filter manipulation · subjective rating systems · spectral and spatial descriptors · test-condition documentation · CSV analysis · Python-based training tools · immersive playback experience
+## Connection to Automotive Audio
 
-## Related portfolio views
+Perception is one of the central interfaces in my broader automotive development architecture. The target is not simply to become more sensitive to small changes. It is to develop a repeatable loop:
 
-- [Automotive Audio Systems](../01-Automotive-Audio-Systems/)
-- [Acoustics, Measurement & Validation](../03-Acoustics-Measurement-and-Validation/)
-- [DSP, Electronics & Audio Software](../04-DSP-Electronics-and-Audio-Software/)
-- [Foundation & Experience](../05-Foundation-and-Experience/)
+**listen → describe → hypothesize → measure/test → adjust → re-evaluate.**
 
-[Return to main portfolio](../../README.md)
+That loop connects this portfolio directly to DSP tuning, cabin acoustics, hardware behavior, validation, and cross-functional engineering.
+
+## Current Development Priorities
+
+I am continuing controlled identification and matching work, strengthening subjective sound-quality methodology, expanding automotive-specific diagnostic listening, and improving the connection between perceptual observations and measurable system behavior.
+
+## Related Portfolio Views
+
+[Automotive Audio Systems](../01-Automotive-Audio-Systems/) · [Acoustics, Measurement & Validation](../03-Acoustics-Measurement-and-Validation/) · [DSP, Electronics & Audio Software](../04-DSP-Electronics-and-Audio-Software/) · [Foundation & Experience](../05-Foundation-and-Experience/)
+
+[← Main Technical Audio Portfolio](../../README.md)
