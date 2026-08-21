@@ -19,3 +19,9 @@ Implements Bucket 01 intent under Bucket 03 acoustic constraints; supplies the p
 
 ## Next credible demonstration
 A component or circuit study with calculated expectations, simulation or measurement, comparison, uncertainty, and an automotive packaging implication.
+
+## Source documents
+
+- [Automotive Audio Power & Load Fundamentals](POWER-AND-LOAD-FUNDAMENTALS.md)
+- [Electrical Fundamentals — 2026-08-19](ELECTRICAL-FUNDAMENTALS-2026-08-19.md)
+- [Tuning & Diagnostic Judgment — 2026-08-19](TUNING-DIAGNOSTIC-JUDGMENT-2026-08-19.md)
