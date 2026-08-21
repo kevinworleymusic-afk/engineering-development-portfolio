@@ -10,7 +10,7 @@ Psychoacoustics; trained listening; experimental controls; stimulus design; rati
 - [Technical Listening Trainer](https://github.com/kevinworleymusic-afk/technical-listening-trainer): blind EQ identification/matching, validated biquads, randomization, scoring, and CSV analysis.
 - [Subjective Listening Evaluation System](../../Projects/Technical-Audio-and-Research/Subjective-Listening-Evaluation-System/README.md): repeatable three-excerpt attribute-rating workflow and longitudinal analysis.
 - [Loudspeaker vs. Headphone Frequency-Change Identification Study](../../Projects/Technical-Audio-and-Research/Loudspeaker-vs-Headphone-Frequency-Boost-Identification/README.md).
-- [Ocean Way Dolby Atmos Independent Study](../../Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/README.md).
+- [Ocean Way Dolby Atmos Independent Study](../../Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/README.md).\n- [Engineering Trainer Flashcards](https://github.com/kevinworleymusic-afk/engineering_trainer_flashcards): supporting software for structured recall across psychoacoustics and related engineering concepts; it demonstrates a training framework, not perceptual-test validation.
 
 ## Active development
 Consolidate objective and subjective listening into a sustainable rotation; preserve condition, answer key, confidence, errors, and interpretation limits; transfer controlled tasks toward loudspeaker and vehicle contexts.
