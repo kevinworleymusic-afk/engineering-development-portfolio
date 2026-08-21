@@ -19,3 +19,7 @@ This is the convergence point for Buckets 01 and 03–06. Findings become valida
 
 ## Next credible demonstration
 A bounded virtual integration case with architecture, fault symptoms, hypotheses, test sequence, decision record, and verification—followed later by direct vehicle evidence.
+
+## Source documents
+
+- [Bucket 07 Development Plan](DEVELOPMENT-PLAN.md)
