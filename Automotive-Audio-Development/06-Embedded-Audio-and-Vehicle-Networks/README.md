@@ -18,3 +18,7 @@ Turns Bucket 01 modes into executable behavior, controls Bucket 05 processing, p
 
 ## Next credible demonstration
 A tested state machine that changes audio behavior from simulated vehicle/control messages, including priority, invalid-input, and safe-transition cases.
+
+## Source documents
+
+- [Bucket 06 Development Plan](DEVELOPMENT-PLAN.md)
