@@ -18,3 +18,9 @@ Receives perceptual objectives from Bucket 02 and constraints from Buckets 03–
 
 ## Next credible demonstration
 A sourced, bounded Core + Focus feature study with traceable requirements, state behavior, architecture impact, and a verification matrix.
+
+## Source documents
+
+- [Core + Focus Baseline 1.0](CORE-FOCUS-BASELINE-1.0.md)
+- [Simulated Vehicle Baseline 1.0](SIMULATED-VEHICLE-BASELINE-1.0.md)
+- [Bucket 01 Development Plan](DEVELOPMENT-PLAN.md)

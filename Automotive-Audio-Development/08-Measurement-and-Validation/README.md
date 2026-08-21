@@ -20,3 +20,7 @@ Verifies Bucket 01 requirements, perceptual objectives (02), acoustic/hardware/D
 
 ## Next credible demonstration
 A repeatability or automated-validation study with test conditions, calibration, acceptance logic, uncertainty, result, and traceability to a requirement.
+
+## Source documents
+
+- [Bucket 08 Development Plan](DEVELOPMENT-PLAN.md)

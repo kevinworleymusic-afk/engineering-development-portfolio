@@ -19,3 +19,7 @@ Implements perceptual targets (02) using available hardware (04) in the cabin en
 
 ## Next credible demonstration
 A documented tune cycle showing baseline, hypothesis, processing change, predicted effect, objective/subjective verification, and decision.
+
+## Source documents
+
+- [Bucket 05 Development Plan](DEVELOPMENT-PLAN.md)

@@ -18,3 +18,8 @@ Constrains hardware/packaging (04), DSP/tuning (05), integration (07), and valid
 
 ## Next credible demonstration
 A reproducible existing-data analysis that states provenance, method, acoustic finding, design implication, limitation, and the vehicle-measurement plan needed to verify it.
+
+## Source documents
+
+- [Bucket 03 Development Plan](DEVELOPMENT-PLAN.md)
+- [P-039 In-Car Impulse-Response Study](P-039-IN-CAR-IR-STUDY.md)
