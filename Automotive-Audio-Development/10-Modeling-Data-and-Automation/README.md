@@ -20,3 +20,7 @@ This is an enabling layer across all other buckets: requirements tracking, stimu
 
 ## Next credible demonstration
 A reproducible tool or dataset analysis that changes or supports a stated system, tuning, validation, or quality decision.
+
+## Source documents
+
+- [Bucket 10 Engineering Decision Tools Development Plan](DEVELOPMENT-PLAN.md)
