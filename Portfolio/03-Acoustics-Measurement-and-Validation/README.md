@@ -9,16 +9,16 @@ This page is intended for acoustics, electroacoustics, test, validation, measure
 ## Selected evidence
 
 ### Room Impulse-Response and Audio Systems Analysis
-[Project](../../Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Impulse-Response-and-Audio-Systems-Analysis/) covering room-response capture, impulse-response estimation, FFT/IFFT processing, convolution, null comparison, and documented limitations.
+[Project](../04-DSP-Electronics-and-Audio-Software/Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Impulse-Response-and-Audio-Systems-Analysis/) covering room-response capture, impulse-response estimation, FFT/IFFT processing, convolution, null comparison, and documented limitations.
 
 ### SSL Fusion Audio Precision Measurement Project
-[Project](../../Projects/Technical-Audio-and-Research/SSL-Fusion-Audio-Precision-Measurement-Project/) using Audio Precision measurement to examine frequency response, THD+N, phase, crosstalk, and reference/noise behavior of analog audio hardware.
+[Project](Projects/SSL-Fusion-Audio-Precision-Measurement-Project/) using Audio Precision measurement to examine frequency response, THD+N, phase, crosstalk, and reference/noise behavior of analog audio hardware.
 
 ### Studer A80 vs. A800 Plug-In Validation Study
-[Project](../../Projects/Technical-Audio-and-Research/Studer-A80-vs-A800-Plugin-Validation-Study/) comparing analog tape-machine behavior with a plug-in implementation using frequency-response, SNR, and THD+N measurements at multiple tape speeds.
+[Project](Projects/Studer-A80-vs-A800-Plugin-Validation-Study/) comparing analog tape-machine behavior with a plug-in implementation using frequency-response, SNR, and THD+N measurements at multiple tape speeds.
 
 ### Generator-to-Residence Barrier Noise Analysis
-[Project](../../Projects/Technical-Audio-and-Research/Generator-to-Residence-Barrier-Noise-Analysis/) developing an environmental-noise framework based on source-path-receiver geometry, octave-band propagation, A-weighting, barrier attenuation, and a planned validation workflow.
+[Project](Projects/Generator-to-Residence-Barrier-Noise-Analysis/) developing an environmental-noise framework based on source-path-receiver geometry, octave-band propagation, A-weighting, barrier attenuation, and a planned validation workflow.
 
 ### Audio File Report
 [Repository](https://github.com/kevinworleymusic-afk/audio-file-report) for programmatic WAV validation and analysis, including metadata reporting, diagnostics, FFT plots, corruption checks, and repeatable output.
@@ -44,6 +44,10 @@ The goal of this work is not simply to produce plots or single-number results. I
 ## Relevant tools and methods
 
 Audio Precision · MATLAB · Python · FFT/IFFT · impulse response · convolution · frequency response · THD+N · SNR · phase · crosstalk · octave-band analysis · A-weighting · source-path-receiver modeling · technical reporting
+
+## Targeted application view
+
+The [Acoustical Consulting](Targeted-Views/Acoustical-Consulting/) page reframes selected evidence specifically for consulting-oriented applications and is not part of the main five-page navigation.
 
 ## Related portfolio views
 
