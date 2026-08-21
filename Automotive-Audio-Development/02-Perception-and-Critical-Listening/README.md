@@ -20,3 +20,7 @@ Defines perceptual targets for Buckets 01 and 05 and supplies subjective validat
 
 ## Next credible demonstration
 A controlled checkpoint that connects a defined DSP or cabin condition to repeatable listener responses and documented uncertainty.
+
+## Source documents
+
+- [Bucket 02 Development Plan](DEVELOPMENT-PLAN.md)
