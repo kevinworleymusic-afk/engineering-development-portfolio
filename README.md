@@ -1,64 +1,63 @@
-# Kevin Worley — Technical Audio Engineering Portfolio
+# Kevin Worley | Technical Audio Engineering Portfolio
 
-M.S.-trained technical audio engineer developing toward automotive audio, applied psychoacoustics, acoustics/validation, DSP, and audio-system engineering. My work combines controlled listening, measurement, signal processing, software tools, immersive audio, technical reporting, and systematic study of end-to-end automotive audio development.
+**M.S. Audio Engineering Technology | Automotive Audio · Applied Psychoacoustics · Acoustics & Validation · DSP & Audio Software**
 
-## Portfolio
+I am a technical audio engineer whose background spans professional recording environments, controlled listening, audio measurement, immersive audio, DSP, software tools, technical reporting, music performance, and education. My current engineering development is centered on automotive audio, particularly the interfaces between **human perception, electroacoustic hardware, DSP, cabin acoustics, system integration, measurement, and validation**.
 
-This repository now has one organizing rule: **all portfolio material lives under five primary portfolio areas.** Each area is designed to stand alone as a focused mini-portfolio for a different hiring lens while also serving as the physical home for its primary projects, development material, and evidence.
+Rather than treating those disciplines as isolated specialties, I am building evidence of how they connect across a complete audio-system development process. This portfolio combines completed graduate and independent work with current engineering projects, software repositories, structured technical development, and clearly identified limitations where work is still in progress.
 
-| Portfolio view | Primary lens |
+## Core Technical Profile
+
+| Area | Evidence and capability |
 |---|---|
-| [**Automotive Audio Systems**](Portfolio/01-Automotive-Audio-Systems/) | OEM, Tier-1, tuning, integration, system engineering, product development |
-| [**Psychoacoustics & Critical Listening**](Portfolio/02-Psychoacoustics-and-Critical-Listening/) | perceptual audio, sound quality, subjective evaluation, tuning, listening research |
-| [**Acoustics, Measurement & Validation**](Portfolio/03-Acoustics-Measurement-and-Validation/) | acoustics, electroacoustics, measurement, test, validation, engineering analysis |
-| [**DSP, Electronics & Audio Software**](Portfolio/04-DSP-Electronics-and-Audio-Software/) | DSP, audio software, embedded-audio development, electronics, automation |
-| [**Foundation & Experience**](Portfolio/05-Foundation-and-Experience/) | education, professional experience, curriculum, planning, recommendations, career foundation |
+| **Automotive audio systems** | System architecture, feature definition, tuning diagnosis, requirements/verification thinking, DSP workflow development, cross-functional system decomposition |
+| **Psychoacoustics & critical listening** | Controlled listening studies, blind EQ identification, subjective evaluation methodology, immersive/spatial listening, structured perceptual training |
+| **Acoustics, measurement & validation** | Audio Precision, frequency response, THD+N, SNR, phase, crosstalk, impulse response, FFT analysis, environmental-noise modeling, technical reporting |
+| **DSP, electronics & software** | MATLAB, Python, Pure Data, filtering, convolution, delay, nonlinear processing, FFT analysis, audio-file validation, electronics foundations |
+| **Professional foundation** | M.S. Audio Engineering Technology, Ocean Way Nashville, Starstruck Entertainment, Dolby Atmos work, musicianship, teaching, research-listener experience |
 
-## How the repository is organized
+## Five Portfolio Views
 
-```text
-engineering-development-portfolio/
-├── README.md
-└── Portfolio/
-    ├── 01-Automotive-Audio-Systems/
-    ├── 02-Psychoacoustics-and-Critical-Listening/
-    ├── 03-Acoustics-Measurement-and-Validation/
-    ├── 04-DSP-Electronics-and-Audio-Software/
-    └── 05-Foundation-and-Experience/
-```
+Each page below is designed to stand on its own as a targeted technical portfolio for a different hiring lens.
 
-Each item has one **primary physical home**. Other portfolio pages can link to it when the work crosses disciplines. This avoids duplicated reports, conflicting versions, and multiple competing folder systems.
+### [01 | Automotive Audio Systems](Portfolio/01-Automotive-Audio-Systems/)
+For **OEM, Tier-1, automotive tuning, integration, validation, and system-development roles**. Includes my 11-function Automotive Audio System Development architecture, automotive tuning-diagnostic work, Core + Spot system concepts, and the connection between perception, hardware, DSP, embedded behavior, integration, and verification.
 
-## Automotive Audio System Development
+### [02 | Psychoacoustics & Critical Listening](Portfolio/02-Psychoacoustics-and-Critical-Listening/)
+For **sound-quality, tuning, perceptual-audio, listening-research, and subjective-evaluation roles**. Includes controlled listening studies, technical ear training, listening-tool development, immersive work, and methods for turning perception into documented engineering evidence.
 
-The [**Automotive Audio System Development architecture**](Portfolio/01-Automotive-Audio-Systems/Development-Architecture/Automotive-Audio-Development/) is the backbone of my current automotive work. It deconstructs vehicle-audio development into 11 connected lifecycle functions:
+### [03 | Acoustics, Measurement & Validation](Portfolio/03-Acoustics-Measurement-and-Validation/)
+For **acoustics, electroacoustics, test, measurement, and validation roles**. Includes Audio Precision projects, impulse-response analysis, environmental-noise work, signal analysis, repeatability and validation thinking, and technical reporting.
 
-1. Product & System Definition
-2. Perception & Critical Listening
-3. Cabin Acoustics & Vehicle Noise
-4. Audio Hardware & Packaging
-5. DSP & Sound Tuning
-6. Embedded Audio & Vehicle Networks
-7. Prototype & Vehicle Integration
-8. Measurement & Validation
-9. Production Quality & Field Support
-10. Modeling, Data & Automation
-11. Cross-Functional Engineering
+### [04 | DSP, Electronics & Audio Software](Portfolio/04-DSP-Electronics-and-Audio-Software/)
+For **DSP, audio-software, embedded-audio, electronics-adjacent, and automation roles**. Includes MATLAB and Python projects, real-time DSP prototyping, audio analysis tools, filtering and nonlinear processing, electronics development, and implementation-oriented work.
 
-## Selected work
+### [05 | Foundation & Experience](Portfolio/05-Foundation-and-Experience/)
+A broader **resume-style technical profile** covering education, professional studio experience, immersive audio, research exposure, musicianship, teaching and communication, recommendations, and the structured development system supporting the engineering portfolio.
 
-- **Technical Listening Trainer** — configurable blind EQ identification and matching practice with controlled answers, validated filtering, and analytics. [Repository](https://github.com/kevinworleymusic-afk/technical-listening-trainer)
-- **Technical Ear Training** — documented critical-listening development, trial results, prior listening/research exposure, and limitations. [Repository](https://github.com/kevinworleymusic-afk/technical-ear-training)
-- **Audio File Report** — Python WAV validation and analysis with metadata reporting, diagnostics, FFT plots, and repeatable output. [Repository](https://github.com/kevinworleymusic-afk/audio-file-report)
-- **Capture-to-Reproduction Audio Study** — acoustic capture, playback behavior, real-time DSP prototyping, and future in-vehicle implementation. [Repository](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study)
-- **Audio Precision validation** — [SSL Fusion](Portfolio/03-Acoustics-Measurement-and-Validation/Projects/SSL-Fusion-Audio-Precision-Measurement-Project/) and [Studer A80 vs. A800](Portfolio/03-Acoustics-Measurement-and-Validation/Projects/Studer-A80-vs-A800-Plugin-Validation-Study/)
-- **Environmental acoustics** — [Generator-to-Residence Barrier Noise Analysis](Portfolio/03-Acoustics-Measurement-and-Validation/Projects/Generator-to-Residence-Barrier-Noise-Analysis/)
-- **Immersive audio** — [Ocean Way Jazz Combo Dolby Atmos Independent Study](Portfolio/02-Psychoacoustics-and-Critical-Listening/Projects/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/)
+## Selected Technical Work
 
-## Separate project repositories
+- **Automotive Audio System Development Architecture** — [11-function framework](Portfolio/01-Automotive-Audio-Systems/Development-Architecture/Automotive-Audio-Development/) connecting product definition, perception, cabin acoustics, hardware, DSP, embedded behavior, integration, validation, production quality, data, and cross-functional engineering.
+- **Technical Listening Trainer** — configurable blind EQ identification and matching software with controlled answers, validated filtering, and analytics. [Repository](https://github.com/kevinworleymusic-afk/technical-listening-trainer)
+- **Technical Ear Training** — documented critical-listening development with trial results, methodology, prior research/listening exposure, and limitations. [Repository](https://github.com/kevinworleymusic-afk/technical-ear-training)
+- **Audio File Report** — Python WAV validation and analysis with metadata, diagnostics, FFT plots, and repeatable output. [Repository](https://github.com/kevinworleymusic-afk/audio-file-report)
+- **Capture-to-Reproduction Audio Study** — exploration of natural acoustic capture, playback-system behavior, real-time DSP prototyping, and future in-vehicle implementation. [Repository](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study)
+- **Audio Precision Measurement & Validation** — [SSL Fusion](Portfolio/03-Acoustics-Measurement-and-Validation/Projects/SSL-Fusion-Audio-Precision-Measurement-Project/) and [Studer A80 vs. A800](Portfolio/03-Acoustics-Measurement-and-Validation/Projects/Studer-A80-vs-A800-Plugin-Validation-Study/) studies using objective measurement and comparative analysis.
+- **Environmental Acoustics** — [Generator-to-Residence Barrier Noise Analysis](Portfolio/03-Acoustics-Measurement-and-Validation/Projects/Generator-to-Residence-Barrier-Noise-Analysis/) using source-path-receiver reasoning, octave-band propagation, weighting, barrier effects, and validation planning.
+- **Immersive Audio** — [Ocean Way Jazz Combo Dolby Atmos Independent Study](Portfolio/02-Psychoacoustics-and-Critical-Listening/Projects/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/) connecting a 2L Cube-inspired capture method with 7.1.4 reproduction.
 
-Some software and training projects remain in their own GitHub repositories because that is the cleanest technical structure. The five portfolio pages act as the presentation and indexing layer that connects those repositories back into the broader engineering story.
+## Professional & Academic Foundation
 
-## Current direction
+I earned an **M.S. in Audio Engineering Technology from Belmont University**. My graduate work included audio measurement, DSP, electronics, immersive audio, critical listening, technical reporting, and independent study in professional studio environments.
 
-Current work emphasizes end-to-end automotive audio development, critical listening and subjective evaluation, acoustics and measurement, practical DSP implementation, electronics foundations, and data-supported engineering decisions. Developing automotive work includes a simulated RAV4-class system architecture, Core + Spot feature concepts, DSP/measurement preparation, cabin-acoustics studies, and explicit requirements and verification planning.
+My professional audio background includes **student-staff engineering experience at Ocean Way Nashville** and a **studio internship at Starstruck Entertainment**. That work provided experience around professional sessions, technical workflows, high-end recording environments, and immersive-audio facilities. My broader background in music performance and education adds trained listening, ensemble awareness, diagnostic communication, documentation, and experience explaining complex ideas across different levels of technical expertise.
+
+## Current Engineering Direction
+
+My primary goal is to develop into an engineer who can work effectively **between specialized audio teams**, understanding enough of perception, tuning, DSP, electroacoustic hardware, acoustics, validation, software, and product requirements to help connect decisions across the system.
+
+Current work therefore emphasizes end-to-end automotive audio development, controlled listening and subjective evaluation, practical DSP implementation, vehicle-oriented measurement, electronics foundations, and data-supported engineering decisions. Developing automotive work includes a simulated RAV4-class system architecture, **Core + Spot** feature concepts, DSP and measurement preparation, cabin-acoustics studies, and explicit requirements and verification planning.
+
+---
+
+**Start with the portfolio view closest to the role:** [Automotive](Portfolio/01-Automotive-Audio-Systems/) · [Psychoacoustics](Portfolio/02-Psychoacoustics-and-Critical-Listening/) · [Acoustics & Validation](Portfolio/03-Acoustics-Measurement-and-Validation/) · [DSP & Software](Portfolio/04-DSP-Electronics-and-Audio-Software/) · [Foundation & Experience](Portfolio/05-Foundation-and-Experience/)
