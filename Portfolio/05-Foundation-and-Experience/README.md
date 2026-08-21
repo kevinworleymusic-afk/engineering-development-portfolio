@@ -1,72 +1,109 @@
 # Foundation & Experience
 
-This portfolio view presents the education, professional audio experience, musicianship, research exposure, communication background, recommendations, and development infrastructure that support the technical work shown elsewhere in the portfolio.
+**M.S. Audio Engineering Technology · Professional Studio Experience · Immersive Audio · Musicianship · Teaching & Communication**
 
-## What this page is for
+My technical work is built on an unusually broad audio foundation: graduate engineering study, professional recording environments, critical listening, immersive audio, music performance, education, research-listener experience, and an ongoing structured engineering-development program.
 
-This page is intended for recruiters, hiring managers, and engineering teams who want the clearest overall picture of the background behind my technical development.
+This page functions as the **resume-style foundation behind the technical portfolio**. It is intended for recruiters, hiring managers, and engineering teams who want to understand not only the projects I have completed, but the professional and academic experiences that shaped how I listen, analyze, communicate, and approach audio systems.
+
+## Professional Profile
+
+I earned an **M.S. in Audio Engineering Technology from Belmont University**, where my work included audio measurement, DSP, electronics, immersive audio, technical reporting, critical listening, and independent study in professional studio environments.
+
+My experience also includes **student-staff engineering at Ocean Way Nashville** and a **studio internship at Starstruck Entertainment**. Alongside the technical work, my background as a musician and music educator developed trained listening, pattern recognition, ensemble awareness, iterative diagnosis, preparation, leadership, and the ability to explain complex ideas to people with very different levels of technical experience.
+
+I am now applying that combined foundation toward technical audio engineering, with a particular emphasis on **automotive audio, applied psychoacoustics, acoustics/validation, DSP, and cross-functional system development**.
 
 ## Education
 
-### M.S. Audio Engineering Technology — Belmont University
-Graduate work included audio measurement, DSP, immersive audio, electronics, technical reporting, listening research exposure, and independent-study work in professional studio environments.
+### M.S. Audio Engineering Technology | Belmont University
+Graduate preparation included:
+
+- audio and electronic measurement
+- digital signal processing
+- audio electronics and technical troubleshooting
+- immersive and spatial audio
+- critical listening and listening-research exposure
+- MATLAB and technical analysis
+- technical report writing
+- independent-study work in professional studio facilities
+
+This degree provides the technical foundation behind the measurement, DSP, listening, immersive, and system-development projects throughout the portfolio.
 
 ### Kennesaw State University
-Undergraduate preparation combined music performance, musicianship, ensemble work, education, leadership, and repeated diagnostic listening in rehearsal and instructional settings.
+Undergraduate preparation in music and education developed musicianship, ensemble experience, performance, leadership, instructional design, and repeated diagnostic listening in rehearsal and teaching environments.
 
-## Professional audio experience
+That background remains relevant to engineering because it trained me to identify subtle problems, communicate corrective ideas clearly, work collaboratively, and understand sound both analytically and musically.
 
-### Ocean Way Nashville
-Student-staff engineering experience in a professional recording environment, including session support and work connected to music recorded for EA Sports College Football 25.
+## Professional Audio Experience
 
-Graduate independent-study work in Ocean Way Studio A also included a 2L Cube-inspired jazz-combo/string capture and 7.1.4 immersive reproduction workflow. [Project evidence](../02-Psychoacoustics-and-Critical-Listening/Projects/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/)
+### Ocean Way Nashville | Student Staff Engineer
+Worked in a professional recording environment supporting sessions, facility workflows, and technical operations. My experience included work connected to music recorded for **EA Sports College Football 25**, alongside exposure to high-level recording, monitoring, signal flow, and professional session standards.
 
-### Starstruck Entertainment
-Studio internship experience supporting professional recording operations and exposure to immersive-audio facilities and workflows.
+Ocean Way also became the setting for graduate independent-study work using a 2L Cube-inspired capture method and 7.1.4 immersive reproduction. [View project](../02-Psychoacoustics-and-Critical-Listening/Projects/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/)
 
-## Immersive and critical-listening foundation
+### Starstruck Entertainment | Studio Intern
+Supported professional studio operations and gained additional exposure to recording workflows, facility standards, and immersive-audio environments.
 
-Experience includes Dolby Atmos and immersive environments at Belmont, Ocean Way, REM Studio B, and Starstruck, along with structured objective listening practice, controlled listening-study participation, and development of dedicated listening-training and evaluation tools.
+Together, these experiences gave me a professional context for the technical subjects studied in graduate school: signal flow, monitoring, sound quality, reliability, communication, and the practical realities surrounding audio equipment and sessions.
 
-[Technical Ear Training](https://github.com/kevinworleymusic-afk/technical-ear-training) · [Technical Listening Trainer](https://github.com/kevinworleymusic-afk/technical-listening-trainer)
+## Immersive Audio & Critical Listening
 
-## Research exposure
+My listening background includes Dolby Atmos and immersive environments at **Belmont, Ocean Way Nashville, REM Studio B, and Starstruck**, along with structured technical ear training and participation in controlled listening research.
 
-I have participated as a listener, not author, in published AES studies. That experience complements my own controlled listening projects by providing exposure to formal instructions, response logging, experimental constraints, and interpretation limits.
+I have since turned that listening background into more explicit engineering evidence through:
 
-## Music, teaching, and communication
+- [Technical Ear Training](https://github.com/kevinworleymusic-afk/technical-ear-training)
+- [Technical Listening Trainer](https://github.com/kevinworleymusic-afk/technical-listening-trainer)
+- [Subjective Listening Evaluation System](../02-Psychoacoustics-and-Critical-Listening/Projects/Subjective-Listening-Evaluation-System/)
+- [Loudspeaker vs. Headphone Frequency-Change Study](../02-Psychoacoustics-and-Critical-Listening/Projects/Loudspeaker-vs-Headphone-Frequency-Boost-Identification/)
 
-My music-performance and music-education background contributes trained listening, pattern recognition, ensemble awareness, iterative diagnosis, clear explanation, and experience communicating technical or perceptual ideas to people with different levels of expertise.
+## Research Exposure
 
-Teaching experience also provides evidence of preparation, documentation, corrective feedback, leadership, and collaboration rather than serving as a substitute for engineering experience.
+I have participated as a **listener, not author**, in published AES studies. This gave me direct exposure to controlled experimental instructions, response logging, perceptual tasks, experimental constraints, and appropriately limited interpretation of listening-study results.
 
-## Professional evidence
+That experience informs the way I now design and document my own listening work.
 
-The portfolio includes public recommendations, supervisor evaluation material, and role-specific reference availability supporting technical aptitude, measurement and reporting, studio professionalism, musicianship, education, and collaborative work.
+## Music, Teaching & Cross-Functional Communication
 
-[Browse professional evidence](Experience-and-Evidence/Recommendations-and-Endorsements/)
+My music-performance background contributes trained listening, spectral and balance awareness, timing, pattern recognition, and experience understanding sound as a complete musical presentation rather than only as isolated metrics.
 
-## Development infrastructure
+My teaching background contributes another engineering-relevant skill set: preparation, documentation, diagnosis, corrective feedback, leadership, and communicating a technical or perceptual idea in a form another person can actually use.
 
-This area also contains the supporting infrastructure behind the portfolio rather than leaving it loose at the repository root:
+I do not present teaching or studio experience as substitutes for engineering experience. Their value is that they strengthen the **human side of technical work**, particularly listening, communication, documentation, collaboration, and learning complex systems quickly.
+
+## Technical Breadth
+
+My broader portfolio provides evidence across four interconnected technical areas:
+
+- **[Automotive Audio Systems](../01-Automotive-Audio-Systems/):** system architecture, tuning diagnosis, feature development, requirements/verification thinking, and cross-functional vehicle-audio development.
+- **[Psychoacoustics & Critical Listening](../02-Psychoacoustics-and-Critical-Listening/):** controlled listening, subjective evaluation, perceptual training, immersive audio, and sound-quality reasoning.
+- **[Acoustics, Measurement & Validation](../03-Acoustics-Measurement-and-Validation/):** Audio Precision, acoustical/signal analysis, environmental noise, comparative validation, and technical reporting.
+- **[DSP, Electronics & Audio Software](../04-DSP-Electronics-and-Audio-Software/):** MATLAB, Python, Pure Data, audio DSP, analysis tools, electronics foundations, and implementation-oriented development.
+
+## Recommendations & Professional Evidence
+
+The portfolio includes recommendations, supervisor evaluation material, and supporting professional evidence covering technical aptitude, measurement/reporting, studio professionalism, musicianship, education, and collaborative work.
+
+[Browse recommendations and endorsements](Experience-and-Evidence/Recommendations-and-Endorsements/)
+
+## Engineering Development System
+
+I maintain a structured development system to turn gaps in knowledge into planned learning and then into demonstrable evidence. Supporting material includes:
 
 - [Curriculum](Development-System/Curriculum/)
 - [Planning & Tracking](Development-System/Planning-and-Tracking/)
 - [Development Syllabus](Development-System/SYLLABUS.md)
 - [Career & Planning](Career-and-Planning/)
 
-## How this foundation connects to the technical portfolio
+The goal is not to make a portfolio look busy. It is to make development **traceable**: identify what a role requires, study it deliberately, apply it in a project or exercise, document the result and limitations, and then expose the strongest evidence publicly.
 
-- **Automotive Audio Systems:** system-level development, tuning preparation, cross-functional documentation, and emerging vehicle-audio implementation
-- **Psychoacoustics & Critical Listening:** musicianship, controlled listening, immersive experience, subjective evaluation, and perceptual training
-- **Acoustics, Measurement & Validation:** graduate measurement work, Audio Precision experience, room analysis, technical reporting, and test discipline
-- **DSP, Electronics & Audio Software:** MATLAB, Python, DSP coursework/projects, electronics foundations, and software development
+## Career Direction
 
-## Related portfolio views
+The role I am building toward is a technical audio position where **critical listening and engineering analysis meet system-level development**. Automotive audio is currently the clearest expression of that goal because it requires perception, acoustics, electroacoustic hardware, DSP, software, integration, validation, and product decisions to work together.
 
-- [Automotive Audio Systems](../01-Automotive-Audio-Systems/)
-- [Psychoacoustics & Critical Listening](../02-Psychoacoustics-and-Critical-Listening/)
-- [Acoustics, Measurement & Validation](../03-Acoustics-Measurement-and-Validation/)
-- [DSP, Electronics & Audio Software](../04-DSP-Electronics-and-Audio-Software/)
+My aim is to become especially useful at those interfaces: someone who can understand specialists, make technically informed connections between their work, and help translate sound-quality goals into testable engineering decisions.
 
-[Return to main portfolio](../../README.md)
+---
+
+[← Main Technical Audio Portfolio](../../README.md)
