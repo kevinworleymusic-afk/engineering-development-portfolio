@@ -2,6 +2,22 @@
 
 M.S.-trained technical audio engineer with completed work in Audio Precision validation, room-response analysis, controlled listening research, DSP/software, immersive recording, and technical reporting. Experience at Ocean Way Nashville and Starstruck Entertainment, combined with a music-performance and education background, supports continued development toward acoustical consulting, applied psychoacoustic engineering, and automotive audio roles.
 
+## Current Direction — End-to-End Automotive Audio Development
+
+I am systematically deconstructing automotive audio system development into its major engineering functions and building evidence of how they connect—from product requirements and human perception through cabin acoustics, electroacoustic hardware, DSP, embedded behavior, integration, validation, production quality, and data-supported decision-making.
+
+The **[Automotive Audio System Development architecture](Automotive-Audio-Development/)** is the backbone of this work. It organizes the portfolio into 11 lifecycle functions, each with a defined role, knowledge requirements, active learning, completed or developing evidence, system interfaces, and a next credible demonstration.
+
+| Portfolio front door | Representative development functions |
+|---|---|
+| **Automotive Audio Systems** | system definition, hardware, DSP, embedded behavior, integration, quality, cross-functional decisions |
+| **Psychoacoustics & Critical Listening** | perception, listening evaluation, tuning, subjective validation |
+| **Acoustics, Measurement & Validation** | cabin acoustics, vehicle noise, electroacoustic measurement, verification |
+| **DSP, Electronics & Audio Software** | signal processing, embedded audio, circuits, modeling, automation |
+| **Audio Engineering & System Development** | cross-bucket case studies, immersive audio, technical documentation, professional evidence |
+
+**Working method:** the Automotive Audio Mastery Registry controls project and feature IDs, status, bucket ownership, cadence, next actions, and evidence. GitHub is the public communication layer that presents the resulting methods, artifacts, results, limitations, and cross-functional connections.
+
 ## Selected Experience and Evidence
 
 - **Audio Precision validation:** Measured frequency response, THD+N, phase, crosstalk, noise/reference behavior, and SNR across analog-hardware and hardware-versus-plug-in studies. Supporting detail: [SSL Fusion](Projects/Technical-Audio-and-Research/SSL-Fusion-Audio-Precision-Measurement-Project/README.md) · [Studer A80/A800](Projects/Technical-Audio-and-Research/Studer-A80-vs-A800-Plugin-Validation-Study/README.md)
