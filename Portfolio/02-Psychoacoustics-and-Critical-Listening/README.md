@@ -15,16 +15,16 @@ This page is intended for sound-quality, tuning, psychoacoustics, subjective-eva
 [Repository](https://github.com/kevinworleymusic-afk/technical-listening-trainer) for customizable blind EQ identification and matching practice with controlled answers, validated filters, configurable conditions, and CSV-based analytics.
 
 ### Subjective Listening Evaluation System
-[Project](../../Projects/Technical-Audio-and-Research/Subjective-Listening-Evaluation-System/) developing a repeatable three-excerpt evaluation workflow using attribute ratings, descriptors, session/song-level analysis, hidden answer-key matching, and longitudinal single-listener metrics.
+[Project](Projects/Subjective-Listening-Evaluation-System/) developing a repeatable three-excerpt evaluation workflow using attribute ratings, descriptors, session/song-level analysis, hidden answer-key matching, and longitudinal single-listener metrics.
 
 ### Loudspeaker vs. Headphone Frequency-Change Identification
-[Study](../../Projects/Technical-Audio-and-Research/Loudspeaker-vs-Headphone-Frequency-Boost-Identification/) designed, administered, and analyzed as a controlled comparison of frequency-change identification across playback conditions.
+[Study](Projects/Loudspeaker-vs-Headphone-Frequency-Boost-Identification/) designed, administered, and analyzed as a controlled comparison of frequency-change identification across playback conditions.
 
 ### Automotive Audio Tuning Diagnostic Judgment
-[Project](../../Projects/Technical-Audio-and-Research/Automotive-Audio-Tuning-Diagnostic-Judgment/) focused on turning perceived defects into structured diagnostic hypotheses rather than treating tuning as unexplained preference.
+[Project](../01-Automotive-Audio-Systems/Projects/Automotive-Audio-Tuning-Diagnostic-Judgment/) focused on turning perceived defects into structured diagnostic hypotheses rather than treating tuning as unexplained preference.
 
 ### Ocean Way Jazz Combo Dolby Atmos Independent Study
-[Project](../../Projects/Technical-Audio-and-Research/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/) using a 2L Cube-inspired capture approach and 7.1.4 routing in Ocean Way Studio A, connecting natural acoustic capture with immersive reproduction.
+[Project](Projects/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/) using a 2L Cube-inspired capture approach and 7.1.4 routing in Ocean Way Studio A, connecting natural acoustic capture with immersive reproduction.
 
 ## Research and listening exposure
 
