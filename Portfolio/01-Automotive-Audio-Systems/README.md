@@ -8,7 +8,7 @@ This page is intended for automotive OEM, Tier-1, system engineering, tuning, in
 
 ## Development architecture
 
-My [Automotive Audio System Development architecture](../../Automotive-Audio-Development/) organizes the work into 11 lifecycle functions:
+My [Automotive Audio System Development architecture](../../Engineering-Development/Automotive-Audio-Development/) organizes the work into 11 lifecycle functions:
 
 1. Product & System Definition
 2. Perception & Critical Listening
