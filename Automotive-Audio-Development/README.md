@@ -42,7 +42,7 @@ The 11 functions are the development architecture. For a faster recruiter-facing
 - Automotive Audio Systems
 - Psychoacoustics & Critical Listening
 - Acoustics, Measurement & Validation
-- DSP, Electronics & Audio Software
+- DSP, Electronics & Audio Software — including the [Engineering Trainer Flashcards](https://github.com/kevinworleymusic-afk/engineering_trainer_flashcards) Python application
 - Audio Engineering & System Development
 
 ## Evidence discipline
