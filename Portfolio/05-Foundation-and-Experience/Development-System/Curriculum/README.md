@@ -91,6 +91,6 @@ For curriculum work to mature into portfolio evidence, it should document:
 - [Psychoacoustics & Critical Listening](../../../02-Psychoacoustics-and-Critical-Listening/)
 - [Acoustics, Measurement & Validation](../../../03-Acoustics-Measurement-and-Validation/)
 - [DSP, Electronics & Audio Software](../../../04-DSP-Electronics-and-Audio-Software/)
-- [Foundation & Experience](../../../)
+- [Foundation & Experience](../../)
 
 [Return to the complete portfolio](../../../README.md)
