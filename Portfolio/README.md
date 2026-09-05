@@ -4,6 +4,19 @@ This is the detailed index behind my public GitHub profile. It connects complete
 
 [Return to profile](../README.md)
 
+## Selected work: automotive tuning, DSP, and validation
+
+For a focused view of my progress toward automotive-audio tuning and DSP engineering, start with these projects:
+
+| Selected work | What it shows |
+|---|---|
+| [**Automotive Tuning & Diagnostic Judgment**](01-Automotive-Audio-Systems/Projects/Automotive-Audio-Tuning-Diagnostic-Judgment/) | Developing fault-diagnosis reasoning that connects audible symptoms with plausible system causes, discriminating measurements, corrective actions, and verification. |
+| [**Technical Listening Trainer**](https://github.com/kevinworleymusic-afk/technical-listening-trainer) | Functional Python software for controlled blind listening, DSP processing, exercise randomization, scoring, and session analysis. |
+| [**MATLAB Audio DSP Project Collection**](04-DSP-Electronics-and-Audio-Software/Projects/Coding-and-Audio-Software/MATLAB-Projects/) | Implemented work involving filtering, convolution, delay, nonlinear processing, clipping, harmonics, THD, impulse responses, and mid-side processing. |
+| [**Measurement & Validation Studies**](03-Acoustics-Measurement-and-Validation/Projects/) | Completed and developing studies demonstrating test design, Audio Precision and REW workflows, measurement interpretation, limitations, and reporting. |
+
+These selections show current evidence and continuing development; they do not imply completed professional vehicle-tuning work.
+
 ## Portfolio map
 
 | Area | Primary evidence |
