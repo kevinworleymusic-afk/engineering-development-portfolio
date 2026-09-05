@@ -87,7 +87,7 @@ The automotive portfolio is organized around eleven connected lifecycle function
 10. [Modeling, Data & Automation](01-Automotive-Audio-Systems/Development-Architecture/Automotive-Audio-Development/10-Modeling-Data-and-Automation/)
 11. [Cross-Functional Engineering](01-Automotive-Audio-Systems/Development-Architecture/Automotive-Audio-Development/11-Cross-Functional-Engineering/)
 
-## Seven-module technical curriculum
+## [Seven-module technical curriculum](05-Foundation-and-Experience/Development-System/Curriculum/)
 
 | Module | Scope | Current role |
 |---|---|---|
@@ -99,7 +99,7 @@ The automotive portfolio is organized around eleven connected lifecycle function
 | 6 · NVH & Vehicle Acoustics | Road, wind, powertrain, structure-borne noise, spectra, order tracking, masking | Feeds vehicle-noise analysis and trainer conditions |
 | 7 · Psychoacoustics & Listening Science | Loudness, masking, critical bands, localization, spatial hearing, sound quality | Guides tuning decisions, evaluation, and perceptual algorithms |
 
-The shared progression is **theory → engineering application → implementation → measurement → human perception → vehicle integration**.
+The shared progression is **theory → engineering application → implementation → measurement → human perception → vehicle integration**. [View current module results, evidence milestones, and development method.](05-Foundation-and-Experience/Development-System/Curriculum/)
 
 ## Education and professional evidence
 
