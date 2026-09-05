@@ -19,7 +19,7 @@ This is the detailed index behind my public GitHub profile. It connects complete
 | Status | Meaning |
 |---|---|
 | **Completed evidence** | An implemented study, tool, experiment, or documented body of work is available for review |
-| Work is underway and may have partial evidence, but the intended scope is not complete |
+| **Active development** | Work is underway and may have partial evidence, but the intended scope is not complete |
 | **Concept / preparation** | Requirements, research, or a development path exists; implementation is not claimed |
 | **Access-dependent** | Progress requires particular hardware, software, facilities, data, or vehicle access |
 
@@ -32,7 +32,7 @@ This is the detailed index behind my public GitHub profile. It connects complete
 | [Studer A80 vs. A800 Plug-In Validation Study](03-Acoustics-Measurement-and-Validation/Projects/Studer-A80-vs-A800-Plugin-Validation-Study/) | **Completed evidence** | Audio Precision test design; frequency response, SNR, and THD+N; comparison, limitations, and reporting |
 | [SSL Fusion Audio Precision Measurement](03-Acoustics-Measurement-and-Validation/Projects/SSL-Fusion-Audio-Precision-Measurement-Project/) | **Completed evidence** | Analog-hardware measurement using frequency response, THD+N, phase, crosstalk, and noise/reference behavior |
 | [Room Impulse-Response and Audio-Systems Analysis](04-DSP-Electronics-and-Audio-Software/Projects/Coding-and-Audio-Software/MATLAB-Projects/MATLAB-Impulse-Response-and-Audio-Systems-Analysis/) | **Completed evidence** | REW capture, impulse-response estimation, FFT/IFFT, convolution, null comparison, and limitations |
-| [Generator-to-Residence Barrier Noise Analysis](03-Acoustics-Measurement-and-Validation/Projects/Generator-to-Residence-Barrier-Noise-Analysis/) | Source-path-receiver geometry, octave-band propagation, A-weighting, barrier attenuation, and validation planning |
+| [Generator-to-Residence Barrier Noise Analysis](03-Acoustics-Measurement-and-Validation/Projects/Generator-to-Residence-Barrier-Noise-Analysis/) | **Active development** | Source-path-receiver geometry, octave-band propagation, A-weighting, barrier attenuation, and validation planning |
 | HATS/binaural and microphone/loudspeaker response work | **Completed evidence; consolidation pending** | Electroacoustic measurement exposure and response interpretation; detailed public indexing remains to be completed |
 | Vehicle NVH Analysis Toolkit | **Active development; publication pending** | Python audio loading, waveform/spectrum/spectrogram analysis, stereo-to-mono handling, and a path toward operating-condition analysis |
 
@@ -45,7 +45,7 @@ This is the detailed index behind my public GitHub profile. It connects complete
 | [Engineering Trainer Flashcards](https://github.com/kevinworleymusic-afk/engineering_trainer_flashcards) | **Active functional software** | JSON-driven question banks, categories, question types, randomized sessions, answer evaluation, and scoring |
 | [MATLAB Audio DSP Project Collection](04-DSP-Electronics-and-Audio-Software/Projects/Coding-and-Audio-Software/MATLAB-Projects/) | **Completed evidence with documented limitations** | Filtering, convolution, synchronized delay, distortion, clipping, harmonics, THD, impulse response, and mid-side processing |
 | [Real-Time DSP / Tuning Prototype](https://github.com/kevinworleymusic-afk/capture-to-reproduction-audio-study/blob/main/docs/01_Real-Time_DSP_Prototype_in_Pure_Data.md) | **Completed prototype** | Pure Data playback, delay, filtering, gain, test signals, low-frequency routing, and output protection |
-| [Audio Electronics Fundamentals](04-DSP-Electronics-and-Audio-Software/Projects/Coding-and-Audio-Software/Audio-Electronics-Fundamentals-Workbook/) | Circuit reasoning, calculations, signal flow, test practice, troubleshooting, and simulation |
+| [Audio Electronics Fundamentals](04-DSP-Electronics-and-Audio-Software/Projects/Coding-and-Audio-Software/Audio-Electronics-Fundamentals-Workbook/) | **Active development** | Circuit reasoning, calculations, signal flow, test practice, troubleshooting, and simulation |
 | [Audio Weaver and DSP Development](04-DSP-Electronics-and-Audio-Software/Projects/Coding-and-Audio-Software/Audio-Weaver-and-DSP-Development/) | **Preparation / access-dependent** | Platform research and accessible DSP exercises; direct Audio Weaver implementation is not claimed |
 | LTspice Electrical Integration Builds | **Active development; documentation pending** | Supply/load behavior, current demand, signal generation, clipping/limiting, transient analysis, and FFT verification |
 
@@ -57,7 +57,7 @@ This is the detailed index behind my public GitHub profile. It connects complete
 | [Loudspeaker vs. Headphone Frequency-Change Identification](02-Psychoacoustics-and-Critical-Listening/Projects/Loudspeaker-vs-Headphone-Frequency-Boost-Identification/) | **Completed evidence** | Controlled comparison design, administration, analysis, and playback-condition interpretation |
 | [Subjective Listening Evaluation System](02-Psychoacoustics-and-Critical-Listening/Projects/Subjective-Listening-Evaluation-System/) | **Active functional framework** | Attribute ratings, descriptors, session/song analysis, blinded sample mapping, and longitudinal evaluation |
 | [Ocean Way Jazz Combo Dolby Atmos Independent Study](02-Psychoacoustics-and-Critical-Listening/Projects/Ocean-Way-Jazz-Combo-Dolby-Atmos-Independent-Study/) | **Completed evidence** | Spatial-capture research, studio-session work, multichannel signal flow, and 7.1.4 reproduction |
-| Diagnostic Listening Trainer expansion | Planned fault families include delay, polarity, distortion, compression, noise, channel imbalance, phantom-center error, crossover interaction, and NVH |
+| Diagnostic Listening Trainer expansion | **Active development** | Planned fault families include delay, polarity, distortion, compression, noise, channel imbalance, phantom-center error, crossover interaction, and NVH |
 | Perceptually constrained cabin-noise compensation | **Parked research concept** | Candidate adaptive DSP research using audibility, masking, frequency, level, and operating condition to constrain correction |
 
 ### Automotive audio systems and integration
